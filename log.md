@@ -3,6 +3,19 @@
 > Chronological record of all updates, drafts ingested, and lore audits in the Story Bible.
 > Format: `## [YYYY-MM-DD] action | Subject`
 
+## [2026-05-23] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[ancient-architecture]]
+  - Items: [[magic-squares]]
+  - Concepts: [[ancient-magic]]
+
+## [2026-05-23] ingest | Architects of the Source Code: RPG Skill Trees
+- Ingested and normalized new draft to `raw/drafts/architects-of-the-source-code-rpg-skill-trees.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[the-mathematician]], [[the-occultist]], [[the-cosmologist]], [[the-artist]]
+  - Concepts: [[source-code-of-reality]], [[magic-constant]], [[administrative-portfolios]], [[skill-trees]]
+
 ## [2026-05-23] ingest | The Mysterious Stranger
 - Ingested and normalized new draft to `raw/drafts/the-mysterious-stranger.md`.
 - Extracted and updated/created lore pages:

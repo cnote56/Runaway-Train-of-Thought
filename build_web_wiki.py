@@ -77,6 +77,96 @@ def get_word_count(text):
     words = clean_text.split()
     return len(words)
 
+def compute_wiki_stats(pages):
+    """
+    Computes comprehensive writing stats and metrics for the wiki contents.
+    """
+    total_pages = len(pages)
+    total_words = sum(p.get("word_count", 0) for p in pages)
+    avg_words_per_page = round(total_words / total_pages, 1) if total_pages > 0 else 0
+    
+    def count_syllables(word):
+        word = word.lower().strip(".:;?!,()\"'")
+        if not word: 
+            return 0
+        vowels = "aeiouy"
+        count = 0
+        if word[0] in vowels:
+            count += 1
+        for index in range(1, len(word)):
+            if word[index] in vowels and word[index - 1] not in vowels:
+                count += 1
+        if word.endswith("e"):
+            count -= 1
+        if word.endswith("le") and len(word) > 2 and word[-3] not in vowels:
+            count += 1
+        if count == 0:
+            count = 1
+        return count
+
+    category_counts = {}
+    category_words = {}
+    story_drafts_count = 0
+    
+    for p in pages:
+        g = p.get("group", "core")
+        category_counts[g] = category_counts.get(g, 0) + 1
+        category_words[g] = category_words.get(g, 0) + p.get("word_count", 0)
+        if g == "drafts":
+            story_drafts_count += 1
+
+    readability_texts = []
+    for p in pages:
+        if p.get("group") in ["drafts", "fragments", "core"]:
+            readability_texts.append(p.get("content", ""))
+            
+    combined_text = "\n".join(readability_texts)
+    
+    # Sentence count
+    sentences = re.split(r"[.!?]+(?=\s|$)", combined_text)
+    sentences = [s.strip() for s in sentences if len(s.strip()) > 5]
+    sentence_count = len(sentences)
+    
+    # Word list for syllables
+    words_for_syllable = re.findall(r"\b[a-zA-Z']+\b", combined_text)
+    word_count_raw = len(words_for_syllable)
+    
+    total_syllables = sum(count_syllables(w) for w in words_for_syllable)
+    
+    asl = word_count_raw / sentence_count if sentence_count > 0 else 0
+    asw = total_syllables / word_count_raw if word_count_raw > 0 else 0
+    
+    flesch_reading_ease = 206.835 - (1.015 * asl) - (84.6 * asw) if (asl > 0 and asw > 0) else 0
+    flesch_reading_ease = max(0, min(100, round(flesch_reading_ease, 1)))
+    
+    fk_grade = 0.39 * asl + 11.8 * asw - 15.59 if (asl > 0 and asw > 0) else 0
+    fk_grade = max(0, round(fk_grade, 1))
+    
+    # Hubs centrality based on backlink count
+    sorted_by_backlinks = sorted(pages, key=lambda x: len(x.get("backlinks", [])), reverse=True)
+    hubs = []
+    for p in sorted_by_backlinks[:5]:
+        if len(p.get("backlinks", [])) > 0:
+            hubs.append({
+                "title": p["title"],
+                "path": p["path"],
+                "count": len(p["backlinks"]),
+                "group": p["group"]
+            })
+
+    return {
+        "total_pages": total_pages,
+        "total_words": total_words,
+        "avg_words_per_page": avg_words_per_page,
+        "category_counts": category_counts,
+        "category_words": category_words,
+        "story_drafts_count": story_drafts_count,
+        "avg_sentence_length": round(asl, 1),
+        "flesch_reading_ease": flesch_reading_ease,
+        "fk_grade": fk_grade,
+        "hubs": hubs
+    }
+
 def build_wiki():
     print(f"Scanning wiki directory: {WIKI_DIR}")
     if not WIKI_DIR.exists():
@@ -197,10 +287,14 @@ def build_wiki():
         for tag in tags:
             all_tags.add(tag)
             
+    # Calculate comprehensive writing metrics and stats
+    stats = compute_wiki_stats(pages)
+            
     wiki_data = {
         "pages": pages,
         "resolver_map": resolver_map,
         "tags": sorted(list(all_tags)),
+        "stats": stats,
         "last_updated": Path(OUTPUT_HTML).stat().st_mtime if OUTPUT_HTML.exists() else 0
     }
     
@@ -405,6 +499,160 @@ def get_html_template():
         const pages = wikiData.pages;
         const resolverMap = wikiData.resolver_map;
         const tags = wikiData.tags;
+
+        // Statistics Dashboard Generator for Landing Page
+        function generateStatsDashboardHtml() {
+            if (!wikiData.stats) return '';
+            const s = wikiData.stats;
+            
+            let readabilityLabel = "Standard";
+            let readabilityColor = "text-blue-500 dark:text-blue-400";
+            if (s.flesch_reading_ease >= 90) {
+                readabilityLabel = "Very Easy";
+                readabilityColor = "text-emerald-500 dark:text-emerald-400";
+            } else if (s.flesch_reading_ease >= 80) {
+                readabilityLabel = "Easy";
+                readabilityColor = "text-emerald-500 dark:text-emerald-400";
+            } else if (s.flesch_reading_ease >= 70) {
+                readabilityLabel = "Fairly Easy";
+                readabilityColor = "text-teal-500 dark:text-teal-400";
+            } else if (s.flesch_reading_ease >= 60) {
+                readabilityLabel = "Standard";
+                readabilityColor = "text-blue-500 dark:text-blue-400";
+            } else if (s.flesch_reading_ease >= 50) {
+                readabilityLabel = "Fairly Hard";
+                readabilityColor = "text-amber-500 dark:text-amber-400";
+            } else if (s.flesch_reading_ease >= 30) {
+                readabilityLabel = "Difficult";
+                readabilityColor = "text-orange-500 dark:text-orange-400";
+            } else {
+                readabilityLabel = "Very Difficult";
+                readabilityColor = "text-rose-500 dark:text-rose-400";
+            }
+
+            const groups = ['characters', 'locations', 'concepts', 'drafts', 'core'];
+            const totalWordsForPct = groups.reduce((acc, g) => acc + (s.category_words[g] || 0), 0) || 1;
+            
+            let progressHtml = '';
+            groups.forEach(g => {
+                const words = s.category_words[g] || 0;
+                const count = s.category_counts[g] || 0;
+                const pct = Math.min(100, Math.round((words / totalWordsForPct) * 100));
+                const gMeta = groupTitles[g] || { title: g, icon: 'fa-file' };
+                
+                let barColor = 'bg-blue-500';
+                if (g === 'characters') barColor = 'bg-indigo-500';
+                else if (g === 'locations') barColor = 'bg-emerald-500';
+                else if (g === 'concepts') barColor = 'bg-purple-500';
+                else if (g === 'drafts') barColor = 'bg-rose-500';
+                
+                progressHtml += `
+                    <div class="space-y-1">
+                        <div class="flex items-center justify-between text-xs font-medium">
+                            <span class="flex items-center gap-1.5"><i class="fa-solid ${gMeta.icon} text-slate-400 dark:text-slate-500 w-3.5"></i> ${gMeta.title} (${count})</span>
+                            <span class="text-slate-500 dark:text-slate-400">${words.toLocaleString()} words (${pct}%)</span>
+                        </div>
+                        <div class="h-1.5 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                            <div class="${barColor} h-full rounded-full" style="width: ${pct}%"></div>
+                        </div>
+                    </div>
+                `;
+            });
+
+            let hubsHtml = '';
+            if (s.hubs && s.hubs.length > 0) {
+                s.hubs.forEach(h => {
+                    const hMeta = groupTitles[h.group] || { title: 'Core', icon: 'fa-file' };
+                    hubsHtml += `
+                        <a href="#/page/${h.path}" class="flex items-center justify-between p-2 rounded-lg border border-slate-100 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-950/25 hover:border-cyber-500/40 hover:bg-white dark:hover:bg-slate-900 transition-all text-xs">
+                            <span class="flex items-center gap-2 font-semibold">
+                                <i class="fa-solid ${hMeta.icon} text-slate-400 dark:text-slate-500"></i>
+                                <span class="truncate max-w-[180px] text-slate-800 dark:text-slate-200">${h.title}</span>
+                            </span>
+                            <span class="px-2 py-0.5 bg-cyber-50 text-cyber-700 dark:bg-cyber-950/40 dark:text-cyber-400 border border-cyber-100 dark:border-cyber-900/50 rounded-full text-[10px] font-bold">
+                                ${h.count} references
+                            </span>
+                        </a>
+                    `;
+                });
+            } else {
+                hubsHtml = '<div class="text-slate-400 italic text-xs">No references computed yet.</div>';
+            }
+
+            return `
+                <div class="mb-8 border-b border-slate-200 dark:border-slate-800 pb-6">
+                    <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500 mb-4 flex items-center gap-2">
+                        <i class="fa-solid fa-chart-line text-cyber-500"></i> Universe Statistics & Metrics
+                    </h2>
+                    
+                    <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
+                        <div class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/50 flex flex-col justify-between">
+                            <div class="flex items-center justify-between">
+                                <span class="text-xs text-slate-400 dark:text-slate-500 font-medium uppercase">Universe Size</span>
+                                <span class="p-1.5 bg-blue-50 dark:bg-blue-950/30 rounded-lg text-blue-500 dark:text-blue-400 text-xs"><i class="fa-solid fa-cube"></i></span>
+                            </div>
+                            <div class="mt-2">
+                                <div class="text-2xl font-black">${s.total_pages}</div>
+                                <div class="text-[10px] text-slate-400 dark:text-slate-500 mt-1">Compiled markdown files</div>
+                            </div>
+                        </div>
+
+                        <div class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/50 flex flex-col justify-between">
+                            <div class="flex items-center justify-between">
+                                <span class="text-xs text-slate-400 dark:text-slate-500 font-medium uppercase">Total Wordcount</span>
+                                <span class="p-1.5 bg-indigo-50 dark:bg-indigo-950/30 rounded-lg text-indigo-500 dark:text-indigo-400 text-xs"><i class="fa-solid fa-keyboard"></i></span>
+                            </div>
+                            <div class="mt-2">
+                                <div class="text-2xl font-black">${s.total_words.toLocaleString()}</div>
+                                <div class="text-[10px] text-slate-400 dark:text-slate-500 mt-1">Avg ${Math.round(s.avg_words_per_page)} words per page</div>
+                            </div>
+                        </div>
+
+                        <div class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/50 flex flex-col justify-between">
+                            <div class="flex items-center justify-between">
+                                <span class="text-xs text-slate-400 dark:text-slate-500 font-medium uppercase">Readability</span>
+                                <span class="p-1.5 bg-emerald-50 dark:bg-emerald-950/30 rounded-lg text-emerald-500 dark:text-emerald-400 text-xs"><i class="fa-solid fa-glasses"></i></span>
+                            </div>
+                            <div class="mt-2">
+                                <div class="text-xl font-black truncate ${readabilityColor}">${readabilityLabel}</div>
+                                <div class="text-[10px] text-slate-400 dark:text-slate-500 mt-1">Flesch Ease: ${s.flesch_reading_ease} (Grade ${s.fk_grade})</div>
+                            </div>
+                        </div>
+
+                        <div class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/50 flex flex-col justify-between">
+                            <div class="flex items-center justify-between">
+                                <span class="text-xs text-slate-400 dark:text-slate-500 font-medium uppercase">Sentence Length</span>
+                                <span class="p-1.5 bg-rose-50 dark:bg-rose-950/30 rounded-lg text-rose-500 dark:text-rose-400 text-xs"><i class="fa-solid fa-feather-pointed"></i></span>
+                            </div>
+                            <div class="mt-2">
+                                <div class="text-2xl font-black">${s.avg_sentence_length} <span class="text-xs font-normal text-slate-400">words</span></div>
+                                <div class="text-[10px] text-slate-400 dark:text-slate-500 mt-1">Average pacing of story prose</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
+                        <div class="p-5 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/50 space-y-4">
+                            <h3 class="text-xs font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500 flex items-center gap-1.5">
+                                <i class="fa-solid fa-chart-pie"></i> Word Weight & Size Distribution
+                            </h3>
+                            <div class="space-y-3">
+                                ${progressHtml}
+                            </div>
+                        </div>
+
+                        <div class="p-5 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/50 space-y-4">
+                            <h3 class="text-xs font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500 flex items-center gap-1.5">
+                                <i class="fa-solid fa-circle-nodes"></i> Top Universe Lore Hubs
+                            </h3>
+                            <div class="space-y-2">
+                                ${hubsHtml}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
 
         // Group metadata and mappings
         const groupTitles = {
@@ -772,6 +1020,10 @@ def get_html_template():
             mdContent = renderFootnotes(mdContent);
             const rawHtml = marked.parse(mdContent);
             let linkedHtml = parseWikiLinks(rawHtml, resolverMap);
+
+            if (path === "index.md") {
+                linkedHtml = generateStatsDashboardHtml() + linkedHtml;
+            }
 
             // --- WIKIPEDIA CORE RENDERING OVERRIDE ---
             const isWikiTheme = document.documentElement.classList.contains('wikipedia-theme');
