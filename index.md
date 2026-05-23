@@ -60,5 +60,21 @@
 - [[raw/drafts/redskins-draft-possibilities-draft.md|Redskins Draft Possibilities Draft]] - NFL Draft commentary focusing on the Washington Redskins' offensive line and Robert Griffin III (RG3).
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
+## 📖 Fiction Drafts
+- [[raw/drafts/pool-hall.md|Pool Hall]] - A smoky, atmospheric narrative exploring personal demons and the friction of human interaction inside an underground pool hall.
+- [[raw/drafts/single-bullet-theory.md|Single Bullet Theory]] - A brief, high-impact meditation on a split second of violence and its psychological aftermath.
+- [[raw/drafts/teds-last-night.md|Ted's Last Night]] - A raw, conversational character piece capturing a friend's final night of decay and reckoning.
+- [[raw/drafts/the-day-the-world-changed.md|The Day the World Changed]] - An apocalyptic narrative tracking a global shift in reality and immediate personal survival.
+- [[raw/drafts/the-depths.md|The Depths]] - A tense psychological exploration of isolated rooms, distant lights, and deep memory retrieval.
+- [[raw/drafts/the-disappeared.md|The Disappeared]] - A suspenseful, dialogue-driven interrogation piece set within a cold, silent confinement cell.
+- [[raw/drafts/the-dying-poet.md|The Dying Poet]] - An extensive, poetic raw manuscript capturing the mental and creative struggles of an artist facing mortality.
+- [[raw/drafts/the-soldiers-walk.md|The Soldier's Walk]] - A surreal dream-state narrative blending military dread, trauma, and underground resistance.
+- [[raw/drafts/the-story-of-jc-sorenson.md|The Story of JC Sorenson]] - A disorienting mystery tracking a protagonist recovering from a blackout to uncover their identity.
+- [[raw/drafts/the-wanderlust.md|The Wanderlust]] - "The Wanderlust: Confessions of an Angry Poet" - A cynical multi-chapter manuscript mapping a poet's journey.
+- [[raw/drafts/trainwreck.md|Trainwreck]] - A high-intensity survival piece starting in the immediate aftermath of a violent train crash.
+- [[raw/drafts/untie-my-hands.md|Untie My Hands]] - A rhythmic, intense poetic manifesto of desperation, defiance, and release.
+- [[raw/drafts/very-put-out.md|Very Put Out]] - "A political experience" - A sharp, satirical commentary on bureaucracy, local governance, and frustration.
+- [[raw/drafts/when-dead-men-are-living.md|When Dead Men Are Living]] - A classic hardboiled noir story starting with trouble catching the narrator completely off guard.
+
 ---
 *Open this directory in Obsidian to view the full graph of your creative universe!*
