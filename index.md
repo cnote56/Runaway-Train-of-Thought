@@ -59,7 +59,6 @@
 - [[raw/drafts/wizards-dfs-playbook-post-draft-1.md|Wizards DFS Playbook Post Draft 1]] - NBA playoff analysis on the Washington Wizards' perimeter shooting and pick-and-roll tactics.
 - [[raw/drafts/redskins-draft-possibilities-draft.md|Redskins Draft Possibilities Draft]] - NFL Draft commentary focusing on the Washington Redskins' offensive line and Robert Griffin III (RG3).
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
-- [[raw/drafts/playbook-instructions-cole-dowden.md|Playbook Instructions Cole Dowden]] - Formatting and editorial guidelines for publishing content on the DraftKings Playbook.
 
 ---
 *Open this directory in Obsidian to view the full graph of your creative universe!*

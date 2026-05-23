@@ -22,12 +22,7 @@ files_to_ingest = [
         "title": "Rage Against the Hype Machine",
         "created": "2015-05-01",
     },
-    {
-        "source": os.path.join(SOURCE_DIR, "Playbook Instructions Cole Dowden.docx"),
-        "target_name": "playbook-instructions-cole-dowden.md",
-        "title": "Playbook Instructions Cole Dowden",
-        "created": "2015-03-01",
-    },
+
     {
         "source": os.path.join(SOURCE_DIR, "Confessions of DFS Player.docx"),
         "target_name": "confessions-of-a-dfs-player.md",

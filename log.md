@@ -52,5 +52,4 @@
   - `raw/drafts/wizards-dfs-playbook-post-draft-1.md` (NBA playoff tactical breakdown of the Wizards sweep)
   - `raw/drafts/redskins-draft-possibilities-draft.md` (Redskins draft and offensive line issues with RG3)
   - `raw/drafts/hawks-nets-series-i-expect-a-game-8.md` (NBA playoff analysis of Hawks-Nets series)
-  - `raw/drafts/playbook-instructions-cole-dowden.md` (Back-end formatting and editorial instructions for DraftKings Playbook)
 - Updated the main index at [[index.md]] with a dedicated non-fiction index and updated the overall page count of the Story Bible to 39.
