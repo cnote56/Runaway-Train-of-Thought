@@ -3,6 +3,22 @@
 > Chronological record of all updates, drafts ingested, and lore audits in the Story Bible.
 > Format: `## [YYYY-MM-DD] action | Subject`
 
+## [2026-05-23] ingest | The Mysterious Stranger
+- Ingested and normalized new draft to `raw/drafts/the-mysterious-stranger.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[vance]]
+  - Locations: [[capital-city]], [[subterranean-bar]]
+  - Items: [[white-peanut-butter]]
+  - Concepts: [[nerve-fever]], [[silver-tokens]]
+
+## [2026-05-23] ingest | The Mysterious Stranger
+- Ingested and normalized new draft to `raw/drafts/the-mysterious-stranger.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[vance]]
+  - Locations: [[capital-city]], [[subterranean-bar]]
+  - Items: [[silver-tokens]]
+  - Concepts: [[nerve-fever]], [[pedwalls]]
+
 ## [2026-05-23] create | Story Bible Initialized
 - Set up directory structure for the Creative Wiki.
 - Wrote `SCHEMA.md` with conventions, tag taxonomy, and templates.

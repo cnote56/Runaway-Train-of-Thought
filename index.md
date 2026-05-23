@@ -2,7 +2,7 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-05-23 | Total wiki pages: 39
+> Last updated: 2026-05-23 | Total wiki pages: 130
 
 ---
 
@@ -61,6 +61,7 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/the-mysterious-stranger.md|The Mysterious Stranger]] - Desperate Vance searches Capital City for sister's cure.
 - [[raw/drafts/pool-hall.md|Pool Hall]] - A smoky, atmospheric narrative exploring personal demons and the friction of human interaction inside an underground pool hall.
 - [[raw/drafts/single-bullet-theory.md|Single Bullet Theory]] - A brief, high-impact meditation on a split second of violence and its psychological aftermath.
 - [[raw/drafts/teds-last-night.md|Ted's Last Night]] - A raw, conversational character piece capturing a friend's final night of decay and reckoning.
