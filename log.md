@@ -3,6 +3,92 @@
 > Chronological record of all updates, drafts ingested, and lore audits in the Story Bible.
 > Format: `## [YYYY-MM-DD] action | Subject`
 
+## [2026-05-23] ingest | The d88 Coordinate Interface and Magic Square Mechanics
+- Ingested and normalized new draft to `raw/drafts/the-d88-coordinate-interface-and-magic-square-mechanics.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mathematician]], [[occultist]]
+  - Items: [[d88]], [[magic_square]]
+  - Concepts: [[d88_coordinate_interface]], [[magic_square_mechanics]]
+
+## [2026-05-23] ingest | The Cosmologist: Mathematical Blueprints of the Macrocosm
+- Ingested and normalized new draft to `raw/drafts/the-cosmologist-mathematical-blueprints-of-the-macrocosm.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[the-cosmologist]]
+  - Concepts: [[magic-squares]], [[primordial-pivot]], [[vastu-purusha-alignment]], [[elemental-transmutation]]
+
+## [2026-05-23] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-05-23] ingest | The Chronological Plot Expansion of the God of Rage - Task 2.2: The 1899 Washington DC Layer
+- Ingested and normalized new draft to `raw/drafts/the-chronological-plot-expansion-of-the-god-of-rage-task-2-2-the-1899-washington-dc-layer.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[witness-man-from-damascus]], [[sons-of-liberty]]
+  - Locations: [[sand-creek-1864]], [[arlington-hotel-washington-dc]]
+  - Organizations: [[sons-of-liberty]], [[order-4-jupiter-server]]
+  - Items: [[blasting-rod]], [[sun-server-moon-server-administrative-portfolios]]
+  - Concepts: [[god-of-rage]], [[red-death]]
+
+## [2026-05-23] ingest | The Chronological Plot Expansion of the God of Rage: Phase 2
+- Ingested and normalized new draft to `raw/drafts/the-chronological-plot-expansion-of-the-god-of-rage-phase-2.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[witness-from-damascus]], [[sons-of-liberty]]
+  - Locations: [[sand-creek-territory]], [[arlington-hotel-washington-dc]]
+  - Organizations: [[sons-of-liberty]], [[order-4-jupiter-server]]
+  - Items: [[bloodstone]], [[sun-server]]
+  - Concepts: [[god-of-rage]], [[jupiter-server]], [[arlington-hotel-layer]]
+
+## [2026-05-23] ingest | The Artist’s Move List and Jupiter Square Protocols
+- Ingested and normalized new draft to `raw/drafts/the-artist-s-move-list-and-jupiter-square-protocols.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[artist-genius]]
+  - Concepts: [[jupiter-square]], [[durer-square]], [[mercury-setting]], [[jupiter-setting-artist-primary]], [[visual-sum-monitor]], [[reflect-engine]]
+
+## [2026-05-23] ingest | The Artist Class: Dürer’s Jupiter Square Move List
+- Ingested and normalized new draft to `raw/drafts/the-artist-class-d-rer-s-jupiter-square-move-list.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[artist-genius]]
+  - Concepts: [[jupiter-square]], [[melancholy-status-effect]]
+
+## [2026-05-23] ingest | The Arlington Protocol: 1899 Washington DC Layer
+- Ingested and normalized new draft to `raw/drafts/the-arlington-protocol-1899-washington-dc-layer.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[sons-of-liberty]], [[occultist]], [[mathematician]]
+  - Locations: [[white-room]], [[arlington-hotel]]
+  - Organizations: [[sons-of-liberty]], [[order-4-jupiter-server]]
+  - Items: [[silver-disc]], [[bloodstone]]
+  - Concepts: [[magic-constant-of-111]], [[grand-kabbalistic-circle]]
+
+## [2026-05-23] ingest | The Administrative Architecture of the Four Kings
+- Ingested and normalized new draft to `raw/drafts/the-administrative-architecture-of-the-four-kings.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[egine-of-the-north]], [[orions-of-the-east]], [[amaymon-of-the-south]], [[paymon-of-the-west]]
+  - Locations: [[10x10-earth-node-gaiya-terra]], [[6x6-sun-server]], [[5x5-mars-server]], [[7x7-venus-server]]
+  - Organizations: [[infernal-trinity]], [[prime-minister-of-hell-lucifuge-rofocale]]
+  - Items: [[magic-constant-m]], [[intelligence-firewall]], [[demon-threat-actor]]
+  - Concepts: [[magic-squares-mechanics]], [[legalistic-soul-pacts]], [[active-intellectual-operations]]
+
+## [2026-05-23] ingest | Solomonic_Grimoires_ _The_Book_Of_Secrets_Id18721669_Size1223.Pdf
+- Ingested and normalized new draft to `raw/drafts/solomonic-grimoires-the-book-of-secrets-id18721669-size1223-pdf.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-05-23] ingest | Ollama_Writing_Session_Godsanddemons.Txt
+- Ingested and normalized new draft to `raw/drafts/ollama-writing-session-godsanddemons-txt.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-05-23] ingest | No Gun Ri: The Frequency of the New Treason
+- Ingested and normalized new draft to `raw/drafts/no-gun-ri-the-frequency-of-the-new-treason.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[witness-from-damascus]]
+  - Locations: [[no-gun-ri]]
+  - Organizations: [[order-5-mars-server]]
+  - Concepts: [[red-death]], [[god-of-rage]]
+
+## [2026-05-23] ingest | Magic Squares and Spirit Kings
+- Ingested and normalized new draft to `raw/drafts/magic-squares-and-spirit-kings.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[magic-squares]], [[spirit-kings]]
+
 ## [2026-05-23] ingest | Unidentified Image Investigation
 - Ingested and normalized new draft to `raw/drafts/unidentified-image-investigation.md`.
 - Extracted and updated/created lore pages:

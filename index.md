@@ -2,7 +2,7 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-05-23 | Total wiki pages: 235
+> Last updated: 2026-05-23 | Total wiki pages: 303
 
 ---
 
@@ -62,6 +62,18 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/the-d88-coordinate-interface-and-magic-square-mechanics.md|The d88 Coordinate Interface and Magic Square Mechanics]] - Mechanics of d88 rolls in magic square game.
+- [[raw/drafts/the-cosmologist-mathematical-blueprints-of-the-macrocosm.md|The Cosmologist: Mathematical Blueprints of the Macrocosm]] - Mathematical cosmologist's abilities and app requirements.
+- [[raw/drafts/the-chronological-plot-expansion-of-the-god-of-rage-task-2-2-the-1899-washington-dc-layer.md|The Chronological Plot Expansion of the God of Rage - Task 2.2: The 1899 Washington DC Layer]] - Detailed investigation into the 1899 Arlington Hotel meeting by secret societies.
+- [[raw/drafts/the-chronological-plot-expansion-of-the-god-of-rage-phase-2.md|The Chronological Plot Expansion of the God of Rage: Phase 2]] - Chronicles the God of Rage's manifestation in Colorado and Washington, DC.
+- [[raw/drafts/the-artist-s-move-list-and-jupiter-square-protocols.md|The Artist’s Move List and Jupiter Square Protocols]] - Move list for the Artist (Genius) using Jupiter square.
+- [[raw/drafts/the-artist-class-d-rer-s-jupiter-square-move-list.md|The Artist Class: Dürer’s Jupiter Square Move List]] - Move list for the Artist (Genius) class based on Dürer's square.
+- [[raw/drafts/the-arlington-protocol-1899-washington-dc-layer.md|The Arlington Protocol: 1899 Washington DC Layer]] - Elites meet in hidden chamber to investigate supernatural forces and manipulate reality.
+- [[raw/drafts/the-administrative-architecture-of-the-four-kings.md|The Administrative Architecture of the Four Kings]] - Administrative hierarchy and magic squares govern cosmic order in Hell.
+- [[raw/drafts/solomonic-grimoires-the-book-of-secrets-id18721669-size1223-pdf.md|Solomonic_Grimoires_ _The_Book_Of_Secrets_Id18721669_Size1223.Pdf]] - A newly ingested draft file.
+- [[raw/drafts/ollama-writing-session-godsanddemons-txt.md|Ollama_Writing_Session_Godsanddemons.Txt]] - A newly ingested draft file.
+- [[raw/drafts/no-gun-ri-the-frequency-of-the-new-treason.md|No Gun Ri: The Frequency of the New Treason]] - Systematic corruption leads to atrocity in No Gun Ri.
+- [[raw/drafts/magic-squares-and-spirit-kings.md|Magic Squares and Spirit Kings]] - Mystic squares summon spirit kings in feudal China.
 - [[raw/drafts/unidentified-image-investigation.md|Unidentified Image Investigation]] - Mysterious image investigation unfolds.
 - [[raw/drafts/the-enigmatic-image.md|The Enigmatic Image]] - Mysterious image found in a notebook.
 - [[raw/drafts/the-image-picker-chronicles.md|The Image Picker Chronicles]] - Chronicles of an image picker and his adventures.
