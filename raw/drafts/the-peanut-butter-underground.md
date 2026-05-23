@@ -19,6 +19,8 @@ Capitol Heights, MD 20743
 
 The Peanut Butter Underground
 
+![[peanut-butter-tunnel.png|The Dystopian Tunnels of the Underground]]
+
 In the world after the next war, the Fatherhood commands everything known. These Father’s of Society formed and took control of a technocracy mutated from the decline, failure, and destruction of the United States of America. Wars since have carved the remainder of the Americas into fiefdoms and motley constructed alliances. These years of war and decay have worn the people haggard, afraid, and cowed by the technology meant to empower them.
 
 Lawful means eroded the gossamer of our security when bartered for our liberty. Dissent meets swift and harsh punishment. Technology now shepherds mankind.

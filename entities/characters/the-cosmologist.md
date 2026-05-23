@@ -4,7 +4,7 @@ created: "2026-05-23"
 updated: "2026-05-23"
 type: "character"
 tags: ["character", "draft"]
-sources: ["raw/drafts/architects-of-the-source-code-rpg-skill-trees.md"]
+sources: ["raw/drafts/architects-of-the-source-code-rpg-skill-trees.md", "raw/drafts/grids-of-power-the-rpg-administrative-portfolios.md"]
 canon_status: "draft"
 ---
 # The Cosmologist (The Blueprint Strategist)
@@ -20,3 +20,7 @@ Infrastructure, physical alignment, and universal blueprints skills.^[[raw/draft
 
 ## Relationships
 - See draft details.^[[raw/drafts/architects-of-the-source-code-rpg-skill-trees.md]]
+
+
+### Update from [[grids-of-power-the-rpg-administrative-portfolios]]
+Aligns the macrocosmic blueprint with human anatomy and architecture.^[[raw/drafts/grids-of-power-the-rpg-administrative-portfolios.md]]

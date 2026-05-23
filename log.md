@@ -3,6 +3,159 @@
 > Chronological record of all updates, drafts ingested, and lore audits in the Story Bible.
 > Format: `## [YYYY-MM-DD] action | Subject`
 
+## [2026-05-23] ingest | Unidentified Image Investigation
+- Ingested and normalized new draft to `raw/drafts/unidentified-image-investigation.md`.
+- Extracted and updated/created lore pages:
+  - Items: [[image_picker_F46CCD77-0065-48DB-A304-8F2C51A41155]]
+  - Concepts: [[unidentified_image_investigation]]
+
+## [2026-05-23] ingest | The Enchanted Forest Chronicles
+- Ingested and normalized new draft to `raw/drafts/the-enchanted-forest-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[hero-char]], [[villain-char]]
+  - Locations: [[enchanted-forest]]
+  - Concepts: [[magic-system]]
+
+## [2026-05-23] ingest | The Enigmatic Image
+- Ingested and normalized new draft to `raw/drafts/the-enigmatic-image.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[notebook-lm]]
+  - Items: [[image-picker-c27a1a66-5ca7-4d3b-ac3d4e9a9a89182e-3191-000001ae859b5bc1]]
+  - Concepts: [[mysterious-image]]
+
+## [2026-05-23] ingest | The Image Picker Chronicles
+- Ingested and normalized new draft to `raw/drafts/the-image-picker-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[image-picker-char]]
+  - Locations: [[main-location]]
+  - Concepts: [[image-picking-concept]], [[mystery-solving-concept]]
+
+## [2026-05-23] ingest | The Enchanted Forest Chronicles
+- Ingested and normalized new draft to `raw/drafts/the-enchanted-forest-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[char-forest-guardian]]
+  - Locations: [[loc-enchanted-forest]]
+  - Concepts: [[concept-magic-winds]]
+
+## [2026-05-23] ingest | Untitled Fiction Draft
+- Ingested and normalized new draft to `raw/drafts/untitled-fiction-draft.md`.
+- Extracted and updated/created lore pages:
+  - Items: [[image-picker-bcee4168-7178-493b-84202f0af76ba4c5-3191-000001ae2d9538b3]]
+  - Concepts: [[mysterious-image-investigation-story]]
+
+## [2026-05-23] ingest | Unveiled Secrets
+- Ingested and normalized new draft to `raw/drafts/unveiled-secrets.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[mystery-document]]
+
+## [2026-05-23] ingest | The Enchanted Forest Chronicles
+- Ingested and normalized new draft to `raw/drafts/the-enchanted-forest-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[forest-guardian]]
+  - Locations: [[enchanted-forest]]
+  - Concepts: [[magic-wand]]
+
+## [2026-05-23] ingest | Image Picker Chronicles
+- Ingested and normalized new draft to `raw/drafts/image-picker-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[image-picker-char]]
+  - Locations: [[workplace-location]]
+  - Concepts: [[image-manipulation-concept]]
+
+## [2026-05-23] ingest | The Enchanted Realm Chronicles
+- Ingested and normalized new draft to `raw/drafts/the-enchanted-realm-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[the-protagonist]]
+  - Locations: [[enchanted-village]]
+  - Concepts: [[magic-system]]
+
+## [2026-05-23] ingest | Unveiled Secrets
+- Ingested and normalized new draft to `raw/drafts/unveiled-secrets.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[hidden-village]]
+  - Concepts: [[ancient-lore]]
+
+## [2026-05-23] ingest | Image Placeholder
+- Ingested and normalized new draft to `raw/drafts/image-placeholder.md`.
+- Extracted and updated/created lore pages:
+  - Items: [[image_picker_A8D08C05-FCDF-4C44-856411BF026CCAA0-3191-000001AE358AD1E9]]
+
+## [2026-05-23] ingest | The Enchanted Forest Chronicles
+- Ingested and normalized new draft to `raw/drafts/the-enchanted-forest-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[char-forest-guardian]]
+  - Locations: [[loc-enchanted-forest]]
+  - Concepts: [[concept-magic-system]]
+
+## [2026-05-23] ingest | The Enchanted Forest Chronicles
+- Ingested and normalized new draft to `raw/drafts/the-enchanted-forest-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[the-elder-tree]]
+  - Locations: [[enchanted-forest]]
+  - Concepts: [[magic-wisp]]
+
+## [2026-05-23] ingest | Image Placeholder
+- Ingested and normalized new draft to `raw/drafts/image-placeholder.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-05-23] ingest | PDF Generation Failure
+- Ingested and normalized new draft to `raw/drafts/pdf-generation-failure.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[pdf-generation-error]]
+
+## [2026-05-23] ingest | The Forgotten Chronicles
+- Ingested and normalized new draft to `raw/drafts/the-forgotten-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[char-unknown]]
+  - Locations: [[loc-forgotten-land]]
+  - Concepts: [[concept-magic-system]], [[concept-lore]]
+
+## [2026-05-23] ingest | The Enchanted Forest Chronicles
+- Ingested and normalized new draft to `raw/drafts/the-enchanted-forest-chronicles.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[forest-guardian]]
+  - Locations: [[enchanted-forest]]
+  - Concepts: [[magic-energy]]
+
+## [2026-05-23] ingest | Unveiled Secrets
+- Ingested and normalized new draft to `raw/drafts/unveiled-secrets.md`.
+- Extracted and updated/created lore pages:
+  - Items: [[artifact-of-the-ancients]]
+  - Concepts: [[ancient-magic-system]], [[hidden-kingdom-of-the-sages]]
+
+## [2026-05-23] ingest | Grids of Power: The RPG Administrative Portfolios
+- Ingested and normalized new draft to `raw/drafts/grids-of-power-the-rpg-administrative-portfolios.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[the-mathematician]], [[the-occultist]], [[the-cosmologist]], [[the-artist]]
+  - Locations: [[magic-square-grid]], [[grand-kabbalistic-circle]]
+  - Organizations: [[council-of-four]], [[system-breach]]
+  - Items: [[magic-constant]], [[administrative-portfolios]]
+  - Concepts: [[magic-square-grid]], [[system-breaches]]
+
+## [2026-05-23] ingest | Grids of Power: The RPG Administrative Portfolios
+- Ingested and normalized new draft to `raw/drafts/grids-of-power-the-rpg-administrative-portfolios.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[the-mathematician]], [[the-occultist]], [[the-cosmologist]], [[the-artist]]
+  - Organizations: [[administrative-portfolios]]
+  - Concepts: [[magic-constant]], [[administrative-portfolios]]
+
+## [2026-05-23] ingest | Grids of Governance: Cosmic Calculus Tabletop System
+- Ingested and normalized new draft to `raw/drafts/grids-of-governance-cosmic-calculus-tabletop-system.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mathematician]], [[cosmologist]], [[occultist]], [[genius_artist]]
+  - Locations: [[magic_square_grid]]
+  - Organizations: [[hell_hierarchy]], [[four_kings_of_air]]
+  - Items: [[verge_foudroyante_blasting_rod]], [[ring_of_solomon]]
+  - Concepts: [[gematria_sigil_combat_system]], [[suffumigations_inventory_management]]
+
+## [2026-05-23] ingest | Gods And Demons Of Man Book 2
+- Ingested and normalized new draft to `raw/drafts/gods-and-demons-of-man-book-2.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-05-23] ingest | Gods And Demons Character Profiles.Pdf
+- Ingested and normalized new draft to `raw/drafts/gods-and-demons-character-profiles-pdf.md`.
+- Extracted and updated/created lore pages:
+
 ## [2026-05-23] ingest | 
 - Ingested and normalized new draft to `raw/drafts/.md`.
 - Extracted and updated/created lore pages:

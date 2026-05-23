@@ -239,7 +239,7 @@ def build_wiki():
             "backlinks": []
         })
         
-    # Build target-resolution map for [[wikilinks]]
+    # Build target-resolution map for [[wikilinks]] and images
     resolver_map = {}
     for p in pages:
         rel_path = p['path']
@@ -247,6 +247,22 @@ def build_wiki():
         resolver_map[basename] = rel_path
         resolver_map[rel_path.lower()] = rel_path
         resolver_map[os.path.splitext(rel_path)[0].lower()] = rel_path
+
+    # Scan for static assets (images) and add them to the resolver map
+    image_extensions = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".bmp"}
+    try:
+        for img_file in WIKI_DIR.rglob("*"):
+            if img_file.suffix.lower() in image_extensions:
+                if "node_modules" in img_file.parts or ".git" in img_file.parts:
+                    continue
+                rel_path = img_file.relative_to(WIKI_DIR).as_posix()
+                basename = img_file.name.lower()
+                stem = img_file.stem.lower()
+                resolver_map[basename] = rel_path
+                resolver_map[stem] = rel_path
+                resolver_map[rel_path.lower()] = rel_path
+    except Exception as e:
+        print(f"Warning: error scanning for images: {e}")
 
     # Compute backlinks and outgoing links
     for p in pages:
@@ -799,6 +815,80 @@ def get_html_template():
             return processed;
         }
 
+        // Helper to resolve relative paths relative to a base path
+        function resolveRelativePath(basePath, relativePath) {
+            if (relativePath.startsWith('http://') || relativePath.startsWith('https://') || relativePath.startsWith('data:') || relativePath.startsWith('/')) {
+                return relativePath;
+            }
+            
+            const baseParts = basePath.split('/');
+            baseParts.pop(); // Remove the filename
+            
+            const relParts = relativePath.split('/');
+            
+            for (const part of relParts) {
+                if (part === '..') {
+                    baseParts.pop();
+                } else if (part === '.' || part === '') {
+                    // Do nothing
+                } else {
+                    baseParts.push(part);
+                }
+            }
+            
+            return baseParts.join('/');
+        }
+
+        // Custom Wiki Image parser for ![[image_name|options]]
+        function parseWikiImages(markdown, map, currentPagePath) {
+            const wikiImageRegex = /!\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+            
+            return markdown.replace(wikiImageRegex, (match, target, options) => {
+                let cleanTarget = target.trim().toLowerCase();
+                let resolvedPath = resolveTarget(cleanTarget, map);
+                
+                if (!resolvedPath) {
+                    return `<span class="wiki-image-broken bg-rose-50 dark:bg-rose-950/20 text-rose-600 dark:text-rose-400 border border-rose-200 dark:border-rose-800 rounded-xl px-3 py-1.5 text-xs inline-flex items-center gap-1.5 my-2" title="Image '${target}' not found"><i class="fa-solid fa-image-slash"></i> [Image: ${target} not found]</span>`;
+                }
+                
+                let width = '';
+                let height = '';
+                let alt = target;
+                
+                if (options) {
+                    options = options.trim();
+                    const dimMatch = options.match(/^(\d+)(?:x(\d+))?$/);
+                    if (dimMatch) {
+                        width = dimMatch[1];
+                        if (dimMatch[2]) {
+                            height = dimMatch[2];
+                        }
+                    } else {
+                        alt = options;
+                    }
+                }
+                
+                let style = 'max-width: 100%; height: auto; display: block; margin: 1.5rem auto; border-radius: 0.75rem; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);';
+                if (width) style += ` width: ${width}px;`;
+                if (height) style += ` height: ${height}px;`;
+                
+                let imgHtml = `<img src="${resolvedPath}" alt="${alt}" style="${style}" class="wiki-image shadow-md dark:shadow-slate-900 border border-slate-200 dark:border-slate-800"`;
+                if (width) imgHtml += ` width="${width}"`;
+                if (height) imgHtml += ` height="${height}"`;
+                imgHtml += '>';
+                
+                if (options && !options.match(/^\d+(?:x\d+)?$/)) {
+                    return `
+<div class="wiki-image-container flex flex-col items-center my-6 bg-slate-50 dark:bg-slate-900/40 p-3 rounded-2xl border border-slate-100 dark:border-slate-800 max-w-xl mx-auto">
+    ${imgHtml}
+    <div class="wiki-image-caption text-xs text-slate-500 dark:text-slate-400 mt-2 text-center font-medium">${options}</div>
+</div>`;
+                }
+                
+                return imgHtml;
+            });
+        }
+
         // Custom Wiki Link parser
         function parseWikiLinks(html, map) {
             return html.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (match, target, label) => {
@@ -1017,6 +1107,7 @@ def get_html_template():
             document.getElementById('page-meta-row').innerHTML = metaHtml;
 
             let mdContent = page.content;
+            mdContent = parseWikiImages(mdContent, resolverMap, page.path);
             mdContent = renderFootnotes(mdContent);
             const rawHtml = marked.parse(mdContent);
             let linkedHtml = parseWikiLinks(rawHtml, resolverMap);
@@ -1276,6 +1367,17 @@ def get_html_template():
             headerIds: true,
             mangle: false
         });
+
+        // Custom Marked renderer to style standard markdown images and resolve relative paths
+        const renderer = new marked.Renderer();
+        renderer.image = function(href, title, text) {
+            let resolvedHref = href;
+            if (href && !href.startsWith('http') && !href.startsWith('/') && !href.startsWith('data:')) {
+                resolvedHref = resolveRelativePath(activePagePath, href);
+            }
+            return `<img src="${resolvedHref}" alt="${text || ''}" title="${title || ''}" class="wiki-image shadow-md dark:shadow-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl max-w-full my-4" style="max-height: 500px; display: block; margin-left: auto; margin-right: auto;">`;
+        };
+        marked.use({ renderer });
 
         if (window.innerWidth < 768) {
             sidebar.classList.add('hidden');

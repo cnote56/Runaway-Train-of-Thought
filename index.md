@@ -2,7 +2,7 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-05-23 | Total wiki pages: 156
+> Last updated: 2026-05-23 | Total wiki pages: 235
 
 ---
 
@@ -50,6 +50,7 @@
 *No brainstorms registered yet.*
 
 ## 📰 Blog & Non-Fiction Drafts
+- [[raw/drafts/pdf-generation-failure.md|PDF Generation Failure]] - Failed PDF generation error.
 - [[raw/drafts/confessions-of-a-dfs-player.md|Confessions of a DFS Player]] - Deep reflection and social critique of the daily fantasy sports lifestyle and culture.
 - [[raw/drafts/no-ordinary-saturday-night.md|No Ordinary Saturday Night]] - DFS strategy article celebrating the debut of Major League Soccer (MLS) on DraftKings.
 - [[raw/drafts/rage-against-the-hype-machine.md|Rage Against the Hype Machine]] - Media critique analyzing Conor McGregor's promotional genius and self-hype.
@@ -61,6 +62,20 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/unidentified-image-investigation.md|Unidentified Image Investigation]] - Mysterious image investigation unfolds.
+- [[raw/drafts/the-enigmatic-image.md|The Enigmatic Image]] - Mysterious image found in a notebook.
+- [[raw/drafts/the-image-picker-chronicles.md|The Image Picker Chronicles]] - Chronicles of an image picker and his adventures.
+- [[raw/drafts/untitled-fiction-draft.md|Untitled Fiction Draft]] - Mysterious Image Investigation Story.
+- [[raw/drafts/image-picker-chronicles.md|Image Picker Chronicles]] - Chronicles of an image picker's adventures.
+- [[raw/drafts/the-enchanted-realm-chronicles.md|The Enchanted Realm Chronicles]] - Mystical world unfolds in a draft novel.
+- [[raw/drafts/image-placeholder.md|Image Placeholder]] - Placeholder image for a fictional story.
+- [[raw/drafts/the-forgotten-chronicles.md|The Forgotten Chronicles]] - Mysterious characters in a forgotten land.
+- [[raw/drafts/the-enchanted-forest-chronicles.md|The Enchanted Forest Chronicles]] - Fantasy series set in an enchanted forest.
+- [[raw/drafts/unveiled-secrets.md|Unveiled Secrets]] - Mysterious artifact reveals hidden truths.
+- [[raw/drafts/grids-of-power-the-rpg-administrative-portfolios.md|Grids of Power: The RPG Administrative Portfolios]] - Mobile RPG based on administrative portfolios and cosmic hierarchy.
+- [[raw/drafts/grids-of-governance-cosmic-calculus-tabletop-system.md|Grids of Governance: Cosmic Calculus Tabletop System]] - Tabletop game based on universal governance magic squares.
+- [[raw/drafts/gods-and-demons-of-man-book-2.md|Gods And Demons Of Man Book 2]] - Alexander Jefferson Scott is described as a down-on-his-luck politician who has been unsuccessful in various campaigns and resigned himself to running as an 'other' candidate for political offices. Despite facing numerous setbacks, including losing multiple elections and being unable to find success with his business degree, he eventually turned to dark magic and became a charismatic and successful politician.
+- [[raw/drafts/gods-and-demons-character-profiles-pdf.md|Gods And Demons Character Profiles.Pdf]] - A newly ingested draft file.
 - [[raw/drafts/.md|]] - Mysterious magic squares in ancient architecture.
 - [[raw/drafts/architects-of-the-source-code-rpg-skill-trees.md|Architects of the Source Code: RPG Skill Trees]] - RPG skill trees for mobile/tabletop game based on administrative portfolios.
 - [[raw/drafts/the-mysterious-stranger.md|The Mysterious Stranger]] - Desperate Vance searches Capital City for sister's cure.
