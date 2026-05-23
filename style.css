@@ -1,0 +1,545 @@
+/* style.css - Cross-platform stylesheet for Creative Vault */
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@300;400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+/* Theme Variables */
+:root {
+    --bg-main: #f8fafc;
+    --bg-card: #ffffff;
+    --bg-sidebar: #f1f5f9;
+    --border-color: #e2e8f0;
+    --text-primary: #1e293b;
+    --text-muted: #64748b;
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-serif: 'Merriweather', Georgia, serif;
+    --font-mono: 'Fira Code', Consolas, Monaco, monospace;
+    
+    /* Wiki Link Category Colors - Light Mode (Premium contrast) */
+    --link-characters: #0284c7;     /* Sky Blue */
+    --link-locations: #059669;      /* Emerald Green */
+    --link-organizations: #0d9488;  /* Teal */
+    --link-items: #d97706;          /* Amber Gold */
+    --link-concepts: #7c3aed;       /* Purple */
+    --link-plots: #e11d48;          /* Rose Red */
+    --link-drafts: #4f46e5;         /* Indigo */
+    --link-fragments: #4b5563;      /* Grey */
+    --link-core: #2563eb;           /* Standard Blue */
+    --link-fallback: #2563eb;       /* Fallback Blue */
+    
+    /* VS-Code Search Highlight Color */
+    --search-highlight: #fef08a;    /* Soft Yellow */
+    --search-highlight-text: #1e293b;
+}
+
+.dark {
+    --bg-main: #0b0f19;
+    --bg-card: #111827;
+    --bg-sidebar: #0f172a;
+    --border-color: #1f2937;
+    --text-primary: #f3f4f6;
+    --text-muted: #9ca3af;
+    
+    /* Wiki Link Category Colors - Dark Mode (VS Code Glowing Editor Look) */
+    --link-characters: #38bdf8;     /* Glowing Cyan */
+    --link-locations: #34d399;      /* Bright Emerald */
+    --link-organizations: #2dd4bf;  /* Electric Teal */
+    --link-items: #fbbf24;          /* Amber Gold */
+    --link-concepts: #a78bfa;       /* Pastel Violet */
+    --link-plots: #fb7185;          /* Coral Red */
+    --link-drafts: #818cf8;         /* Indigo Nebula */
+    --link-fragments: #9ca3af;      /* Silver Grey */
+    --link-core: #60a5fa;           /* Electric Blue */
+    --link-fallback: #60a5fa;       /* Electric Blue */
+    
+    /* VS-Code Search Highlight Color */
+    --search-highlight: #854d0e;    /* Deep Amber */
+    --search-highlight-text: #ffffff;
+}
+
+/* Base resets & fonts */
+body {
+    font-family: var(--font-sans);
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Prose Typography styling for Markdown */
+#prose-content {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
+
+#prose-content h1, 
+#prose-content h2, 
+#prose-content h3, 
+#prose-content h4,
+#prose-content h5,
+#prose-content h6 {
+    font-family: var(--font-sans);
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-top: 1.6em;
+    margin-bottom: 0.6em;
+    line-height: 1.3;
+}
+
+#prose-content h1 { font-size: 2.25rem; border-bottom: 2px solid var(--border-color); padding-bottom: 0.3em; margin-top: 0.5em; }
+#prose-content h2 { font-size: 1.75rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.2em; }
+#prose-content h3 { font-size: 1.4rem; }
+#prose-content h4 { font-size: 1.15rem; }
+
+#prose-content p {
+    margin-bottom: 1.25em;
+    text-align: justify;
+}
+
+#prose-content strong {
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+#prose-content em {
+    font-style: italic;
+}
+
+#prose-content ul, 
+#prose-content ol {
+    margin-top: 0;
+    margin-bottom: 1.25em;
+    padding-left: 1.6em;
+}
+
+#prose-content ul {
+    list-style-type: disc;
+}
+
+#prose-content ol {
+    list-style-type: decimal;
+}
+
+#prose-content li {
+    margin-bottom: 0.4em;
+}
+
+#prose-content blockquote {
+    border-left: 4px solid var(--link-concepts);
+    padding: 0.6em 1.2em;
+    margin: 1.5em 0;
+    background-color: rgba(124, 58, 237, 0.04);
+    font-style: italic;
+    color: var(--text-muted);
+    border-radius: 0 8px 8px 0;
+}
+
+/* Code block highlighting rules */
+#prose-content pre {
+    background-color: var(--bg-sidebar);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    padding: 1.1em;
+    margin: 1.5em 0;
+    overflow-x: auto;
+    font-family: var(--font-mono);
+}
+
+#prose-content code {
+    font-family: var(--font-mono);
+    font-size: 0.88em;
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 0.18em 0.35em;
+    border-radius: 5px;
+    font-weight: 500;
+    color: var(--text-primary);
+}
+
+.dark #prose-content code {
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+#prose-content pre code {
+    background-color: transparent !important;
+    padding: 0 !important;
+    border-radius: 0;
+    display: block;
+    line-height: 1.5;
+}
+
+/* Wiki Link Highlights (BOLD NAMES & COLOR-CODED) */
+.wiki-link {
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0.12em 0.35em;
+    border-radius: 6px;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    display: inline-block;
+    border-bottom: 2px solid transparent;
+}
+
+/* Category Specific Link Styling */
+.wiki-link-characters {
+    color: var(--link-characters);
+    background-color: rgba(56, 189, 248, 0.08);
+    border-bottom-color: rgba(56, 189, 248, 0.25);
+}
+.wiki-link-characters:hover {
+    background-color: rgba(56, 189, 248, 0.16);
+    border-bottom-color: var(--link-characters);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(56, 189, 248, 0.1);
+}
+
+.wiki-link-locations {
+    color: var(--link-locations);
+    background-color: rgba(52, 211, 153, 0.08);
+    border-bottom-color: rgba(52, 211, 153, 0.25);
+}
+.wiki-link-locations:hover {
+    background-color: rgba(52, 211, 153, 0.16);
+    border-bottom-color: var(--link-locations);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(52, 211, 153, 0.1);
+}
+
+.wiki-link-organizations {
+    color: var(--link-organizations);
+    background-color: rgba(45, 212, 191, 0.08);
+    border-bottom-color: rgba(45, 212, 191, 0.25);
+}
+.wiki-link-organizations:hover {
+    background-color: rgba(45, 212, 191, 0.16);
+    border-bottom-color: var(--link-organizations);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(45, 212, 191, 0.1);
+}
+
+.wiki-link-items {
+    color: var(--link-items);
+    background-color: rgba(251, 191, 36, 0.08);
+    border-bottom-color: rgba(251, 191, 36, 0.25);
+}
+.wiki-link-items:hover {
+    background-color: rgba(251, 191, 36, 0.16);
+    border-bottom-color: var(--link-items);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(251, 191, 36, 0.1);
+}
+
+.wiki-link-concepts {
+    color: var(--link-concepts);
+    background-color: rgba(167, 139, 250, 0.08);
+    border-bottom-color: rgba(167, 139, 250, 0.25);
+}
+.wiki-link-concepts:hover {
+    background-color: rgba(167, 139, 250, 0.16);
+    border-bottom-color: var(--link-concepts);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(167, 139, 250, 0.1);
+}
+
+.wiki-link-plots {
+    color: var(--link-plots);
+    background-color: rgba(251, 113, 133, 0.08);
+    border-bottom-color: rgba(251, 113, 133, 0.25);
+}
+.wiki-link-plots:hover {
+    background-color: rgba(251, 113, 133, 0.16);
+    border-bottom-color: var(--link-plots);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(251, 113, 133, 0.1);
+}
+
+.wiki-link-drafts {
+    color: var(--link-drafts);
+    background-color: rgba(129, 140, 248, 0.08);
+    border-bottom-color: rgba(129, 140, 248, 0.25);
+}
+.wiki-link-drafts:hover {
+    background-color: rgba(129, 140, 248, 0.16);
+    border-bottom-color: var(--link-drafts);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(129, 140, 248, 0.1);
+}
+
+.wiki-link-fragments {
+    color: var(--link-fragments);
+    background-color: rgba(156, 163, 175, 0.08);
+    border-bottom-color: rgba(156, 163, 175, 0.25);
+}
+.wiki-link-fragments:hover {
+    background-color: rgba(156, 163, 175, 0.16);
+    border-bottom-color: var(--link-fragments);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(156, 163, 175, 0.1);
+}
+
+.wiki-link-core, .wiki-link-entities {
+    color: var(--link-core);
+    background-color: rgba(37, 99, 235, 0.08);
+    border-bottom-color: rgba(37, 99, 235, 0.25);
+}
+.wiki-link-core:hover, .wiki-link-entities:hover {
+    background-color: rgba(37, 99, 235, 0.16);
+    border-bottom-color: var(--link-core);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(37, 99, 235, 0.1);
+}
+
+/* Broken Link Highlight */
+.wiki-link-broken {
+    color: #ef4444;
+    border-bottom: 2px dashed #f87171;
+    font-weight: 700;
+    padding: 0.12em 0.35em;
+    border-radius: 4px;
+    background-color: rgba(239, 68, 68, 0.05);
+    cursor: help;
+    transition: all 0.2s;
+}
+.wiki-link-broken:hover {
+    background-color: rgba(239, 68, 68, 0.12);
+    border-bottom-color: #ef4444;
+}
+
+/* Table formatting in Markdown */
+#prose-content table {
+    width: 100%;
+    margin: 1.5em 0;
+    border-collapse: collapse;
+    font-family: var(--font-sans);
+    font-size: 0.95rem;
+}
+
+#prose-content th, #prose-content td {
+    padding: 0.75em 1em;
+    border: 1px solid var(--border-color);
+    text-align: left;
+}
+
+#prose-content th {
+    background-color: var(--bg-sidebar);
+    font-weight: 600;
+}
+
+#prose-content tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.015);
+}
+.dark #prose-content tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.015);
+}
+
+/* Horizontal Rule */
+#prose-content hr {
+    border: 0;
+    border-top: 2px solid var(--border-color);
+    margin: 2.5em 0;
+}
+
+/* Search Term Highlighting (VS Code Search Highlight style) */
+mark.search-match {
+    background-color: var(--search-highlight) !important;
+    color: var(--search-highlight-text) !important;
+    border-radius: 3px;
+    padding: 0 2px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    font-weight: inherit;
+}
+
+/* Footnotes customization */
+.footnote-ref {
+    font-family: var(--font-sans);
+    font-size: 0.8em;
+    vertical-align: super;
+}
+
+/* Custom transitions and scrollbars */
+.transition-colors {
+    transition-property: background-color, border-color, color, fill, stroke;
+    transition-duration: 200ms;
+}
+
+/* Code highlight override tweaks */
+.hljs {
+    background: transparent !important;
+    padding: 0 !important;
+}
+
+/* ==========================================
+   WIKIPEDIA.ORG CLASSIC THEME SYSTEM
+   ========================================== */
+
+.wikipedia-theme {
+    --bg-main: #ffffff !important;
+    --bg-card: #ffffff !important;
+    --bg-sidebar: #f6f6f6 !important;
+    --border-color: #a2a9b1 !important;
+    --text-primary: #202122 !important;
+    --text-muted: #54595d !important;
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    --font-serif: Georgia, "Nimbus Roman No9 L", serif !important;
+    
+    /* Classic Wikipedia Link Colors */
+    --link-characters: #0645ad !important;
+    --link-locations: #0645ad !important;
+    --link-organizations: #0645ad !important;
+    --link-items: #0645ad !important;
+    --link-concepts: #0645ad !important;
+    --link-plots: #0645ad !important;
+    --link-drafts: #0645ad !important;
+    --link-fragments: #0645ad !important;
+    --link-core: #0645ad !important;
+    --link-fallback: #0645ad !important;
+}
+
+/* Wikipedia Dark Mode Override (for modern compliance) */
+.dark.wikipedia-theme {
+    --bg-main: #10141e !important;
+    --bg-card: #161c28 !important;
+    --bg-sidebar: #1d2432 !important;
+    --border-color: #3a4454 !important;
+    --text-primary: #e1e4e8 !important;
+    --text-muted: #8b96a7 !important;
+    
+    /* Neon Blue/Cyan links for dark mode readability */
+    --link-characters: #68b6ef !important;
+    --link-locations: #68b6ef !important;
+    --link-organizations: #68b6ef !important;
+    --link-items: #68b6ef !important;
+    --link-concepts: #68b6ef !important;
+    --link-plots: #68b6ef !important;
+    --link-drafts: #68b6ef !important;
+    --link-fragments: #68b6ef !important;
+    --link-core: #68b6ef !important;
+    --link-fallback: #68b6ef !important;
+}
+
+/* Base style resets when Wikipedia theme is active */
+body.wikipedia-theme {
+    font-family: var(--font-sans) !important;
+}
+
+body.wikipedia-theme #prose-content {
+    font-family: var(--font-sans) !important;
+    font-size: 0.92rem !important;
+    line-height: 1.6 !important;
+    color: var(--text-primary) !important;
+}
+
+/* Wikipedia headings */
+body.wikipedia-theme #prose-content h1,
+body.wikipedia-theme #prose-content h2,
+body.wikipedia-theme #prose-content h3,
+body.wikipedia-theme #prose-content h4 {
+    font-family: var(--font-serif) !important;
+    font-weight: normal !important;
+    border-bottom: 1px solid var(--border-color) !important;
+    padding-bottom: 0.2em !important;
+    margin-top: 1.2em !important;
+    margin-bottom: 0.4em !important;
+}
+
+body.wikipedia-theme #prose-content h1 { font-size: 1.8rem !important; }
+body.wikipedia-theme #prose-content h2 { font-size: 1.5rem !important; }
+body.wikipedia-theme #prose-content h3 { font-size: 1.25rem !important; border-bottom: none !important; }
+
+/* Link resets in Wikipedia Theme */
+body.wikipedia-theme .wiki-link {
+    font-weight: normal !important;
+    background-color: transparent !important;
+    border-bottom: none !important;
+    padding: 0 !important;
+    color: var(--link-core) !important;
+    text-decoration: none !important;
+}
+
+body.wikipedia-theme .wiki-link:hover {
+    text-decoration: underline !important;
+    transform: none !important;
+    box-shadow: none !important;
+}
+
+body.wikipedia-theme .wiki-link-broken {
+    color: #cc0000 !important;
+    background-color: transparent !important;
+    border-bottom: 1px dashed #cc0000 !important;
+    font-weight: normal !important;
+    padding: 0 !important;
+}
+
+/* In Wikipedia theme, we make table look 100% authentic */
+body.wikipedia-theme #prose-content table {
+    background: #f8f9fa !important;
+    border: 1px solid #a2a9b1 !important;
+    padding: 5px !important;
+}
+
+.dark.wikipedia-theme #prose-content table {
+    background: #1a2230 !important;
+    border-color: #3a4454 !important;
+}
+
+/* Wikipedia Infobox */
+body.wikipedia-theme .wikipedia-infobox {
+    float: right !important;
+    margin: 0 0 1em 1.5em !important;
+    width: 270px !important;
+    background: #f8f9fa !important;
+    border: 1px solid #a2a9b1 !important;
+    padding: 0.3em !important;
+    font-size: 0.8rem !important;
+    font-family: var(--font-sans) !important;
+    border-collapse: collapse !important;
+    line-height: 1.4 !important;
+}
+
+.dark.wikipedia-theme .wikipedia-infobox {
+    background: #1a2230 !important;
+    border-color: #3a4454 !important;
+}
+
+body.wikipedia-theme .wikipedia-infobox th {
+    background-color: #eaecf0 !important;
+    text-align: center !important;
+    font-weight: bold !important;
+    border: 1px solid #a2a9b1 !important;
+    padding: 0.4em !important;
+}
+
+.dark.wikipedia-theme .wikipedia-infobox th {
+    background-color: #242f41 !important;
+    border-color: #3a4454 !important;
+}
+
+body.wikipedia-theme .wikipedia-infobox td {
+    border: 1px solid #a2a9b1 !important;
+    padding: 0.4em !important;
+    vertical-align: top !important;
+}
+
+.dark.wikipedia-theme .wikipedia-infobox td {
+    border-color: #3a4454 !important;
+}
+
+/* Sidebar styling for Wikipedia Theme */
+body.wikipedia-theme #sidebar {
+    background-color: var(--bg-sidebar) !important;
+    border-right: 1px solid var(--border-color) !important;
+}
+
+body.wikipedia-theme #sidebar-nav a {
+    border-radius: 0 !important;
+    border-left: none !important;
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+}
+
+body.wikipedia-theme #sidebar-nav a:hover {
+    background-color: rgba(0, 0, 0, 0.04) !important;
+    text-decoration: underline !important;
+}
+
+.dark.wikipedia-theme #sidebar-nav a:hover {
+    background-color: rgba(255, 255, 255, 0.04) !important;
+}

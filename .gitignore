@@ -1,0 +1,7 @@
+# Ignore heavy Obsidian caches or operating system files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+__pycache__/
+*.pyc
+.DS_Store

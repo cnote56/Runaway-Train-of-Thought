@@ -1,0 +1,2048 @@
+---
+title: "Gods and Demons of Man Book 2"
+source_path: "//wsl.localhost/Ubuntu/home/cole/data_to_backup/misc/Creative Writing and Fiction\Horror and Supernatural\Gods and Demons of Man Book 2.docx"
+category: "Horror and Supernatural"
+word_count: 27824
+status: "Raw Draft Ingested"
+---
+
+Gods and Demons of Man
+
+Cole.dowden@gmail.com
+
+Damascus, 2025. A chamber long buried by the endless wars above lies deep in the bedrock carved and hollowed out long ago before man was who he pretends to be; and after he became what he was meant to be.
+
+Nearly a mile underfoot of the grand palace in Damascus. Deep under its foundations. A crack in the earth opens, just wide for one man to squeeze through. The licking flame of a torch juts from the crack tossing the Torah into the chamber as the rest of the body follows through.
+
+Bloodied and war beaten the man now stood bent-backed holding a hand to a bloody wound along his right side staining a tattered military uniform so persecuted its allegiance nearly unrecognizable. The black and silver on his appells burnt and bloodied. A long fresh cast of blood spread from behind the mans ear a gash cut open form shrapnel now clotted with a mass of blackened bandage. Stumbling to the floor the man was now on his knees.
+
+A flickering torch in his hand threw a warm light on the darkness before.
+
+Blackened purpling red veins broke from the walls of the chamber and trailed the floor toward a figure lounged on a couch of rocks, the god of rage lay naked. Redden and gorged with the blood spilt by the war above.
+
+A warm gurgling chuckle rolled from its black lips.
+
+The gods face a soft consuming blackness nearly featureless leaving the burning whiteness of its eyes flashing a flame-filled mouth as it spoke.
+
+“I have a guest.”
+
+The long arm stretched purple-blued skin over a muscle-caked frame. Four shoulders round and wide joined to the gods neck and head. From under the shoulders four arms reached from aside a broad hairy ripped chest. Then three tits.
+
+Three black-nippled breasts swollen purple spiderwebbed with bright blue veins  just under the tuft of chest hair and all the powerful muscle, then a long string of abdominal muscles centerlined like that of giant serpent with rows of curling black hair growing into a wide spray of hair across the gods abdomen toward its crotch, where a color splotched horse cock lay alongside the gods four hairy goat legs.
+
+The god stamped two of his cloven hoofs. Raising itself to its feet with the upward push of its vein-nest.
+
+Now towering over the man, its skin glistened from the torchlight, the god grinned at the secrets he read from the pulse of the man's heart.
+
+“You seek?”
+
+The chamber shuddered from the gods' voice. The man stumbled backwards pushed back by the energy filling the room.
+
+Now pausing the god savored the desperation in the man’s heart. The frequencies plucked by the gods’ voice shook the tendrils of nearly every nerve in the man’s body; freezing the man in his steps. Shocked still, the man’s torch gleamed in the gods black eyes.
+
+“Revenge.”
+
+Shuddering as though he was freezing naked in a tundra, the croaks from the man's throat were known by the god before the man could finish his utterances.
+
+“You have it.”
+
+Now floating in front of the god, the man’s nervous system flashed glowing brightly under the red twisted darkness of his body mass. Then the wish gripped and relieved the man’s heart. His body felt refreshed and rested as though he had just awakened from a restful healing sleep from under plane wreckage. Suddenly exhausted and filled with energy simultaneously. Ecstatic and sedated.
+
+Chips and dust of rock fell from the walls as the viens strained from a gush of energy feeding and filling the monster. A wide grin spread across the gods face. Arching its back as the veins trailing from the gods backside lining the gods frame. The god stretched its limbs outward like Davinci’s Man - flexing black veins lifted and suspended the god's monstrous frame.
+
+The god released from the influx of strength released the man from his emotions. The man, now violently shaking and pouring sweat from the sight, whimpered.
+
+With a flash the gods arm struck out clutching the man by the throat.
+
+Lifting him and pulling him closer, the gods' skin smelt of a fresh summer battlefield covered in flowers and gore. Acrid, caustic to the senses yet, a sweet smell of decay rounding the emotions pouring into the man.
+
+Through the cracked entrance a blinding light blasted through the narrow tunnel leading back to the world above. Ecstatic screams echoed out of the room as light and rage filled the fragile chamber where the god and the man had just sealed a murderous bargain.
+
+
+# Synopsis
+
+
+
+## Themes:
+
+
+When the Emperor kills; the Empire eats.
+
+When the Emperor dies; the Empire eats.
+
+The corruption that follows the influence of power.
+
+Mankind's beliefs on their actions, the dangers of ambition, the illegitimacy of redemption, and dealing with known Devils.
+
+Corruption flows from power can be seen throughout history, from the rise and fall of empires to the abuse of power by individuals. It is a natural human tendency to want power, and once we have it, it can be difficult to let go. Power can corrupt us in many ways. It can make us arrogant, selfish, and uncaring about the needs of others. It can lead us to make decisions that are not in the best interests of others, but only in our own self-interest.
+
+The effect of mankinds beliefs on their actions creating inconsistency with their senses can be seen in many areas of life. For example, people often believe that they are making rational decisions, but their actions often belie this. They may claim to be acting in their own best interests, but their behavior often shows that they are actually motivated by greed, fear, or other base emotions. This inconsistency between beliefs and actions can lead to a great deal of suffering in the world.
+
+The dangers of ambition are many. Ambition can lead us to take risks that we would not otherwise take, and it can cause us to make decisions that are not in our best interests. It can also lead us to become obsessed with achieving our goals, to the point where we neglect other important aspects of our lives.
+
+The illegitimacy of redemption is a complex topic that has been debated by philosophers and theologians for centuries. There is no easy answer to the question of whether or not redemption is possible. Some people believe that redemption is impossible because no one can ever truly atone for their sins. Others believe that redemption is possible, but that it is a difficult and challenging process. Still others believe that redemption is only possible through the grace of God.
+
+Deals with the devils you know are often made out of desperation or necessity. When we are faced with a difficult situation, we may be willing to make a deal with someone we know is bad, in order to get what we want or need. This can happen in personal relationships, business dealings, or political situations. Deals with the devils you know can often have negative consequences, as we may end up getting more than we bargained for.
+
+
+## Conflicts:
+
+
+Struggle with his guilt and his desire for power.
+
+Opposition from his political enemies, the media, and Zealots.
+
+The struggle between good and evil is a central theme in many stories, and it is often depicted as a struggle between a character's desire for power and their moral compass. In the case of Judas Iscariot, his struggle with his guilt and his desire for power ultimately led to his betrayal of Jesus Christ.
+
+Judas was a disciple of Jesus, and he was one of the twelve men who were closest to him. He was also a treasurer for the group, and he was responsible for taking care of the money that was donated to Jesus. Judas was a very ambitious man, and he wanted to be more powerful. He believed that if he could get Jesus to become king, then he would be able to use his position to gain power for himself.
+
+However, Judas also knew that Jesus was a good man, and he was conflicted about betraying him. He knew that what he was doing was wrong, but he was also afraid of what would happen to him if he didn't go through with it. In the end, Judas's desire for power was stronger than his moral compass, and he betrayed Jesus for thirty pieces of silver.
+
+Judas's story is a cautionary tale about the dangers of ambition and the corrupting influence of power. It is also a reminder that even good people can be tempted by evil, and that even the smallest act of betrayal can have far-reaching consequences.
+
+In the context of mankind's inclination for corruption over love, Judas's story is a powerful illustration of how power can corrupt even the best of intentions. It also shows how easily we can be tempted by evil, even when we know that it is wrong. Judas's story is a reminder that we all need to be vigilant against the corrupting influence of power, and that we should always choose love over power.
+
+
+## Resolution:
+
+
+The protagonist could find redemption in a number of ways. He could defeat the devil in a battle of wills, or he could sacrifice himself to save the world. He could also learn to accept his fate and use his power for good.
+
+
+# A Special Room. Buried Underground.
+
+
+In the heart of Capitol Hill, underneath the House of Representatives, a special room hums with an eerie silence. It is designed to disrupt and shield any electronic transmission, lined with a proprietary and classified mix of wire meshes of varying metals. In this room, Vice-Admiral Robinson of the Joint Chiefs of Staff waits, his mind churning with thoughts of the past and the future. The past, with its triumphs and failures, now stands as a prologue to what is to come. And the future, once a distant horizon, now looms large and pressing.
+
+The Sensitive Compartmentalized Information Facility, SCIF, was insulated by a lack of technology for a minimum of 10 meters in all government buildings. Otherwise. The SCIF should be buried underground that has been scanned with ground penetrating radar, per Classified And Declassified Regulations.
+
+Vice-Admiral Robinson sits in one of the chairs, his hands clasped in front of him - alone with his thoughts. Cut-off from the world and all the digital connections he had access through his FILTER implant. Nothing, but his thoughts. He was on the moon for all his responsibilities could dream. He is dressed in his full dress uniform, and his medals shine in the light. He looks at the clock, then at the door. He sighs and tries to relax, but he can't help but feel nervous. And cut-off from everything he has to get done while waiting to brief some damned Congressman.
+
+The walls of the briefing room seem to close in on him, reflecting his own introspective gaze. The room is small, confining, a microcosm of the weighty decisions that rest on Robinson's shoulders. He stares at the blank wall opposite him, as if seeking answers in its featureless expanse. But the answers lie not in the present, but in the echoes of the past and the whispers of the future.
+
+Robinson's mind races back through the years, revisiting the key moments and choices that have shaped his life. The triumphs and failures form a mosaic of experience, a tapestry that weaves together the fabric of his being. Each event, each decision, has left its mark, shaping him into the leader he is today.
+
+But it is not only the past that preoccupies Robinson's thoughts. He is acutely aware of the future, of the challenges and uncertainties that lie ahead. The world is in a state of flux, with geopolitical tensions rising and global conflicts escalating. The decisions made in the present will have a profound impact on the course of history.
+
+Robinson's role in the Joint Chiefs of Staff places him at the heart of this maelstrom. He is responsible for advising the President and other senior leaders on military strategy, operations, and policy. His decisions will shape the fate of nations, and he feels the weight of this responsibility heavily upon him.
+
+As he waits in the briefing room, Robinson knows that the future is very present. Every moment, every choice, is a step towards the unknown. He is both exhilarated and apprehensive, aware that he is standing on the precipice of history.
+
+One thing Vice-Admiral Robinson of the Joint Chiefs of Staff does not like to do is wait. He waited. Orders. Always, orders.
+
+Among the nothing itn the room were four chairs and a table. The walls bare. The only light comes from a single pair of led lights dead center of hte ceiling above the table. The air is stale and dusty; the only sound is the clock ticking from outside the room on the Marine Guard’s desk - the tap and flash of the old analog thing was positively a museum pice for how old it was. But the analog clock was not yet hacked. And it was the only thing aside form the guards ball-point pen that was designed last century allowed within 20 meters of the room - in all directions.
+
+The door opens, and a man enters the room. He is tall and thin, with a receding hairline. He is wearing a suit and tie and has a briefcase in his hand. He walks over to Vice-Admiral Robinson and extends his hand.
+
+"Admiral Robinson," he says. "I'm John Smith, from the House Armed Services Committee."
+
+Vice-Admiral Robinson shakes his hand. "It's a pleasure to meet you, Mr. Smith," he says.
+
+"Please, have a seat," Mr. Smith says.
+
+Vice-Admiral Robinson sits down, and Mr. Smith sits down across from him.
+
+"So, Admiral," Mr. Smith says. "I understand you have some information for us."
+
+"Yes, sir," Vice-Admiral Robinson says. "I do."
+
+He takes a deep breath and begins to speak.
+
+"As you know," he says, "the United States is facing several threats. Some of these threats are from traditional enemies, like Russia and China. But some of these new and emerging threats, like terrorism and cyberwarfare."
+
+He pauses and looks at Mr. Smith.
+
+"I'm here to tell you we are unprepared for these threats," he says. "Our military is outdated and underfunded. Our intelligence agencies are not as good as they used to be. And our cyber defenses are a joke.”
+
+BUT! OUR WARFIGHTERS ARE THE BEST IN THE KNOWN WORLD! The echo of thousands of billions of dollars lost to propaganda.
+
+He shakes his head. Trying to recover himself.
+
+"If we don't do something to change this," he says, "we will be in big trouble."
+
+Mr. Smith nods.
+
+"I understand, Admiral," he says. "And I agree with you. We need to do something to address these threats."
+
+He pauses and looks at Vice-Admiral Robinson.
+
+"But what do you propose we do?" he asks.
+
+Vice-Admiral Robinson takes a deep breath.
+
+"I propose that we increase our military spending," he says. "We need to invest in new technologies and new weapons systems. We need to train our troops better. And we need to improve our intelligence gathering."
+
+He looks at Mr. Smith.
+
+"This is not going to be cheap," he says. "But it's the only way to keep our country safe."
+
+Mr. Smith nods again.
+
+"I agree," he says. "We need to invest in our military. But I'm not sure we can get Congress to agree."
+
+He looks at Vice-Admiral Robinson.
+
+"What do you suggest we do about that?" he asks.
+
+Vice-Admiral Robinson smiles.
+
+"I suggest you call me when you need me," he says. "I'm sure I can be of some assistance."
+
+Mr. Smith laughs.
+
+"I'm sure you can," he says. "Thank you for your time, Admiral."
+
+He stands up and shakes Vice-Admiral Robinson's hand.
+
+"I'll be in touch," he says.
+
+Vice-Admiral Robinson stands up as well.
+
+"It was a pleasure to meet you, Mr. Smith," he says.
+
+Mr. Smith leaves the room, and Vice-Admiral Robinson is left alone. He sits back down in his chair and sighs.
+
+He knows that he has done the right thing. But he also knows that it is only the beginning.
+
+Representative Randall Scott barges into the SCIF, sir the Marine guard behind him yells, “Your phone, sir!”
+
+“Yes! yes!  OH MY! Yes! FUCK! NO! I’m NOT! Yes! Take it!”
+
+The representative tapped the call end on his phone and threw it back out of the skiff into the white-gloved hands of the Marine guard.
+
+“Admiral! Admiral Robinson,” Rep Scott was wild in his vocal range on the campaign trail was also as loud in a small secured room.
+
+“Thank you so much for your time thank you for meeting me it's been a very, very busy second term for me I've just recently gotten appointed received an appointment received my committee assignment, and I'm very, very glad to be looking into the oversight of some of our how should I say we're clandestine military programs.”
+
+Robinson bit his lip, but inside his left boot, he gripped the soul so tightly that the ingrown toenail on his big toe was beginning to bleed through his government-issue socks.
+
+He had been boiled, reboiled, stripped naked, and made flesh again in the “swamps” of  DC swamp for four years, and he was starting to feel the effects. The constant political maneuvering, the backstabbing, the never-ending cycle of meetings and briefings began to wear on him.
+
+But he knew he couldn't show it. He had to keep cool, stay professional, and do his job. After all, he was the Vice Admiral to the Joint Chiefs of Staff. He was one of the most powerful men in the country.
+
+Even though he knew he had to keep his cool, he couldn't help but feel bitter and resentful. He had dedicated his life to serving his country, and now he was treated like a political pawn. The politicians were using him to further their agendas, and he was sick of it.Even though he knew he had to keep his cool, he couldn't help but feel bitter and resentful. He had dedicated his life to serving his country, and now he was treated like a political pawn. The politicians were using him to further their agendas, and he was sick of it. He had seen firsthand the damage that these politicians were doing to his country, and he knew that they were only interested in their own power and wealth. He wanted to do something to stop them, but he knew that he was just one man. He felt helpless and frustrated, and he didn't know what to do.
+
+He knew he couldn't change the system but could at least try to make a difference. He could try to be a voice of reason in the chaos. He could ensure the military was used for good, not evil.He knew he couldn't change the system, but he could at least try to make a difference. He could try to be a voice of reason in the chaos. He could ensure the military was used for good, not evil. He could try to protect the innocent and uphold the law. He could try to make the world a better place, even if it was just in a small way.
+
+He knew it wouldn't be easy, but he was determined to try. He had to try. For himself, and for everyone else. And that's what he was going to do. He would do his best to serve his country, even if it meant serving in the boiling DC swamp.
+
+In the early history of Washington D.C., the city's summertime heat and humidity were infamous. During the summer months, the city could be very uncomfortably hot, especially in the days before air conditioning. As the capital of the United States, Washington hosted diplomats and foreign dignitaries. Some of these diplomats and officials reportedly received hardship pay or benefits to compensate for enduring Washington's harsh summer climate.
+
+In the early days of Washington D.C., the city's summertime heat and humidity were infamous. During the summer months, the city could be very uncomfortably hot, especially in the days before air conditioning. As the capital of the United States, Washington hosted diplomats and foreign dignitaries. Some of these diplomats and officials reportedly received hardship pay or benefits to compensate for enduring Washington's harsh summer climate.
+
+The heat and humidity in Washington D.C. can be oppressive, with temperatures often reaching into the 90s and humidity levels above 90%. This can make it difficult to stay cool and comfortable, even indoors. In addition, the city's location on the Potomac River means that it is often subject to heat waves and thunderstorms. These can make the weather even more unbearable.
+
+The hardship pay that diplomats and foreign dignitaries received was intended to help them offset the costs of living in Washington D.C., including the cost of air conditioning. It was also intended to compensate them for the discomfort and inconvenience of dealing with the city's extreme weather conditions.
+
+For example, there are accounts from the 19th century of some foreign ministers being given extra funds to rent country estates outside the city during the summer. This allowed them to escape the capital's heat and discomfort. Other reports suggest some foreign dignitaries received summer housing allowances or had summer lodging provided to them at government expense. Cooling devices like early fans or ice deliveries may also have been covered for foreign embassies during hot D.C. summers.
+
+Washington D.C.'s hot, humid summers have been an issue since the city was first established as the national capital in 1800. Temperatures regularly climbed into the 90s, making high humidity feel even hotter. Before air conditioning, the summer months could be unbearable. People would often sleep on their porches or in their yards to stay cool. They would also take frequent baths or showers to try to cool down. Some people would even go to the movies or the library to escape the heat. In the late 19th century, electric fans became popular, which helped to make the summers more bearable. However, it wasn't until the widespread adoption of air conditioning in the mid-20th century that the summer heat became truly manageable in Washington D.C.
+
+Foreign diplomats stationed in D.C. frequently complained about the miserable conditions during summer. Many diplomats fled the city in the antebellum era to escape the heat. British ambassadors often retreat to country estates along the Potomac River or rent houses in the countryside.
+
+During the Buchanan administration in the late 1850s, the Sardinian minister rented a house outside the city every summer to escape the heat and humidity. The house was located in a small town in the countryside, and it was a welcome respite from the hustle and bustle of city life. The minister would often spend his days reading, writing, and taking walks in the countryside. He would also entertain guests at the house, and he hosted many lively political discussions. The house was a place where the minister could relax and rejuvenate, and it played an important role in his life.
+
+When not escaping entirely, foreign missions often move operations to summer legations located on higher ground north of the original city. This was thought to be more relaxed and healthier during the sweltering summer months. Secretary of States was also known to conduct business from these summer legations rather than the State Department offices
+
+Besides relocating, diplomats tried other means to cope with the heat. Contemporary accounts tell of embassy staff lounging under trees on the Potomac banks hoping for a breeze. Ice houses were built to provide refreshments. Servants fanned diplomats during meetings. Rooms were kept dark and shuttered during the day to prevent heating.
+
+Foreign governments likely provided additional compensation for their diplomats dealing with D.C. summers. Extra funds were given for summer estates, lodging, and cooling devices. Being stationed in Washington during summer was considered a hardship assignment due to the oppressive heat. Providing remedies was seen as necessary to maintain effective embassy operations.
+
+But today, no outside influences can penetrate the SCIF. He took a deep breath and tried to relax his grip on his boot. He knew that he had a job to do and would do it to the best of his ability.
+
+“Yes, Representative Randall, or is it Scott apologies, my briefing was rather a purse on the way over from new Langley unless.”
+
+Representative Scott slapped his half-open messenger bag on the table between Robinson and the exit from the SCIF.
+
+“Let's cut to the chase what would you like to know, sir we are in a secure environment, I'm clear to inform you of anything you would like to discuss?”
+
+“Vice Admiral, sorry, apologies, apologize for the…Yes, I would like to discuss a few things about a few line items that I'm finding difficult to swallow for this upcoming Appropriations bill could we talk about some of these special projects that you've got consuming quite a lot of fun.”
+
+“Representative Scott, would you like particulars on anything if so, I can prepare a briefing, and we can go through proper channels in this conversation isn't necessarily required to be as secure as it is.” Robinson pleaded.
+
+“Nope!, Scott interrupted, “I’ve got you right where I want you!, Ha! He slapped the table as one hand thrust into his bag and retrieved a paper pad scrawled with writing and arrows, diagrams, and symbols. Mad writing.
+
+“We can do that, but I had a question regarding, well, actually, it's about appropriations.”
+
+“Of course, those are coming all in due time. Spending cycles and the bean counters, whatnot.”
+
+“Eye! Eye! Yes, this is all that part of the way forward. …forward, you see, I was elected four years ago by him substantial margin and a district that had largely been blood red, just blood red. People grew tired of many things that were getting pushed off on the constituents there and their families for Generations it was turning out to be, and a lot of that was fallout, a lot of that was tainted water down.”
+
+Years of bloody service had left Robinson with a musty smell, and this room, so isolated from the rest of the world, had a scent of desperation. This was probably why Representative Randall Scott decided to call the meeting in the newly reformed, newly established, and newly renovated skiff underneath the House of Representatives.
+
+The SCIF was a small, dark room with only a few chairs and a table. The walls were bare, and the only light came from a single lightbulb hanging from the ceiling. The room was cold and damp, and the air was stale.
+
+Robinson sat at the table, his hands spread before him. a folder between them with a briefing he already knew ready for him to read to some recently elected firebrand representative.
+
+Scott sat across from Robinson, his face grave. He was a short, stocky man with a receding hairline. He was wearing a suit, and his tie was neatly knotted.
+
+“Yes, Vice Admiral Robinson, yes, there was another reason I wanted you to meet with me face to face, no screens, no video calls, no, no Hokey Pokey hologram shit.
+
+“We talk about with our eye sockets I'm going to tell you, I'm going to hear it all for you a deal it's a deal that you can take back to all of your fat piglets that suck on your tits oh, yes,, General Robinson.”
+
+Scott slapped the table and then liked to gesture with his paper pad.
+
+“Oh yes, General Robinson, I am very familiar with your Anatomy oh, it's changed mightily over the years.”
+
+Robinson couldn’t figure out if he were watching a serum from a traveling preacher or if it was a man possessed.
+
+“Oh yes, I'm very familiar with your entire professional military record, your boy scout Eagle Scout leader of the band, everything, but nobody else knows exactly how many nipples you have, and I know you have a lot of nipples because they feed this octopus this living zombie albatross around the neck of America and this wounded country!”
+
+There it was; his platform got him over the hump and elected into the House. That and lots of money, suddenly and from nowhere.
+
+“And we force-feed this bloated and horrific defense contractor that you seem to want to Supple up to and sustain and just keep carving out these grotesque sums of money.”
+
+Scott steadied himself.
+
+“Well, I tell you Samuel Franklin Robinson, however comfortable you are right now, you're about to get very, very more uncomfortable because I'm about to boil you from the inside out this Appropriations Bill coming forth, and it's got the votes to pass it's got the votes to pass every chamber through the presidency, and I've got the juice to push it all the way through oh I'm pumping hard for you vice admiral Robinson I'm pumping hard for you MOTHER FUCKER!”
+
+“Sir, you lose yourself,” Robinson was now visibly alarmed and shifting away from Scott.
+
+“An Appropriations Bill!!!! That is going to have a 25% reduction across the board on everything military spending if it's got a DOT Mill behind it, it's getting a haircut if it's got a pencil going to going to any of our bases overseas, it's getting a haircut every angle of it. You're going to sign on, and you're going to support it, and you're going to tell all those little piglets that suck on all those teats that you got dangling off your ass it's going to be okay it's better than the alternative because the alternative…”
+
+Scott dove a hand into his messenger bag for another file within a file and retrieved it. He continued.
+
+“The alternative is much, much worse the alternative is a 55% reduction, and that's in the initial draft of the of the bill and all of these stair steps over the next 10 years more five more percent that's the 25% bill, right there the 55%, and we give you a percent here and there, but whatever it is it's a reduction you're no longer going to suck this country dry and not push anything back across you don't get to be the merchants of death anymore this country is tired of murdering the rest of the world just to keep Fat Cats your think tanks your special projects and all of the Things That Go Bump in the night alive for you to keep us scared it's over the documents leaked oh yes you avoided a lot of the Flack a lot of the blowback you skated by rather quickly rather succinctly as if you always had that escape hatch.”
+
+He stopped to run down a checklist on paper and in his head like a wizard coiling a poison in a cauldron.
+
+Robinson interrupted, “But you're still where you are because you know where the bodies are buried and plain and simple, so do I because I've got the data.”
+
+Scott flushed with vigor and interrupted. “and I'm reading it every day, and I take notes, and I've got the voters behind me, and I've got the Appropriations Committee oozing to cut some piglet's throats.” Scott steadied himself with a click pen and paper pad, ready to scribble more notes.
+
+“So if I said more Robby-boy, you're going to go and sell this deal 25% haircut off the top this Appropriations bill it's going to pass with a 99% majority every chamber has it lined up right now ready to go it'll be done in a week you fuck up you fucking fuck up!”
+
+“The next year?! they're going to take 30% of the amount that you've got left off the top, and then the next year, it's built into It's A Five-Year Plan. There's no turning back on it with a super majority we were sure to write that into the reforms last session oh yeah, you can keep sending, you can keep developing you are selling your guns, your cockpits, your planes, your warships, please do we love American jobs, but you're going to start selling them to all those countries that you're so familiar with that you helped create you are going to be on a new salesman bicep Robbinson! You sexy, pig fucking fucker!”
+
+Then the conversation turned even darker.
+
+The room darkened.
+
+Cold crushed the air around Scott and Robinson.
+
+Immense and very small all at once Robinson hadn’t felt so alone and helpless since his first grandma passed away when he was only eight years old. He loved her. He had good memories with her, but he knew how she drank and beat his father nearly crippled him. But then he tried so hard to make up for it with him when his father didn’t come home from the war so long ago.
+
+And Grandma stopped loving him sand saw him more to the likeness of his father than the innocent little boy he was.
+
+The switches turned to belts and then whips. And whole corded electrical wire.
+
+And Robinson was old enough to leave. He left and found refuge in the Air Force recuriter’s office late one tuesday afternoon. Sadness wrenched itself around Robinson. His mind nearly losty in the coldness of the memory.
+
+The air around Scott twisted in on itself. Forming a vortex, a black hole. Robinson was visibly alarmed by the thrust of the moment upon his senses.
+
+He trusted his Filter was recording all he saw, which was the veins of Representatives Scott’s neck flex and thrust alive as snakes all pulsing in unison, and then the heads sprang outward like a blossoming dragon of a hundred snakes all grinning at Robinson, the same grin that came from Scott’s now very dark. Very purple and hued green metallic with flesh pulsing veins thrusting with clotted venom.
+
+Scott. Broke the silence between them.
+
+“Yes, Mr. Robinson. You are seeing what you know yourself to be seeing right now. It is true. I am what is before you.”
+
+Robinson sat horrified. Frozen in the glowing hypnotic pulse from Scott.
+
+“You know not of what my kind, but we know your kind. We’ve nurtured this little curse you carry of burden, loyalty, and patriotism every generation since we found a use for mortals.
+
+Robinson couldn’t have shrieked even if his mouth wasn’t sealed shut in a velcroed trap holding his tongue to the roof of his mouth and firmly sealing his lips around his teeth. Which, somehow it was. Scott had turned the outer most molecules of his senses to tell him his mouth was now no more and even hisd teeth were sealed with velcro and glue.
+
+Scott, “I trust a man of your rank, experience, and raw bloody talent can also carry a little discretion on those shoulders.”
+
+Robinson nodded, still trying not to lose his senses in the rowing chorus of Scott’s Throat Snakes echoing the words spoken to him.
+
+Scott nodded, and everything flashed normal.
+
+The Marine Guard forced open the door with the phone claim ticket in hand for Rep. Scott.
+
+“Oh! Yes!, Scott exclaimed. “This lad, Excellent young man! I’ve got a great place for him and ten more like him soon!” Scott shot a stare back at Robinson, still seated and shocked.
+
+The Voice returned, WE’VE GOT A LOT OF GOOD YOUNG BOYS LIKE HIM. DON’T WE, BILL?
+
+Plenty of thick dicked young mustangs readty to charge blindly into that terrible bloody maw. Right, Bill?
+
+Scott’s normal voice echoed outside the skiff, “Welcome to the rest of your career, I hope you enjoy it!”
+
+Robinson blinked and realized only moments had passed since Scott “dropped in” to shake hands.
+
+###
+
+
+# The Demons of Man.
+
+
+Alexander Jefferson Scott, a down-on-his-luck politician. Trying to carve out a small political foothold Scott is the perennial “other” candidate. He ran with a any party designation next to his name in any race he could as soon as he could growing up. Alexander Jefferson Scott was a down-on-his-luck politician. The perennial “other” candidate, the one who ran with any party designation next to his name in any race he could as soon as he could growing up.
+
+In truth it was a ruse to get paid to lose; Scott preferred to call it a political career. He found that a candidate got moneyjust for saying they wanted to run and if they got enough signatures to appease the local bosses.
+
+The first campaign was the worst. County Commissioner. He lost to a cattleman with an oil lease that spit money into a local democratic politcal machine that had been in power since the late 80s; over 30 years of influence and political infrastructure, immovable, immeaserable.
+
+But here was Scott a plucky and brazen Republican candidate. He lost with barely 15% of the vote cast. Those numbers fluctuated up and down with the eclectinons, but never getting higher than thirty percent in the early 2000s when Bush was raging against the terrorists in Afghanistan.
+
+Then once he got linked into that the money just kept coming. Scott was the defacto Republican party candidate in a blue county lost in a state awash in a purple issues and blue political machines running smoothly.
+
+Born and raised in a small town in the Midwest, Scott always found politics very boring. Then he read more history and found the lying liars that wrote it were all politicians. He never dreamed of one day being a congressman or a senator.
+
+Then Scott went to college, and realized that he wasn't as smart or as ambitious as the other students who were interested in politics. He decided to major in business instead, and he hoped that he could use his business degree and forget about politics. Then his county found itself getting chopped up by sweetheart development deals that found less and less room for regular people and more room for the ultra rich flocking to resorts built over former family homes. And gewnrrations of people left the county. And it began to die a slow and merciless death.
+
+After his third year of college, Scott found an internship at a large corporation with a headquarters in the county where he lived. He hoped it might be a way into a simple life that could help him help his parents as the grew older.
+
+He was good at his job, and he quickly rose through the ranks. But he soon realized that he didn't like working for the corporation. He felt like he was just a pawn in a game that he didn't understand. He wanted to be the one making the decisions, not the one being told what to do.
+
+And then the corporation reorganized right as Scott was about to go full-time and enter into the executive program he had been grooming for. All of it dashe din the matter of 120 days from the end of one business quarter to the next, all the promise of the job an dcareer Scott had worked toward - gone.
+
+Not stolen by some other country with a chearper middle class to toil, but simply gone. A company bought the company his worked for, and that company bought and sold half a dozen others that same quarter, all to result in the end of musical chairs left Scott without prospects and left with only a basic business degree in exchange for a mountain od student loan debt. And no prospect of ever finding a successful path.
+
+So Scott quit a lot of things and started drinking. He left school a semester early in disgust. After the bottle couldn’t give him any answers he did the next worst thing a person can do; Scott ran for office - city council, and he lost.
+
+He ran for state senate. He lost.
+
+He ran for state representative. He lost.
+
+He ran for Governor, and he lost.
+
+After each loss, Scott would pick himself up and start over. He would find a new campaign manager, he would raise new money from the national party, and he would start campaigning all over again.
+
+But as the years went by, Scott started to lose hope. He was getting older, and he was starting to run out of money as the national party reorganized its grassroots orgnaization. He was also starting to lose his passion for politics; always th eoddman out he grew weay of being a perennial loser. He was tired of losing, and he was tired of being the “other” candidate.
+
+Scott was desperate for power. Always the odd-man out of the political structure of nearly everyhting in his life. Scott was always just on the other side of the majority when it came to pretty much everything about life. He grew into a real an notable agitator.
+
+Local politics were the easiest to disrupt with a little technology. So Scott turned to his social media channels and railed against the established order. And then like all squeaky wheels, grease found its way to Scott.
+
+Money form the Republican COmmittee came. A small chunk of money to get a basic office and usually nothing more. Scott recycled half his law office for each election cycle - and pocketed the rent money directly form the campaign, which was incredibly overinflated for the squarefootage in the lease agreement.
+
+He has tried everything to get ahead, but nothing has worked. And then one after one misierable loss. Scott decides he done losing and invokes all his efforts and soul toward tearing apart the syste, that has rejected him time and time again.
+
+One night, Scott makes a deal with a dark spirit. In a moment filled with his self-disgust.
+
+The mmongrel feelings and voices echoes in his own head, telling him he was is littl euse to anyone.
+
+You should’ve walked that mine field in Iraq.
+
+The voice in his brain shuddered his very core to a halt.
+
+Words are real.
+
+They sound, like a bell deafening the beholder.
+
+And like a bell, they cannot be unheard.
+
+They form off the tongue as much as the vocal chord. And when it’s from neither the terror resonnates through a portion of oneself that no doctor, psychratirst, or therapist could hope to touch.
+
+A surgeon would have better luck, because its at the very core, or the part of the person that leaves the parts of the body that feel real pain and that parts of a body that feel the pain carried by generations of mankind’s sins from deep in the  were so real. Almost in his own voice, but somehow clear as a bell no one wanted to hear.
+
+
+## A now comes the devil you never dreamt.
+
+
+The spirit is an old one from across the cold ocean and leaching from the craggy rocks of Iceland. These old gods find new power in the alcolytes such as Scott. And they begin divingin their magic in exchange for souls the supplicants recieve the power to become what they desire most in the world.
+
+The dark spirit agrees, and Scott is immediately transformed into a charismatic and successful politician. He becomes a master of public speaking, able to sway crowds with his words. He is also a skilled manipulator, able to get people to do what he wants. He quickly rises through the ranks of politics, becoming a powerful and influential figure. However, his power comes at a price. He is constantly haunted by the dark spirit, which whispers in his ear and urges him to do terrible things. Scott struggles to resist the dark spirit's influence, but he knows that if he gives in, he will become a monster.
+
+
+## How to sell your soul. A Personal Narrative.
+
+
+Capitol Hilton. Washington, DC.
+
+Election night. 2032.
+
+Penthouse suite.
+
+The Democratic candidate has just been announced as the winner of the presidential election.
+
+A landslide tally of the electoral college numbers confirmed the incredible victory for the party.
+
+And an incredible loss for the opposition.
+
+The house and senate are both turning a very dark blue this evening.
+
+Election night in america. A tuesday evening in Washington, DC.
+
+The streets were quiet. All but the usual
+
+The suite had cleared out early.
+
+The odds werent favorable for the republican ticket this year. But the money had to be spent; even in a deficit year.
+
+The money always had to be spent.
+
+The flow of the filthy lucre always flowed despite the chocking of the people below it or the beneficiaraces above.
+
+This is another story about the gods of mankind and all the devils he dreams of too.
+
+Another installment o the gods and demons of man.
+
+A single lamp lit the hotel room.
+
+One man sitting; facing the television.
+
+A group of people in suits munching on finger foods and sipping diet soft drinks. Unopened champagne waited in tubs of ice on a service cart, but the results scrolling across the bottom of the screen implied there would be no reason to open bubbly; no celebrating tonight.
+
+The campaign had drained everything from the man sitting pitched forward, elbows on knees, hands clapped at his mouth as if praying. But to what deity we can imagine and only hope to think would be benevolent, but then…a scream ripped from his lips as it seared light hot lighting across his vocal cords blasted from a furnace somewhere between his soul and his lungs.
+
+“OUT! GET OUT!”
+
+The man shot to his feet, kicked the chair out from under him, and spun faster than Linda Blair to the people cowering behind him.
+
+“EVERYONE THAT THINKS THIS IS SAD. “
+
+Scott paused locking eyes with the others in the room.
+
+“GET. THE. FUCK. OUT.”
+
+Shocked was less than what we could describe. But slowly, the man whose face matched the losing numbers and name behind on the large television screen behind him. The numbers were the political equivalent of October 29, 1929.
+
+The results rolled on in a parade of horribles as people slowly placed their drinks on a table or somewhere close; then  quickly slipping out of the room.
+
+One by one. They left him, the man engulfed in his emotions.
+
+Now, only a handful remained. Maybe they were attracted to the flame.
+
+Maybe they simply saw the madness brewing in their once proud leader as he said, “ Good. get the pussies out of here.”
+
+He spat the air out of his lungs with a blast from his nostrils.
+
+“Someone hand me a fucking drink.”
+
+Glasses and bottles clanked.
+
+Then a hand pushed a double whiskey close to the Candidate.
+
+His hand held his forehead, eyes half closed. The headache from the alcohol would be the least of his worries the next day.
+
+“This is the last thing that is over tonight.”
+
+The crowd around the room cast glaces as to what the words meant.
+
+The Candidate, “ somebody get me my personal phone.”
+
+A shift and thrust into a messenger bag produced a small flip phone with a large red V eblazoned across the LCD.
+
+Swiping it from the hand the produced it, he flipped it open and tapped a touchtones and key wiith his thumbs.
+
+Pressing it to his ear, “ Yes, no. I know. Yes. No. No. Listen, We’re not doing this again. Not another fucking primary or mid-term….. No. We doing what that fucker said we should’ve done when he handed us that fucking bag. I’m not holding back anymore.”
+
+He paused. Drawing breath back into his lungs and listening intently.
+
+He responded, “Yes, no. And Get the jet prepped. I’m not wasting another fucking minute.”
+
+He slapped the phone shut and then looked back at all the eyes now staring at him.
+
+“What the fuck. Everyone, that dosen’t know who I just fucking called. Get the fuck out.”
+
+Another culling. Two more souls left the room. Now only three remained.
+
+“Good. Three, just enough for a conspiracy,” Scott said and chugged his glass of whiskey.
+
+
+## Old Dogs; New Treason
+
+
+Hours later. A phone rattled on its cradle in a dark room.
+
+On a desk. Wooden. A writing pad next to it.
+
+A door frame illuminates behind the rattling phone.
+
+The door swings open blinding the room in light.
+
+A house coat wrapped around stubby white legs and a rotund midsections approached the ringing phone.
+
+“Yes!”
+
+Swiping at the receiver the mans hand snapped it to his ear; quelling the rattling poltergeist.
+
+“Yes! Yes!” He wiped sleep from his eyes.”Yeah, who isn’t drunk after those fucking numbers!” Piss off… I’m not gonna answert this … shit..yeah… I’m fucking listening. Yeah. Yes. Okay. What are the rules of engagement?”
+
+A pause. The fat man held the reciever to his ear in his darkend office. The streetlamp lit the half closed shades with secreted stripes of light across the floor and then the leather couch. A plaque with a distishiguised survive metal glinted in the light asa the man listened intently to the other end of the conversation.
+
+“Copy that. Understood.” The phone slipped from his hand to the cradle and a chuckle pumped from the mans chest.
+
+This man stood in his office smiling at himself.
+
+Photos framed on his walls spoke of men in uniform shaking hands over awards and medals with ribbons and large signatures on parchment. This man fought wars. Killed many by hand and command; too many.
+
+This man was a warrior. Honed and programed by this state, by now his enemies were no longer across some sea. They were now, at the very heart of the country that birthed this man.
+
+A new war has just been ordered. And this man was to begin, middle, and end it. Like so many before, this man was now commanded to begin the tasks that no Framer of this republic could have ever foreseen.
+
+In some wars, there are rules. In those wars, defeat is found. In other wars, the three virtues flourish. They call themselves by many names, but to human comprehension, they are known as, greed, misery, and death.
+
+These three virtues are constantly entwined wiithh the relam of th eknown, at least within the spectrum of man’s comprehension.
+
+Wherever men curse the ground with their mark, you will find these virtues. And on this realm, there are marks that can never be eroded away.
+
+He wins election after election, and soon he is the most powerful person in his party. But Scott's newfound power comes at a price.
+
+
+## RUFURF
+
+
+The DemiGod, RUFURF.
+
+Deception. Command. Control.
+
+The endgame is fear.
+
+The subjected are driven into a state of fear giving themselves and all their riches over to the feeling of safety.  The lie of comfort.
+
+Long ago many of them were merely lower-primates shuddering at the booming sky and hunted by the monsters that fell from it.
+
+Before the Gods and Demons had names there were the spirits of life/death and bounty/famine.
+
+Where the sky met the stone, pillars were drawn by the hand of man, hauled by the hoof of beast, hewn at the mason’s chisel. Raised by the shoulder of the slave.
+
+Smoke. Offerings of bounty left to rot at the threshold of the cave; the wrap of the deerskin lean-to; the altar of the tabernacle.
+
+Not all who wear crowns are to be worshiped.
+
+The grimores. The known knowledge of all and it’s decendedntants. The blood pact lined in the inside cover; each generation shining ownership of these terrible histories the names of the bloodlines.
+
+The Ones Who Fell, known to us as the Angels. Those who laid with ancient humans and began a terrible barrage at between the natural and the angelic forever banging the nature of mankind from a primate one into a new one; a higher one than before.
+
+The Ones Higher Than Before were the keepers of the knowledge drawn from the breeding with the Ones Who Fell. The Watchers of Those Who Fell, The Witchers kept vigil over the constant state of change and rebirth. They noted the times of day; the days into months; and after their genius was found to predict bounty before the harvest. Knowers of the to be known; magic. Witches were the first of these.
+
+Long before the power of knowledge was weaponized by man’s frailties, the Witches knew when the time was to place the seed into the ground. The Grenmen—companions of the Witches and keepers of the trees—first tried to restrain their wives. This failed. They retreated to the trees for fear of the witches in their seeded fields, just beyond their reach as the trees were older than the fields.
+
+The Heroine of the Witches was the only thing that the Grenmen feared—the darkness. She is there. In the dark. The scrape of the raven’s wing against the air we breathe, the ever present; the spirit of doubt in the back of mankind’s eye.  The fear of failure. The harvest that never comes. The End.
+
+Once universal among the lands known to man and then after the fires of man’s rage burned the lands and rained whole stars down from the sky; the last of the witches found a place to dwell. A place where man was wary to tread. A land of cold. A land unforgiving. A land to be feared. A place where man was not to linger for fear of a cold death. An Iceland.
+
+
+## Meeting with the Mentor: the thing, Choronzon.
+
+
+
+### The hero meets a deviant mentor who helps them prepare for their journey, but not the journey expected. Halfway between the known and unknown, we find the peril of the latest version of man.
+
+
+April Hemlock Scott was initially unaware of his curse. Scott was to be destroyed. Not for any reason, merely the will of the powers that throw a hurricane at an island only to kill one but destroy the worlds of so many. April’s mother loved the spring. She named her children for the seasons, but he eventually begins to see the demon's influence in his life.
+
+Now calling himself Hemlock rather than his mother’s preferred, April, he was a brash young man. He was awaiting delivery of a trunk from the train’s woefully delayed porter service. Hemlock snapped the closure of his pocket watch into his fist.
+
+“Damned laggards,” Hemlock’s curses railed through his teeth like spears as the limping trudge of the horse-drawn trolley bearing the burden of Hemlock’s trunk rolled to a stop mere steps from his boot.
+
+The singe of horsepiss rented the air as the Porter struggled with the trunk’s burden. Hemlock stood and stamped out the cigarette he was smoking as he impatiently waited. Porter called out Hemlock's given name with a question raising in his voice not for not knowing who would answer but also the peculiar trail of words conjuringing the one who would answer.
+
+“That is is me! Here! Up here, boy!” Hemlock cut the call of his full name from the Porter’s throat. Puzzled and relieved the Porter drug and thumped the heavy trunk up the flight of steps to the entrance of the Grand Hotel. The Bellhop sprang to action once Hemlock hollered his commands.
+
+Once the bellhop collared the trunk onto the trolley, Hemlock dropped a coin into the Porter’s open palm. Expecting to hear a clink rather than feel the thud of a single coin for his efforts the Porter gruffed his turn-about. Hemlock froze with the welling of a deep rage at the huff captured by his ears from this peasant’s utterance.
+
+“Damn you, boy,” Hemlock shot the words from his mouth as Porter froze mid-step…in the air. The whole of the hotel was seized mid-step. A mother tending the pram and her baby inside caught mid-coo, the over-eager new-father desperate with a rattle-in-hand both now frozen. Even the beans in the shell of the rattle caught mid-air. Hemlock’s eyes blazed with a dark bluish-purple fire. His words carried a power suddenly over the flow of time across the muscles in the fabric of the world surrounding this scene. The Porter, the only one aware of this disruption in the flow of space-time, wet himself. The familiar scent of piss wafted through his nose as he stood frozen mid-gate. The horse’s yellowed cascade was frozen midstream and it was only Porter’s crotch getting wetter.
+
+Hemlock was at his ear in a breath’s take.
+
+“Lazy boy. Thinking your duty entitles you to a prince's sum for trudging your burden up a few steps?” Hemlock’s voice was both in Porter’s ear and his mind; a devil’s chorus inside and outside of phase and this world.
+
+Terror ran through the poor laborer just as Hemlock released him from the spell.
+
+The Porter collapsed to his knees at the curb from Hemlock’s power. The beans ricocheted from inside the rattle. The mother’s coos won the favor of the ignorant baby inside the pram. The Bellhop snapped to attention once the trunk thumped onto the trolley.
+
+The Porter felt sick. He vomited hoarsely into the gutter. Now the fresh effluence of a morning in Baltimore reached like a wave of disgust echoing across the scene. The horse was relieved and remained the only soul comfortable at the end of this scene.
+
+Inside. The trolley’s brass superstructure rattled as the seams of carpet and tacking revealed ornate tiled flooring. Rich mosaics casting hopeful depictions of a harvest and cartooned peasants gleefully toiling.
+
+A folded bill struck from Hemlock’s finger’s like a razors edge to the bellhop. “Room 364. Beat me there and you’ll find a bottle waiting on the desk. It’s yours. A prize for winning the race.”
+
+The bellhop could not refuse the money as it was already in his hand and Hemlock was in the hotel bar before he blinked. No matter, the freight elevator took forever and if the rich man wanted his stuff in his room he got it in there. The bottle was merely a perk.
+
+Hemlock’s voice roared alighting from name to name as his influence reached deeper into the hotel bar and it’s patrons who found gleeful bliss once Hemlock’s presence was felt.
+
+###
+
+The rattle of the lock struggled aligning the tumblers with the rusted skeleton key the bellhop got from the front desk.  Suddenly the door opened and the hallway light cast into a dark room.
+
+“You are late.” Hemlock shot his words from the darkness of a chair looking out the window into the cold darkness of the night. Droll and drunk, Hemlock was sitting into a hotel desk chair half undressed with a woman stuffing her efforts into his crotch. The moonlight did not lie. The porter had just waited a few moments for the freight elevator. He didn’t flirt with the cleaning girl like he liked too, there was a bottle on the line that would make flirting easier.
+
+But the bottle was nearly empty and dangling from Hemlock’s fingers as the Bellhops gaze focused onto the gulping and wet smacking sounds from the girl into Hemlock’s lap. Then Hemlock’s eyes met the bellhops, “Better luck next time, sonny boy.”
+
+The bellhop couldn’t understand any of the moment, but he knew it was unnatural and wrong. He left the trunk thudded at the door and slammed the hotel room shut. The creak of the trolley wheels grew loud as the weight of the trunk wasn’t there to offset the worn bearings.
+
+The trolley is now aboard the freight elevator. The bellhop sighed as he shrugged off losing his prize of a bottle and an easier night with the cleaning girl downstairs. The elevator doors began to close, slowly.
+
+The door to Hemlock’s room sprang open as naked people covered in blood poured out onto the floor with more and more trmapleding out of the hotel room, enraged and violently attacking but also fucking wildly like animals. The elevator doors snapped closed before anything further could be seen by the bellhop's eyes. He slapped for the doors to reopen. Buzzers slapped with his desire to see more of the scene. And then, darkness. And then, dropping. Falling. Faster and faster. The terror of not knowing where you were falling but forever into the darkness shot through the bellhop as the trolley was found later that evening riding an empty elevator up and down for nearly half the evening of Friday, October 13, 1888, at the Hotel Baltimore, Washington DC.
+
+###
+
+He becomes more and more corrupt and ruthless, and he begins to lose his humanity. Scott tries to resist the demon's control, but it is too powerful. And soon the ancient runes and ceremonies are revealed to Scott as he progresses through the levels of power unlocking before him as he progresses.
+
+Scott eventually realizes that the only way to break the curse is to defeat the demon. He sets out on a journey to find a way to defeat the demon and save his soul.
+
+Along the way, Scott learns about the history of the demon and its connection to the United States. He also learns about his own family's history with the demon. Scott realizes that he is not alone in his fight against the demon. There are others who have been cursed by the demon, and they are all fighting to break free.
+
+Scott eventually finds a way to defeat the demon, but it is a difficult and dangerous task. He must face his own demons and confront the dark history of the United States in order to save his soul.
+
+This plot device could be used to explore a number of themes, such as the corrupting influence of power, the dangers of ambition, and the importance of redemption. The novel could also be a cautionary tale about the dangers of making deals with the devil.
+
+Roaring under the hood the massive block of animated metal spun its driv2eshafts andas the tires took hold of what little friction could be found and sent the black hulk screaming down George Washington Parkway. To the right Washiongton, DC. To the left. All death and misery it took to get what is on the right.
+
+The three that reminaed with the candidate were ashen. The driver was professional. He knew never ask, don’t talk. The three pale faced people in the back were slowly blinking themselves back to reality.
+
+Their eyes had just revealed more than their brains were willing to commit and sometimes it takes a few minutes to get back to a sense  of reality.
+
+But they retained a shadow, o rat least new shade orgrey that would always be in their eyesgith, because of what they had just seen, understood, and sworn themselves in allegiance.
+
+The Driver was to drop each at their respective addresses.
+
+GPS pointed the way, he was basically there because of a liability concern the insurance underwriters had with the extensioive AI poowered driving assist technology built into this vehicle. They had no idea about the DARPA upgrades and security features this hulk got when it was assigned to cabinet and high value target transportation detisal.
+
+The Hulk was one of the most capable vehicles in the world to begin with. Now it it was basically and all-wheel drive Jason Bourne.
+
+This milkrun would be done in short order. As the occupants excited at their respective exits they did so quietly without a goodbye, just a quick nod to each other.
+
+###
+
+He becomes increasingly corrupt and ruthless, and he begins to lose his humanity.
+
+Scott's political opponents try to expose his corruption, but he is always one step ahead of them. He uses his power to silence his critics and manipulate the media. Scott's reign of terror continues for many years, and the world becomes a darker place under his rule.
+
+Eventually, Scott's soul begins to take its toll. He is haunted by visions of hell, and he is tormented by guilt for the things he has done. Scott realizes that he has made a terrible mistake, and he tries to break his deal with the devil.
+
+But the devil is not willing to let Scott go so easily. He tells Scott that he must serve him for all eternity, or he will suffer the consequences. Scott is trapped, and he must find a way to defeat the devil and save his soul.
+
+Losing a vote can be devistating, but to Demon behind that vote’s affect or impact suddenly feels it greatly, phisycally in thieir releam - and they hate us for it.
+
+OUr thoughts control them. Even though they need us to. survive, we contorl the gods with our thoughts and actions - to make them how ever we want - but they also have the ability to contorl us just as we do them, and when they do - mankind can become truly monstrous.
+
+The endless wars of the past century. to whom do those expldoed bombs benefit? What beneift does bloddshed bring when th emeat is gone or unforgivable if we eat. To what purpose does the violence bring us? But closer to something that we fear more and more each day.
+
+The act of war serves no man.  Only the blood soaked gods that then bequeath the spoils to those monstrous ones among us.
+
+
+# THRESHOLD EVENTS
+
+
+The Enslavers God
+
+Here insert research on slavery forming the americas and then racism Chained it for centurys as the 1% fought to hold control over the masses and the welth horders got fat.
+
+
+# Black HIlls, Lakota Territory, North America. November 29, 1864.
+
+
+
+## SAISOCRAW
+
+
+A cold bitter day.
+
+A day even the gods pull another hide over themselves and grumble back to sleep.
+
+Today, the Native’s God’s we’re too sleepdeaf to hear the geneocide of it’s people.
+
+
+### 5:00 AM: Black Kettle and his band wake up and begin their morning routine.
+
+
+The frost on the ground had crept up the side of the lodge as Black Kettle cracked the hide from the icy crisp and began his day as he did every day. He raised a white banner under the white man’s over his lodge; this the shaman thought to be good magic - to show friendliness to the white man.
+
+Early, even before the women started the fires. He would set out with a bite of yesterday’s jerky to see if fish were biting in the river before looking for tracks to hunt down today’s game while doing what he actually was doing - watching the white men in the fort across the river and receiving reports via coded signals form his braves across the spread of their winter camp.
+
+The handful of older braves had circled around to gather horses for the day and also passed coded reports between each other toward Black Kettle. Numbers from a certain brave meant more white men entering the fort than leaving in the past day and night.
+
+
+### 6:00 AM: The Colorado militia arrives at Sand Creek and begins to prepare for their attack.
+
+
+
+### 7:00 AM: Black Kettle sends out scouts to investigate the militia's presence.
+
+
+
+### 8:00 AM: The scouts return and report that the militia is preparing to attack.
+
+
+
+### 9:00 AM: Black Kettle raises the white flag and sends out a delegation to meet with the militia commander, Colonel John Chivington.
+
+
+
+### 10:00 AM: The delegation returns and reports that Chivington has refused to meet with them.
+
+
+
+### 11:00 AM: The militia attacks the Cheyenne and Arapaho village.
+
+
+
+### 12:00 PM: The massacre continues.
+
+
+
+### 1:00 PM: The massacre ends.
+
+
+An unprovoked attack on a peaceful village.
+
+The deaths of over 150 people, including women and children.
+
+The massacre is a dark stain on American history, and it is a reminder of the importance of fighting for justice and equality for all people.
+
+Notable events leading up to the Sand Creek Massacre:
+
+1851 Treaty of Fort Laramie: This treaty established a reservation for the Cheyenne and Arapaho people in eastern Colorado.
+
+1858 Gold Rush: The discovery of gold in Colorado led to an influx of white settlers, who encroached on Native American land and resources.
+
+1862 Homestead Act: This act offered free land to white settlers in the western United States.
+
+1864 Cheyenne War: This war was sparked by a series of raids and counter-raids between the Cheyenne and Arapaho people and white settlers.
+
+Notable persons that played a role in the Sand Creek Massacre:
+
+Colonel John Chivington: Chivington was the commander of the Colorado Military District. He was a known Indian hater, and he advocated for the extermination of Native Americans.
+
+Colonel John Chivington was born in Lebanon, Ohio, in 1821. He was ordained as a Methodist minister in 1844, and he served as a pastor in Illinois and Kansas. In 1853, Chivington went on a missionary expedition to the Wyandot people in Kansas.
+
+During the American Civil War, Chivington served in the Union Army. He was promoted to colonel in 1862, and he was appointed commander of the Colorado Military District. In this role, Chivington was responsible for protecting the Colorado Territory from Confederate and Native American attacks.
+
+Chivington was a controversial figure. He was known for his hatred of Native Americans, and he was a strong advocate for their extermination. In 1864, Chivington ordered the Sand Creek massacre, which was one of the most horrific massacres in American history.
+
+After the Sand Creek massacre, Chivington was court-martialed for war crimes. However, he was acquitted, and he resigned from the army. Chivington eventually returned to Colorado, where he lived until his death in 1894.
+
+Chivington is a controversial figure in American history. He is remembered for his role in the Sand Creek massacre, and he is considered by many to be a war criminal. However, Chivington is also remembered for his service in the Union Army and for his role in the development of the Colorado Territory.
+
+Chief Black Kettle: Black Kettle was a Cheyenne chief who was known for his peacemaking efforts. He was camped with his band at Sand Creek when the massacre occurred.
+
+Major Edward Wynkoop: Wynkoop was the commander of Fort Lyon, which was located near Sand Creek. He had promised Black Kettle that his band would be safe if they camped near the fort.
+
+The Sand Creek Massacre:
+
+On November 29, 1864, Colonel Chivington led a force of over 700 Colorado militiamen in an attack on a Cheyenne and Arapaho village at Sand Creek. The village was home to over 700 people, including women and children. The militiamen killed between 150 and 200 people, and they mutilated many of the bodies.
+
+The Sand Creek massacre, also known as the Chivington Massacre, was a massacre of Cheyenne and Arapaho people by the U.S. Army on November 29, 1864, along Sand Creek in the Colorado Territory. Between 150 and 200 people were killed, and over half of them were women and children.
+
+The massacre was ordered by Colonel John Chivington, who was convinced that all Native Americans were hostile and needed to be exterminated. Chivington's troops attacked the Cheyenne and Arapaho village at dawn, while most of the men were away hunting. The soldiers killed and mutilated everyone they found, including women, children, and infants.
+
+The Sand Creek massacre was one of the most horrific massacres in American history. It was a war crime, and it is a dark stain on the American conscience.
+
+The massacre had a profound impact on the Cheyenne and Arapaho people. It destroyed their sense of security and shattered their trust in the US government. The massacre also led to a series of retaliatory attacks by Native Americans, which eventually escalated into the Indian Wars of the 1860s and 1870s.
+
+The Sand Creek massacre was a war crime. It was also a betrayal of trust, as Major Wynkoop had promised Black Kettle that his band would be safe if they camped near Fort Lyon.
+
+The aftermath of the Sand Creek Massacre:
+
+The Sand Creek massacre had a profound impact on the Cheyenne and Arapaho people. It destroyed their sense of security and shattered their trust in the US government. The massacre also led to a series of retaliatory attacks by Native Americans, which eventually escalated into the Indian Wars of the 1860s and 1870s.
+
+The Sand Creek massacre is a reminder of the dark side of American history. It is also a reminder of the importance of fighting for justice and equality for all people.
+
+My thoughts as a history teacher:
+
+The Sand Creek massacre was one of the most horrific events in American history. It was a war crime, and it is a dark stain on the American conscience.
+
+The massacre is a reminder of the importance of fighting for justice and equality for all people. It is also a reminder of the dangers of prejudice and discrimination.
+
+We must never forget the Sand Creek massacre, and we must learn from it. We must work to create a society where all people are treated with dignity and respect.
+
+There is no law. There are only orders.
+
+There are only the commands sent down from a high place in a safe space across the face of this land and so assured from the lips of the yes, men. That are far from the hell that we find here at the heart of an untold genocide.
+
+The massacre at Wounded Knee was a tragic event in the history of the Lakota people and the United States. It happened on December 29, 1890, when the U.S. Army allegedly tried to disarm a group of Lakota who had gathered near Wounded Knee Creek in South Dakota. A shot was fired, and the soldiers opened fire on the Lakota, killing many of them, including women and children. Some of the Lakota fought back, but they were outnumbered and outgunned. The exact number of casualties is disputed, but some estimates say that more than 250 Lakota and 25 soldiers died that day12.
+
+The massacre was the result of decades of conflict between the U.S. government and the Plains Indians, who resisted the loss of their lands and their way of life. The U.S. government had broken several treaties with the Lakota and reduced their reservation to a fraction of its original size. Many Lakota had embraced the Ghost Dance, a religious movement that promised the return of their ancestors and their buffalo. The U.S. government feared that the Ghost Dance would lead to an uprising and ordered the arrest of some of the Lakota leaders, including Sitting Bull, who was killed during a confrontation with Indian police on December 15, 18902.
+
+Chief Black Kettle and Major Edward Wynkoop had a complex relationship. Black Kettle was a Cheyenne chief who was known for his peacemaking efforts. He wanted to avoid conflict with white settlers, and he believed that the best way to do this was to cooperate with the US government.
+
+Wynkoop was a US army officer who was stationed at Fort Lyon, which was located near Sand Creek. Wynkoop sympathized with the plight of the Cheyenne and Arapaho people, and he believed that the US government should treat them fairly.
+
+In 1864, Black Kettle and Wynkoop exchanged a series of letters in which they discussed the possibility of a peace treaty between the Cheyenne and Arapaho people and the US government. Wynkoop promised Black Kettle that his band would be safe if they camped near Fort Lyon.
+
+Based on this promise, Black Kettle and his band camped at Sand Creek in November 1864. However, on November 29, 1864, Colonel John Chivington led a force of over 700 Colorado militiamen in an attack on the village. The militiamen killed between 150 and 200 people, and they mutilated many of the bodies.
+
+Black Kettle was one of the people who was killed in the massacre. Wynkoop was devastated by the massacre, and he resigned from the army in protest.
+
+The interactions between Black Kettle and Wynkoop are a reminder of the complex relationship between Native Americans and the US government. Black Kettle was a peacemaker who wanted to cooperate with the US government. However, Wynkoop was unable to protect him from the violence of Colonel Chivington and the Colorado militiamen.
+
+The Sand Creek massacre is a reminder of the importance of fighting for justice and equality for all people. It is also a reminder of the dangers of prejudice and discrimination.
+
+The massacre at Wounded Knee marked the end of the Indian Wars and the resistance of the Plains Indians. It also sparked outrage and sympathy among some Americans, who denounced the army’s actions and called for reforms in the treatment of Native Americans. The massacre is remembered as a symbol of injustice and oppression, and as a source of grief and pride for the Lakota people2. In 1973, members of the American Indian Movement occupied the site of Wounded Knee for 71 days to protest against the conditions and policies affecting Native Americans1.
+
+But there is more to this moment in history. Much more beyond the official record and the history books want to tell. There was more beyond the frame of the story above to that day.
+
+Pressed beyondeach mean’s the tension was an awful burden between the white men and their government’s rules and broken promises. And the chased and hunted  - bargained, betrayed, and cast out form the civilized world native to what was let of the great plains and prairies of the Dakota teroririses.
+
+Here, the great Wolf spirit had many children among the wounds and grasses of the praiireris.
+
+The supernatural being in the form of a wolf with wings and lizard tail that vomits flames is a terrifying creature. It is said to be the size of a horse, with the body of a wolf, the wings of a bat, and the tail of a lizard. Its fur is a deep, dark red, and its eyes are like burning coals. It is said to be able to fly at great speeds, and its flames are said to be so hot that they can melt stone. It is a creature of pure evil, and it is said that anyone who sees it will be cursed.
+
+The creature is said to have originated in the Black Hills of South Dakota. It is said that it was created by a group of Native Americans who were trying to create a powerful weapon. The creature escaped from their control, and it has been terrorizing the region ever since.
+
+There are many stories about the creature. Some say that it is a demon, while others say that it is a creature of science gone wrong. Whatever its origins, the creature is a dangerous and deadly threat. 
+	Here, the great wolf spirit grew strong on the hunts and sacrifices of the people that worshiped hum. Then the God’s of the white men, darkende the light of th esun and cast a brutal darkens on the land with greed and progress, coupled with the carved up lands once belonging to no one, but to all. No more.
+
+The wolf spirit angered itself and cast itself into the lot of a darker form, sprouiting wings to tear at th esky for not suffering the fate oand infestation of these new god’s and their follwoers killling his on the battle field below.
+
+The whipping tail of the wolf cast itself into hard scalers of armor as it fought agains tht e darkness of the white man’s god’s Tearing at his fur to expose the lizardly flesh under neath the Wolf Lizard God roared and fought against the darkness only succumbing to the cries of the last of his worshipers below him.
+
+Marchosias floated in the dark clouds above the war waging below its black claws dangling int he air. His wings not flagging or flapping at the air, but holding the iar keeping him hovering a nearly completely still despite the torrent of thunder, lighting and thundering hail showering down form his presence among the clouds.
+
+This front of horrible weather pressed on the battlefield. Sweeping the blood and death up feeding Marchosias’s energy. Actions and deeds are the currency of the immortal. Marchosias feed on the glory and death before him as savage and colninizer alike bujtrchered each other into a bloody hgorrid meess  - engorging the appetite of Demion Marchosias.
+
+And the scars of these acts are see from space and time; reflecting across the face of a long dead madman floating in the void of space far above our heads. But for now, we are on the high plains and in the midst of bloodshed; long bled, long ago.
+
+(*review/rewrite with donkey podcast*)
+
+## scene a slave’s teeth are pulled to make dentures for the general. Pattern after George Washington’s dentures. ##
+
+
+## Ghost Dancers
+
+
+https://en.wikipedia.org/wiki/Wodziwob
+
+5 days and four successive nights. Then everyone must bath in the river and return home.
+
+Every six weeks the Ghost Dancers danced. Sprung from the mind of Wodziwob a Paiute shaman
+
+Wovoka, also known as Jack Wilson, was a Paiute prophet who was born in 1856 or 1858 in the Carson Valley of Nevada. He was the son of Tavibo, a Paiute shaman.
+
+Wovoka had a difficult childhood. His mother died when he was young, and he was raised by his grandmother. When he was 14 years old, Wovoka was baptized into the Christian faith, and he was given the name Jack Wilson.
+
+In 1889, Wovoka had a vision of a new world where the dead would return, the buffalo would be plentiful, and the white man would be gone. Wovoka began to preach his vision to other Native Americans, and he soon gathered a large following.
+
+Wovoka's teachings became known as the Ghost Dance movement. The Ghost Dance was a religious movement that incorporated many traditional Native American beliefs. The Ghost Dancers believed that by performing the Ghost Dance, they could bring about the new world that Wovoka had envisioned.
+
+Wovoka was a peaceful man, and he preached against violence. However, the Ghost Dance movement was seen as a threat by the US government, and it led to the Wounded Knee massacre.
+
+Wovoka was not a warrior. He was a shaman, which is a religious leader who is believed to have the ability to communicate with the spirit world. Wovoka's teachings were based on his own spiritual experiences, and he was not interested in violence.
+
+Wovoka was described as a kind and compassionate man. He was also a very humble man. He never claimed to be a god or a prophet. He simply said that he was a messenger who was sharing his vision with the world.
+
+Wovoka's teachings had a profound impact on many Native Americans. He gave them hope and inspiration in a time of great despair. Wovoka's legacy continues to inspire Native Americans today.
+
+Wovoka died in 1932 at the age of 74. He is buried in the Stewart Valley Cemetery in Nevada.
+
+
+# Obstacle One
+
+
+
+# Tests, Allies, and Enemies: The hero faces challenges and makes allies along the way.
+
+
+The Pigott forgery scandal of 1874 involved French spying on the British government. Henry Pigott was an Irish manuscript and antiques dealer living in London. He approached the French government, claiming he could obtain sensitive British documents, and provided some letters purportedly written by British officials.
+
+However, the letters were quickly determined to be forgeries. The British foreign minister Lord Salisbury recognized the handwriting was not that of the officials. It was a clumsy attempt to fabricate correspondence.
+
+Pigott had likely created the fake letters thinking he could sell actual British secrets to the French. When his scam was uncovered, it led to a diplomatic row between France and Britain. The French ambassador denied any French involvement, but it was suspected that Pigott had at least approached natural French agents.
+
+The scandal demonstrated active French espionage efforts against the British government. Spying on each other was typical between rival European powers at the time. But getting caught trying to pass off forged documents was embarrassing for both sides.
+
+Ultimately, Henry Pigott escaped any punishment by fleeing to the Continent. But the Pigott forgeries remained a notorious snippet of 19th-century spycraft. The failed intrigue highlighted ongoing international intrigues and intelligence operations during the Victorian era.
+
+This is, at its core, the very heart of anything significant in this city of politicians, lies,m promises, and failures. Veracity. What can I believe is true, and how can we profit from the rubes that will believe anything we shovel them?
+
+###
+
+
+## Notable events leading up to the Wounded Knee massacre:
+
+
+Battle of Little Bighorn: In 1876, Lakota Sioux and Cheyenne warriors defeated the US 7th Cavalry Regiment at the Battle of Little Bighorn. This victory led to a renewed conflict between the US government and the Lakota Sioux.
+
+Great Sioux War: In 1876-1877, the US military fought a series of battles against the Lakota Sioux. The war ended with the defeat of the Lakota Sioux and their placement on reservations.
+
+Ghost Dance movement: In the late 1880s, a new religious movement called the Ghost Dance began to spread among the Lakota Sioux. The Ghost Dance was a millenarian movement that promised a return to the old way of life and the destruction of the white man.
+
+Death of Sitting Bull: In December 1890, US Indian police killed Lakota Sioux leader Sitting Bull while trying to arrest him. Sitting Bull was accused of encouraging the Ghost Dance movement.
+
+Notable persons that played a role in the Wounded Knee massacre:
+
+General Nelson A. Miles: Miles was the commander of the US Army's Division of the Missouri. He was responsible for suppressing the Ghost Dance movement and bringing the Lakota Sioux to heel.
+
+Colonel James W. Forsyth: Forsyth was the commander of the US 7th Cavalry Regiment. He was responsible for the massacre at Wounded Knee.
+
+Chief Big Foot: Big Foot was a Lakota Sioux chief who was leading a group of Ghost Dancers to Pine Ridge Reservation when they were intercepted by US troops at Wounded Knee.
+
+The Wounded Knee massacre:
+
+On December 29, 1890, US troops surrounded a band of Lakota Sioux Ghost Dancers under Chief Big Foot near Wounded Knee Creek on the Pine Ridge Indian Reservation. The soldiers demanded that the Ghost Dancers surrender their weapons.
+
+As the Lakota Sioux were surrendering their weapons, a shot was fired. It is unclear who fired the first shot, but it led to a chaotic firefight. US troops opened fire on the Lakota Sioux, killing between 150 and 300 people, including women and children.
+
+The Wounded Knee massacre was a war crime. It was an unprovoked attack on civilians, and it violated the Geneva Conventions. The massacre was also a betrayal of trust, as the US military had promised the Lakota Sioux that they would be safe.
+
+Aftermath of the Wounded Knee massacre:
+
+The Wounded Knee massacre was the final major battle between the US military and the Lakota Sioux. It marked the end of the Ghost Dance movement and the forced assimilation of the Lakota Sioux onto reservations.
+
+The Wounded Knee massacre is a reminder of the dark side of American history. It is also a reminder of the importance of fighting for justice and equality for all people.
+
+My thoughts as a history teacher:
+
+The Wounded Knee massacre was a tragic event in American history. It was a war crime, and it is a dark stain on the American conscience.
+
+The massacre is a reminder of the dangers of prejudice and discrimination. It is also a reminder of the importance of holding military personnel accountable for their actions.
+
+We must never forget the Wounded Knee massacre, and we must learn from it. We must work to create a society where all people are treated with dignity and respect.
+
+###
+
+The lonely man lives in a small brick house near the beach on Puerto Rico. He is a fisherman, and he spends his days out on the water, trying to catch enough fish to sell. He is a quiet man, and he doesn't have many friends. He is content with his life, though, and he loves the peace and quiet of his home by the sea.
+
+This man can't afford peace. He has a history of violence and  - military service, etc. - that hunts him down and finds him on this island.
+
+The sun was barely through the sunlit porch as the coffee brewed in the french press. A fine silver handed one with curving twists to the hande and spout, with a brilliantly clear glass cylinder. The coffee mash under th eplunger, the Brew dark and rich. Begging for th empty cup on the counter waiting patiently in reach.
+
+Twigs snapped.
+
+A radio crackle singed Trevor’s ear.
+
+Coffee is cancelled this morning.
+
+His hand cut the air to between the mattress and the bed frame - a Glock 9mm fouind his grip and flashed form hidding Trevor to his feet - quietly with his Implant flashing muted alerts, with sonara ands lidar enhanced radar projections of the raiding party surrounding his small concrete enclave.
+
+Goodbye yellow brick road, Trevor muttered and cast a radiowave equivalent of a flashbang grenade, that would momentarily disrupt the strike teams communications, if not their Implants and might give Treevor a chance to plot his exfiltration.
+
+The front, back and side doors of the little house grunted inwards - reinforced steel kept the hefty fellas on the otherside with the battering ram a cardio workout and give Trevor a chance to set the charges for the rooms he’d never return too.
+
+It was a shame, his memories of summer’s growing up here with cousin’s in the heat and sting of the Puerto Rican sun were currently erupting into a torrent of fire and primer cord that he had embded ilike a criss crossing plains of wire and cinder that acted like a faraday cage of sorts, but also was extremely flammable when electrified - thus the house was inwardly engulfed in flames long before the stirke team broke down the doors.
+
+Never fired a shot.
+
+Found no body.
+
+Trevor would never return to his real home in Puerto Rico. But he was presumed to have been atomized by the heat of the flames. This site would remain hollowed out for years after this fire took it’s beauty.
+
+No one ever looked below the ashes of his childhood home into the concrete to find the shaft and escape tunnel dug into the hillside and out the otherside.
+
+Waiting for him, a car kept here, in good condition, tires, and gas with a bag and supplies inth eback.
+
+Trevor was halfway to Arecibo by the time the Bombanero’s put out the flames.
+
+Much like most of the island rushing by the fenders of Trevor’s Jeep.
+
+The jungle green blurred by his Implant’s head’s up display. The track of the route toward a small place tucked behind the mountains and in the valley’s of Aricebo. But first, he was to find out why he just burned himself off the face of the earth. His networks and protocols flared alive with false-airdrops of his vasat archives and troves of government secrites he had set to blossom upon his alleged demise.
+
+The news reports flashed with the newest exposure of vast, dark, and deep government secrets concerning very public events that were not as the world had collectively remembered, not experienced for that matter.
+
+Assasinations of candidates and the tawdry opposition files of nearly every Congressional Leader, Lobbyist, and Justices suddenly bore itself as truth across the face of the internet.
+
+Trevor grinned as he remembered his mother’s spanish accent, “if you aint’ got no-ting nice to say…”
+
+###
+
+“YOU DON’T PUT THAT SHIT ON THE INTERNET!”
+
+The informaiton dump barely scored any traffic or chatter on th einternet, and then the social channels found the hooks of the leaks with all the troves of Pentagon budgets and blackbook project suddenly facing the sunshine.
+
+https://www.popville.com/2023/08/serious-situation-on-16th-street/
+
+ADAMS MORGAN, COLUMBIA HEIGHTS, CRIME
+
+
+# The Gods of Mankind.
+
+
+There are no absolutes.
+
+This can be interpreted in a few different ways.
+
+One. There is no such thing as a universal truth or rule that applies to everyone in all situations.
+
+Second. Interpretation is that everything is relative, and that there is no such thing as an objective reality.
+
+Third.  There is always room for doubt and uncertainty, and that we should never be too sure of anything.
+
+All of these interpretations have some validity. It is true that there are many things that are not absolute, and that our understanding of the world is always changing. However, it is also true that there are some things that are generally accepted as true, and that we can have a high degree of confidence in our knowledge of these things. Ultimately, it is up to Each individual has the freedom to decide what they believe and how they interpret the world around them. However, this freedom comes with a price. By observing the world, we inevitably change it, even if only in a small way. This is because our observations can influence the behavior of others, and our actions can have a ripple effect throughout the world. This is the principle of entropy, which states that everything in the universe is constantly moving towards disorder. The more we observe the world, the more disorder we create. This is why it is important to be mindful of our actions and to use our freedom of thought wisely.
+
+Entropy is the ultimate tax collector because it is a force that always works against us. No matter how hard we try to control the world around us, entropy will always find a way to slip through our fingers. This is why it is important to accept that we cannot control everything and to focus on the things that we can control.
+
+
+## Arlington Hotel, Washington, DC. 1899.
+
+
+The **Arlington Hotel** was a hotel in Washington, D.C. which stood from 1868 to 1912. It was considered the most opulent hotel in the District of Columbia during the post-Civil War era ¹. The hotel was built in 1868 and expanded in 1889. It was the Washington residence of many senators and Congressmen, including three-term Speaker of the House Thomas Brackett Reed and Vice President Garret Hobart ¹². The Arlington Hotel was also a waystation for international notables such as King Albert I of Belgium, Grand Duke Alexei Alexandrovich of Russia and Emperor Pedro II of Brazil as well as industrialists and financial magnates Andrew Carnegie and J. P. Morgan ¹. In 1899, The Successful American magazine recognized the Arlington Hotel as "one of the foremost hotels of the country" and wrote that the hotel had "sheltered every preeminent American for years and has been the temporary home of every potentate" visiting Washington, D.C. in the era ¹. The hotel was demolished in 1912 in order to build an even larger hotel. However, financing fell through for the new building and the land was sold to the U.S. Government in 1918, which built what became the offices of the United States Department of Veterans Affairs ¹.
+
+Please note that this is a general overview and more detailed information may be available from other sources..
+
+Source: Conversation with Bing, 11/2/2023
+
+(1) Arlington Hotel (Washington, D.C.) - Wikipedia. https://en.wikipedia.org/wiki/Arlington_Hotel_%28Washington,_D.C.%29.
+
+(2) Top Hotels in Arlington, VA from $75 - Expedia. https://www.expedia.com/Arlington-Hotels.d6236.Travel-Guide-Hotels.
+
+(3) The 10 Best Arlington Hotels (From $82) - Booking.com. https://www.booking.com/city/us/arlington-virginia.html.
+
+(4) Hotels near The Pentagon, Arlington - Booking.com. https://www.booking.com/landmark/us/the-pentagon.html.
+
+(5) en.wikipedia.org. https://en.wikipedia.org/wiki/Arlington_Hotel_(Washington,_D.C.).
+
+
+# In the White Room…Obstacle One
+
+
+You are in now, in a version of America you wish you didn’t understand. More so, you wished you didn’t have to claw your soul back from.
+
+This world resembles ours, but harsher. The annual defense budgets are the sacred cow for Congress. The Courts are bought and sold by the oligarchs that own them. The Justices are found corrupt and reeking of fraud.
+
+The police force an outgrowth of a dark past where neighbor OWNED neighbor. And the parade of horribles that struck from that progeny has been long an ugly one with fevered dreams of rescue and reform lost to the corruption of the ancient and dismal.
+
+These Bullet-Meet-Skull streets of this timeline are plagued with violence and madness. But much of it is contrived behind the eyes of the rich and powerful driven paranoid and mad by their own twisted souls.
+
+Here is the fertile ground from which much of what has grown instead of the hope and peace we strive for in ours. The violence here is normal. We breed it into our fighters and warfare that is paid for with the blood and treasure stolen, rewashed, reformed, and rehashed into a haggard face of Lincoln now pocked marked by rifle and cannon fire from the insurrection of 2028
+
+To illustrate this terrified experience in which neighbor vie against neighbor to alert the Civil police forces to confiscate propaganda or contraband. A neighbor’s friendship once epitomized by beers over an afternoon grill, is now reduced to suspicion and unease.
+
+Honor here means the party - US versus THEM. The great usurpation of the glory of a time that never was. In it’s place we find propaganda engraved in the stones of the walls that divide a nation at war with itself.
+
+If you think you possess honor here, then it demands you do the unthinkable to save the country you were programmed to love, taught to sacrifice for, and ultimately will kill you, like all the others before you.
+
+Follow Orders. The command is resolute. Unforgiving. The orders followed to ensure the glory of the next generation's survival and command.
+
+Of course, this propaganda is always a lie. The power structures here are entrenched in old influencers that carved the country’s wealth up as plantations fed on black bodies to produce the cotton and richness of this world’s generations. The standards upheld by violence, first.
+
+Always violence first.
+
+***
+
+From TYT Progress Report, with original reporting by Johnathan Larsen. Refined for fiction by AI/Writer.
+
+On Saturday, Joseph Czuba drove to a home he owns about 40 miles outside Chicago. (NEED description of anxiety attack and psycotic breaking as he drove 40 miles)
+
+(NEED description of the gravel crunching under his feet as the fears and demons swirled in his head. )
+
+… and knocked on the door.
+
+His tenant, Wadea’s mother, 32-year-old Hanaan Shahin, let him in. Czuba started arguing about the Middle East then started to choke her and said, “You Muslims must die.”
+
+At some point, Shahin said, “Let’s give peace a chance.” Instead, Czuba stabbed her more than a dozen times with a military-style knife. The serrated blade was seven inches long. But she survived.
+
+Czuba stabbed Wadea, who had just celebrated his sixth birthday, in his chest, torso, and upper extremities, 26 times. Wadea was taken to a hospital in critical condition and died. Czuba’s knife was removed from Wadea’s abdomen on Monday, at his autopsy.
+
+Gov. J.B. Pritzker said, “To take a six year old child’s life in the name of bigotry is nothing short of evil.” The act is surely an act of evil, but Czuba managed to get through 71 years of life without stabbing anyone else to death. So what happened?
+
+Reportedly, Czuba “believed he was in danger and [Shahin] was going to call Palestinian friends to come and harm them.” Why would he believe that, when that is so obviously dumb?
+
+Also reportedly: Czuba had been listening to conservative talk radio. In other words, he didn’t turn evil. He was taught to be afraid. Talk radio did that. But so did 20 years of an America in which even Democrats tell people stupid shit like, “See something, say something.”
+
+Wadea’s life is over because a 71-year-old man learned fear. Of Hamas. Forty miles outside Chicago.
+
+And the worst thing that ever happened to Czuba – his transformation into a murderer and likely relocation to high-security incarceration where he might get to know other Muslims – happened not because of Hamas, but because of fear.
+
+Yes, Hamas lit the torch of fear. That’s what terrorists do. But the rest of us – not just talk radio, but everyday folks telling people to get Ring cameras and lock their doors at night and stay clear of Portland and whatever the hell else – we covered the world in dry kindling.
+
+Yes, the left, too. Hell, you think the right wing won’t haul up examples of “progressive” media if Trump is the target of stochastic violence to save democracy? Out of fear that Trump will destroy democracy?
+
+In a cultural atmosphere where we’ve made fear our oxygen, the greatest threat to Czuba wasn’t Hamas, but talk radio doing Hamas’s work. The thing that destroyed Joseph Czuba was not Palestinian guns, but American poison.
+
+
+# Chosen.
+
+
+Alex’s iPhone chirped him awake to an early morning alert of one of his cases. It sent him flaring across his bedroom in a blind race to attack himself with water, brush his teeth, and slap on his cleanest nearest suit as the partners meeting was in 15 minutes, and he was woefully hungover… and even more woefully late for when the partners bring up his name; they always send a secretary out to see if the subject of partnership is in the office or not. Nothing concrete, but every quarter, the guy on the list was never picked - even when a partner or two drank him under the table at the strip club last night.
+
+Enrico Vassmen. The sharpness of his suit was starch. He picked up the accent in Barcelona, and like him, Alex was sure it was also linked to chlamydia.
+
+But he made a partner last year. They were hired at the same time. The two youngest signed to a law firm that was hitting the newest and most fringe angles of the law, ranging from fintech to finance and highly confidential property interests ranging a full portfolio of legal representation around the world.
+
+It was a firm not unlike the British Empire at its highest peak. And with it, the practice of international law on these fringe subjects was not unlike the privateering that the British so earnestly employed. The Associates worked for Partners. Partners worked for Revenue in billables for cases, producing revenue and income. That's how it worked. The partners drove the associates into hell nearly every day for the billables on cases for clients that generally abhorred exposure of any public kind. Some of these services required meetings in far-flung places, but usually, only the partner traveled; the associates stayed on a video call - note takers grunt workers. The partners kept the clients happy, the bank transfers occurred on time, and the legal cases moved along as discussed.
+
+These ultra-rich and the seemingly powerful beyond measure.
+
+And yet, Enrico was smelling of tobacco, cinnamon, vodka, and money last night. He always had money in damn near every pocket.
+
+Enrico smiled; “I got you, Bruh.”
+
+He had spent most of the night plying me with vodka drinks and pints of assuring me it was all just an administrative thing and that I was “in the bag for a partner this quarter.”
+
+It was bullshit. I knew it. No one pregames in law. This was a wake; not a wedding.
+
+Alex knew it the second the smarmy asshole burped it out of the mouth as they got dual lap dances in the champagne room. Then the partner tapped the naked ass of the girl on his lap. She swung around and leaned in for instructions. Giggling and giving a playful double thumbs up, she shifted her weight off Enrico and set her sights on me. She locked eyes with me and then gave a playful biting of her lips and a wink as she crawled across the plush semi-circle booth and tapped the girl currently grinding on my crotch.
+
+Meanwhile, Enrico got up and whipped his jacket over his broad, skinny shoulder, “He doesn’t leave until AFTER the last call!”
+
+The two exchanged a few glances and giggles and then each took a string from each’s hip that held their g-string bottoms to their clearly perfect thighs, hips, ass cheeks, and curve of the supple tummies. Two naked vixens caught each other's eyes for just a moment. Both flashing the remaining nakedness to each other, now ignoring me, and the only two left in the room were now slapped together, hands rushed to crotches and across breasts as they began to ravage each other - partly for the small fortune Enrico just promised and tapped a payment button with his thumb on the point of sale near the curtain seam.
+
+“Take care of him.” Enrico now shouts, “ALL of him. BOTH of YOU! AND THEN GET ONE ON DECK FOR THIS HORSE!!”
+
+He ripped a roll of greenbacks from a coat pocket and rained 100s all over the room.
+
+He waved as he passed through the heavy velvet curtains goodbye and gave a little kiss to the air.
+
+Alex cursed him, but suddenly his legs were getting dragged into leaving the threesome behind. Alex enjoyed it, but he knew it was a rouse.
+
+Alex had been working long hours for months on Enrico’s cases.
+
+Enrico could pass the credit along, but he wouldn’t and didn’t.
+
+Behind his back, Alex got his name worked onto the shortlist via an old connection through a retried partner - his mentor was taken out of practice by a stroke and nerve issues.
+
+The Partner on Alex’s first case in the firm, the blowback wasn’t put on the mentor; thus, Enrico caught the fast track while Alex got fitted for training wheels and had to have his work checked by the Senior Paralegals before it moved up the chains of command. And there were many here.
+
+The law firm. Another ABC name listed across the facade of the high rise it invested a quarter of was the latest conglomerate.
+
+They also just closed a flawless business merger that swallowed whole the American production of firearm ammunition. Czech IT Company Gobbles Up US Ammo Manufacturers - Remington, Federal, CCI and Others Being Sold Off (msn.com)
+
+The recent acquisition of major US ammunition manufacturers by the Czech IT Company, known as the Czechoslovak Group (CSG), is indeed a significant event in the global arms industry¹². This deal includes well-known ammunition brands such as Remington, Federal, CCI, Hevi-Shot, and Speer¹².
+
+From a legal perspective, such deals are subject to rigorous scrutiny and regulation. The Arms Export Control Act, the Conventional Arms Transfer Policy, the Foreign Assistance Act of 1961, the International Traffic in Arms Regulations, and other statutory authorities and relevant international agreements oversee most government-to-government arms transfers and commercial export licensing of U.S.-origin defense equipment and technologies⁶. Each proposed transfer is carefully assessed on a case-by-case basis, and approved if found to further U.S. foreign policy and national security interests⁶.
+
+From a financial perspective, arms deals can have significant economic implications. For instance, up to 1 million people across the US rely on U.S. defense exports for their jobs⁶. These individuals and the companies they work for represent a key part of American entrepreneurship and innovation⁶.
+
+In the context of the movie "Lord of War", which depicts illicit arms dealing, it's important to note that real-world arms deals are heavily regulated to prevent misuse and ensure that weapons do not end up in the wrong hands⁵. However, as with any industry, there are always risks and challenges associated with these transactions. The recent acquisition by CSG is no exception and will likely be closely monitored by regulatory bodies to ensure compliance with all relevant laws and regulations¹²³.  Source: Conversation with Bing, 10/21/2023
+
+The international arms trade is a multi-billion dollar industry. In 2018, the combined arms sales of the top 100 largest arms-producing companies totaled $420 billion⁷. The United States remains the world's largest arms exporter, responsible for 38.6 percent of international arms sales between 2017 and 2021⁶. This industry is not just about traditional weapons anymore. With the advent of technology, it has evolved to include smart weapons and programmable ammunition.
+
+Now, let's imagine a scenario where a leading technology holding company, let's call it "TechGuard", decides to acquire a major ammunition manufacturer, "AmmoCorp". TechGuard sees an opportunity to leverage its technological expertise to revolutionize the ammunition industry.
+
+TechGuard's vision is to develop "smart bullets" - bullets that can change their trajectory, speed, or even send data². These bullets could be fired from a precision-guided firearm capable of programming its behavior². They could be used to engage targets with extreme accuracy at sniper ranges unachievable with traditional rounds³.
+
+One of TechGuard's ambitious projects is to develop bullets that can literally go around corners. This concept might remind you of the 1984 movie "Runaway" starring Tom Selleck¹³, where bullets could make sharp turns in mid-air to pursue their targets¹⁹. TechGuard aims to turn this science fiction into reality. Using advanced guidance systems and miniaturized electronics, they plan to create bullets that can adjust their flight path in real-time, allowing them to hit targets that are not in direct line of sight.
+
+"Smart Bullets" is a disturbing trend that raises serious questions about the ethics and implications of such weapons. These bullets are designed to be self-guided, capable of changing their course in mid-air, and hitting targets with unprecedented accuracy and range. They are essentially mini-missiles that can be fired from a rifle.
+
+However, despite the apparent advances in this technology, there is very little public information or transparency about how it works, who is developing it, and what are the potential risks and benefits. The exact technologies of the smart bullets have yet to be released, and the test results have been kept secret or vague. The only sources of information are sporadic news reports, press releases, and videos that show little detail or context.
+
+This lack of disclosure and accountability is alarming, considering the possible consequences of these weapons falling into the wrong hands, being used for malicious purposes, or causing unintended collateral damage. Moreover, the development of smart bullets could trigger a new arms race, as other countries or actors seek to acquire or counter this technology. This could lead to more instability and violence in the world.
+
+Therefore, it is imperative that the public and policymakers demand more information and oversight on the development and deployment of smart bullets. They still were made and forged in the darkness of our timeline’s corruption. Long speculated as mere speculative fodder silenced when a young challenger to an old oligarchyh in SOuth Amreica flared up, and then went very quiet after the challenger was going dead. Reaosns unknown, but the the traces of silicone and phosphorus claimed some sort of bomb blamed on the local fascist club, but complete lack of facts and evidence to back that up beyond a news cycle.
+
+A violent lightning strike caught by our cold hands - Prometheus be damned the concept of the smart bullet These weapons are not just a technological innovation, but a potential game-changer in warfare and security. They should not be treated as a secret or a novelty, but as a serious and urgent matter that requires public scrutiny and debate.
+
+Another groundbreaking project is the development of bullets that can "see" through walls. Using advanced sensor technology, these bullets could potentially detect heat signatures or movements behind obstacles, providing invaluable tactical advantages in urban warfare scenarios.
+
+So why would TechGuard want to own AmmoCorp? The answer lies in the potential for innovation and market dominance. By owning AmmoCorp, TechGuard can directly implement its cutting-edge technologies into the ammunition production process. This vertical integration allows for faster innovation cycles, better quality control, and potentially higher profit margins.
+
+Smart bullets, while technologically impressive, do come with potential risks and concerns:
+
+Ethical Concerns: The use of smart bullets raises ethical questions about the nature of warfare. The idea of a “fire and forget” weapon system could potentially reduce the human element in decision-making during combat1.
+
+Risk of Misuse: Like any weapon, smart bullets could fall into the wrong hands. Non-state actors or rogue states could potentially use this technology for malicious purposes1.
+
+Civilian Casualties: Despite their precision, there is always a risk of civilian casualties in warfare. While smart bullets aim to minimize this risk, no system is foolproof1.
+
+Technical Challenges: The miniaturization of guidance systems to fit into a bullet presents significant technical challenges. Any failure in these systems could result in unintended consequences1.
+
+Cost: The development and production of smart bullets are likely to be expensive. This could lead to an increase in military spending and a potential arms race1.
+
+Legal Issues: The use of smart bullets may raise legal issues under international law, particularly regarding the principle of distinction and proportionality in armed conflict1.
+
+These risks highlight the need for careful consideration and regulation as this technology continues to develop.
+
+In conclusion, the fusion of technology and ammunition manufacturing opens up exciting possibilities for the future of warfare and law enforcement. As we venture into this new era, it's crucial to also consider the ethical implications and ensure these advancements are used responsibly.
+
+Source: Conversation with Bing, 10/21/2023
+
+(1) Arms industry - Wikipedia. https://en.wikipedia.org/wiki/Arms_industry.
+
+(2) Chart: The World's Biggest Arms Exporters | Statista. https://www.statista.com/chart/18417/global-weapons-exports/.
+
+(3) Smart bullet - Wikipedia. https://en.wikipedia.org/wiki/Smart_bullet.
+
+(4) US military develops self-guided 'smart bullet' | CNN. https://www.cnn.com/2015/04/29/us/us-military-self-guided-bullet/index.html.
+
+(5) Runaway (1984) - IMDb. https://www.imdb.com/title/tt0088024/.
+
+(6) DARPA bullet can change direction mid-flight - CBS News. https://www.cbsnews.com/news/darpa-bullet-can-change-direction-mid-flight/.
+
+(7) . https://bing.com/search?q=smart+bullets.
+
+(8) Precision-guided munition - Wikipedia. https://en.wikipedia.org/wiki/Precision-guided_munition.
+
+(9) New ‘Smart’ Bullets are Able to Change Direction in Midair. https://www.buzzworthy.com/exacto-smart-bullet-changes-direction-midflight-darpa/.
+
+(10) Arms sales of SIPRI Top 100 arms companies grow despite supply chain .... https://www.sipri.org/media/press-release/2022/arms-sales-sipri-top-100-arms-companies-grow-despite-supply-chain-challenges.
+
+(11) World Military Expenditures and Arms Transfers 2021 Edition. https://www.state.gov/world-military-expenditures-and-arms-transfers-2021-edition/.
+
+(12) FUZE 3P Programmable All-Target Ammunition | BAE Systems. https://www.baesystems.com/en/product/fuze-3p-ammunition.
+
+(13) Programmable Munitions: Projectiles ‘Evolved’ For The Modern Era. https://www.overtdefense.com/2019/09/06/programmable-munitions-projectiles-evolved-for-the-modern-era/.
+
+(14) The Abrams Tank's New Advanced Multi-Purpose Round Can Destroy Any .... https://nationalinterest.org/blog/buzz/abrams-tanks-new-advanced-multi-purpose-round-can-destroy-any-target-198197.
+
+(15) Runaway (1984) - Runaway (1984) - User Reviews - IMDb. https://www.imdb.com/title/tt0088024/reviews.
+
+(16) Jesse Stone: Stone Cold (TV Movie 2005) - IMDb. https://www.imdb.com/title/tt0431420/reviews.
+
+(17) Foreign IT Company Gobbles Up Top US Ammunition Manufacturers .... https://www.westernjournal.com/foreign-company-gobbles-top-us-ammunition-manufacturers-remington-federal-cci-others-sold-off/.
+
+(18) Foreign IT Company Gobbles Up Top US Ammunition Manufacturers .... https://hisglory.me/foreign-company-gobbles-top-us-ammunition-manufacturers-remington-federal-cci-others-sold-off/.
+
+(19) Czech IT Company Gobbles Up US Ammo Manufacturers - MSN. https://www.msn.com/en-us/money/other/czech-it-company-gobbles-up-us-ammo-manufacturers-remington-federal-cci-and-others-being-sold-off/ar-AA1izXil.
+
+(20) 7 Calibers Tested for Handgun Penetration Through Walls: Best Self .... https://www.tierthreetactical.com/7-calibers-tested-for-handgun-penetration-through-walls-best-self-defense-picks/.
+
+(21) Corner Shot: Is the Gun That Sees, Shoots Around Corners for Real?. https://www.athlonoutdoors.com/article/corner-shot-review/.
+
+(22) The ultimate VALORANT wall penetration guide for beginners. https://gameriv.com/the-ultimate-valorant-wall-penetration-guide-for-beginners/.
+
+(23) A gunsight that can let soldiers shoot around corners | Popular Science. https://www.popsci.com/technology/arcas-high-tech-gunsight/.
+
+(24) undefined. https://cdn.statcdn.com/Infographic/images/normal/18417.jpeg.
+
+(25) undefined. https://www.statista.com/chartoftheday/.
+
+###
+
+He is burnt out, and every day ends in stress, leaving him overwhelmed.
+
+He has trouble sleeping and eating, and he is always tired. He has also started to make mistakes at work, which is beginning to affect his career. He knows he needs to take a break, but he fears losing his job. He is also afraid of what will happen if he stops working. He feels trapped in a cycle of stress and burnout and doesn't know how to break free.
+
+He decides to escape the city for the weekend and retreat to a cabin in the woods. He plans to spend the weekend writing his novel and drinking, hoping to find peace and inspiration in nature.
+
+Alex drives for hours until he reaches the cabin. It is small and rustic, but it is perfect for his needs. He unpacks his things and then goes for a walk in the woods. The air is fresh and clean, and the trees are tall and majestic. Alex feels a sense of peace that he hasn't felt in a long time.
+
+He returns to the cabin and starts working on his novel. He writes for hours and is surprised at how well he can focus. He feels inspired by the beauty of nature, and he can write with clarity and passion. The time rolled past him as words flowed out of him.
+
+In the evening, Alex fires in the fireplace and drinks a glass of wine. He looks out the window at the stars, and he feels a sense of awe and wonder. He is grateful for the opportunity to escape the city and to connect with nature. He knows this weekend will be a much-needed break, and he looks forward to spending the next few days in peace and solitude.
+
+Events turn dark as Alex feels uneasy at the cabin. He’s turning more to drinking and scoffs as he polishes one bottle just as the sun sets through the woods.
+
+As the sun sets, Alex feels uneasy in the cabin. He has been drinking increasingly, and now he polishes off a bottle just as the sun disappears behind the trees. A sudden pressure leveled on his shoulders, his mind traced back to his father.
+
+Long dead now, always cheerful. The very backbone of the family. Then he died, and nothing was the same anymore. The world changes around his eyebrows. Which the booze helped slip by.
+
+He feels like he is being watched and starts hearing strange noises. He tries to tell himself that it is just his imagination, but he can't shake the feeling that something is wrong. He goes to bed, but he can't sleep. He keeps hearing noises, and he feels like something is moving around outside the cabin. He gets up to investigate, but he can't find anything. He goes back to bed, but he is still uneasy. He knows something is wrong and is afraid of what might happen next.
+
+But then, his smart watch buzzed his wrist.
+
+He left his phone in the car. The watch was telling him he’d just lost connection with his phone.
+
+Strange things happen around the cabin, including unexplained noises and objects moving independently. He’s seeing more bottles appearing than he thought e brought with him by the following day.
+
+He also notices his the pages written on his laptop are single …at best.
+
+Alex is attacked when he investigates the noises.
+
+Alex wakes up inside his cabin on his couch.
+
+Passing it off as being drunk, he notices a long deep scratch down his right side along his ribcage. Too embarrassed to bother going to urgent care, or maybe too drunk to notice the sting of the wound.
+
+Alex is compelled to start writing the events down, and soon he’s lost behind his laptop, his neck craned down but his fingers hammering widely. His side wound seaps a little blood as he writes, but never seems to dry or drip.
+
+Soon the story flows out of Alex. A monster staked the cabin outside. Staring through his windows at the lonely bird in the cage - himself.
+
+Then flashes so vivid his mind twists as he writes the words he swears he lived the night before.
+
+The feverish writing lasts three days straight as Alex writes one of the most violent and bloody tales he’s ever dreamt.
+
+He writes about a violent wealthy family torturing their way through generations while protected by incredible wealth and power because of the coal, timber, and railways being owned by the family.
+
+End on a cliffhanger.
+
+
+# Revelations.
+
+
+https://share.newsbreak.com/5agb24wg
+
+Alex is interrupted by the knock at the door - a park ranger checking the cabin.
+
+Alex realizes he’s missed a day of work and flies down the mountain and back to DC, hoping to get his cell phone charged before his boss calls to fire him.
+
+His office mate covers for him, but Alex becomes increasingly paranoid and begins to suspect that someone or something is watching him.  He has flashes and dreams where he sees himself sleeping at his apartment or through a window during a meeting in a conference room.
+
+After Alex misses a filing deadline, the managing partner orders Alex to take some time off and get therapy.
+
+Alex spirals down a hard binge and depression. His dreams are more erratic and flash into his eyes during the day while he’s at a bodega near his apartment in DC.
+
+He thinks he’s blind, but he sees through the eyes of a man across the street. The vision stops, and he chases after the man, losing him down an alleyway and into a metro station.
+
+He returned to his apartment to find a manila envelope with no return address in his mailbox. He opens it back in his apartment and discovers a trove of information and history about the county where the cabin was.
+
+A conspiracy unfolds as Alex researches the town's history from his apartment in DC.
+
+As his murderous dreams continue about the cabin, and then they shift to his apartment,
+
+Dreams similar to out-of-body experiences continue to plague Alex—gruesome murder after murder flash into his visions as the years of the cabin’s history.
+
+Bloody scratches appear on his chest one night in a dream drawn on him as in the dream; he watches it happen in the mirror, thinks it's a dream, and then sees the blood on his chest.  “Come Home”
+
+Alex loses another length of time when he comes to while driving toward the cabin - randomly on a Tuesday afternoon.
+
+https://mtzionhistoricalsociety.org/history/stories/the-lost-gold-shipment/
+
+*News report on the car radio*
+
+Witnesses to FBI hunt for Civil War gold describe heavily loaded armored truck, signs of a night dig
+
+AP logoUpdated: 1:12 PM EDT Oct 7, 2023
+
+Infinite Scroll Enabled
+
+MICHAEL RUBINKAM Associated Press
+
+PENFIELD, Pa. —
+
+In the heart of Pennsylvania elk country, Eric McCarthy and his client, Don Reichel, got up before sunrise to scour the forest floor for so-called “brown gold” — a rack of freshly shed antlers to add to Reichel’s collection back home.
+
+One hill over, a team of FBI agents was also hunting for gold. The metallic yellow kind.
+
+The FBI’s highly unusual search for buried Civil War-era treasure more than five years ago set in motion a dispute over what, if anything, the agency unearthed and an ongoing legal battle over key records. There's so much intrigue that even a federal judge felt compelled to note in a ruling last week: “The FBI may have found the gold — or maybe not.”
+
+Now, two witnesses have come forward to share with The Associated Press what they heard and saw in the woods that late-winter morning, raising questions about the FBI's timeline and adding plot twists to a saga that blends elements of legend, fact and science – and a heavy dose of government secrecy.
+
+The FBI insists nothing came of the March 2018 excavation in Dents Run, a remote wooded valley about 110 miles (177 kilometers) northeast of Pittsburgh. But a treasure hunter who led FBI agents to the hillside where an 1863 gold shipment might have been buried is challenging the government’s denials. How could the dig have come up empty, he asks, when the FBI's own scans showed the likelihood of a buried metal mass equaling hundreds of millions of dollars in gold?
+
+McCarthy, a 45-year-old elk guide, had never met treasure hunter Dennis Parada. But he watched from afar as Parada took the FBI to court and told his story in the media. McCarthy recently decided to share his own story because he thought Parada, who spent years looking for the gold before approaching the FBI with his findings, has been treated unfairly.
+
+“I just felt like I needed to say what I saw, you know?” McCarthy explained. “I have no ties to anybody here. It’s just I felt like they were wronged.”
+
+In an interview at a remote hunting camp about 25 miles (40 km) from Dents Run, McCarthy recalls hearing the unexpected clang of heavy equipment as he worked his way up the mountain in near-darkness, a dusting of snow on the ground from a recent squall.
+
+Later that day, while breaking for lunch, McCarthy and Reichel watched a trio of armored trucks rumble past. One of the vehicles rode low, as if it was carrying a full load.
+
+“They took something out of Dents Run,” McCarthy insists now. “Something heavy.”
+
+Reached by phone, Reichel, McCarthy’s 73-year-old shed hunting client, corroborated his account of hearing early-morning clatter and seeing a loaded truck on March 14, 2018. Their recollections echo earlier statements from residents who told the AP of hearing a backhoe and jackhammer overnight and seeing a convoy of FBI vehicles, including armored trucks.
+
+Parada, co-founder of the treasure-hunting outfit Finders Keepers, views the eyewitness accounts as important because they could bolster one of his main contentions — that the FBI conducted a secret overnight dig for the gold and spirited it away. The FBI’s warrant to excavate the site limited work to 6 a.m. to 10 p.m. each day.
+
+The agency strenuously denies it dug after hours, saying FBI police merely conducted nighttime ATV patrols to secure the site.
+
+“No gold or other items of evidence were located or collected. The FBI continues to unequivocally reject any claims or speculation to the contrary,” said spokesperson Carrie Adamowski.
+
+Indeed, there's little historical evidence to substantiate apocryphal accounts that an Army detachment lost a gold shipment in the Pennsylvania wilderness, possibly after an ambush by Confederate sympathizers. But the legend has inspired generations of treasure hunters, Parada among them.
+
+Scientific testing suggested he was on to something.
+
+The FBI said in a 2018 court document that its own geophysical consultant identified an underground metallic mass weighing up to 9 tons, with the density of gold, at the site identified by Finders Keepers. A federal judge approved a search and seizure warrant, and the FBI set up camp in Dents Run, later describing it as a possible “cultural heritage site containing gold belonging to the United States government.” Parada hoped to earn a finder’s fee from the potential recovery.
+
+On the second day of the FBI dig, McCarthy and Reichel awoke at 4 a.m. and were on a mountain that parallels the narrow Dents Run valley sometime between 5 and 5:30.
+
+By then, the FBI’s presence had become the talk of the backcountry, with speculation running rampant that agents were hunting for gold. The FBI had shooed McCarthy away from a different part of Dents Run a day earlier. But he was determined to help his client find an elk shed. Splitting up to increase their odds, McCarthy dropped Reichel off then parked more than a mile away.
+
+He said he could hear the distant hum of a running engine as soon as he got out of his truck. The noise grew louder as he made his way up the hill and he heard metal on stone, or metal on metal — what sounded to him like heavy equipment meeting earth.
+
+McCarthy said he got to the top of the ridge and started back down the other side. That’s when he laid eyes on the FBI operation, on the opposite slope, about 400 yards (meters) away. He saw lights powered by a generator. A parked excavator. A smaller piece of equipment, perhaps a skid-steer or quad, moving up and down the hill. A brown-black gash in the earth surrounded by snow. People huddling under a makeshift canopy.
+
+“It looked to me like they were wrapping up a dig," he said.
+
+Reichel, who was farther away from the dig site, said he heard machinery when he crested the ridge.
+
+“I can hear some machines, or something, clanging and banging and roaring and all that stuff,” said Reichel, a retired manufacturing worker. He said he was too far away to be able to see anything.
+
+An FBI timeline says the search team didn't arrive at the dig site until 8 a.m. that morning, and an excavator operator arrived even later. That's well after the time that McCarthy and Reichel say they detected signs of activity.
+
+The pair reconvened for lunch several hours later. It was then, they said, that a convoy of unmarked black SUVs and armored trucks drove by them on Pennsylvania Route 555, heading out of Dents Run. McCarthy and Reichel said one of the three armored trucks seemed to be weighed down — more squat than the other two and lagging behind.
+
+“Eric and I both made the comment that one must be loaded.” Reichel said.
+
+“It was loaded to the gills,” said McCarthy, adding he's driven overloaded dump trucks and “I know what it looks like.”
+
+Not so, the FBI says. While “appropriate vehicles and equipment” were brought to Dents Run, armored trucks were not among them, according to Adamowski, the FBI spokesperson.
+
+Warren Getler, a consultant who has worked closely with Finders Keepers, argued the eyewitness accounts add up to one thing – a clandestine night dig.
+
+“And why would you do a night dig,” he said, “unless you wanted to remove the gold under cover of darkness?”
+
+Getler, co-author of “Rebel Gold,” a book exploring the possibility of buried Civil War-era caches of gold and silver, joined Parada in Dents Run for the 2018 dig. But the FBI mostly kept them confined to their cars at the bottom of the hill, showing them an empty hole when the work was done.
+
+The agency subsequently stonewalled Parada’s Freedom of Information Act request for records on the dig, prompting him to file a lawsuit. In 2022, a judge forced the FBI to release a trove of photos and documents.
+
+But the agency refuses to turn over its operational plan for the gold dig — which Parada and Getler believe might include information about an overnight excavation — and other records the government says are exempt from disclosure. U.S. District Judge Amit Mehta told the FBI on Sept. 27 it needed to come up with a better justification for keeping the disputed records under wraps.
+
+While Parada pursues the FBI in court, he hasn't given up his search in the Dents Run area. He recently hired a New Jersey geophysical company that identified several underground anomalies near the site of the original FBI dig, one of which measures 25 feet (7.62 meters) by 8 feet (2.44 m).
+
+Finders Keepers’ own equipment detected metal objects in the same location, perhaps 15 feet down, presumably in a tunnel or cave, said Parada, playing a video that shows a detector emitting a high-pitched squeal as it is swept across the ground.
+
+He’s now seeking to partner with the Pennsylvania Department of Conservation and Natural Resources, which owns the land, on a new excavation in Dents Run. Parada, his lawyer and top officials from the conservation agency plan to meet later this month.
+
+“It’s a part of our history that’s hidden away,” Parada said, “and I think it’s time that should be told.”
+
+###
+
+Something calls Alex back to the cabin, and he pieces together the unholy terror seeking to control him.
+
+I crashed through the door of my office with only a small duffle bag and my keys jangling in my hand.
+
+I booked a three-day weekend in a cabin in West Virginia.
+
+All by myself. My hours tallied for the week and sent to my managing partner; i was free. I hit my quota.
+
+I lived for my hours on these weekends.
+
+I made my bonus last three quarters.
+
+Settlements helped get the numbers up abecaus ethos don’t take th etime of a trial.
+
+Besides, I was set to drink myself stupid this weekend. Just like my literary heroes of old. Hemminay. Wells. Poe. All the Greats. Blast themselves out of their minds and write for whole swaths of time.
+
+Here, i worked it into my schedule. I had to otherwise I wouldn’t be alawyer very long.
+
+I wanted to write.
+
+I wanted to drink.
+
+I wanted to unplug all my phones and switch off all the devices that I could and disappear from the radar.
+
+I tapped my car's screen and selected the cabin's longitude and latitude.
+
+Soon. I’d be on the beltway.
+
+Soon, i’d be outside the grasp of my law office.
+
+Soon beyond the grasp of a cellphone signal, back to reality.
+
+I’d polish off the booze in the trunk and write like a degenerate fucker, thinking he has a chance at getting anything he scribbled published.
+
+It was okay.
+
+I was a mildly successful attorney for a medium-sized firm in Washington, Dc.
+
+I could hold my own in a courtroom.
+
+I had decent cases and made decent money at it.
+
+I was married to the love of my life, and she knew me before I knew who I was. That’s why I married her; she just knows me, ass I do her.
+
+I took weekends to myself.
+
+Either spent in an office at work, writing my ideas on a cheap laptop i bought myself to hammer on while sleeping in my office for the first few years of my legal career.
+
+I cut that off when my bosses realized I wasn’t writing for work when I’d bender myself into a weekend at the office.
+
+So then I took grabbing a cheap hotel, but the data connections back to the world only made it worse.
+
+I’d get distracted by the pings and messages -
+
+Status reports, drafts of briefs, and drafts… then the texts from home.
+
+Are you coming to the [insert event here]
+
+It all began to mean less and less to me.
+
+I drew myself into the idea of getting away from town. Alone.
+
+Then a note showed up one day across my browsing about a small cabin for rent in West Virginia.
+
+“Special Rates Available”
+
+###
+
+The hangover the next day is worth it.
+
+But the taste in your mouth is simply awful.
+
+It’s best just to keep drinking when hungover. Hit that Gatorade with a bit of vodka or the hair of the dog, and then find some bacon and oatmeal if you can swing it.
+
+But washing the taste of blood out of my mouth is the real reason i hit th vodka on these weekends.
+
+When I find another finger or tooth in my cheek, those are the tough weekends to get through.
+
+###
+
+As he investigates further, he unravels a web of lies and deceit, uncovering a sinister plot involving the local townsfolk and their hidden agenda involving a murderous coal baron in a small county in West Virginia.
+
+The coal Barron poisoned the county with runoff from mining and pollution.
+
+Barrons family is a twisted gothic family with rumors of violent acts inside their mansion, casting a dark domain over the area/town.
+
+Cliffhanger Twist - Alex is heir to Barron’s fortune and lands. Alex discovers his mother adopted him and hid the truth from him when she died, and he is told the truth from her will reading.
+
+The cabal is revealed as Alex returns to the cabin. He thinks he’s being watched. A cop pulls him over - a minor hassle - but then leaves off with a warning to get his turn signal looked at - then the cop uses Alex’s name.
+
+Alex frets over the detail. He must have slipped his name and profession. Why else would the cop let him go?
+
+Alex returns to the cabin to find the Park Ranger at the cabin. Then the cop blocks Alex’s car from the road. Then another ranger enters from the kitchen.
+
+Alex is outnumbered and terrified about what is going on.
+
+The rangers, cops, and locals reveal themselves surrounding the cabin and peppering the woods.
+
+Struck with violent spasms in his mind’s eyes, he then sees the cabin from the eyes of the people outside. Flashing from perspective to perspective like a television switching channels.
+
+Everyone begins howling. And panting, then some start to rock back and forth, and others start to pace quickly from side to side. Teeth growing larger in their mouths. Hair begins to sprout from the seams and hems of their clothes.  Long nails curl from their fingertips. And these Wolf People howled and stamped their paws, dusting the forest floor as they snarled at snapped violently at each other.
+
+The rangers attack Alex, and the people swarm the cabin. Rattling the doors and tearing at the shutters, and smashing the glass with claws and paws.
+
+The horde swarms the cabin as Alex howls at the sensation of bite and his flesh tearing.
+
+Bitten and then left ripped and tattered on the cabin floor, Alex’s mind flashes back to the Barron, and the horrible monsters ginned from that man’s violent acts, and then Alex wakes up standing in the Cabin - fluffy clothed and not hurt or bloody.
+
+The Barron stands before him - grinning. In a bothersome voice, he says, “I’ve been waiting for you, Son.”
+
+The Barron snaps his fingers, and Alex waked up in a gothic mansion in 1888. Outside his window the hills and tall trees of West Virginia. A lavishly decorated room surrounds him.
+
+
+# Denial.
+
+
+Alex sails down the mount in his electric car, auto-piloted by a dense array of LIDAR, radar, and UltraViloet range finders to blind the Predastor hiumself blasted by the dense dark forrest.
+
+PUshing 50 miles per hour around curves designed for no more than 35 only possible by the AI-powered vehicle command System - ViKi for short.
+
+*scene alex angrily yelling at the AI cursing it and demanding it get him a call to his office.. Bandwidth costs and access points are sparse across the rural parts of the New American Repulic.
+
+https://share.newsbreak.com/5704d2ss
+
+A plague like no other breaks out from a lab. (Channel The Stand opening)
+
+
+# Anger.
+
+
+
+# Bargaining.
+
+
+
+# Depression.
+
+
+The hangover’s were just as awful despite the high-class alcohol. Magik didn’t help much, but it helped take off the edge.
+
+
+# Acceptance.
+
+
+Text Here
+
+
+# Welcome to the Center of the Unknown.
+
+
+Here We have the heart of divination. The cornerstones of the capitol were laid with oil and ceremony. The exact notes and reasoning fail our modern understandings and ridicule.
+
+However, we now have the intelligence to understand even more and more than we could ever dread.
+
+George Washington laid the stones around this sacred land and created a nexus of truth and noble intent, now long fractured and fed by the river of mother nature herself—link to the Caribbean with the slave trade and an explosion of Sephardic news. The religion grew out of these rituals and traditions as they grafted new magic and belief into it, and soon it was bigger than Judaism. Voodoo. Catholicism. Santeria gave it rhythm.
+
+Now, in the temple of our forefathers. What have we accomplished and wrought?
+
+The blood of thousand washes our shores while the marble remains clean.
+
+Long-toothed conspiracies hold the masons carved this land with this fingernail and the will of ABraham’s God. They did not.
+
+An older, colder God found roots in the soil, and the rumors of elemental powers long dormant but revered by the ancient inhabitants of this land. Long before the White man could take it, the land was always sacred and kept so by civilized nations.
+
+And then the power of the earth was harnessed by man. And the rivers become kingmakers.
+
+1886 - American United States, Washington City, Federal District of Columbia.
+
+Often assailed with the moniker, Empire of Mud, the young capital city's roads were barely more than ruts after the war-torn this country apart and now forced it back together with violence in abundance.
+
+A new capital city is slowly forming out of the mid-Atlantic swamps. Wealth. Power. Control. The old money from New York and Boston flooded south, taking up Philadelphia and Baltimore. But those holdings and influence took decades and generations to build in those places. Washington City was new and different.
+
+The old world is dead. The monarchs have fallen ill with their inbreeding. Their offspring need to be more proficient to be reliable. The science men and the blood doctors unlocked the genetics that allowed the best and the brightest of mankind to take the lead and replicate their visions over generations of influence.
+
+Their faces are well hidden the smartest and most potent never let their face be seen or recorded in public. They can't afford the blasphemy and exile from the Elite.
+
+The chosen. the leaders. the Alphas.
+
+The intellectuals that spurred their wealth and prominence upwards to power and command are now finding their lives shorter than they had hoped for,
+
+The solution. A madman’s fuastian bargain ad nausea.
+
+Found his inspiration from roots and tubers cobbled and foraged from the bowels of the Amazon. His knowledge of the human body and extending the longevity of the human body was legendary.
+
+This medicine man crude the feeble and advanced the progeny of the fruitful beyond the expected years of a human being. Enriched by the madness and genius of those before the medicine man ginned his serums and logic for the needs and desires of the richest of the rich. And he ruled them all by the nose for many years to come and go.
+
+Zoroasterism. Ruled the hierarchy. It was easy to. We find the classic struggles of life take form over the history of the United States. This cobbled country is a mongrel of its components and people,  but its history has been one led by the nose, the holders of the ring.
+
+All ruled by the desire and the need to conjure and control. This medicine man still rules this world today. Drawing our noses closer to the feed to fatten our guts and plug us into the piglets nuzzle for the system to control. For it is all about power and control, which feeds the powerful and those that rule the coin, we all need comes to control all we need.
+
+Here, we find the new struggle of the gods is more than what we think; the battle for the gods means the most to these people, the Americans.
+
+Greed.
+
+Misery.
+
+Death.
+
+These three gods rule this land and those things that mean the most to us.
+
+
+# The Ordeal.
+
+
+The bluebloods found the medicine man first. The richest of the riches are laid at his feet, but the Mecidnece man waves off the gold and jewels after years of gold exploring and Amazonia conquests for El Dorado.
+
+The Colonizers return enriched from the rape of lands beyond the horizon. These men were demeaned more. Power. Gold. Life. Greed. Misery. Death. All in new clothes, for new worshipers.
+
+They devised the science behind the wild medicines of the aboriginal and native civilizations to double the helix. To then create a duplicate.
+
+And then the embryo, and quickly - all too quickly - grew doubles of themselves. They catered to the time when they either died or at a steady rotation for the prime versus their demise.
+
+So the God’s have made their entrance on the arena.
+
+We finally know why a man would tear his life apart for th glory of sucking the toes of a mad president, all to enjoy the sweet savor of power and elation that his god gives him. The rest of life is merely the comedown from that glorious high.
+
+Whalefall
+
+A whale dies in the ocean. Its family and friends gather nearby to pay their last respect. No, that is a lie.
+
+Where does it go? Nowhere. The water. To be consumed by what it once finished. To germinate new life from the death of the old colossus.
+
+And the richness of the it’s loade is the feast for all that mourn it.
+
+The water takes back what it once gave. A new life begins before the lifeless husk sinks and settles to the ocean floor. A beautiful composition of scavengers and curators to corpse gathers.
+
+From the dead flesh and fat come new veins of growth and change.
+
+This is whale fall.
+
+This is the next life.
+
+Sinking.
+
+The room felt to Robinson as if it were rising away from him, and he fell lower into his chair, the floor, beneath his desk. Vision Systems was, at that moment, a dead whale slowly sinking into the ocean's black depths.
+
+Download personal files and BLEACH.  Robinson’s FILTER connected and began sucking down the files from his cloud file to his local storage. Then his FILTER wrote and overwrote the cloud file locations with ones and zeros to remove any hint the files were ever stored remotely.
+
+Initiate Protocol Whale Fall. Instantly hidden programs called spiders sprung to life in the networks and data systems within Vision Systems. They entered the server farms and began copying whole swaths of the vast repositories and history of Vision Systems.
+
+Every black bag operation it supported. Downloaded and then Bleached.
+
+Every list of campaign donations and amount paid. Downloaded and then Bleached.
+
+Every operation on American soil affronted the 4th, 5th, and 6th Amendments. Downloaded and then Bleached.
+
+General Robinson was not merely covering tracks and removing embarrassing evidence; he was fleecing the network. When the agents in blue windbreakers with the classic yellow block letters across the back came through the front doors of Vision Systems, they would find just another hacked and victimized government contractor.
+
+Like a sexual assault victim, the whole corporation would be shuttering and clutching the scraps of its dignity after its networks and systems were ruthlessly hacked and pillaged by the monstrous hackers now celebrating deep in the dark web.
+
+At least, that was what the public relations team would disseminate. That press release and supporting press and lobbying effort would further remind the policymakers, and their constituents, that these digital barbarians, even more, threatened the threat to their freedoms and the very foundations of democracy.
+
+Vision Systems may, at this moment, be a dead whale slowing descending to the bottom of the digital ocean, but it was now just beginning to teem with new life and new opportunities.
+
+That new life and opportunities were currently streaming to the head of General Robinson as he sipped a whiskey in the dark recess of his private office.
+
+###
+
+My sister got me a wax candle air freshener.
+
+She's so thoughtful.
+
+I now have all I need to summon the Pumpkin Spice Demon, Gerald.
+
+He works in accounting. And he gets pissy because he has to walk ALL the way back to accounting AFTER you summon him!
+
+Poor Gerald. He really hates his existence, but he’s had this role for the past four hundred years. Poor Gerald., the patron demon of the United States serves the core powers of this world.
+
+Greed.
+
+Misery.
+
+Death.
+
+The three demons that cast their lots behind the rest of the elementals that bet against our young nations.
+
+
+# Reward: The hero is rewarded for their efforts.
+
+
+Desert. New Mexico. Day break. A valley opens up with a large radio array lined in neat rows across the floor—three rows with each radio dish lined and synchronized with the other.
+
+Impossible to see with the naked eye, but with an Implant, you see whipping ropes of data racing skyward. Every antenna was transmitting, feeding toward the horizon and flushing the data banks clean of the server farms buried deep in the valley floor. With an Implant, you see whipping ropes of data racing skyward, like a thousand snakes slithering up a tree. Every antenna was transmitting, feeding toward the horizon and flushing the data banks clean of the server farms buried deep in the valley floor. The data was a fractal, a never-ending pattern that seemed to stretch on forever. It was beautiful and terrifying at the same time. You felt like you were being sucked into it, like it was going to consume you. But you couldn't look away. You were mesmerized by the beauty and the power of the data.
+
+Large Black SUVs barrel down an asphalt road, their engines roaring as their tires hammer the black surface toward the radio array control compound.
+
+A square building with a second story covering half of the first and a deck with a railing along the edge. In the compound, a gravel landscape with a half-circle drive fed by two gates with a ten-foot chain link fence with razor wire circling the top like icing on the cake.
+
+The glint of sunlight off binoculars flashed in the eye of Special Agent Danver Ret. He was riding shotgun in the first Black SUV. Pressing his thumb to his throat, mic, “We’ve got eyes on us. Second floor in the shadow 10 o’clock.”
+
+“Roger that,” A disembodied voice affirmed the sighting. “Little birds show only one heat signature on the second floor. Nothing on the inside, but that's not right.”
+
+“Building specs say it’s shielded against infrared.” A second disembodied voice answered. “That and a lot of other bizarre stuff.”
+
+“30 seconds out, look sharp,” Agent Ret announced.
+
+###
+
+The server farms under the antenna array hummed with the flow of electrons and the pulse of its data banks, both bleaching their contents as well as erasing and rewriting, and erasing the freshly released data to the airwaves.
+
+###
+
+
+## “New Treason”
+
+
+[Jessica is distraught over the death of Trevor. She struggles with downloading her implant data into the torrent network which is used worldwide and will flood the world with the secrets of the Military Intelligence Industry.
+
+She ultimately decides to do so, but encrypts the data with a poison pill protocol which she ties to her and Reggie’s implant. If one of them should die the whole of their data is released onto the internet. Publication of the documents slows from pressure within the corporate world.]
+
+###
+
+
+## SALTOS
+
+
+###
+
+
+## Notable events leading up to the No Gun Ri massacre:
+
+
+Korean War begins: In June 1950, North Korea invaded South Korea, sparking the Korean War.
+
+US troops enter the war: In July 1950, US troops entered the war on the side of South Korea.
+
+Battle of Osan: On July 5, 1950, US troops suffered a heavy defeat at the Battle of Osan. This defeat forced US troops to retreat south.
+
+No Gun Ri Incident: On July 26-29, 1950, US troops killed a large number of South Korean refugees near the village of No Gun Ri.
+
+Notable persons that played a role in the No Gun Ri massacre:
+
+Lieutenant Colonel Charles B. Smith: Smith was the commander of the US 7th Cavalry Regiment, which was responsible for the killings at No Gun Ri.
+
+Colonel Robert R. Martin: Martin was the commander of the US 25th Infantry Division, which was the parent unit of the 7th Cavalry Regiment.
+
+Major General Walton H. Walker: Walker was the commander of the US Eighth Army, which was responsible for all US forces in Korea.
+
+
+## The No Gun Ri massacre:
+
+
+In July 1950, US troops were retreating south in the face of a North Korean advance. Near the village of No Gun Ri, a large number of South Korean refugees gathered. The refugees were fleeing the war, and they were hoping to find safety behind US lines.
+
+However, US troops were concerned that the refugees might be North Korean infiltrators. On July 26, 1950, US troops opened fire on the refugees. The killings continued for three days, and hundreds of refugees were killed.
+
+The No Gun Ri massacre was a war crime. It was an unprovoked attack on civilians, and it violated the Geneva Conventions. The massacre was also a betrayal of trust, as the US military had promised the refugees that they would be safe.
+
+Aftermath of the No Gun Ri massacre:
+
+The No Gun Ri massacre was covered up by the US military for many years. It was not until the late 1990s that the truth about the massacre began to come out.
+
+In 2001, the US Army conducted an investigation into the No Gun Ri massacre. The investigation concluded that the killings were "unnecessary and tragic." However, the investigation also exonerated Lieutenant Colonel Smith and the other US officers involved in the massacre.
+
+The No Gun Ri massacre is a reminder of the dark side of human nature. It is also a reminder of the importance of holding military personnel accountable for their actions.
+
+My thoughts as a history teacher:
+
+The No Gun Ri massacre was a tragic event in American history. It was a war crime, and it is a dark stain on the American conscience.
+
+The massacre is a reminder of the dangers of prejudice and discrimination. It is also a reminder of the importance of holding military personnel accountable for their actions.
+
+We must never forget the No Gun Ri massacre, and we must learn from it. We must work to create a society where all people are treated with dignity and respect.
+
+Dawn. Sea shore. Waves crash agaisnt the rocks and sand.
+
+A man kneels in the sand. Drunk. Crying and despondent.
+
+A small gun lay in his hand. A .38 special. No hammer. Easy peasy.
+
+He bought it on the drive down from his home in Maryland.
+
+Too simple of a purchase. He called the gun shop on the border of Maryland and Virginia a few weeks ago.
+
+Paid with cash.
+
+Filled out the forms.
+
+Signed a name.
+
+Two weeks later. The call rang in his ears.
+
+It was now time for the drive.
+
+And he needed to book the beach house.
+
+# # #
+
+
+# The Road Back: The hero begins the journey back to their ordinary world.
+
+
+30 - High Crimes
+
+[Reggie is trapped when he tries to board a private plane in a field in Virginia headed to Cuba. Reference to Soviet spies smuggled outside of US during the Cold War.]
+
+“Nothing infuriates genius of brain matter more than the obvious. Beyond the concept of using the same essential word between two languages or the sound of cats fucking in the alleyway. This is a great discord in the universe and one of the targeted droplets of water on the psyche of thought.
+
+“It is not simply the laziness of one culture to another; it is the obviousness of the use of the word. Pijama shouldn’t be relatively new idea. These are simply clothes you wear to bed. But yet it is a shared word among two broadly understood cultures. Perhaps the fact that they are not broadly understood. Perhaps that is the troubling idea. Perhaps we find some comfort in understanding the fact that Jews and Americans both use the same word to describe clothing they wear to bed is somehow unique and different between the civilized and the uncivilized.
+
+“Perhaps this is just the words we use.
+
+He turned the page of the yellowed paper over in the red folder he had laid before him.
+
+“Perhaps this is just the words we think we use to differentiate ourselves from the barbarians.
+
+The blue-grey cigarette smoke stringed toward the ceiling. His knuckles peppered with black hair. His black suit screamed Central Intelligence Agency, but his demeanor shouted KGB. Either was possible. Neither was plausible. Both were deniable. Reggie was fucked. Like a whore at a stag party in the sixties. Between two horny shitbags with too much whiskey and testosterone pent up from years of not beating their wives after never being the high-school quarterback.
+
+“Perhaps we just like to think so.
+
+It was a wholly undesirable position to be in and yet it the fact Reggie found himself in at this very moment.
+
+“Either way, we find ourselves in the same traps; regardless of the words we choose to use.”
+
+The taste of blood - coppery and metallic - hung in Reggie’s mouth. A punch to the jaw and a brief moment of blackness; then the headache. The single light bulb in the center of the room was a good touch. It reminded him of almost every spy movie he had seen before, but then again it was not like all the old movies; it was real and this was very much Reggies blood in his mouth.
+
+“You decided to leak the documents.”
+
+Honestly, the word document is so overused. Is there really any pure form of that word that is applicable in our word these days? Haven’t we transcended from the use of such an antiquated and perfunctory word? Why don’t we call the transmittals or communications. Because really they are just pulses of electrons and light at this point.
+
+This is where the whore and the stag party metaphor turns violent.
+
+“Turn him over.”
+
+The chair in which Reggie was strapped flipped into a pool of ice water.
+
+Note, Reggie at this point was extremely unlikely to ever voluntarily order “iced water” at any meal he is ever to sit down at in the future.
+
+There are certain sensations that rocket through one’s mind when they are involuntarily submerged into a trough of iced water. None are pleasant. All are terrifying.
+
+The medieval torturers called this a dunking chair. Modern aristocrats considered it delightful entertainment. The carnival barkers find it enjoyable to put a figure of imposed power - a high school principal - into a contraption of similar nature and offer pedestrians three pitches for a dollar.  The world forgets what it refuses to see. This was very much torture in its purest sense.
+
+“The documents.”
+
+The icy water flooded into Reggie’s nostrils; filling his sinuses.
+
+“Where did you store them?”
+
+The question was a simple one, but hard to explain with a sinus filled with cold water.
+
+The truth was not easily explained. Simply put, you try to shout out an internet protocol address between reverse dips into a watery grave.
+
+Madness only follows from this point forward.
+
+31 - Chokepoint
+
+[OpOne finds himself further and further removed from the mechanisms of Vision Systems. He suspects Robinson is choke him out of the operations because RObinson suspects his cooperation with Reggie.
+
+Robinson knows of OpOne’s double-cross and has placed countermeasures designed to kill OpOne during a isolation-exercise in Utah at an Airbase outside of Ogden.
+
+OpOne escapes and goes underground]
+
+32 - Insurgence
+
+[Hacker collectives and groups begin a new round of attacks against utilities, government agencies, and VISION systems.]
+
+33 - Catch the Mouse
+
+34 - Eating the Elephant in the Room
+
+The musty scent of the carpet from the Reagan administration slowly decayed with the foot traffic of reporters, congressional aides, and witnesses as the hearing room filled to capacity.
+
+35 - A Public Murder
+
+Hands gripped Reggie’s wrists, arms, legs and feet. Lifting his body from the holding cell bunk he fell asleep in just a few short hours ago. A burlap sack smelling of clay-dirt and horse wrapped around his head and face. Shouts erupted from the mob. Calls for Reggie’s blood and hysterical screaming.
+
+A wave of men with flashlights, ropes, and chains dragged and carried Reggie through the back door of the stone courthouse. Reggie’s yellow inmate jumpsuit tearing at the seams from the assault.
+
+The U.S. Marshall service office was empty. No U.S. Marshall was to be found in the small office with the holding cell on  the first floor of the Federal Courthouse in Washington D.C. A most unusual event indeed, especially considering the person they had in their custody. Heavy was the air as it pulsed through Reggie’s nostrils. A thick musty scent of old carpet and dust filled his lungs. The dusty taste lingered in the back of his mouth.
+
+(mirror the lynching account found at - https://theundefeated.com/features/the-waco-horror/ )
+
+BOOK THREE
+
+
+# Resurrection: The hero is transformed by their experiences.
+
+
+LiveScience
+
+
+# 400-year-old 'vampire child' found buried with its foot padlocked to stop it rising from the grave
+
+
+By Tom Metcalfe,
+
+21 hours ago
+
+Archaeologists in Poland have unearthed the 400-year-old skeleton of a young child buried face-down with an iron padlock on its foot – seemingly to stop its rising from the dead.
+
+The child was buried in the 17th century in the village of Pień near Poland’s northern city of Bydgoszcz, in what seems to have been a graveyard for "abandoned souls" and the poor who could not afford to be buried in a churchyard.
+
+The archaeologists estimate the child was between 5 and 7 years old at death.
+
+The remains were found just a few feet away from the skeleton of a "vampire" woman discovered last year, who was buried at about the same time with a sickle placed over her neck and a similar padlock on her foot.
+
+According to the traditions of the time, such padlocks were intended to secure a corpse in its grave.
+
+"The padlock shows people were afraid of this child after its death," Dariusz Poliński , an archaeologist at the Nicolaus Copernicus University in Toruń, told Live Science.
+
+A third padlock was unearthed in the same graveyard, though only scattered bones were found nearby.
+
+No other child skeletons buried like this have been found at the site, and it is likely this is the only known example of such a burial in Europe, Poliński said.
+
+Related: See the face of an 18th century 'vampire' buried in Connecticut
+
+Image 1 of 5
+
+An iron padlock was found in the grave beside the child's feet. Archaeologists can't tell if it was fastened around one of his toes or placed underneath one of his feet. (Image credit: Magdalena Zagrodzka/NCU)Image 2 of 5
+
+Burying the dead with padlocks on their toes or under their feet was a traditional practice intended to secure them in the ground and stop them rising from the dead. (Image credit: Lukasz Czyzewski/NCU)Image 3 of 5
+
+The living used such padlocks because they feared dead children, who they supposed might return as ghosts, especially if their deaths were sudden or unusual. (Image credit: Lukasz Czyzewski/NCU)Image 4 of 5
+
+The child's skeleton was found just a few feet from the skeleton of a woman discovered last year, with a sickle around her neck and a padlock on one toe. (Image credit: Mirosław Blicharski/Aleksander Poznań/NCU)Image 5 of 5
+
+Archaeologists from Nicolaus Copernicus University at Toruń have worked at Pień for several years and have now excavated more than 100 graves there. (Image credit: Aleksander Poznań/NCU)
+
+
+## Village graveyard
+
+
+Poliński has led excavations at Pień for several years, and his team has discovered about 100 graves there. Another 13 graves were unearthed during the latest excavations.
+
+The graveyard was not the regular burial place in the village, which would have been within the sacred boundaries of a church, Poliński said — though its location is not known.
+
+Being buried in the church graveyard would have been expensive, so those who could not afford it were buried elsewhere.
+
+This lesser graveyard also seems to have been the place where "abandoned souls" were buried away from the church, even if they could afford a better funeral, Poliński said.
+
+For example, the "vampire" woman discovered last year with a sickle placed over her neck was obviously wealthy: The archaeologists found gold threads in her garments and flecks of gold on the palette of her skull, which indicated she had drunk a medicine containing gold.
+
+Poliński and his team are waiting for the results of an analysis of the DNA in the woman's bones, which could tell them more about her. But their findings suggest she was severely ill.
+
+
+## Undead child
+
+
+The team also hopes to analyze the DNA of the newfound remains. It’s not yet known if the child was male or female, Poliński said.
+
+Dead children were especially feared by living people, who supposed they might return as ghosts — and even more so if the child had suffered a sudden or unusual death, he said.
+
+Although the woman found last year and now the child have been widely labeled "vampires," Poliński said the modern conception of vampires originated later, and the term was not used at this time.
+
+The bones of several other children have been found at the site, but their remains seem to have been disturbed, and no other complete child skeletons have been found, he said.
+
+RELATED STORIES
+
+— Transylvanian skeletons found with urns from the afterlife placed on their heads
+
+— How rabies inspired folktales of werewolves and vampires
+
+— Mysterious 'vampire-slayer kit' sells at auction for $15,600
+
+One jaw fragment from a child is stained green, and the archaeologists think it was buried with a copper coin in its mouth — a common burial tradition at the time.
+
+Poliński and his team are now analyzing the remains found in this year’s excavations, and they hope to return to the site next year to see what else can be found.
+
+36 - We Fix Everything But Broken Hearts
+
+Examine the aftermath of the broken world. Hint at the complainant nature of the status quo.
+
+37*
+
+Drinkin Lean.
+
+
+# Reexamine the broken existence that the world finds a way to breathe.
+
+
+
+# Return with the Elixir: The hero returns to their ordinary world with a new understanding or gift.
+
+
+The cure/solution carries a 50/50 chance of death or sudden reawakening either as a vampire or completely rejuvenated with stronger bones, muscles and faster reaction times, smarter (like Blade).
+
+The Hero is more similar to Thanos. The cure is rejected.
+
+
+# Epilogue: The hero shares their newfound knowledge with others.
+
+
+###
+
+Cursed. This land remains cursed for all the violence and horrors buried there. Staring up at the blue smoke rising out of the hollows and gaps of the mountain.
+
+The slow decaying orbit of the space station lit a small corner of the immaculate sky. No fire light. The stars are too good to miss tonight.
+
+A purple sky inflamed by the solar radiation from a dying sun hundreds of millions of miles away. It finds our valley pinned between two ridges lines with a cliffside plateau along one side where we find a settlement armed with antenna and the barrels of thick cannons spiking from the slicked fortified walls.
+
+A flare fires form within the settlement casting a yellow hue over the blue and green grasses and bright biolumnating natural waters of this land. Small slick serpents slur and slip below the water's surface escaping the brightness of the harsh flare floating in the low gravity.
+
+The valley is quiet now.
+
+The battle is long over.
+
+But the fallout remains.
+
+Henry, a solider, died from a hole in his head he caught while invading this cursed land. But his watch is not over. He remains at the post where he felt at night watching the glow of fog cast against the western setting sun.
+
+It was a cursed land. And awful place where Henry couldn’t even breathe without his helmet. But now, it had a clearly visible hole exploded with gore, but Henry remained at his post. Staring out acrtoss the valley and waiting for the cold of night. A night far colder than any ever felt on terra.
+
+“History is past politics, and politics present history.”
+
+Sir John Seeley, “The Growth of British Policy” (1895).
