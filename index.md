@@ -2,21 +2,29 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-05-23 | Total wiki pages: 303
+> Last updated: 2026-05-25 | Total wiki pages: 360
 
 ---
 
 ## 👥 Characters
+- [[amaymon-of-the-south]] - King of the South, old man riding a roaring lion, ruling the southern quarter and Ars Notoria. (Cosmic Order)
+- [[beelzebub]] - Prince of Devils, Cherubim-class entity who commands one million spirits and appears beautiful. (Cosmic Order)
 - [[brady]] - One of the last human survivors and a historian searching for climate answers. (Kill The Sun)
 - [[chuck-ammerstand]] - A reform-minded Senator from New Hampshire demanding oversight of surveillance. (Project FILTER)
 - [[clemens]] - A frantic civilian intelligence director overseeing operations via his secure-link. (Project FILTER)
 - [[edgar]] - Self-activated android caretaker who is secretly a deadly government infiltrator. (Kill The Sun)
+- [[egine-of-the-north]] - King of the North, tusked man riding an obsidian dragon, ruling the Order-5 Mars Server. (Cosmic Order)
 - [[general-robinson]] - A highly decorated Air Force general defending the legal bounds of the secure-link program. (Project FILTER)
 - [[janet]] - A resilient geologist and the last surviving female human inside the Ark. (Kill The Sun)
 - [[jessica-powell]] - An exceptionally brilliant former Air Force technical specialist in the Speaker's office. (Project FILTER)
+- [[lucifer]] - Sovereign Monarch of Hell, unreachable by direct conjuration and revered by all other devils. (Cosmic Order)
 - [[lucinda]] - The seductive, feline-like merchant of "butter" in the underground tunnels of Washington D.C. (Peanut Butter Underground)
+- [[orions-of-the-east]] - Urience, King of the East, ruling the eastern aerial planes and Order-6 Sun Server. (Cosmic Order)
+- [[paymon-of-the-west]] - King of the West, soldier riding a dromedary camel, ruling the Order-8 Mercury Server. (Cosmic Order)
 - [[personati]] - A delicate redheaded artist and rebel who shelters with Tony in the sewage tunnels. (Peanut Butter Underground)
 - [[reggie-watts]] - Chief of Staff to the late Speaker Baker, struggling with physical and mental nerve rattle from his implant. (Project FILTER)
+- [[satan]] - Throne of Cherubim-class entity suspended in the obscure air, ruling over destructive and blind forces. (Cosmic Order)
+- [[terson]] - King with a lion's face and 72 legions, guardian of hidden treasures and temporal secrets. (Cosmic Order)
 - [[tony]] - A worn, cynical three-war veteran working as a reclamation laborer under the Fatherhood. (Peanut Butter Underground)
 - [[trevor]] - A low-profile, metallic-eyed driver and guide within the underground network. (Project FILTER)
 - [[willie]] - A pragmatic organizer in the subterranean resistance who sources medicinal "butter." (Peanut Butter Underground)
@@ -36,6 +44,7 @@
 - [[peanut-butter]] - A rare, sweet-smelling white ointment used for pain relief and sustenance in the tunnels. (Peanut Butter Underground)
 
 ## 🌀 Concepts & Lore
+- [[sator-square]] - A highly symmetric 5x5 palindrome serving as a recursive loop and protective firewall in the techno-occult grid. (Cosmic Order)
 - [[solar-fission-project]] - A 2010s geoengineering solution to global warming that caused the eternal winter. (Kill The Sun)
 - [[surveillance-protocols]] - National security data-collection codenames (YELLOWBOUNCE, CHILLYWATER, ECHELON). (Project FILTER)
 - [[the-filter]] - Advanced eye-implant secure-link causing physical nerve buzzing, sleep loss, and tracking. (Project FILTER)
@@ -62,6 +71,21 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/mythos-and-magic-backup-repository.md|Mythos and Magic: Backup Repository]] - A raw, comprehensive backup document of the second book of Mythos and Magic.
+- [[raw/drafts/the-chronicles-of-coles-desk.md|The Chronicles of Cole's Desk]] - Meta story about transitioning to automation.
+- [[raw/drafts/magic-squares-grimoires-and-control.md|Magic Squares, Grimoires, And Control]] - A newly ingested draft file.
+- [[raw/drafts/the-celestial-conflict-ancient-wars-of-venus-and-mars.md|The Celestial Conflict: Ancient Wars of Venus and Mars]] - Ancient celestial battles between Venus and Mars caused Earth upheaval.
+- [[raw/drafts/merchants-of-death-a-study-of-the-international-armament-industry.md|Merchants of Death: A Study of the International Armament Industry]] - A newly ingested draft file.
+- [[raw/drafts/watcher-process-and-new-draft.md|Watcher Process and New Draft]] - Watcher process discovers new test draft in Creative Wiki inbox.
+- [[raw/drafts/the-taphthartharath-breach-mercury-firewall-protocols.md|The Taphthartharath Breach: Mercury Firewall Protocols]] - Mercury firewall breach triggers instability, requiring specialized protocols.
+- [[raw/drafts/the-occult-operating-system-archiving-the-cosmic-source-code.md|The Occult Operating System: Archiving the Cosmic Source Code]] - Grimoire system documentation for manipulating reality.
+- [[raw/drafts/the-mercury-firewall-re-coordination-of-the-magic-constant-260.md|The Mercury Firewall: Re-coordination of the Magic Constant 260]] - Characters navigate Mercury Server to re-coordinate magic constant in trial phase.
+- [[raw/drafts/the-mathematician-architect-of-numerical-complexity.md|The Mathematician: Architect of Numerical Complexity]] - Mathematician character guides complex number grids in a digital realm.
+- [[raw/drafts/the-grand-grimoire-interface-universal-governance-technical-solutions.md|The Grand Grimoire Interface: Universal Governance Technical Solutions]] - Digital Kamea Interface automates universal governance formulas for laymen.
+- [[raw/drafts/the-geometric-interface-magic-square-mechanics-and-universal-governance.md|The Geometric Interface: Magic Square Mechanics and Universal Governance]] - Magic square mechanics in a game of cosmic governance.
+- [[raw/drafts/the-gematria-hack-protocol-techno-occult-system-architecture.md|The Gematria Hack Protocol: Techno-Occult System Architecture]] - Techno-occult protocol for converting names into cryptographic keys.
+- [[raw/drafts/the-devil-s-blueprint.md|The Devil_S Blueprint]] - A newly ingested draft file.
+- [[raw/drafts/the-damascus-breach-terminal-access-and-the-murderous-bargain.md|The Damascus Breach: Terminal Access and the Murderous Bargain]] - Terminal breach reveals God of Rage's true nature in 2025 Damascus.
 - [[raw/drafts/the-d88-coordinate-interface-and-magic-square-mechanics.md|The d88 Coordinate Interface and Magic Square Mechanics]] - Mechanics of d88 rolls in magic square game.
 - [[raw/drafts/the-cosmologist-mathematical-blueprints-of-the-macrocosm.md|The Cosmologist: Mathematical Blueprints of the Macrocosm]] - Mathematical cosmologist's abilities and app requirements.
 - [[raw/drafts/the-chronological-plot-expansion-of-the-god-of-rage-task-2-2-the-1899-washington-dc-layer.md|The Chronological Plot Expansion of the God of Rage - Task 2.2: The 1899 Washington DC Layer]] - Detailed investigation into the 1899 Arlington Hotel meeting by secret societies.

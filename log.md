@@ -3,6 +3,93 @@
 > Chronological record of all updates, drafts ingested, and lore audits in the Story Bible.
 > Format: `## [YYYY-MM-DD] action | Subject`
 
+## [2026-05-25] ingest | Mythos and Magic Backup Repository
+- Ingested and normalized new backup document to `raw/drafts/mythos-and-magic-backup-repository.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[lucifer]], [[beelzebub]], [[satan]], [[orions-of-the-east]], [[amaymon-of-the-south]], [[paymon-of-the-west]], [[egine-of-the-north]], [[terson]]
+  - Concepts: [[sator-square]]
+
+## [2026-05-23] ingest | The Chronicles of Cole's Desk
+- Ingested and normalized new draft to `raw/drafts/the-chronicles-of-coles-desk.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[automation-systems]]
+
+## [2026-05-23] ingest | Magic Squares, Grimoires, And Control
+- Ingested and normalized new draft to `raw/drafts/magic-squares-grimoires-and-control.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-05-23] ingest | The Celestial Conflict: Ancient Wars of Venus and Mars
+- Ingested and normalized new draft to `raw/drafts/the-celestial-conflict-ancient-wars-of-venus-and-mars.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[celestial_conflict]], [[venus_mars_battles]]
+
+## [2026-05-23] ingest | Merchants of Death: A Study of the International Armament Industry
+- Ingested and normalized new draft to `raw/drafts/merchants-of-death-a-study-of-the-international-armament-industry.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-05-23] ingest | Watcher Process and New Draft
+- Ingested and normalized new draft to `raw/drafts/watcher-process-and-new-draft.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[creative-wiki-inbox]]
+  - Concepts: [[background-watcher-process]]
+
+## [2026-05-23] ingest | The Taphthartharath Breach: Mercury Firewall Protocols
+- Ingested and normalized new draft to `raw/drafts/the-taphthartharath-breach-mercury-firewall-protocols.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[occultist]], [[mathematician]], [[cosmologist]], [[artist]]
+  - Locations: [[mercury_firewall]]
+  - Concepts: [[taphthartharath_breach]]
+
+## [2026-05-23] ingest | The Occult Operating System: Archiving the Cosmic Source Code
+- Ingested and normalized new draft to `raw/drafts/the-occult-operating-system-archiving-the-cosmic-source-code.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[sigil]], [[gematria_hack_protocol]]
+
+## [2026-05-23] ingest | The Mercury Firewall: Re-coordination of the Magic Constant 260
+- Ingested and normalized new draft to `raw/drafts/the-mercury-firewall-re-coordination-of-the-magic-constant-260.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mathematician]], [[occultist]]
+  - Locations: [[mercury-server-order-8]]
+  - Concepts: [[magic_constant_260]], [[grand_kabbalistic_circle]]
+
+## [2026-05-23] ingest | The Mathematician: Architect of Numerical Complexity
+- Ingested and normalized new draft to `raw/drafts/the-mathematician-architect-of-numerical-complexity.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[the-mathematician]]
+  - Concepts: [[magic-squares]], [[mathematical-regularity]], [[universal-systems]]
+
+## [2026-05-23] ingest | The Grand Grimoire Interface: Universal Governance Technical Solutions
+- Ingested and normalized new draft to `raw/drafts/the-grand-grimoire-interface-universal-governance-technical-solutions.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mathematician-complexity-scaler]], [[occultist-nominal-protection-buffer]], [[cosmologist-pivot-alignment]]
+  - Concepts: [[magic-constant-engine]], [[coordinate-roll-system]], [[grand-grimoire-interface]]
+
+## [2026-05-23] ingest | The Geometric Interface: Magic Square Mechanics and Universal Governance
+- Ingested and normalized new draft to `raw/drafts/the-geometric-interface-magic-square-mechanics-and-universal-governance.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mathematician]], [[occultist]]
+  - Locations: [[gameplay-grid]], [[cosmic-firewall]]
+  - Items: [[magic-square]], [[nominal-squares]]
+  - Concepts: [[magic-constant]], [[demonic-feedback]]
+
+## [2026-05-23] ingest | The Gematria Hack Protocol: Techno-Occult System Architecture
+- Ingested and normalized new draft to `raw/drafts/the-gematria-hack-protocol-techno-occult-system-architecture.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[gematria-hack-protocol]], [[abjad-system]], [[planetary-kamea]], [[magic-constant-m]]
+
+## [2026-05-23] ingest | The Devil_S Blueprint
+- Ingested and normalized new draft to `raw/drafts/the-devil-s-blueprint.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-05-23] ingest | The Damascus Breach: Terminal Access and the Murderous Bargain
+- Ingested and normalized new draft to `raw/drafts/the-damascus-breach-terminal-access-and-the-murderous-bargain.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[witness]]
+  - Locations: [[damascus_chamber]], [[god_of_rage_residence]]
+  - Organizations: [[earth_node]], [[prime_minister_fixer]]
+  - Items: [[torah]], [[system_override]]
+  - Concepts: [[recursive_loop]], [[eternal_truth]]
+
 ## [2026-05-23] ingest | The d88 Coordinate Interface and Magic Square Mechanics
 - Ingested and normalized new draft to `raw/drafts/the-d88-coordinate-interface-and-magic-square-mechanics.md`.
 - Extracted and updated/created lore pages:

@@ -4,7 +4,7 @@ created: "2026-05-23"
 updated: "2026-05-23"
 type: "character"
 tags: ["character", "draft"]
-sources: ["raw/drafts/architects-of-the-source-code-rpg-skill-trees.md", "raw/drafts/grids-of-power-the-rpg-administrative-portfolios.md"]
+sources: ["raw/drafts/architects-of-the-source-code-rpg-skill-trees.md", "raw/drafts/grids-of-power-the-rpg-administrative-portfolios.md", "raw/drafts/the-mathematician-architect-of-numerical-complexity.md"]
 canon_status: "draft"
 ---
 # The Mathematician (The Architect of Complexity)
@@ -24,3 +24,6 @@ High-level system management and alphanumeric encryption skills.^[[raw/drafts/ar
 
 ### Update from [[grids-of-power-the-rpg-administrative-portfolios]]
 Manipulates reality through intellectual operations.^[[raw/drafts/grids-of-power-the-rpg-administrative-portfolios.md]]
+
+### Update from [[the-mathematician-architect-of-numerical-complexity]]
+Architect of numerical complexity, views magic squares as intrinsic harmony.^[[raw/drafts/the-mathematician-architect-of-numerical-complexity.md]]

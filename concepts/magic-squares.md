@@ -4,7 +4,7 @@ created: "2026-05-23"
 updated: "2026-05-23"
 type: "concept"
 tags: ["concept", "draft"]
-sources: ["raw/drafts/magic-squares-and-spirit-kings.md", "raw/drafts/the-cosmologist-mathematical-blueprints-of-the-macrocosm.md"]
+sources: ["raw/drafts/magic-squares-and-spirit-kings.md", "raw/drafts/the-cosmologist-mathematical-blueprints-of-the-macrocosm.md", "raw/drafts/the-mathematician-architect-of-numerical-complexity.md"]
 canon_status: "draft"
 ---
 # Magic Squares
@@ -18,3 +18,6 @@ Ancient mystical grids that summon spirit kings.^[[raw/drafts/magic-squares-and-
 
 ### Update from [[the-cosmologist-mathematical-blueprints-of-the-macrocosm]]
 Underlying blueprints of reality, viewed as small models of a harmonious universe.^[[raw/drafts/the-cosmologist-mathematical-blueprints-of-the-macrocosm.md]]
+
+### Update from [[the-mathematician-architect-of-numerical-complexity]]
+Fascinating permutations of number theory, viewed by the Mathematician as intrinsic harmony.^[[raw/drafts/the-mathematician-architect-of-numerical-complexity.md]]
