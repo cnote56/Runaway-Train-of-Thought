@@ -10,7 +10,7 @@ canon_status: draft
 
 Confessions of a DFS Player
 
-By Cole Dowden
+By Cole Dooling
 
 Nobody else would bother to write this; so I had to.
 

@@ -9,7 +9,7 @@ canon_status: draft
 ---
 
 Ted’s Last Night                             ~340 words
-Cole Dowden
+Cole Dooling
 Cole.dowden@gmail.com; 817-343-3718
 
       Ted said he felt all right, but he looked like shit to me. He was

@@ -6,7 +6,7 @@ word_count: 7061
 status: "Raw Draft Ingested"
 ---
 
-Traitor, Soldier, Grandfather | Dowden | ~7K words
+Traitor, Soldier, Grandfather | Dooling | ~7K words
 
 Traitor, Soldier, Grandfather.
 

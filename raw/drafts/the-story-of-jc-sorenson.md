@@ -9,7 +9,7 @@ canon_status: draft
 ---
 
 The story of J.C. Sorenson
-By Cole Dowden
+By Cole Dooling
 
 I don’t remember how I got home. I just remember standing with the door of
 my apartment open behind me and my keys in my hand. I walked to the

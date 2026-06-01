@@ -8,7 +8,7 @@ status: "Raw Draft Ingested"
 
 The Trophy Tree
 
-By Cole Dowden
+By Cole Dooling
 
 I am not human any more. I only resemble the human in biological standards. My mind is firing on a different level than other humans. I know because I know. The denial of truth, which I perceive, is a falsity and must be ignored. This is my experience as a creature—an animal, because that is all I can assure that I am. I am not human anymore, I could have been once before, but now I am certain that I am not human anymore. I am not above humanity nor below it nor on the same level. I cannot afford the price of humanity’s association in this reality.
 

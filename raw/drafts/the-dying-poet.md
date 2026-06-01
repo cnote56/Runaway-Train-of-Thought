@@ -8,7 +8,7 @@ sources: [raw/drafts/the-dying-poet.md]
 canon_status: draft
 ---
 
-Cole Dowden
+Cole Dooling
 
 
 810 S. Atkerson Lane

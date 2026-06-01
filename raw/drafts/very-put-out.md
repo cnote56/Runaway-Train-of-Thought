@@ -8,7 +8,7 @@ sources: [raw/drafts/very-put-out.md]
 canon_status: draft
 ---
 
-Cole Dowden
+Cole Dooling
 810 S Atkerson Lane
 Euless Texas 76040
 

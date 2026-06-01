@@ -9,7 +9,7 @@ canon_status: draft
 ---
 
 The Day The World Changed.
-By William C. Dowden III
+By William C. Dooling III
 
 Light filled the room through the wire mesh inlayed windows. A man sits in
 a plastic chair staring out the window at the empty courtyard. His arms are

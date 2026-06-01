@@ -5,7 +5,7 @@ type: draft
 sha256: 8834114df73611a84c0dc496f89eb6aaeedd77efaed657a56a4459b31ca4821e
 ---
 
-Cole Dowden
+Cole Dooling
 
 5922 Crown St.
 

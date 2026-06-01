@@ -14,7 +14,7 @@ The Wanderlust:
 Confessions of An Angry Poet.
 
 
-By Cole Dowden
+By Cole Dooling
 
 
 Chapter One

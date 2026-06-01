@@ -8,7 +8,7 @@ sources: [raw/drafts/the-depths.md]
 canon_status: draft
 ---
 
-Cole Dowden
+Cole Dooling
 810 S. Atkerson Lane
 Euless Texas, 76040
 (817) 283-8330

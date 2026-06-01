@@ -9,7 +9,7 @@ canon_status: draft
 ---
 
 The Pool Hall.
-By William C. Dowden III
+By William C. Dooling III
 
       I felt like Dostoyevsky writing my own “Notes From the Underground”
 for all those years of my life.

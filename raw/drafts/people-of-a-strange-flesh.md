@@ -5,7 +5,7 @@ type: draft
 sha256: bbd190a13c36dd3459109bf135a822c7d88eb9c9b57d29e02c838e8191661de0
 ---
 
-Cole Dowden
+Cole Dooling
 
 5922 Crown St.
 
@@ -17,7 +17,7 @@ cole.dowden@gmail.com
 
 People of a Strange Flesh
 
-By Cole Dowden
+By Cole Dooling
 
 To kill something, you have to know it. Study it. Know where it sleeps, eats, shits, and fucks. You can’t be caught surprised by it’s built-in and leftover randomness - leftover from its former humanity.
 

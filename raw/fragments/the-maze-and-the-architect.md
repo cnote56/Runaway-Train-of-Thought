@@ -8,7 +8,7 @@ status: "Raw Draft Ingested"
 
 Is it rude to ignore the elephant? The Maze and the Architect.
 
-Cole Dowden; 817-343-3718; cole.dowden@gmail.com
+Cole Dooling; 817-343-3718; cole.dowden@gmail.com
 
 Congratulations! You are the winner of the Internship lottery!
 

@@ -5,7 +5,7 @@ type: draft
 sha256: 4e85b116c4cb84bfe022c8d92c438cedb070700df31e73bd7f4a3be42df8cfd5
 ---
 
-Cole Dowden   							~155K Words
+Cole Dooling   							~155K Words
 
 5922 Crown St.
 
@@ -3123,7 +3123,7 @@ Databases syncing; sensors indicate target at residence - in pocket.  License pl
 
 ###
 
-The soon-to-be late-Speaker of the House Baker’s Chief of Staff, Reggie Watts, lay couch locked in his living room as the implanted secure-link rattled behind his right eye just next to his caged brain. The rattling and pings only further resonating against Reggie’s hangover.
+The soon-to-be late-Speaker of the House Baker’s Chief of Staff, Reggie Dooling, lay couch locked in his living room as the implanted secure-link rattled behind his right eye just next to his caged brain. The rattling and pings only further resonating against Reggie’s hangover.
 
 The room dark with blackout curtains.
 
@@ -3550,7 +3550,7 @@ The signature identifiers are unique to the device itself. The encryption key wa
 	The light in the sight of the e-rifle flashed green and the burst if data shot from the antenna-barrel finding its Target in the chest of Rep. Baker. The pacemaker surged to life and fired electrical pulses throughout the nerves of the the Representative's heart causing the thin sidewalls of the anterior carotid artery to balloon and burst. 
 Rep. Bakers heart burst and filled his chest with blood causing the death immediately.
 
-Rumors flash fry in politics, but this rumor was true. Rep. Baker had just sent a message to his chief of staff telling him, in essence, to “file the damn papers. I don’t care what those bastards say.” It was the last communication sent via the Representative's internally implanted congressional-secure-link to his Chief of Staff, Reggie Watts.
+Rumors flash fry in politics, but this rumor was true. Rep. Baker had just sent a message to his chief of staff telling him, in essence, to “file the damn papers. I don’t care what those bastards say.” It was the last communication sent via the Representative's internally implanted congressional-secure-link to his Chief of Staff, Reggie Dooling.
 
 Rep. Baker was dead before his salt and pepper hair touched the bricks. A heart attack - natural causes - was the diagnosis; confirmed by autopsy. But this heart attack wasn’t natural.
 
@@ -6473,11 +6473,11 @@ The spokesperson snapped with a canned answer, “The Bureau is investigating al
 
 The broadcast anchor asked another question, “Is the identity of this man known at this time?”
 
-“His name is Reggie Watts. Is is an individual of great interest to the Bureau and this investigation. He should not be approached by the public and his whereabouts should be reported to the Bureau’s Crimetip Hotline.”
+“His name is Reggie Dooling. Is is an individual of great interest to the Bureau and this investigation. He should not be approached by the public and his whereabouts should be reported to the Bureau’s Crimetip Hotline.”
 
 ###
 
-The internet and the media outlets buzzed with revelations and rumors about Reggie Watts. Being the former Chief of Staff to the late Representative Baker was the first shocking headline to crawl along the bottom of the television screens and email alerts. There were numerous questions about whether he was an Israeli spy and if Rep. Baker was assassinated by Reggie.  The media whirlwind spun itself into butter with the public lapping it up by the spoonful.
+The internet and the media outlets buzzed with revelations and rumors about Reggie Dooling. Being the former Chief of Staff to the late Representative Baker was the first shocking headline to crawl along the bottom of the television screens and email alerts. There were numerous questions about whether he was an Israeli spy and if Rep. Baker was assassinated by Reggie.  The media whirlwind spun itself into butter with the public lapping it up by the spoonful.
 
 All of the countermeasures worked perfectly, the Operators slipped in small bits of suspicion and scandal into various forums and chat rooms across the underbelly of the Internet. They took root and bubbled up to the surface. Then once the bubbles caught the attention of the information-starved public, it spread wide and far, like a woodlands fire in a drought.
 
@@ -7943,7 +7943,7 @@ Patricia Baker hung-up the phone. She respectfully dropped into an ornate sewing
 
 With a shouted order and flick of pen, Patricia Baker was the newest member of the United States Congress and she was alone in the husk of the world she shared with her late-husband.
 
-Time waits for no one. Instantly, Patricia Baker’s handheld device chirped with a messages, texts, and emails. She hated these things more than her late-husband once despised. It was pressed into her hand shortly after her security detail arrived and informed her that Reggie Watts - her late-husbands long-time Chief-of-Staff - had disappeared and rumors and reports began to flood the news cycle about a high-tech security firm with government contracts actually spying on AMerican citizens.
+Time waits for no one. Instantly, Patricia Baker’s handheld device chirped with a messages, texts, and emails. She hated these things more than her late-husband once despised. It was pressed into her hand shortly after her security detail arrived and informed her that Reggie Dooling - her late-husbands long-time Chief-of-Staff - had disappeared and rumors and reports began to flood the news cycle about a high-tech security firm with government contracts actually spying on AMerican citizens.
 
 The leaks caused all staff on the hill to deactivate their secure-links. Blackberry’s were reactivated and suddenly phone chargers were the new must-have item on Amazon.com.
 

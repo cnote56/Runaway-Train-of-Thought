@@ -1,13 +1,13 @@
 ---
-name: Reggie Watts
+name: Reggie Dooling
 role: Chief of Staff to the Speaker of the House
 status: Rogue / Fugitive (In-Transit)
 links: "[[the-filter]], [[jessica-powell]], [[trevor]]"
 ---
 
-# Reggie Watts
+# Reggie Dooling
 
-Reggie Watts is the Chief of Staff to Representative Baker, the Speaker of the House. He is a key political player inside the Washington D.C. Beltway, but he is reaching a physical and psychological breaking point due to **[[the-filter]]**—a secure-link cybernetic implant behind his right eye.
+Reggie Dooling is the Chief of Staff to Representative Baker, the Speaker of the House. He is a key political player inside the Washington D.C. Beltway, but he is reaching a physical and psychological breaking point due to **[[the-filter]]**—a secure-link cybernetic implant behind his right eye.
 
 ## Biography
 Reggie has spent years navigating the high-stress, fast-paced political machinery of Capitol Hill. When the secure-link system was mandated for top-tier government personnel, Reggie was fitted with the implant next to his brain. Over time, the constant buzzes, pings, and data-streams began to rattle his nervous system and severely affect his focus. 

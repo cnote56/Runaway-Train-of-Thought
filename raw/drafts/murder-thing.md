@@ -7,7 +7,7 @@ status: "Raw Draft Ingested"
 ---
 
 Murder-Thing.                                 Approx. 2,200 words
-Cole Dowden
+Cole Dooling
 
 5922 Crown St.
 

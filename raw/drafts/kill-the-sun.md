@@ -11,7 +11,7 @@ How to Ruin Everything and still get paid.
 
 A Science-Fiction Theorem on the Fallacy of Man.
 
-By Cole Dowden
+By Cole Dooling
 
 
 ## Act I:
