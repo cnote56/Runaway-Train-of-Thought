@@ -10,6 +10,11 @@
 - Extracted and updated/created lore pages:
   - Concepts: [[maelstrom-of-fire-and-evil]]
 
+## [2026-06-02] update | Wiki Navigation and Content Guide
+- Created comprehensive guide `GUIDE.md` to help users navigate and understand the wiki structure, active story universes, back-end pipelines, and system requirements.
+- Updated `index.md` to link directly to [[GUIDE.md]].
+- Recompiled and deployed the interactive web wiki via `deploy_wiki.py`.
+
 ## [2026-06-02] ingest | Dreams of an Illusory Paradise
 - Ingested and normalized new draft to `raw/drafts/dreams-of-an-illusory-paradise.md`.
 - Extracted and updated/created lore pages:
