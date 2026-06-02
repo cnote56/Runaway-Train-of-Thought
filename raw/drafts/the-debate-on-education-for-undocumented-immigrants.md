@@ -3,7 +3,7 @@ title: "The Debate on Education for Undocumented Immigrants"
 created: "2026-06-02"
 updated: "2026-06-02"
 type: "draft"
-tags: ["character", "location", "concept"]
+tags: ["character", "location", "concept", "plot"]
 sources: ["raw/drafts/the-debate-on-education-for-undocumented-immigrants.md"]
 canon_status: "draft"
 ---

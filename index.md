@@ -2,7 +2,7 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-06-02 | Total wiki pages: 462
+> Last updated: 2026-06-02 | Total wiki pages: 475
 
 ---
 
@@ -71,6 +71,8 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/prisoners-reflections.md|Prisoner's Reflections]] - Prisoner recounts his experiences in a cage.
+- [[raw/drafts/last-rounds.md|Last Rounds]] - Survivor's final stand against overwhelming odds.
 - [[raw/drafts/good-morning-welcome-home.md|Good Morning, Welcome Home]] - Morning scenes in a city with diverse characters.
 - [[raw/drafts/the-wall-of-dreams.md|The Wall of Dreams]] - Dreams threaten protagonist's sanity.
 - [[raw/drafts/the-lonely-dwellers.md|The Lonely Dwellers]] - Misanthropic protagonist's solitary struggle.

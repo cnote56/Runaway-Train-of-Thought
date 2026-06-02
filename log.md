@@ -1,3 +1,23 @@
+## [2026-06-02] ingest | Prisoner's Reflections
+- Ingested and normalized new draft to `raw/drafts/prisoners-reflections.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[prisoner]]
+  - Locations: [[cage]]
+  - Concepts: [[sin]], [[retribution]]
+
+## [2026-06-02] ingest | Last Rounds
+- Ingested and normalized new draft to `raw/drafts/last-rounds.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[commander]]
+  - Locations: [[last_position]]
+  - Concepts: [[chain_command_protocol]]
+
+## [2026-06-02] ingest | The Debate on Education for Undocumented Immigrants
+- Ingested and normalized new draft to `raw/drafts/the-debate-on-education-for-undocumented-immigrants.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[william-coleman-dowden-iii]]
+  - Concepts: [[american-dream]], [[constitution-and-bill-of-rights]]
+
 ## [2026-06-02] ingest | The Lonely Dwellers
 - Ingested and normalized new draft to `raw/drafts/the-lonely-dwellers.md`.
 - Extracted and updated/created lore pages:
