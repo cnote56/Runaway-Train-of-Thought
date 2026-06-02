@@ -1,12 +1,19 @@
 ---
-title: "Oriens (King of the East)"
-created: "2026-05-23"
-updated: "2026-05-25"
-type: "character"
-tags: ["character", "supporting"]
-sources: ["raw/drafts/the-administrative-architecture-of-the-four-kings.md", "raw/drafts/mythos-and-magic-backup-repository.md"]
-canon_status: "draft"
+title: Oriens (King of the East)
+created: '2026-05-23'
+updated: '2026-06-02'
+type: character
+tags:
+- character
+- supporting
+- draft
+sources:
+- raw/drafts/the-administrative-architecture-of-the-four-kings.md
+- raw/drafts/mythos-and-magic-backup-repository.md
+- raw/drafts/architects-and-enforcers-of-the-infernal-grid.md
+canon_status: draft
 ---
+
 # Oriens (King of the East)
 
 ## Overview
@@ -25,3 +32,19 @@ Oriens (also known as Urience) is the King of the East, ruling over the eastern 
 - **Satan:** Fully known by [[satan]], who coordinates with him on the governance of mortal lands.^[[raw/drafts/mythos-and-magic-backup-repository.md]]
 - **Baal:** One of the principal spirits under his direct command, who teaches invisibility and grants the love of men and women.^[[raw/drafts/mythos-and-magic-backup-repository.md]]
 - **Messengers:** Assisted by his spiritual messengers, **Temell** and **Belfarto**, who route communication requests to the Eastern quarter.^[[raw/drafts/mythos-and-magic-backup-repository.md]]\n
+
+## Consolidated Draft Material (from orient.md)
+
+# Oriens (King of the East)
+
+## Overview
+Fair feminine entity managing historical data recovery.^[[raw/drafts/architects-and-enforcers-of-the-infernal-grid.md]]
+
+## Appearance & Traits
+- See draft details.^[[raw/drafts/architects-and-enforcers-of-the-infernal-grid.md]]
+
+## Biography & History
+- See draft details.^[[raw/drafts/architects-and-enforcers-of-the-infernal-grid.md]]
+
+## Relationships
+- See draft details.^[[raw/drafts/architects-and-enforcers-of-the-infernal-grid.md]]

@@ -18,7 +18,7 @@ Lucifer is the supreme monarch of Hell, described as the "father of all Devils."
 
 ## Biography & History
 - **The Absolute Sovereign:** Established by divine ordinance as the ruler of the infernal legions. All devils, regardless of their rank or order, revere and worship Lucifer, obeying him with a "kind of majesty" ordained by God.^[[raw/drafts/mythos-and-magic-backup-repository.md]]
-- **The Prime Minister's Service:** Governs hell through his appointed Prime Minister, [[lucifuge-rofocale]], who acts as his terrestrial proxy and contract enforcer.^[[raw/drafts/mythos-and-magic-backup-repository.md]]
+- **The Prime Minister's Service:** Governs hell through his appointed Prime Minister, [[prime-minister-of-hell-lucifuge-rofocale]], who acts as his terrestrial proxy and contract enforcer.^[[raw/drafts/mythos-and-magic-backup-repository.md]]
 
 ## Relationships
 - **Lucifuge Rofocale:** Serves as Lucifer's "Prime Minister" and "General Counsel," managing the day-to-day administrative operations of Hell by Lucifer's direct order.^[[raw/drafts/mythos-and-magic-backup-repository.md]]

@@ -1,11 +1,19 @@
 ---
-title: "The Capital City"
-aliases: ["Capitol", "Washington", "Washington D.C."]
+title: The Capital City
+aliases:
+- Capitol
+- Washington
+- Washington D.C.
 created: 2026-05-23
-updated: 2026-05-23
+updated: '2026-06-02'
 type: location
-tags: [location, city]
-sources: [raw/drafts/the-peanut-butter-underground.md]
+tags:
+- location
+- city
+- draft
+sources:
+- raw/drafts/the-peanut-butter-underground.md
+- raw/drafts/the-mysterious-stranger.md
 canon_status: draft
 ---
 
@@ -23,3 +31,13 @@ The Capital City (derived from Washington D.C.) is the cold, gray, and desolate 
 ## Climate & Atmosphere
 - Subject to harsh climate shifts, the city is plagued by freezing wind, rain, snow, and bone-chilling cold that forces citizens to burn books and valuable materials for fuel. ^[raw/drafts/the-peanut-butter-underground.md]
 - Famines and successive wars have decimated the population, leaving the streets desolate and populated mainly by cowed workers, gray-clad officers, and veterans wearing tattered army coats. ^[raw/drafts/the-peanut-butter-underground.md]
+
+## Consolidated Draft Material (from capital-city.md)
+
+# Capital City
+
+## Overview
+The setting of the story, a cold, wet night in the Capital City with locked-down sector 4 and hover patrol drones.^[[raw/drafts/the-mysterious-stranger.md]]
+
+## History & Appearances
+- [[the-mysterious-stranger]] - Introduced/mentioned.^[[raw/drafts/the-mysterious-stranger.md]]
