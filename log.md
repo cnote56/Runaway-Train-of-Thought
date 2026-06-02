@@ -1,3 +1,279 @@
+## [2026-06-02] ingest | Cole's Letter to Kacy
+- Ingested and normalized new draft to `raw/drafts/coles-letter-to-kacy.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[cole]]
+  - Locations: [[washington_terrace_house]]
+  - Concepts: [[memory_as_muse]], [[songs_written_for_kacy]]
+
+## [2026-06-02] ingest | Cole's Letter to Kacy
+- Ingested and normalized new draft to `raw/drafts/coles-letter-to-kacy.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[cole]]
+  - Locations: [[washington_terrace_house]]
+  - Concepts: [[memory_as_muse]], [[songs_written_for_kacy]]
+
+## [2026-06-02] ingest | The Bitter End: A Cold War Drama
+- Ingested and normalized new draft to `raw/drafts/the-bitter-end-a-cold-war-drama.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[brady]], [[janet]]
+  - Locations: [[the-bitter-end-office]], [[crater-lake-area]]
+  - Items: [[sealed-whiskey-bottle]]
+  - Concepts: [[global-warming-solution]], [[artificial-intelligence-protocol-edgar]]
+
+## [2026-06-02] ingest | A Letter of Beauty and Desires
+- Ingested and normalized new draft to `raw/drafts/a-letter-of-beauty-and-desires.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[sweet-temptress]]
+  - Concepts: [[spiritual-cleansing]]
+
+## [2026-06-02] ingest | A Son's Quest for Justice
+- Ingested and normalized new draft to `raw/drafts/a-sons-quest-for-justice.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[daddy-char-slug]], [[son-char-slug]]
+  - Locations: [[barbershop-loc-slug]], [[country-store-loc-slug]], [[back-forty-acres-loc-slug]]
+  - Organizations: [[union-org-slug]], [[factory-owner-org-slug]]
+  - Items: [[milk-jug-item-slug]], [[handkerchief-item-slug]]
+  - Concepts: [[union-movement-concept-slug]], [[father-killed-by-owner-concept-slug]]
+
+## [2026-06-02] ingest | The Immortals: Elite Bio-Engineered Soldiers
+- Ingested and normalized new draft to `raw/drafts/the-immortals-elite-bio-engineered-soldiers.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[squad_leader]]
+  - Locations: [[space_colony_system]]
+  - Organizations: [[Immortals]]
+  - Concepts: [[bio_engineering]], [[space_conflict]]
+
+## [2026-06-02] ingest | A Temptress and Her Voice
+- Ingested and normalized new draft to `raw/drafts/a-temptress-and-her-voice.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[temptress]]
+  - Concepts: [[voice-corruption]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[hidden-village]]
+  - Items: [[ancient-rod]]
+  - Concepts: [[mystic-energy]]
+
+## [2026-06-02] ingest | Forgotten Memories
+- Ingested and normalized new draft to `raw/drafts/forgotten-memories.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[cole]]
+  - Locations: [[washington_terrace]]
+  - Concepts: [[friendship_memory]]
+
+## [2026-06-02] ingest | The Painful Love
+- Ingested and normalized new draft to `raw/drafts/the-painful-love.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[char-love-sufferer]]
+  - Concepts: [[concept-love-kills]], [[concept-sorrow-and-pain]]
+
+## [2026-06-02] ingest | A Man's Struggle: A Poetic Reflection
+- Ingested and normalized new draft to `raw/drafts/a-mans-struggle-a-poetic-reflection.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[man-struggler]]
+  - Concepts: [[life-battle]], [[air-breathing]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[aliens]], [[resistance-team]]
+  - Locations: [[alien-habitat]], [[human-city]]
+  - Organizations: [[alien-fleet-command]], [[human-resistance-alliance]]
+  - Items: [[alien-weapon]], [[human-defense-systems]]
+  - Concepts: [[alien-invasion-mechanics]], [[human-resistance-strategy]]
+
+## [2026-06-02] ingest | The Final Decision
+- Ingested and normalized new draft to `raw/drafts/the-final-decision.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[hell-prophesy]]
+
+## [2026-06-02] ingest | A Spitting Poet's Battle
+- Ingested and normalized new draft to `raw/drafts/a-spitting-poets-battle.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[spitting-poet]]
+  - Concepts: [[battle-of-life]], [[tainted-air]]
+
+## [2026-06-02] ingest | The Reaper's Work
+- Ingested and normalized new draft to `raw/drafts/the-reapers-work.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[reaper-soul-cleaning]]
+
+## [2026-06-02] ingest | The Dark Room Show
+- Ingested and normalized new draft to `raw/drafts/the-dark-room-show.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[dowden]]
+  - Locations: [[dark_room]]
+  - Concepts: [[sins_in_dark_room]]
+
+## [2026-06-02] ingest | Butt Pillow Adventures
+- Ingested and normalized new draft to `raw/drafts/butt-pillow-adventures.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[han-solo]], [[student-driver-bitch]]
+  - Organizations: [[linkedin]]
+  - Concepts: [[butt-pillow-adventure]]
+
+## [2026-06-02] ingest | The End of Trying
+- Ingested and normalized new draft to `raw/drafts/the-end-of-trying.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[protagonist]]
+  - Concepts: [[hopelessness]], [[trying]]
+
+## [2026-06-02] ingest | Avoiding Desperation
+- Ingested and normalized new draft to `raw/drafts/avoiding-desperation.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[desperation-feeling]]
+
+## [2026-06-02] ingest | Reflections of Heartache
+- Ingested and normalized new draft to `raw/drafts/reflections-of-heartache.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[dowden]]
+  - Concepts: [[past-heartbreaks]], [[four-leaf-clover]]
+
+## [2026-06-02] ingest | The End of Trying
+- Ingested and normalized new draft to `raw/drafts/the-end-of-trying.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[protagonist]]
+  - Concepts: [[hopelessness_concept]], [[try_again_concept]]
+
+## [2026-06-02] ingest | Avoiding Desperation
+- Ingested and normalized new draft to `raw/drafts/avoiding-desperation.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[character-habit]]
+  - Concepts: [[desperation-feeling]], [[safe_place]]
+
+## [2026-06-02] ingest | Reflections of Heartbreak
+- Ingested and normalized new draft to `raw/drafts/reflections-of-heartbreak.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[dowden]]
+  - Concepts: [[past-heartbreak-reflections]]
+
+## [2026-06-02] ingest | The Final Decision
+- Ingested and normalized new draft to `raw/drafts/the-final-decision.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[final-prophesy]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-06-02] ingest | A Raw Love Story
+- Ingested and normalized new draft to `raw/drafts/a-raw-love-story.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[char-poor-boy]]
+  - Concepts: [[concept-love-story]], [[concept-explicit-content]]
+
+## [2026-06-02] ingest | The Final Decision
+- Ingested and normalized new draft to `raw/drafts/the-final-decision.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[hell-existence-concept]]
+
+## [2026-06-02] ingest | The Precious Streets
+- Ingested and normalized new draft to `raw/drafts/the-precious-streets.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[streets-street]]
+  - Concepts: [[war-impact]]
+
+## [2026-06-02] ingest | Desire for Closure
+- Ingested and normalized new draft to `raw/drafts/desire-for-closure.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[main-character]]
+  - Concepts: [[closure-desire]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-06-02] ingest | A Raw Love Experiment
+- Ingested and normalized new draft to `raw/drafts/a-raw-love-experiment.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[poor-boy]], [[my-voice]]
+  - Concepts: [[intense-love-experiment]]
+
+## [2026-06-02] ingest | Mad Mother's Awakening
+- Ingested and normalized new draft to `raw/drafts/mad-mothers-awakening.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mad-mother]]
+  - Concepts: [[rebellious-mother-song-combination]]
+
+## [2026-06-02] ingest | The Sun's Echo
+- Ingested and normalized new draft to `raw/drafts/the-suns-echo.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[dowden]]
+  - Locations: [[unknown_sun_worship_site]]
+  - Organizations: [[sun_worshippers_cult]]
+  - Concepts: [[sun_worship_ritual]]
+
+## [2026-06-02] ingest | The Maelstrom of Fire and Evil
+- Ingested and normalized new draft to `raw/drafts/the-maelstrom-of-fire-and-evil.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[maelstrom-of-fire-and-evil]]
+
+## [2026-06-02] ingest | Inspirational Tramp Stamp
+- Ingested and normalized new draft to `raw/drafts/inspirational-tramp-stamp.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[friend-slug]]
+  - Concepts: [[inspirational-tattoos]]
+
+## [2026-06-02] ingest | Dying Family and Estate Dispute
+- Ingested and normalized new draft to `raw/drafts/dying-family-and-estate-dispute.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[death-threats]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[haunted-mansion]]
+  - Items: [[ghost-camera]], [[old-tape]]
+  - Concepts: [[haunted-mansion-legend]], [[ghost-camera-tech]]
+
+## [2026-06-02] ingest | Desire for Closure
+- Ingested and normalized new draft to `raw/drafts/desire-for-closure.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[character-unsure]]
+  - Concepts: [[concept_closure]]
+
+## [2026-06-02] ingest | Mother's Rebellion
+- Ingested and normalized new draft to `raw/drafts/mothers-rebellion.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mother-character]]
+  - Concepts: [[rebellion-music]]
+
+## [2026-06-02] ingest | Numbers and Dots
+- Ingested and normalized new draft to `raw/drafts/numbers-and-dots.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[numbers-dots-concept]]
+
+## [2026-06-02] ingest | Love's Dilemma
+- Ingested and normalized new draft to `raw/drafts/loves-dilemma.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[char-poor-boy]]
+  - Concepts: [[concept-love-dilemma]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[hidden-village]]
+  - Items: [[mystical-rod]]
+
+## [2026-06-02] ingest | Unfit for Life
+- Ingested and normalized new draft to `raw/drafts/unfit-for-life.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[unfit-character]]
+  - Concepts: [[physical-weakness]]
+
+## [2026-06-02] ingest | The Final Decision
+- Ingested and normalized new draft to `raw/drafts/the-final-decision.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[hell-concept]]
+
+## [2026-06-02] ingest | The Precious Streets
+- Ingested and normalized new draft to `raw/drafts/the-precious-streets.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[streets]]
+  - Concepts: [[war_impact]]
+
 ## [2026-06-02] ingest | The Sun's Embrace
 - Ingested and normalized new draft to `raw/drafts/the-suns-embrace.md`.
 - Extracted and updated/created lore pages:

@@ -1,13 +1,12 @@
 ---
 title: "Brady"
-created: 2026-05-23
-updated: 2026-05-23
-type: character
-tags: [character, protagonist, human]
-sources: [raw/drafts/kill-the-sun.md]
-canon_status: draft
+created: "2026-05-23"
+updated: "2026-06-02"
+type: "character"
+tags: ["character", "protagonist", "human"]
+sources: ["raw/drafts/kill-the-sun.md", "raw/drafts/the-bitter-end-a-cold-war-drama.md"]
+canon_status: "draft"
 ---
-
 # Brady
 
 ## Overview
@@ -25,3 +24,7 @@ A historian tasked with preserving the collective knowledge of humanity. Brady i
 ## Relationships
 - **[[janet]]:** Wife and partner; she challenges his obsession with old news reports but supports his work.^[raw/drafts/kill-the-sun.md]
 - **[[edgar]]:** Highly wary of EDGAR due to scanning history files depicting horrific conflicts between man and machine.^[raw/drafts/kill-the-sun.md]
+
+
+### Update from [[the-bitter-end-a-cold-war-drama]]
+A scientist who keeps watching early 2010s history files.^[[raw/drafts/the-bitter-end-a-cold-war-drama.md]]

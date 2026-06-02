@@ -1,14 +1,13 @@
 ---
 title: "Janet"
-created: 2026-05-23
-updated: 2026-05-23
-type: character
-tags: [character, protagonist, human]
-sources: [raw/drafts/kill-the-sun.md]
-canon_status: draft
+created: "2026-05-23"
+updated: "2026-06-02"
+type: "character"
+tags: ["character", "protagonist", "human"]
+sources: ["raw/drafts/kill-the-sun.md", "raw/drafts/the-bitter-end-a-cold-war-drama.md"]
+canon_status: "draft"
 aliases: ["Jan"]
 ---
-
 # Janet
 
 ## Overview
@@ -27,3 +26,7 @@ A geologist by training, Janet is one of the last two surviving humans living in
 ## Relationships
 - **[[brady]]:** Husband by choice; they have a supportive, collaborative partnership in a dying world.^[raw/drafts/kill-the-sun.md]
 - **[[edgar]]:** Distrusted butler-caretaker; she slapping her ice samples onto the counter when startled by him.^[raw/drafts/kill-the-sun.md]
+
+
+### Update from [[the-bitter-end-a-cold-war-drama]]
+A geologist and Brady's wife, skeptical of reversing global warming.^[[raw/drafts/the-bitter-end-a-cold-war-drama.md]]

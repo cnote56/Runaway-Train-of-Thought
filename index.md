@@ -2,7 +2,7 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-06-02 | Total wiki pages: 604
+> Last updated: 2026-06-02 | Total wiki pages: 733
 
 ### 📖 Navigation & Documentation
 - [[GUIDE.md|Wiki Navigation and Content Guide]]: Authoritative manual explaining how to explore the story bible, active narrative worlds, and back-end updates.
@@ -74,6 +74,32 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/coles-letter-to-kacy.md|Cole's Letter to Kacy]] - Cole writes to Kacy, a decade after their last meeting.
+- [[raw/drafts/the-bitter-end-a-cold-war-drama.md|The Bitter End: A Cold War Drama]] - Brady and Janet seek old news reports to reverse global warming.
+- [[raw/drafts/a-letter-of-beauty-and-desires.md|A Letter of Beauty and Desires]] - Letter explores beauty, desires, and spiritual cleansing.
+- [[raw/drafts/a-sons-quest-for-justice.md|A Son's Quest for Justice]] - Son quits school to help family after father is murdered by factory owner.
+- [[raw/drafts/the-immortals-elite-bio-engineered-soldiers.md|The Immortals: Elite Bio-Engineered Soldiers]] - Bio-engineered soldiers protect colonists in a space conflict.
+- [[raw/drafts/a-temptress-and-her-voice.md|A Temptress and Her Voice]] - Temptress's voice corrupts the narrator.
+- [[raw/drafts/forgotten-memories.md|Forgotten Memories]] - Cole misses Kacy, his best friend from Washington Terrace.
+- [[raw/drafts/the-painful-love.md|The Painful Love]] - A tale of unrequited love and isolation.
+- [[raw/drafts/a-mans-struggle-a-poetic-reflection.md|A Man's Struggle: A Poetic Reflection]] - Poetic reflection on life and struggle.
+- [[raw/drafts/a-spitting-poets-battle.md|A Spitting Poet's Battle]] - Poetic battle on a street corner.
+- [[raw/drafts/the-reapers-work.md|The Reaper's Work]] - Observation of the Reaper's soul-cleaning process.
+- [[raw/drafts/the-dark-room-show.md|The Dark Room Show]] - Dark room show with forgotten memories.
+- [[raw/drafts/butt-pillow-adventures.md|Butt Pillow Adventures]] - Adventures with butt pillow and student driver jokes.
+- [[raw/drafts/reflections-of-heartache.md|Reflections of Heartache]] - A reflection on past heartbreak and self-discovery.
+- [[raw/drafts/the-end-of-trying.md|The End of Trying]] - Desperate protagonist gives up hope and tries no more.
+- [[raw/drafts/avoiding-desperation.md|Avoiding Desperation]] - Character's struggle with addiction avoidance.
+- [[raw/drafts/reflections-of-heartbreak.md|Reflections of Heartbreak]] - A character's reflections on past heartbreaks.
+- [[raw/drafts/a-raw-love-story.md|A Raw Love Story]] - Raw, intense love story with explicit content.
+- [[raw/drafts/a-raw-love-experiment.md|A Raw Love Experiment]] - Raw, intense love story with dark undertones.
+- [[raw/drafts/the-suns-echo.md|The Sun's Echo]] - Sun worshiping cult members await their ritual.
+- [[raw/drafts/inspirational-tramp-stamp.md|Inspirational Tramp Stamp]] - Tattoos as inspirational messages for the downtrodden.
+- [[raw/drafts/mothers-rebellion.md|Mother's Rebellion]] - Mad mother finds her voice in rebellion.
+- [[raw/drafts/numbers-and-dots.md|Numbers and Dots]] - Dark, numerical-themed fiction draft.
+- [[raw/drafts/unfit-for-life.md|Unfit for Life]] - Character description without established canon.
+- [[raw/drafts/the-final-decision.md|The Final Decision]] - Moral dilemma about accepting a hell.
+- [[raw/drafts/the-precious-streets.md|The Precious Streets]] - War's impact on everyday life and perceptions.
 - [[raw/drafts/the-suns-embrace.md|The Sun's Embrace]] - Sun worshipers await their fate in a forgotten valley.
 - [[raw/drafts/the-maelstrom-of-fire-and-evil.md|The Maelstrom of Fire and Evil]] - Devil's embrace in a fiery chaos.
 - [[raw/drafts/dreams-of-an-illusory-paradise.md|Dreams of an Illusory Paradise]] - Illusionary paradise described in dreams.

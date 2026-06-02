@@ -3,7 +3,7 @@ title: "Dying Family and Estate Dispute"
 created: "2026-06-02"
 updated: "2026-06-02"
 type: "draft"
-tags: ["character", "location", "concept"]
+tags: ["character", "location", "concept", "plot"]
 sources: ["raw/drafts/dying-family-and-estate-dispute.md"]
 canon_status: "draft"
 ---

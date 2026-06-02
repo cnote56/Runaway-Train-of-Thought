@@ -4,7 +4,7 @@ created: "2026-06-02"
 updated: "2026-06-02"
 type: "character"
 tags: ["character", "draft"]
-sources: ["raw/drafts/god-dies-from-cancer-a-love-letter-to-endings.md"]
+sources: ["raw/drafts/god-dies-from-cancer-a-love-letter-to-endings.md", "raw/drafts/mothers-rebellion.md"]
 canon_status: "draft"
 ---
 # Mother
@@ -20,3 +20,7 @@ Plagued by cancer, struggles with her existence.^[[raw/drafts/god-dies-from-canc
 
 ## Relationships
 - See draft details.^[[raw/drafts/god-dies-from-cancer-a-love-letter-to-endings.md]]
+
+
+### Update from [[mothers-rebellion]]
+A strong-willed and rebellious woman who expresses herself through music.^[[raw/drafts/mothers-rebellion.md]]
