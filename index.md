@@ -2,7 +2,7 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-06-02 | Total wiki pages: 399
+> Last updated: 2026-06-02 | Total wiki pages: 462
 
 ---
 
@@ -71,6 +71,21 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/good-morning-welcome-home.md|Good Morning, Welcome Home]] - Morning scenes in a city with diverse characters.
+- [[raw/drafts/the-wall-of-dreams.md|The Wall of Dreams]] - Dreams threaten protagonist's sanity.
+- [[raw/drafts/the-lonely-dwellers.md|The Lonely Dwellers]] - Misanthropic protagonist's solitary struggle.
+- [[raw/drafts/the-debate-on-education-for-undocumented-immigrants.md|The Debate on Education for Undocumented Immigrants]] - Student argues against undocumented immigrants' education rights.
+- [[raw/drafts/gods-country-a-sacred-vow.md|God's Country: A Sacred Vow]] - Sacred vow in God’s country.
+- [[raw/drafts/survival-without-care-human-newborns-in-extreme-circumstances.md|Survival Without Care: Human Newborns in Extreme Circumstances]] - Newborn survival without caregivers in extreme scenarios.
+- [[raw/drafts/god-dies-from-cancer-a-love-letter-to-endings.md|God Dies From Cancer: A Love Letter to Endings]] - A novel about a mother's suffering and the meaning of life.
+- [[raw/drafts/supermans-daily-routine.md|Superman's Daily Routine]] - Superman's daily adventures and chaotic plans.
+- [[raw/drafts/bloodletting-lessons.md|Bloodletting Lessons]] - Man reflects on missed opportunities through metaphorical bloodletting.
+- [[raw/drafts/a-burger-and-a-coke.md|A Burger and a Coke]] - Boy eats girl's food, she panics over ransom.
+- [[raw/drafts/alone-and-searching.md|Alone and Searching]] - Mysterious character searches for solace in solitude.
+- [[raw/drafts/burn-baby-burn.md|Burn Baby Burn]] - A nihilistic, apocalyptic tale of burning and survival.
+- [[raw/drafts/the-wall-of-sleep.md|The Wall of Sleep]] - A character seeks to protect their mind and soul from dreams.
+- [[raw/drafts/free-speech-modern-abuse.md|Free Speech: Modern Abuse]] - Critique of modern free speech abuses.
+- [[raw/drafts/mercenaries-vs-the-sleepers.md|Mercenaries vs. The Sleepers]] - Mercenaries fight against sleeper forces in post-apocalyptic America.
 - [[raw/drafts/truth-revealed.md|Truth Revealed]] - A controversial character exposes their identity and beliefs.
 - [[raw/drafts/lifes-unavoidable-moments.md|Life's Unavoidable Moments]] - A list of life's inevitable experiences.
 - [[raw/drafts/mythos-and-magic-backup-repository.md|Mythos and Magic: Backup Repository]] - A raw, comprehensive backup document of the second book of Mythos and Magic.

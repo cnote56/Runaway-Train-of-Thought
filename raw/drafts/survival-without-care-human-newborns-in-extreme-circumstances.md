@@ -1,0 +1,239 @@
+---
+title: "Survival Without Care: Human Newborns in Extreme Circumstances"
+created: "2026-06-02"
+updated: "2026-06-02"
+type: "draft"
+tags: ["character", "location", "concept"]
+sources: ["raw/drafts/survival-without-care-human-newborns-in-extreme-circumstances.md"]
+canon_status: "draft"
+---
+
+Chapter One
+
+God was never God.
+
+Hear the newborn human child screams.
+
+See the newborn face bloodied and aghast at the suddenness of this
+world.
+
+Feel the heat from the child's quickly chilling flesh.
+
+We know the natural way. A moment. A pulse beat. A gasp and release.
+
+Then the normal time later, some more, some less.
+
+Then we assume the knowledge and become what we think we look like.
+
+But how does the human come to know what we know. A newborn dies but for
+the cradle of the mother. Or someone Else.
+
+The Else.
+
+### Survival Probability of a Human Newborn Without Caregivers
+
+- The survival of a human newborn without any caregiver, particularly in
+the case where the mother dies during childbirth, is extraordinarily
+low. Newborns are highly vulnerable during the first month of life due
+to their complete dependence on caregivers for essential needs,
+including nutrition and medical care. Studies indicate that in scenarios
+where the mother dies, the mortality rate for infants under 30 days can
+be significantly high, with estimates reaching up to 81.92 per 100,000
+births ((1)).
+
+- A comprehensive assessment of newborn survival rates indicates that
+many deaths occur in the first week of life due to lack of quality care
+or skilled treatment immediately after birth, with available data
+showing that premature birth, birth complications, and infections are
+leading causes of neonatal mortality ((2)) ((3)) ((10)). The absence of
+caregivers in such critical moments drastically increases the risk of
+mortality.
+
+### Genetic Mutations and Birth Outcomes
+
+- Genetic mutations, particularly de novo mutations, may arise
+spontaneously during embryonic development. These mutations can lead to
+various health issues and birth defects, affecting the overall survival
+of the newborn. Approximately 17% of birth defects are linked to
+single-gene problems, whereas chromosomal abnormalities contribute to
+about 10% of cases ((4)). Such genetic disorders can increase the
+likelihood of neonatal mortality, especially when considering the impact
+of inherited conditions from parents on the child's health ((5)).
+
+- The implications of mutations underscore the significance of
+understanding genetic health in newborns. For instance, children
+admitted to intensive care units (ICUs) show that 36% of those who died
+had a diagnosis related to genetic diseases, indicating the clinical
+relevance of identifying these conditions early to improve survival
+outcomes ((6)).
+
+### Potential for Another Species to Care for Newborns
+
+- The concept of another species caring for a human newborn, although
+rare, has been documented in cases where children have been raised by
+animals, like wolves or primates. Historical accounts of feral children
+provide insight into the potential for interspecies care to occur under
+extreme circumstances. These scenarios, while exceptional, suggest a
+possibility for nurturing behaviors to be displayed by animals towards
+human infants, although such care may not wholly fulfill the nurturing
+and developmental needs that human parents provide ((7)) ((8)).
+
+### Accidental Astronaut Theory Implications
+
+- The accidental astronaut theory raises interesting questions about the
+survival of microbial life during space travel, highlighting the
+potential for life to exist beyond Earth ((9)). While the focus here is
+on microbes, the broader implications could extend into discussions
+about the adaptability and resilience of life forms, including human
+biology.
+
+- Furthermore, if microbial life from Earth can survive extreme
+conditions in space, then it poses the question of whether human
+offspring, if raised without caregivers, could similarly adapt to
+extreme survival circumstances. The theory suggests an examination of
+survival techniques that both microbes and humans may possess, albeit
+the comparison requires a substantial leap given the complexities of
+human physiological needs in infancy compared to microbial existence
+((10)).
+
+### Summary
+
+Overall, without caregivers, a newborn's chances of survival are
+minimal, especially following maternal death during childbirth, greatly
+compounded by potential genetic anomalies. While genetic factors and
+their roles in birth outcomes raise concerns, the concept of other
+species providing care introduces intriguing yet rare scenarios. Lastly,
+linking these elements to the accidental astronaut theory connects the
+resilience of life across different realms, although challenges remain
+that separate human survival from microbial resilience.
+
+### Historical Cases of Newborns Cared for by Animals
+
+1. ### Feral Children Raised by Wolves and Other Animals
+
+- Throughout history, there have been instances of children, sometimes
+very young, being raised by animals. These so-called "feral children"
+often capture the public's imagination, as they blur the lines between
+human and animal existence. Notable cases include the "wolf children of
+Midnapore," where two girls were found living with a she-wolf ((5)).
+These children often exhibit animal-like behaviors and have difficulty
+reintegrating into human society.
+
+2. ### The Story of John Ssebunya
+
+- In 1988, a three-year-old boy named John Ssebunya in Uganda was
+reportedly adopted by a troop of vervet monkeys after running away from
+home following a traumatic event ((6)). Ssebunya learned to forage and
+interact with his adoptive family of monkeys. Unlike many other feral
+child cases, he had some prior human socialization, which facilitated
+his eventual reintegration into human society.
+
+3. ### The Case of Marina Chapman
+
+- Marina Chapman, after being kidnapped at the age of five, was
+abandoned in the Colombian jungle where she was cared for by capuchin
+monkeys for five years ((20)). They taught her survival skills, which
+allowed her to live independently in an extremely challenging
+environment. Her later rescue revealed significant emotional and social
+challenges, illustrating the complexities of re-adjusting after such a
+unique upbringing.
+
+4. ### The "Ostrich Boy"
+
+- Another striking example is that of Sidi Mohamed, known as the
+"ostrich boy," who befriended and was cared for by ostriches in North
+Africa after wandering away from his family ((23)). The ostriches
+offered him protection and food, and he was eventually returned to his
+family at the age of twelve. His story emphasizes the nurturing aspect
+that some animals can provide, even to humans.
+
+5. ### Abandoned Child Cared for by Cats
+
+- In a particularly remarkable case, an abandoned one-year-old boy was
+found in Argentina surrounded by eight wild cats in 2008 ((26)). The
+cats protected him from the cold and even brought him food scraps. This
+incident highlights the potential for cross-species compassion and the
+unexpected roles that animals may play in nurturing the vulnerable.
+
+### Outcomes of These Situations
+
+- The outcomes for children raised by animals often vary significantly,
+with many experiencing difficult adjustments to human society. While
+some may develop unique survival skills, they frequently face challenges
+such as delayed language acquisition or behavioral difficulties. For
+example, those raised in isolation often struggle with social
+interactions and may revert to animal-like behaviors, such as walking on
+all fours or howling, when reintegrated into human environments ((71))
+((72)) ((73)).
+
+- In many documented cases, the survival and overall well-being of these
+children heavily depend on the age at which they become feral or are
+taken in by animals. Younger children generally find it more challenging
+to recover fully due to critical developmental milestones missed during
+their formative years ((66)) ((72)).
+
+- Furthermore, the scientific community debates the validity of some
+feral children cases, with many being dismissed as hoaxes or
+misinterpretations, making the landscape of documented encounters both
+fascinating and complex ((65)).
+
+### Conclusion
+
+The historical accounts of newborns and children cared for by animals
+reveal a remarkable intersection of human and animal worlds. While some
+stories demonstrate extraordinary acts of compassion, they also raise
+questions about the long-term psychological and social implications for
+these individuals.
+
+### Indications of Maternal Rejection in Simian Mothers
+
+1. ### Abandonment Behavior
+
+- Maternal abandonment in species such as chimpanzees may manifest
+through a mother's decision to leave her offspring unattended or refuse
+to provide care. This behavior can occur if the mother perceives her
+infant as unfit for survival due to health issues or abnormalities
+observed at birth; therefore, some mothers may choose to abandon their
+young altogether ((1)).
+
+2. ### Responses to Stress or Environmental Factors
+
+- Simian mothers may relinquish their offspring in response to
+environmental stressors such as resource scarcity or extreme predation
+threats. These situations create challenging conditions for care; if a
+mother feels overwhelmed, she may prioritize her own survival over that
+of her offspring, leading to rejection ((2)).
+
+3. ### Maternal Experience and Capacity
+
+- A mother’s parity, or the number of previous offspring, influences her
+ability to nurture. Primiparous mothers, who are giving birth for the
+first time, may have less experience and may struggle to form a bond
+with their infant. Consequently, these mothers can exhibit higher rates
+of infant rejection, potentially viewing their young as an additional
+burden they cannot adequately manage ((7)).
+
+4. ### Behavioral Signals from the Infant
+
+- Infants that show signs of weakness or developmental issues may elicit
+rejection from their mothers. If caregivers perceive that the infant
+will not thrive due to inherent difficulties or lack of vigor, they may
+choose to abandon them as an adaptive strategy, perhaps thinking that
+their resources could be better utilized to ensure the survival of
+healthier offspring in future births ((6)).
+
+5. ### Social Dynamics within the Group
+
+- Maternal behavior can also be influenced by social factors within the
+primate troop. If a mother senses that her social standing is
+diminished, perhaps through aggression or competition with other group
+members, she may feel necessitated to reject her young to maintain her
+position or decrease resource investment on a non-viable offspring
+((5)).
+
+### Conclusion
+
+These indications of maternal rejection among simian mothers underscore
+complex interactions between individual capability, environmental
+conditions, and social dynamics within their communities, influencing
+maternal care behaviors.
