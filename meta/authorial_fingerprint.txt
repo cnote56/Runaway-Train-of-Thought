@@ -1,0 +1,27 @@
+AUTHORIAL STYLE FINGERPRINT METRICS
+===================================
+
+File: The Peanut Butter Underground.txt
+  Voice Category: Humanist
+  Word Count: 154458
+  Avg Sentence Length: 12.57
+  Lexical Density: 0.15
+
+File: Project FILTER.txt
+  Voice Category: Architect
+  Word Count: 78112
+  Avg Sentence Length: 11.69
+  Lexical Density: 0.19
+
+File: 13.8.txt
+  Voice Category: Architect
+  Word Count: 41131
+  Avg Sentence Length: 15.52
+  Lexical Density: 0.24
+
+File: Traitor, Soldier, Grandfather.txt
+  Voice Category: Humanist
+  Word Count: 7069
+  Avg Sentence Length: 17.81
+  Lexical Density: 0.32
+

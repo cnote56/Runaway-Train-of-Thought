@@ -2,7 +2,7 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-05-25 | Total wiki pages: 360
+> Last updated: 2026-06-02 | Total wiki pages: 399
 
 ---
 
@@ -71,6 +71,8 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/truth-revealed.md|Truth Revealed]] - A controversial character exposes their identity and beliefs.
+- [[raw/drafts/lifes-unavoidable-moments.md|Life's Unavoidable Moments]] - A list of life's inevitable experiences.
 - [[raw/drafts/mythos-and-magic-backup-repository.md|Mythos and Magic: Backup Repository]] - A raw, comprehensive backup document of the second book of Mythos and Magic.
 - [[raw/drafts/the-chronicles-of-coles-desk.md|The Chronicles of Cole's Desk]] - Meta story about transitioning to automation.
 - [[raw/drafts/magic-squares-grimoires-and-control.md|Magic Squares, Grimoires, And Control]] - A newly ingested draft file.

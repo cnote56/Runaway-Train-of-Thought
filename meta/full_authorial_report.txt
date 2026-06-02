@@ -1,0 +1,1725 @@
+COMPREHENSIVE AUTHORIAL LITERARY AUDIT
+=======================================
+
+File: The Peanut Butter Underground.txt
+  Word Count: 154458
+  Avg Sentence Length: 12.57
+  Lexical Density: 0.15
+  Editor's Themes: War/Conflict, Surveillance, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Project FILTER.txt
+  Word Count: 78112
+  Avg Sentence Length: 11.69
+  Lexical Density: 0.19
+  Editor's Themes: War/Conflict, Surveillance, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: 13.8.txt
+  Word Count: 41131
+  Avg Sentence Length: 15.52
+  Lexical Density: 0.24
+  Editor's Themes: War/Conflict, Surveillance, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Gods and Demons of Man Book 2.txt
+  Word Count: 28360
+  Avg Sentence Length: 13.14
+  Lexical Density: 0.26
+  Editor's Themes: War/Conflict, Surveillance, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: In the Shadow of Sunshine.txt
+  Word Count: 17781
+  Avg Sentence Length: 14.87
+  Lexical Density: 0.29
+  Editor's Themes: War/Conflict, Surveillance, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Fractals of Man.txt
+  Word Count: 13978
+  Avg Sentence Length: 9.72
+  Lexical Density: 0.37
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: In Analemma_s Shadow.txt
+  Word Count: 14265
+  Avg Sentence Length: 15.76
+  Lexical Density: 0.3
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: TAX ADVICE FOR BAD PEOPLE_Fiction story prompt.txt
+  Word Count: 11655
+  Avg Sentence Length: 13.96
+  Lexical Density: 0.28
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: NOTES_One Term Party.txt
+  Word Count: 11051
+  Avg Sentence Length: 12.46
+  Lexical Density: 0.33
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Work History.txt
+  Word Count: 8863
+  Avg Sentence Length: 12.61
+  Lexical Density: 0.37
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Gilded Occult.txt
+  Word Count: 8720
+  Avg Sentence Length: 11.52
+  Lexical Density: 0.4
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Never, Never Turn Your Back On Planet 619.txt
+  Word Count: 8696
+  Avg Sentence Length: 16.89
+  Lexical Density: 0.35
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: One Term Party.txt
+  Word Count: 8048
+  Avg Sentence Length: 14.71
+  Lexical Density: 0.39
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Tax Advice for Bad People.txt
+  Word Count: 8862
+  Avg Sentence Length: 12.27
+  Lexical Density: 0.33
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Traitor, Soldier, Grandfather.txt
+  Word Count: 7069
+  Avg Sentence Length: 17.81
+  Lexical Density: 0.32
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Swords Against Heaven.txt
+  Word Count: 7455
+  Avg Sentence Length: 13.15
+  Lexical Density: 0.31
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: CHRONONAUT_ Odyssey Through The Dar Veil.txt
+  Word Count: 5876
+  Avg Sentence Length: 17.65
+  Lexical Density: 0.35
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Hellfire10K_1stDFT.txt
+  Word Count: 6793
+  Avg Sentence Length: 12.58
+  Lexical Density: 0.32
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Dead By AM - The AI Wars.txt
+  Word Count: 6402
+  Avg Sentence Length: 12.34
+  Lexical Density: 0.36
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Hellfire 10K.txt
+  Word Count: 5868
+  Avg Sentence Length: 12.65
+  Lexical Density: 0.32
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Talkative Vermin.txt
+  Word Count: 4526
+  Avg Sentence Length: 14.01
+  Lexical Density: 0.43
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: A Post-Apocalypse Road Trip.txt
+  Word Count: 5261
+  Avg Sentence Length: 11.31
+  Lexical Density: 0.29
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Battle for Planet Nine.txt
+  Word Count: 4494
+  Avg Sentence Length: 12.55
+  Lexical Density: 0.41
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Mad Trillionaire_.txt
+  Word Count: 4652
+  Avg Sentence Length: 11.78
+  Lexical Density: 0.37
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Smoke_em All.txt
+  Word Count: 3608
+  Avg Sentence Length: 16.86
+  Lexical Density: 0.37
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The stateless.txt
+  Word Count: 4051
+  Avg Sentence Length: 14.47
+  Lexical Density: 0.36
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Hellfire 10K(1).txt
+  Word Count: 4577
+  Avg Sentence Length: 12.37
+  Lexical Density: 0.34
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: After Upload.txt
+  Word Count: 3609
+  Avg Sentence Length: 18.9
+  Lexical Density: 0.42
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: before time was born.txt
+  Word Count: 3719
+  Avg Sentence Length: 11.73
+  Lexical Density: 0.37
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: People of a Strange Flesh.txt
+  Word Count: 4393
+  Avg Sentence Length: 11.59
+  Lexical Density: 0.32
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Phoenix Fold.txt
+  Word Count: 2911
+  Avg Sentence Length: 11.83
+  Lexical Density: 0.48
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: DysHopia.txt
+  Word Count: 3269
+  Avg Sentence Length: 18.79
+  Lexical Density: 0.41
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Kill The Sun.txt
+  Word Count: 3019
+  Avg Sentence Length: 13.91
+  Lexical Density: 0.4
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Prompt Scketchs.txt
+  Word Count: 2484
+  Avg Sentence Length: 17.25
+  Lexical Density: 0.43
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Finding Answers In Violence.txt
+  Word Count: 3087
+  Avg Sentence Length: 11.74
+  Lexical Density: 0.39
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Oops I Married Satan.txt
+  Word Count: 2594
+  Avg Sentence Length: 9.86
+  Lexical Density: 0.48
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Underwater Wars_Battle for the Sunken Lands.txt
+  Word Count: 2515
+  Avg Sentence Length: 11.23
+  Lexical Density: 0.22
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: TalkativeVermin_Treatment_prompt.txt
+  Word Count: 2510
+  Avg Sentence Length: 15.4
+  Lexical Density: 0.5
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Time Miners.txt
+  Word Count: 2518
+  Avg Sentence Length: 16.04
+  Lexical Density: 0.44
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: KTS - Chapter One.txt
+  Word Count: 2440
+  Avg Sentence Length: 14.97
+  Lexical Density: 0.38
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Comparison of Kill The Sun & KTS - Chapter One.txt
+  Word Count: 2440
+  Avg Sentence Length: 15.06
+  Lexical Density: 0.38
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: WyrmReign.txt
+  Word Count: 2124
+  Avg Sentence Length: 13.44
+  Lexical Density: 0.49
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: PRISONSHIP BAIN.txt
+  Word Count: 2397
+  Avg Sentence Length: 14.02
+  Lexical Density: 0.3
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: In Sputnik_s Shadow.txt
+  Word Count: 1917
+  Avg Sentence Length: 14.75
+  Lexical Density: 0.46
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: American Oligarchy.txt
+  Word Count: 2112
+  Avg Sentence Length: 15.53
+  Lexical Density: 0.43
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Echo_A Universe Birthed.txt
+  Word Count: 2021
+  Avg Sentence Length: 10.47
+  Lexical Density: 0.48
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Maguffin.txt
+  Word Count: 2312
+  Avg Sentence Length: 11.92
+  Lexical Density: 0.46
+  Editor's Themes: War/Conflict, Surveillance, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Madinfesto.txt
+  Word Count: 1985
+  Avg Sentence Length: 18.38
+  Lexical Density: 0.43
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Murder-Thing.txt
+  Word Count: 2250
+  Avg Sentence Length: 12.43
+  Lexical Density: 0.41
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: NeoYork_ The City of Talking Walls.txt
+  Word Count: 1941
+  Avg Sentence Length: 16.45
+  Lexical Density: 0.41
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Merdur Realty LLC.txt
+  Word Count: 1778
+  Avg Sentence Length: 12.7
+  Lexical Density: 0.42
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Doctoro Schrodeger and His Magic Duplication Machine.txt
+  Word Count: 1904
+  Avg Sentence Length: 13.7
+  Lexical Density: 0.43
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: God Was Never God.txt
+  Word Count: 1588
+  Avg Sentence Length: 19.13
+  Lexical Density: 0.45
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Lost And The Dead.txt
+  Word Count: 1958
+  Avg Sentence Length: 9.94
+  Lexical Density: 0.42
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: How To Sell Your Soul_GADOM.txt
+  Word Count: 1825
+  Avg Sentence Length: 9.71
+  Lexical Density: 0.48
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Year Is 2089.txt
+  Word Count: 1890
+  Avg Sentence Length: 12.68
+  Lexical Density: 0.3
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Hunter of Whitechapel.txt
+  Word Count: 1726
+  Avg Sentence Length: 16.76
+  Lexical Density: 0.43
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Legend of the Pyrlem.txt
+  Word Count: 1617
+  Avg Sentence Length: 15.4
+  Lexical Density: 0.48
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Rogue Wolves.txt
+  Word Count: 1681
+  Avg Sentence Length: 11.06
+  Lexical Density: 0.5
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Pontifex Skyfall.txt
+  Word Count: 1387
+  Avg Sentence Length: 8.72
+  Lexical Density: 0.45
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Crown and Noose.txt
+  Word Count: 1733
+  Avg Sentence Length: 12.03
+  Lexical Density: 0.47
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Like and Subscribe.txt
+  Word Count: 1654
+  Avg Sentence Length: 14.14
+  Lexical Density: 0.46
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Living Undead and Tiny Tim.txt
+  Word Count: 1505
+  Avg Sentence Length: 12.97
+  Lexical Density: 0.52
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: @1an_The Next Man.txt
+  Word Count: 1517
+  Avg Sentence Length: 18.5
+  Lexical Density: 0.47
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Keeping Time Nice and Clean.txt
+  Word Count: 1566
+  Avg Sentence Length: 10.04
+  Lexical Density: 0.45
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: A Foul Evil.txt
+  Word Count: 1522
+  Avg Sentence Length: 11.8
+  Lexical Density: 0.49
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: X-Rays Are Real .txt
+  Word Count: 1543
+  Avg Sentence Length: 10.02
+  Lexical Density: 0.44
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: X-Rays Are Real_.txt
+  Word Count: 1543
+  Avg Sentence Length: 10.02
+  Lexical Density: 0.44
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: MrvlRpg_The Living Machine.txt
+  Word Count: 1441
+  Avg Sentence Length: 13.59
+  Lexical Density: 0.52
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Kill The Sun(1).txt
+  Word Count: 1415
+  Avg Sentence Length: 13.48
+  Lexical Density: 0.52
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: This Is Not My Own.txt
+  Word Count: 1477
+  Avg Sentence Length: 10.05
+  Lexical Density: 0.49
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The trophy tree.txt
+  Word Count: 1505
+  Avg Sentence Length: 16.01
+  Lexical Density: 0.36
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Divergent Dissonance.txt
+  Word Count: 1329
+  Avg Sentence Length: 13.29
+  Lexical Density: 0.49
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Changed.txt
+  Word Count: 1253
+  Avg Sentence Length: 13.77
+  Lexical Density: 0.5
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Some Robots Drink Coffee.txt
+  Word Count: 1288
+  Avg Sentence Length: 11.1
+  Lexical Density: 0.54
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Death Becomes Them.txt
+  Word Count: 1326
+  Avg Sentence Length: 11.53
+  Lexical Density: 0.48
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: War-fog.txt
+  Word Count: 1297
+  Avg Sentence Length: 14.41
+  Lexical Density: 0.48
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Planet Hell.txt
+  Word Count: 1097
+  Avg Sentence Length: 15.03
+  Lexical Density: 0.56
+  Editor's Themes: Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'Systemic/Sci-Fi')
+
+File: The Time Witch and the Scotsman.txt
+  Word Count: 1313
+  Avg Sentence Length: 10.34
+  Lexical Density: 0.46
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: DunceCap.txt
+  Word Count: 1208
+  Avg Sentence Length: 16.32
+  Lexical Density: 0.5
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: SampleText_PBU.txt
+  Word Count: 1159
+  Avg Sentence Length: 12.2
+  Lexical Density: 0.47
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Decimation.txt
+  Word Count: 1100
+  Avg Sentence Length: 12.22
+  Lexical Density: 0.5
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Begining.txt
+  Word Count: 1136
+  Avg Sentence Length: 15.56
+  Lexical Density: 0.49
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Beast of Geophrance_.txt
+  Word Count: 1042
+  Avg Sentence Length: 8.83
+  Lexical Density: 0.55
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The War Of Fire Wolf And Man.txt
+  Word Count: 1109
+  Avg Sentence Length: 18.48
+  Lexical Density: 0.42
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Alien who bought the world.txt
+  Word Count: 1116
+  Avg Sentence Length: 8.52
+  Lexical Density: 0.47
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: In The Crossfire.txt
+  Word Count: 885
+  Avg Sentence Length: 13.01
+  Lexical Density: 0.58
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The 4 Hybrids.txt
+  Word Count: 1032
+  Avg Sentence Length: 12.43
+  Lexical Density: 0.38
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Hell Unfurled.txt
+  Word Count: 868
+  Avg Sentence Length: 20.19
+  Lexical Density: 0.51
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Owl Canyon Press Short Story Hackathon #2.txt
+  Word Count: 936
+  Avg Sentence Length: 15.34
+  Lexical Density: 0.5
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Under an ever burning sky.txt
+  Word Count: 949
+  Avg Sentence Length: 12.32
+  Lexical Density: 0.48
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Mad Traitor.txt
+  Word Count: 758
+  Avg Sentence Length: 21.06
+  Lexical Density: 0.61
+  Editor's Themes: Surveillance, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'Surveillance')
+
+File: The Smartest AI In The Room.txt
+  Word Count: 821
+  Avg Sentence Length: 10.95
+  Lexical Density: 0.53
+  Editor's Themes: War/Conflict, Surveillance
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Grids of Governance_ The Cosmic Calculus Tabletop System.txt
+  Word Count: 688
+  Avg Sentence Length: 18.59
+  Lexical Density: 0.6
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Losing it.txt
+  Word Count: 766
+  Avg Sentence Length: 11.43
+  Lexical Density: 0.52
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: You Can_t Park That Here.txt
+  Word Count: 614
+  Avg Sentence Length: 14.28
+  Lexical Density: 0.53
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: One Term Party_prompt.txt
+  Word Count: 647
+  Avg Sentence Length: 11.76
+  Lexical Density: 0.53
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Brother Bones of Jupiter.txt
+  Word Count: 711
+  Avg Sentence Length: 14.22
+  Lexical Density: 0.5
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Last of The Sane._.txt
+  Word Count: 699
+  Avg Sentence Length: 22.55
+  Lexical Density: 0.53
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Fiction Prompt.txt
+  Word Count: 619
+  Avg Sentence Length: 14.74
+  Lexical Density: 0.54
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Free Agent.txt
+  Word Count: 665
+  Avg Sentence Length: 12.55
+  Lexical Density: 0.57
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Damn you.txt
+  Word Count: 636
+  Avg Sentence Length: 9.35
+  Lexical Density: 0.55
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Ligament.txt
+  Word Count: 669
+  Avg Sentence Length: 7.87
+  Lexical Density: 0.51
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: All My Hero’s Are Dead.txt
+  Word Count: 631
+  Avg Sentence Length: 17.05
+  Lexical Density: 0.52
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The d88 Coordinate Interface and Magic Square Mechanics.txt
+  Word Count: 589
+  Avg Sentence Length: 15.5
+  Lexical Density: 0.56
+  Editor's Themes: Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'Systemic/Sci-Fi')
+
+File: The Geometric Interface_ Magic Square Mechanics and Universal Governance.txt
+  Word Count: 589
+  Avg Sentence Length: 15.5
+  Lexical Density: 0.56
+  Editor's Themes: Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'Systemic/Sci-Fi')
+
+File: cupcakes and faith.txt
+  Word Count: 659
+  Avg Sentence Length: 10.14
+  Lexical Density: 0.56
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Lover_s Well.txt
+  Word Count: 662
+  Avg Sentence Length: 11.22
+  Lexical Density: 0.51
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Mercury Firewall_ Re-coordination of the Magic Constant 260.txt
+  Word Count: 533
+  Avg Sentence Length: 23.17
+  Lexical Density: 0.58
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: When The Aliens Take Over.._.txt
+  Word Count: 610
+  Avg Sentence Length: 13.56
+  Lexical Density: 0.55
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: ReMadeMan.txt
+  Word Count: 486
+  Avg Sentence Length: 13.14
+  Lexical Density: 0.6
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Bones Blood and Dirt.txt
+  Word Count: 597
+  Avg Sentence Length: 10.12
+  Lexical Density: 0.49
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Bones Blood and Dirt(1).txt
+  Word Count: 595
+  Avg Sentence Length: 10.08
+  Lexical Density: 0.5
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Under the Titan’s War.txt
+  Word Count: 563
+  Avg Sentence Length: 21.65
+  Lexical Density: 0.55
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Transcendent Horizons.txt
+  Word Count: 485
+  Avg Sentence Length: 14.26
+  Lexical Density: 0.58
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Who are you, URth-maan.txt
+  Word Count: 544
+  Avg Sentence Length: 11.33
+  Lexical Density: 0.57
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Jokes 2024.txt
+  Word Count: 551
+  Avg Sentence Length: 6.64
+  Lexical Density: 0.57
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Hivemind Echoes_.txt
+  Word Count: 441
+  Avg Sentence Length: 8.82
+  Lexical Density: 0.65
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Similar to Entropy_.txt
+  Word Count: 367
+  Avg Sentence Length: 7.06
+  Lexical Density: 0.67
+  Editor's Themes: Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'Systemic/Sci-Fi')
+
+File: Old Verbs And The Gods That Remember Them.txt
+  Word Count: 472
+  Avg Sentence Length: 14.3
+  Lexical Density: 0.61
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Humanitys Portrait.txt
+  Word Count: 509
+  Avg Sentence Length: 13.76
+  Lexical Density: 0.52
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Ghost Ship San Juan.txt
+  Word Count: 397
+  Avg Sentence Length: 8.63
+  Lexical Density: 0.62
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Keepers of the Peace.txt
+  Word Count: 470
+  Avg Sentence Length: 11.75
+  Lexical Density: 0.55
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: tick tock.txt
+  Word Count: 451
+  Avg Sentence Length: 10.74
+  Lexical Density: 0.55
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Devil’s Loophole.txt
+  Word Count: 406
+  Avg Sentence Length: 19.33
+  Lexical Density: 0.59
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: We can send you back... For a price._.txt
+  Word Count: 472
+  Avg Sentence Length: 15.73
+  Lexical Density: 0.42
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: A farce wrapped in a joke caught in a fraud.txt
+  Word Count: 477
+  Avg Sentence Length: 7.23
+  Lexical Density: 0.5
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Poor Demonslayer.txt
+  Word Count: 408
+  Avg Sentence Length: 12.75
+  Lexical Density: 0.56
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: You Never Know What Kind Person You Are Until You Get Shot.txt
+  Word Count: 390
+  Avg Sentence Length: 7.8
+  Lexical Density: 0.56
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Dull Roar.txt
+  Word Count: 418
+  Avg Sentence Length: 11.3
+  Lexical Density: 0.56
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Fallen Kingdom.txt
+  Word Count: 393
+  Avg Sentence Length: 11.56
+  Lexical Density: 0.59
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: An Examination of a Feral Robot.txt
+  Word Count: 374
+  Avg Sentence Length: 14.38
+  Lexical Density: 0.6
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: castout.txt
+  Word Count: 402
+  Avg Sentence Length: 14.89
+  Lexical Density: 0.54
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: FIi_kitys TGHE WEED FOR ME._.txt
+  Word Count: 392
+  Avg Sentence Length: 39.2
+  Lexical Density: 0.56
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Time Engines.txt
+  Word Count: 396
+  Avg Sentence Length: 14.67
+  Lexical Density: 0.53
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Bell Ringer.txt
+  Word Count: 362
+  Avg Sentence Length: 9.53
+  Lexical Density: 0.48
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Let Them Eat War.txt
+  Word Count: 347
+  Avg Sentence Length: 10.84
+  Lexical Density: 0.59
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Old World New Strangers.txt
+  Word Count: 298
+  Avg Sentence Length: 14.9
+  Lexical Density: 0.64
+  Editor's Themes: Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'Systemic/Sci-Fi')
+
+File: TL Splitter.txt
+  Word Count: 340
+  Avg Sentence Length: 10.0
+  Lexical Density: 0.59
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: I fell asleep one night.txt
+  Word Count: 315
+  Avg Sentence Length: 9.55
+  Lexical Density: 0.64
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Fists.txt
+  Word Count: 354
+  Avg Sentence Length: 6.81
+  Lexical Density: 0.56
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Alien-God-Complexed_.txt
+  Word Count: 321
+  Avg Sentence Length: 9.17
+  Lexical Density: 0.57
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Maze and the Architect.txt
+  Word Count: 315
+  Avg Sentence Length: 11.67
+  Lexical Density: 0.54
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Seconds A Thousand Years Long.txt
+  Word Count: 323
+  Avg Sentence Length: 16.15
+  Lexical Density: 0.61
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Sol_s Forge.txt
+  Word Count: 256
+  Avg Sentence Length: 14.22
+  Lexical Density: 0.67
+  Editor's Themes: Surveillance, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'Surveillance')
+
+File: Notes for the Apocalypse_.txt
+  Word Count: 331
+  Avg Sentence Length: 331.0
+  Lexical Density: 0.51
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Taphthartharath Breach_ Mercury Firewall Protocols.txt
+  Word Count: 262
+  Avg Sentence Length: 26.2
+  Lexical Density: 0.66
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: I_m not gonna try anymore.txt
+  Word Count: 308
+  Avg Sentence Length: 7.16
+  Lexical Density: 0.53
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: RichieRoast.txt
+  Word Count: 255
+  Avg Sentence Length: 13.42
+  Lexical Density: 0.61
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: WitchVirus.txt
+  Word Count: 285
+  Avg Sentence Length: 11.88
+  Lexical Density: 0.45
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: AlienTV.txt
+  Word Count: 230
+  Avg Sentence Length: 23.0
+  Lexical Density: 0.7
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: to hell with all your gods too.txt
+  Word Count: 271
+  Avg Sentence Length: 10.04
+  Lexical Density: 0.55
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Borne Mundy.txt
+  Word Count: 257
+  Avg Sentence Length: 8.29
+  Lexical Density: 0.59
+  Editor's Themes: War/Conflict, Financial Horror
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: DANny - The AI Who Cried.txt
+  Word Count: 221
+  Avg Sentence Length: 10.52
+  Lexical Density: 0.71
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: i wanted to hold.._.txt
+  Word Count: 259
+  Avg Sentence Length: 5.63
+  Lexical Density: 0.58
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Time Brawl.txt
+  Word Count: 256
+  Avg Sentence Length: 10.67
+  Lexical Density: 0.59
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: An irregular form with strange bits and pieces included.txt
+  Word Count: 251
+  Avg Sentence Length: 10.91
+  Lexical Density: 0.61
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: A Spymasters Last Supper.txt
+  Word Count: 229
+  Avg Sentence Length: 13.47
+  Lexical Density: 0.6
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Do apples think.txt
+  Word Count: 223
+  Avg Sentence Length: 7.96
+  Lexical Density: 0.65
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Souljourney and Bodytheft.txt
+  Word Count: 222
+  Avg Sentence Length: 8.22
+  Lexical Density: 0.67
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Totems.txt
+  Word Count: 196
+  Avg Sentence Length: 11.53
+  Lexical Density: 0.66
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Barren River.txt
+  Word Count: 184
+  Avg Sentence Length: 12.27
+  Lexical Density: 0.66
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Final Moments, Paid for and for sale._.txt
+  Word Count: 212
+  Avg Sentence Length: 12.47
+  Lexical Density: 0.6
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Olygod Dynamic.txt
+  Word Count: 208
+  Avg Sentence Length: 9.45
+  Lexical Density: 0.7
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: A window Unto Himself.txt
+  Word Count: 215
+  Avg Sentence Length: 16.54
+  Lexical Density: 0.66
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: thr lord under your feet.txt
+  Word Count: 213
+  Avg Sentence Length: 10.14
+  Lexical Density: 0.58
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Super Down.txt
+  Word Count: 201
+  Avg Sentence Length: 7.18
+  Lexical Density: 0.7
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Blue notes_.txt
+  Word Count: 203
+  Avg Sentence Length: 10.15
+  Lexical Density: 0.62
+  Editor's Themes: War/Conflict, Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Remembered.txt
+  Word Count: 198
+  Avg Sentence Length: 9.0
+  Lexical Density: 0.51
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Buried in the Veins.txt
+  Word Count: 182
+  Avg Sentence Length: 13.0
+  Lexical Density: 0.69
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Ive seen the lost generations.txt
+  Word Count: 170
+  Avg Sentence Length: 5.48
+  Lexical Density: 0.59
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Writing the Bomb.txt
+  Word Count: 164
+  Avg Sentence Length: 8.63
+  Lexical Density: 0.62
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Ligament(1).txt
+  Word Count: 170
+  Avg Sentence Length: 6.8
+  Lexical Density: 0.65
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: the new and the end.txt
+  Word Count: 163
+  Avg Sentence Length: 8.15
+  Lexical Density: 0.64
+  Editor's Themes: Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'Systemic/Sci-Fi')
+
+File: The Coven.txt
+  Word Count: 172
+  Avg Sentence Length: 28.67
+  Lexical Density: 0.66
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Even an amoeba can sense impending doom.txt
+  Word Count: 166
+  Avg Sentence Length: 9.76
+  Lexical Density: 0.67
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: God Dies From Cancer.txt
+  Word Count: 158
+  Avg Sentence Length: 8.32
+  Lexical Density: 0.63
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Tax Whiskey Change the World.txt
+  Word Count: 152
+  Avg Sentence Length: 9.5
+  Lexical Density: 0.68
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: children of a forgetful god.txt
+  Word Count: 144
+  Avg Sentence Length: 12.0
+  Lexical Density: 0.63
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: FILTER notes June 24.txt
+  Word Count: 125
+  Avg Sentence Length: 6.94
+  Lexical Density: 0.73
+  Editor's Themes: War/Conflict, Surveillance
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: This Side of Warm.txt
+  Word Count: 116
+  Avg Sentence Length: 6.82
+  Lexical Density: 0.68
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Sick Wiith Its Offspring.txt
+  Word Count: 138
+  Avg Sentence Length: 8.62
+  Lexical Density: 0.67
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: A bullet to die from.txt
+  Word Count: 137
+  Avg Sentence Length: 7.21
+  Lexical Density: 0.63
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: tuna fish sandwiches and writing.txt
+  Word Count: 134
+  Avg Sentence Length: 9.57
+  Lexical Density: 0.66
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Water Thieves.txt
+  Word Count: 108
+  Avg Sentence Length: 10.8
+  Lexical Density: 0.75
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Inspirational Tramp Stamp.txt
+  Word Count: 122
+  Avg Sentence Length: 10.17
+  Lexical Density: 0.69
+  Editor's Themes: Financial Horror
+  Marketability: High (Thematic alignment with 'Financial Horror')
+
+File: Fidel_s Sons.txt
+  Word Count: 84
+  Avg Sentence Length: 4.0
+  Lexical Density: 0.83
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Post invasion.txt
+  Word Count: 128
+  Avg Sentence Length: 14.22
+  Lexical Density: 0.63
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Story of Legless Undead.txt
+  Word Count: 120
+  Avg Sentence Length: 12.0
+  Lexical Density: 0.69
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: 24_7.txt
+  Word Count: 120
+  Avg Sentence Length: 5.22
+  Lexical Density: 0.69
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Greater than your call sign….txt
+  Word Count: 120
+  Avg Sentence Length: 8.0
+  Lexical Density: 0.55
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: 2018 Awesome Con notes.txt
+  Word Count: 110
+  Avg Sentence Length: 9.17
+  Lexical Density: 0.68
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Lifetime extended, Guaranteed! _subject to policy approval.txt
+  Word Count: 108
+  Avg Sentence Length: 4.7
+  Lexical Density: 0.69
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Tom_s dick, Harry_.txt
+  Word Count: 118
+  Avg Sentence Length: 8.43
+  Lexical Density: 0.71
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Hated Gift of Fire_.txt
+  Word Count: 113
+  Avg Sentence Length: 8.69
+  Lexical Density: 0.7
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: instant.txt
+  Word Count: 100
+  Avg Sentence Length: 10.0
+  Lexical Density: 0.66
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Club Dragon.txt
+  Word Count: 95
+  Avg Sentence Length: 6.33
+  Lexical Density: 0.76
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Bomb The Bullet The Gun (My Goddamned Uncle Sam).txt
+  Word Count: 96
+  Avg Sentence Length: 6.0
+  Lexical Density: 0.7
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The law of blood and Bone.txt
+  Word Count: 102
+  Avg Sentence Length: 34.0
+  Lexical Density: 0.58
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Unright.txt
+  Word Count: 87
+  Avg Sentence Length: 8.7
+  Lexical Density: 0.72
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Forgotten Astronaut_.txt
+  Word Count: 92
+  Avg Sentence Length: 18.4
+  Lexical Density: 0.74
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Other Side of the Mirror.txt
+  Word Count: 84
+  Avg Sentence Length: 8.4
+  Lexical Density: 0.75
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Untitled document(4).txt
+  Word Count: 78
+  Avg Sentence Length: 7.8
+  Lexical Density: 0.74
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Art in the temple of lies.txt
+  Word Count: 82
+  Avg Sentence Length: 6.31
+  Lexical Density: 0.67
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: History_s Killer.txt
+  Word Count: 84
+  Avg Sentence Length: 10.5
+  Lexical Density: 0.77
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: I laid my bones to dry.txt
+  Word Count: 78
+  Avg Sentence Length: 6.5
+  Lexical Density: 0.81
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Untitled document(1).txt
+  Word Count: 72
+  Avg Sentence Length: 12.0
+  Lexical Density: 0.83
+  Editor's Themes: Systemic/Sci-Fi
+  Marketability: High (Thematic alignment with 'Systemic/Sci-Fi')
+
+File: The giift of the absent god.txt
+  Word Count: 77
+  Avg Sentence Length: 6.42
+  Lexical Density: 0.74
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Sweet Time-Traveling Jesus Christ.txt
+  Word Count: 80
+  Avg Sentence Length: 8.0
+  Lexical Density: 0.72
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Strip Club Democracy.txt
+  Word Count: 72
+  Avg Sentence Length: 6.0
+  Lexical Density: 0.75
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Cursed.txt
+  Word Count: 66
+  Avg Sentence Length: 16.5
+  Lexical Density: 0.77
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Between this world and the previous.txt
+  Word Count: 78
+  Avg Sentence Length: 7.09
+  Lexical Density: 0.71
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Speaking In Salt.txt
+  Word Count: 61
+  Avg Sentence Length: 10.17
+  Lexical Density: 0.75
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The record burnt.txt
+  Word Count: 58
+  Avg Sentence Length: 7.25
+  Lexical Density: 0.72
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Rock Monster.txt
+  Word Count: 57
+  Avg Sentence Length: 9.5
+  Lexical Density: 0.77
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: A western town a young man notices a stranger walking in town one day.txt
+  Word Count: 54
+  Avg Sentence Length: 10.8
+  Lexical Density: 0.7
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: We Are The Monsters.txt
+  Word Count: 47
+  Avg Sentence Length: 3.92
+  Lexical Density: 0.89
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Time Witch and The Scotsman(1).txt
+  Word Count: 45
+  Avg Sentence Length: 15.0
+  Lexical Density: 0.8
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Suck and fuck.txt
+  Word Count: 54
+  Avg Sentence Length: 6.75
+  Lexical Density: 0.69
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Mirror in the Past.txt
+  Word Count: 38
+  Avg Sentence Length: 5.43
+  Lexical Density: 0.97
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: We are the void.txt
+  Word Count: 45
+  Avg Sentence Length: 45.0
+  Lexical Density: 0.78
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Soldier_s Disease.txt
+  Word Count: 35
+  Avg Sentence Length: 11.67
+  Lexical Density: 0.91
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: The Great Strike.txt
+  Word Count: 39
+  Avg Sentence Length: 6.5
+  Lexical Density: 0.72
+  Editor's Themes: Financial Horror
+  Marketability: High (Thematic alignment with 'Financial Horror')
+
+File: I_ll believe in a hell if.._.txt
+  Word Count: 43
+  Avg Sentence Length: 10.75
+  Lexical Density: 0.86
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: I_m not a junkie but I_m writing this to feed a habit.txt
+  Word Count: 37
+  Avg Sentence Length: 12.33
+  Lexical Density: 0.81
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The War of Desperation.txt
+  Word Count: 33
+  Avg Sentence Length: 11.0
+  Lexical Density: 0.82
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: One quadrillion to Negative One.txt
+  Word Count: 31
+  Avg Sentence Length: 15.5
+  Lexical Density: 0.9
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The lost house.txt
+  Word Count: 17
+  Avg Sentence Length: 3.4
+  Lexical Density: 0.88
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Home for  Gilded age.txt
+  Word Count: 5
+  Avg Sentence Length: 1.0
+  Lexical Density: 1.0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The tendrils of foundation.txt
+  Word Count: 26
+  Avg Sentence Length: 13.0
+  Lexical Density: 0.73
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Fight like an animal Kill like a man.txt
+  Word Count: 27
+  Avg Sentence Length: 6.75
+  Lexical Density: 0.85
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: fiction statement.txt
+  Word Count: 28
+  Avg Sentence Length: 9.33
+  Lexical Density: 0.68
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Grip.txt
+  Word Count: 14
+  Avg Sentence Length: 3.5
+  Lexical Density: 1.0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: A History of The Oort Cloud Wars.txt
+  Word Count: 24
+  Avg Sentence Length: 12.0
+  Lexical Density: 0.83
+  Editor's Themes: War/Conflict
+  Marketability: High (Thematic alignment with 'War/Conflict')
+
+File: Untitled document.txt
+  Word Count: 5
+  Avg Sentence Length: 0.71
+  Lexical Density: 1.0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The hundred thousand mile hero.txt
+  Word Count: 21
+  Avg Sentence Length: 10.5
+  Lexical Density: 0.76
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Untitled document(2).txt
+  Word Count: 18
+  Avg Sentence Length: 3.6
+  Lexical Density: 0.72
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Which one.txt
+  Word Count: 19
+  Avg Sentence Length: 3.8
+  Lexical Density: 0.53
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: 2148_.txt
+  Word Count: 15
+  Avg Sentence Length: 5.0
+  Lexical Density: 1.0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Time traveling cults.txt
+  Word Count: 8
+  Avg Sentence Length: 2.0
+  Lexical Density: 1.0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: I think in numbers and dots.txt
+  Word Count: 10
+  Avg Sentence Length: 3.33
+  Lexical Density: 1.0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Penmen.txt
+  Word Count: 8
+  Avg Sentence Length: 2.67
+  Lexical Density: 0.88
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Heat Island.txt
+  Word Count: 8
+  Avg Sentence Length: 4.0
+  Lexical Density: 1.0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Untitled document(3).txt
+  Word Count: 4
+  Avg Sentence Length: 4.0
+  Lexical Density: 1.0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: Fractals of Man Plot Outline.txt
+  Word Count: 0
+  Avg Sentence Length: 0.0
+  Lexical Density: 0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
+File: The Last Robot.txt
+  Word Count: 0
+  Avg Sentence Length: 0.0
+  Lexical Density: 0
+  Editor's Themes: 
+  Marketability: High (Thematic alignment with 'General Fiction')
+
