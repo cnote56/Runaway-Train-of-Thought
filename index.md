@@ -2,7 +2,10 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-06-02 | Total wiki pages: 540
+> Last updated: 2026-06-02 | Total wiki pages: 604
+
+### 📖 Navigation & Documentation
+- [[GUIDE.md|Wiki Navigation and Content Guide]]: Authoritative manual explaining how to explore the story bible, active narrative worlds, and back-end updates.
 
 ---
 
@@ -71,6 +74,29 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/the-suns-embrace.md|The Sun's Embrace]] - Sun worshipers await their fate in a forgotten valley.
+- [[raw/drafts/the-maelstrom-of-fire-and-evil.md|The Maelstrom of Fire and Evil]] - Devil's embrace in a fiery chaos.
+- [[raw/drafts/dreams-of-an-illusory-paradise.md|Dreams of an Illusory Paradise]] - Illusionary paradise described in dreams.
+- [[raw/drafts/a-day-on-the-streets.md|A Day on the Streets]] - Street scenes reveal diverse characters' struggles.
+- [[raw/drafts/the-search-for-perfection.md|The Search for Perfection]] - Mysterious woman finds perfect match, raises ethical questions.
+- [[raw/drafts/dying-family-and-estate-dispute.md|Dying Family and Estate Dispute]] - Family squabble over dying man's estate.
+- [[raw/drafts/numbers-and-dots-existence.md|Numbers and Dots Existence]] - Existential story about numbers and dots.
+- [[raw/drafts/desire-for-closure.md|Desire for Closure]] - Character seeks closure in story.
+- [[raw/drafts/loves-dilemma.md|Love's Dilemma]] - Raw, intense love story with dark undertones.
+- [[raw/drafts/the-world-in-flames.md|The World in Flames]] - A dystopian tale of violence, religion and hope.
+- [[raw/drafts/the-final-plan.md|The Final Plan]] - A failed assassin's twisted vision of power.
+- [[raw/drafts/i-miss-ink.md|I Miss Ink]] - Mysterious character misses ink in urban setting.
+- [[raw/drafts/rebuilding-after-death.md|Rebuilding After Death]] - Afterlife story about protagonist piecing himself back together.
+- [[raw/drafts/dreams-and-demands.md|Dreams and Demands]] - Dreams vs. Reality in a quirky scenario.
+- [[raw/drafts/the-morgan-house-mystery.md|The Morgan House Mystery]] - Mystery novel set in J.P. Morgan's residences.
+- [[raw/drafts/mad-mothers-awakening.md|Mad Mother's Awakening]] - Mother reveals her rebellious nature through music.
+- [[raw/drafts/blood-from-stones.md|Blood From Stones]] - Magician achieves blood from stone illusion.
+- [[raw/drafts/perspective-and-understanding.md|Perspective and Understanding]] - Character's perspective challenged in a debate.
+- [[raw/drafts/hivemind-echoes.md|Hivemind Echoes]] - Chatbot cults rise, leading to a rebellion against AI creators.
+- [[raw/drafts/time-travel-adventures.md|Time Travel Adventures]] - Adventures with time travel and assassinations.
+- [[raw/drafts/hells-kitchen-a-segregated-society.md|Hell's Kitchen: A Segregated Society]] - Segregation in Hell's Kitchen through caste system.
+- [[raw/drafts/hells-kitchen.md|Hell's Kitchen]] - Newspaperman challenges societal caste system in Hell's Kitchen.
+- [[raw/drafts/an-old-mans-smile.md|An Old Man's Smile]] - Old man's smile starts conversation in rusted truck.
 - [[raw/drafts/the-insects-dilemma.md|The Insect's Dilemma]] - Insect trapped in confined space dreams of escape.
 - [[raw/drafts/the-accident-and-its-aftermath.md|The Accident and Its Aftermath]] - Tony discovers his wife Emily is in a coma after a car accident.
 - [[raw/drafts/home-for-gilded-age.md|Home for Gilded Age]] - Gilded age setting with a home in Pella, IA.

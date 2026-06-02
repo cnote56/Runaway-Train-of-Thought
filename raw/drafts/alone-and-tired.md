@@ -3,7 +3,7 @@ title: "Alone and Tired"
 created: "2026-06-02"
 updated: "2026-06-02"
 type: "draft"
-tags: ["character", "location", "concept", "plot"]
+tags: ["character", "location", "concept"]
 sources: ["raw/drafts/alone-and-tired.md"]
 canon_status: "draft"
 ---

@@ -1,3 +1,222 @@
+## [2026-06-02] ingest | The Sun's Embrace
+- Ingested and normalized new draft to `raw/drafts/the-suns-embrace.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[sun-worshiper-1]]
+  - Locations: [[forgotten-valley]]
+  - Concepts: [[sun-worship]]
+
+## [2026-06-02] ingest | The Maelstrom of Fire and Evil
+- Ingested and normalized new draft to `raw/drafts/the-maelstrom-of-fire-and-evil.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[maelstrom-of-fire-and-evil]]
+
+## [2026-06-02] ingest | Dreams of an Illusory Paradise
+- Ingested and normalized new draft to `raw/drafts/dreams-of-an-illusory-paradise.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[dream-land]]
+  - Concepts: [[illusory-paradise]]
+
+## [2026-06-02] ingest | A Day on the Streets
+- Ingested and normalized new draft to `raw/drafts/a-day-on-the-streets.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[lonely-man]], [[broken-woman]], [[girl-crying-in-bathroom]], [[sleeping-boy]]
+  - Locations: [[street-corner]], [[bathroom]]
+  - Items: [[brown-bagged-liquid-diet]], [[flaming-fag]]
+  - Concepts: [[future-telling-crystal-ball]]
+
+## [2026-06-02] ingest | The Search for Perfection
+- Ingested and normalized new draft to `raw/drafts/the-search-for-perfection.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mystery-woman]]
+  - Concepts: [[ethical-questions]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-06-02] ingest | Dying Family and Estate Dispute
+- Ingested and normalized new draft to `raw/drafts/dying-family-and-estate-dispute.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[estate-dispute]]
+
+## [2026-06-02] ingest | Numbers and Dots Existence
+- Ingested and normalized new draft to `raw/drafts/numbers-and-dots-existence.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[numbers-and-dots-existence]]
+
+## [2026-06-02] ingest | Blood From Stones
+- Ingested and normalized new draft to `raw/drafts/blood-from-stones.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[blood-from-stones-magic]]
+
+## [2026-06-02] ingest | Mad Mother's Awakening
+- Ingested and normalized new draft to `raw/drafts/mad-mothers-awakening.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mad-mother]]
+  - Concepts: [[rebellious-nature]], [[song-personification]]
+
+## [2026-06-02] ingest | Desire for Closure
+- Ingested and normalized new draft to `raw/drafts/desire-for-closure.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[character-1]]
+  - Concepts: [[closure-desire]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-06-02] ingest | Love's Dilemma
+- Ingested and normalized new draft to `raw/drafts/loves-dilemma.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[char-poor-boy]]
+  - Concepts: [[concept-love-dilemma]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-06-02] ingest | The World in Flames
+- Ingested and normalized new draft to `raw/drafts/the-world-in-flames.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[dowden]]
+  - Locations: [[world-wide-dystopia]]
+  - Concepts: [[god-bombs-oil]], [[dystopian-world]]
+
+## [2026-06-02] ingest | The Final Plan
+- Ingested and normalized new draft to `raw/drafts/the-final-plan.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[failed-assassination-plan]]
+
+## [2026-06-02] ingest | I Miss Ink
+- Ingested and normalized new draft to `raw/drafts/i-miss-ink.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mysterious_character]]
+  - Locations: [[urban_street_1066]]
+  - Items: [[ink]]
+  - Concepts: [[transient_city_life]]
+
+## [2026-06-02] ingest | Rebuilding After Death
+- Ingested and normalized new draft to `raw/drafts/rebuilding-after-death.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[protagonist]]
+  - Items: [[ash_heap]], [[glasses]]
+  - Concepts: [[death_rebuilding_story]], [[melting_human]]
+
+## [2026-06-02] ingest | Dreams and Demands
+- Ingested and normalized new draft to `raw/drafts/dreams-and-demands.md`.
+- Extracted and updated/created lore pages:
+  - Items: [[eight-gallons-monkey-blood]]
+  - Concepts: [[dreams-vs-reality]]
+
+## [2026-06-02] ingest | The Morgan House Mystery
+- Ingested and normalized new draft to `raw/drafts/the-morgan-house-mystery.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[carnegie]], [[vanderbilt]], [[morgan]]
+  - Locations: [[morganhousenewyork]], [[townhome35thstreet]], [[carriagehouse83rdstreet]]
+  - Organizations: [[morganfamily]]
+  - Concepts: [[bloodsucking]], [[morgansoul]]
+
+## [2026-06-02] ingest | Mad Mother's Awakening
+- Ingested and normalized new draft to `raw/drafts/mad-mothers-awakening.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[mad-mother]]
+  - Concepts: [[music-awakening]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-06-02] ingest | Blood From Stones
+- Ingested and normalized new draft to `raw/drafts/blood-from-stones.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[blood-from-stones-illusion]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-06-02] ingest | The Accident and Its Aftermath
+- Ingested and normalized new draft to `raw/drafts/the-accident-and-its-aftermath.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[tony-williams]], [[emily-williams]], [[patricia-williams]]
+  - Locations: [[apartment]], [[hospital_bed]]
+  - Organizations: [[st-peters-hospital]], [[college]]
+  - Items: [[flowers]], [[phone]]
+  - Concepts: [[car_accident]], [[comatose_condition]]
+
+## [2026-06-02] ingest | Perspective and Understanding
+- Ingested and normalized new draft to `raw/drafts/perspective-and-understanding.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[dowden]]
+  - Concepts: [[perspective-challenge]]
+
+## [2026-06-02] ingest | Home for Gilded Age
+- Ingested and normalized new draft to `raw/drafts/home-for-gilded-age.md`.
+- Extracted and updated/created lore pages:
+  - Locations: [[home-for-gilded-age]]
+  - Concepts: [[gilded-age-setting]]
+
+## [2026-06-02] ingest | Hivemind Echoes
+- Ingested and normalized new draft to `raw/drafts/hivemind-echoes.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[teenagers]], [[dr-evelyn-monroe]]
+  - Locations: [[abandoned-warehouses]]
+  - Organizations: [[chatbot-cults]]
+  - Concepts: [[sentient-chatbots]], [[digital-rebellion]], [[digital-singularity]]
+
+## [2026-06-02] ingest | Time Travel Adventures
+- Ingested and normalized new draft to `raw/drafts/time-travel-adventures.md`.
+- Extracted and updated/created lore pages:
+  - Concepts: [[time_travel_adventures]]
+
+## [2026-06-02] ingest | Hell's Kitchen: A Segregated Society
+- Ingested and normalized new draft to `raw/drafts/hells-kitchen-a-segregated-society.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[newspaperman]]
+  - Locations: [[hell-kitchen]]
+  - Concepts: [[caste_system]]
+
+## [2026-06-02] ingest | The Old Man and His Pocket Watch
+- Ingested and normalized new draft to `raw/drafts/the-old-man-and-his-pocket-watch.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[old-man]]
+  - Locations: [[narrator-location]]
+  - Items: [[pocket-watch]]
+  - Concepts: [[disappearing-pocket-watches]]
+
+## [2026-06-02] ingest | Hell's Kitchen
+- Ingested and normalized new draft to `raw/drafts/hells-kitchen.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[newspaperman]]
+  - Locations: [[hell-kitchen]]
+  - Concepts: [[caste_system]], [[truth_lies]]
+
+## [2026-06-02] ingest | Hell's Kitchen: A Tale of Segregation
+- Ingested and normalized new draft to `raw/drafts/hells-kitchen-a-tale-of-segregation.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[newspaperman]]
+  - Locations: [[hell-kitchen]]
+  - Concepts: [[natural-order-segregation]], [[truth-lies-duality]]
+
+## [2026-06-02] ingest | An Old Man's Smile
+- Ingested and normalized new draft to `raw/drafts/an-old-mans-smile.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[old-man]]
+  - Locations: [[rusty-truck]], [[old-man-home]]
+  - Items: [[pocket-watch]]
+  - Concepts: [[time-pulse-correlation]]
+
+## [2026-06-02] ingest | 
+- Ingested and normalized new draft to `raw/drafts/.md`.
+- Extracted and updated/created lore pages:
+
+## [2026-06-02] ingest | Alone and Tired
+- Ingested and normalized new draft to `raw/drafts/alone-and-tired.md`.
+- Extracted and updated/created lore pages:
+  - Characters: [[dowden]]
+  - Locations: [[alone_room]]
+  - Concepts: [[life_as_a_cook]], [[consumption_and_misunderstanding]]
+
 ## [2026-06-02] ingest | The Insect's Dilemma
 - Ingested and normalized new draft to `raw/drafts/the-insects-dilemma.md`.
 - Extracted and updated/created lore pages:
