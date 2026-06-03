@@ -1,0 +1,37 @@
+---
+title: The Time Brawl
+---
+
+This morning the annual battle of time and the cosmos waged in my home.
+
+Fall back. Hold for Spring forward.
+
+This Yin and Yang flow between the sun burning through my window and the
+time on the clock in my head always surprises me. Each year.
+
+This distortion hits hardest when I am thumbing through my phone after
+wiping the sleep from my eyes. My clock says it far too early to be up,
+why it’s an hour before I normally do!
+
+The clock on my stove and microwave beg to differ. And her we have the
+stalemate that always ensues.
+
+The I trust the clock more and more each year. They are right, it is an
+hour ahead. We have not fallen back. It is absurd to believe otherwise.
+
+But the device in my hand that connects me to the world outside says
+otherwise. Time has fallen out of sync. We’ve lost an hour of time!
+
+Thief! Time thief! We’ve lost an hour of the day and no one is
+concerned!!!
+
+The battle wages on me for the whole day until the last clash of sword
+against shield strikes a little after noon.
+
+Then dusk comes, sooner than last time. One final strike with the
+remainder of strength my poor clocks had left in them and the Time Brawl
+is done.
+
+Ghosts of this day haunt me for the weeks to come, then the cold freeze
+of winter comes and time grows slow until its inertia snaps forward
+again and we spring back to normal.

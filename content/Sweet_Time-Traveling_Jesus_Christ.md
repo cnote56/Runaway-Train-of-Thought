@@ -1,0 +1,15 @@
+---
+title: Sweet Time-Traveling Jesus Christ
+---
+
+Sweet Time-Traveling Jesus Christ
+
+Three days. What happened for three days. He has risen? Well yeah, if he
+was the son of god why wouldn’t he get the hell out of there.
+
+All religous aspect aside where did he go? Why wouldn’t he go
+everywhere? This explores wif he decided to travel across time and space
+to touch and weave in and out of lives. But he doesn’t remember who he
+is.
+
+Welcome to the many lives of Jesus Christ.

@@ -1,0 +1,30 @@
+---
+title: Olygod Dynamic
+---
+
+Olygod Dynamic: how I learned to break bones.
+
+There is a certain stillness in the chaos these days. We've dropped all
+metaphorical bombs we had and there is still something new for us to
+destroy. It keeps growing. This organic dynamic.
+
+It found its way here from somewhere. Somewhere unknown - off this
+world - but familiar just the same. It don't touch it. This viscous
+tension it permeates the air around us. Binding us. Keeping us all in
+the soup and bound to the sea in an oil slick.
+
+Tortured with the knowledge of what we are experiencing but still caught
+at the mercy of this new God.
+
+The Olygod Dynamic.
+
+Baltimore, Maryland. Jake's Hardware and Lawn Supply. Jake behind the
+counter. A man in a trucker hat, a blue jean shirt with his sleeves
+rolled up, khaki carpenter pants, brown boots, and a Don't Tread On Me
+belt buckle walks in the store. The bell above the door rings.
+
+[An identified complainant, a business owner, reported that a customer
+state he had made poisonous gas and says “chlorine gas is the best to
+kill people." Another employee overhears the comments. The customer
+leaves the store owner shaken and clamouring for the phone to call the
+police.]

@@ -1,0 +1,1635 @@
+---
+title: NOTES_One Term Party
+---
+
+Every great fortune has one great sin at its rotten core. 
+
+  Every great fortune has one great sin at its rotten core. 1
+
+A New Political Animal 3
+
+WHO 8
+
+  On another continent. In another realm of human emotion. 11
+
+WHAT 13
+
+  ### 1. Student Loan Forgiveness 13
+
+  The Second Essay. 16
+
+  ### 2. Medicare for All 17
+
+  The Third Essay. 20
+
+  ### 3. Universal Basic Income (UBI) 21
+
+  ### 4. Affordable Housing Initiatives 21
+
+  ### 5. Tax Reform for Wealth Redistribution 22
+
+  ### 6. Climate Change Policies and Economic Recovery 23
+
+  ### 7. Labor Rights and Minimum Wage Increases 23
+
+  ### 8. Racial and Economic Inequality Initiatives 24
+
+HOW 25
+
+  ### 1. Overview of the Electoral Process Timeline 25
+
+  ### 2. Candidate Registration 25
+
+  ### 3. Filing Deadlines and Key Dates 26
+
+  ### 4. Timeline for Third-Party Candidates 26
+
+  ### 5. Waiting Period for Candidates 27
+
+  ### 6. Pivotal Caucus and Primary Events 27
+
+Tangled in the Roots of a Troubled World 29
+
+  The Fourth Essay. 29
+
+  ### The Rise of a Third-Party 31
+
+  The Convention Speech 32
+
+  ### Overcoming Structural Obstacles 34
+
+  ### Reforms to Mitigate Third-Party Disruption 35
+
+  Supporting Materials 37
+
+Louisiana 1934. 51
+
+A New Political Animal
+
+It is a different country, similar to ours, but with some key
+differences. In this timeline, the story you are about to read takes
+place a few years after the events that transpired in our timeline. The
+movement is a reaction to the events of our timeline, and it is led by
+people who believe that things can be better. They are fighting for
+change and willing to do whatever it takes to make their voices heard.
+
+John Howard Ellis was a nobody, a blue-collar lawyer who hadl always
+been passionate about justice - but a nobody nonetheless. He had a
+painful distaste for corruption, which had cost him dearly in the past.
+He had wanted to reform his country away from corruption, but he had
+always been met with resistance.
+
+A tall, thin man with a receding hairline, John had dark circles under
+his eyes and always looked like he hadn't slept in days. His constant
+study in law school paved the way for his legal work, but his school
+could have been a better one that failed a few years after graduating.
+He was a loner, and he didn't have many friends. He was also very
+private and didn't like talking about his past. Because many did not
+understand why a person would move across the country so many times for
+so many reasons that he couldn’t remember, he returned to history books.
+He studied the newspapers of his early life.
+
+He found much to be desired as the stock market crashes took his college
+tuition and his father’s pride. His family held together over the years,
+but slowly as the once profound religious beliefs lost ground to fact
+and education. It was his parents' fault that John grew up in the
+largest cult in the World, but it was their fault when that same church
+told John and his family they were less than because they were poor and
+couldn’t support themselves. His sisters were denigrated because they
+remained barren, unmarried, and populated the world. John fell out of
+favor when he refused to join the church for a two-year mission.
+
+He left that cult soon after, and much of John's family remained
+entrenched in the dogma and believed the lies.
+
+John couldn’t. He simply couldn’t justify the absurdity of religious
+beliefs, which remained incongruent with known reality.
+
+Growing up, John’s father worked any job he could. But when His father
+found a Union card - the food on the table got better. The house looked
+nicer. The cars didn’t always need maintenance or expensive repairs.
+
+Six months ago, John had found himself depressed and alone. He was
+facing his mental health demons, and he was ranting and angry much of
+the time. This strained his relationships; his family barely spoke to
+him, and his friends hesitated to text. John was suffering—a little
+emotional isolation with a dash of social anxiety and “highly
+functional” depression.
+
+But John was determined to overcome his demons. He knew he had to fight
+for what he believed in, even if it meant standing alone. He knew he had
+to make a difference in the world, even if it was just a small one.
+
+And so, John Howard Ellis set out on a journey to reform his country
+away from corruption. He knew it would be a long and difficult journey,
+but he was determined to succeed.
+
+John also had another thing going against him: he was a trained lawyer.
+And as a trained lawyer, he knew exactly how wrong the world had twisted
+around him; corruptive money flowed in and out of the Congress and court
+so fast it wasn't even counted.
+
+One thing rings true both in this timeline and yours: no one who ever
+defined the idea of highly functional depression ever suffered from this
+condition because the condition is far worse than a depression that one
+can exist in a bed or in isolation. John was paralyzed with dysthymia,
+and yet he struggled forward. The inertia of necessity triumphs one's
+feelings.
+
+It's worse because it's walking depression. People presumed he was a
+rude, awful person. In truth, the chronic pain from spinal stenosis has
+taken his patience from him - people just wanted too much coaxing or
+fluffing in modern society - chronic pain doesn’t allow for such
+frivolous emotional expense.
+
+John found a way to wander forward and find himself responsible for as
+much as he could; what fell through the cracks was sadly what brought
+him to his near demise six months ago.
+
+He found himself despondent after 15 years of practice; he sat there and
+stared at his life's work and realized it was worthless because of greed
+because of the want because of the corruption of this country.
+
+He did what any other American would do, got angry mad, thought of
+violence, then he got drunk, then kept getting drunk, and then finally,
+one day, he got tired of getting drunk and being mad. One day, he just
+started writing down everything wrong that he thought in this world.
+Then another timeline is this poor bastard just started plastering the
+side of his pickup van with all sorts of crazy sayings and biblical
+references. He turned in one of those people, but in this timeline it
+didn't go so badly.
+
+He wrote down an essay he pulled all of his legal research reading and
+ideas into a one single document stated day one presidential executive
+orders.
+
+And in this string of orders in this fevered writing, it took 30 days to
+pour out of his soul. In 12 essays, John envisioned all his hopes and
+dreams for this country. One that he loved and hated all at once.
+
+In these essays, he outlined exactly how one person in the right
+position at the right time is willing to do the right thing; it's a very
+selfish and stupid act. John didn't believe he was going to live to see
+the day, which is why the draft text of all of his executive orders and
+they get to be published set on his computer for weeks he was terrified.
+He was terrified of it all coming true.
+
+The main plank in the platform to change the country would demand
+one-term presidency. As the presidency would disregard the other two
+branches and issue executive orders shaded by national and global
+emergency acts that allowed for the president to issue orders demanding
+the US government to act consequences be damned. The plank became known
+as the, “Yeah, sue me.” platform grew in popularity as his first essay.
+Listed as the first order, it would be known as the prime directive that
+people printed onto t-shirts as the movement grew in fervory and
+populist zeal.
+
+See John took to heart the lessons he learned in law school and he
+thought hard about how everything had a purpose and that for our society
+to ever truly become great because it was not great never was even the
+idea at the very beginning and the Sea germination of freedom was not
+great it was tainted the franchise was kept from so many among other
+things the gross inequality of life itself, and here this is the ideas
+that John focused on and his writings, and he finished writing, and then
+he sent them to his best friend, and in this timeline, the world changed
+for John.
+
+John liked to study history because uit an slaw were so closely
+intertwined.
+
+John's first essay hit the internet.
+
+It began like this….
+
+“Within the first hundred days of my administration, I will invoke the
+national emergency economic powers found in every facet of our
+jurisprudence to impose a new and immediately due tax for high-income
+earners tax brackets. I am calling for a federal tax on all that
+accumulated wealth, an exponential tax.
+
+The first ten million was in the clear with no exposure to the
+Exponential Tax.
+
+The second ten million would be taxed at 1 percent; the third tenth at 2
+percent; the fourth tenth at 4 percent; the fifth tenth at 8 percent;
+the sixth tenth million at 16 percent; the seventh tenth million at 32
+percent; the eighth tenth million at 64 percent; the ninth tenth million
+and above at 99 percent of all money earned in excess. In exchange,
+these high-income earners were to be celebrated at each level. These
+Neo-Rich Barrons were to be the great new uncles of Amrieca - they would
+find their names on highways, roads, bridges, sea walls, and high-speed
+rail lines for their generosity in contributing their wealth through the
+Exponential Tax’s infrastructure projects.
+
+This fresh tax revenue could open up a new surge in infrastructure
+funding and immediately benefit everyone under the sword and shield of
+the United States of America.
+
+To calculate the potential tax revenue from a wealth tax, we need to
+know the number of people who earn over $20 million and the total wealth
+they possess.
+
+From my search results, it’s challenging to find the exact number of
+people in the U.S. who earn over $20 million annually¹. However, there
+are about 22 million millionaires in the U.S²³.
+
+Assuming a small percentage of these millionaires earn over $20 million,
+let’s say there are N people who earn over $20 million. If the total
+wealth of these N people is W dollars, then a one percent wealth tax on
+all millions of dollars earned over $20 million would generate 0.01 *
+(W - 20 million * N) dollars.
+
+Please note that this is a simplified calculation, and the actual tax
+revenue could be different due to various factors such as tax evasion,
+changes in taxpayer behavior, etc. For a more accurate estimate, you
+would need more precise data and the assistance of a tax professional or
+economist.
+
+There was much lamenting and gnashing of teeth from all the Rabid
+Capitalists left to hoard their wealth against the want of the people
+who indeed created it.
+
+Many called for his law license to be revoked after pushing such
+poppycock.
+
+Sure, I can provide some general information on this topic.
+
+For tax purposes, the IRS defines high-income earners as anybody who
+earns enough income to be in the top three tax brackets¹. When you earn
+a high income, you tend to pay a higher percentage of taxes than average
+earners¹.
+
+High-income earners often accrue business or pass-through income that is
+not reported by a third-party to the IRS, so taxes are less likely to be
+appropriately paid².
+
+Here are some specific tax obligations for high-income earners:
+
+- Social Security tax: You must pay a 6.2% Social Security tax for the
+  first $160,200 as of 2023³⁴.
+
+- Medicare tax: There’s a 1.45% Medicare tax on unlimited income³.
+
+- Net Investment Income Tax: You have to pay a 3.8% Net Investment
+  Income Tax on income over $200K for individuals and $250K for married
+  couples³.
+
+WHO
+
+IN a hotel room in another timeline, John thought and planned how to
+kill himself. He was fighting with his demons apof inadequacy and
+ppercepved failures.
+
+His worthless thoughts about plotting a drive to a gun show and finding
+a seller of a derringer and simple twos hot solution for his mental
+torture.
+
+But in this timeline, John didn’t go to the gun show.
+
+He didn’t buy that gun.
+
+In this timeline. John found strenght in his anger about why this world
+made him feel as awful amd worthless as to consider taking hisself off
+the chessboard. Instead, his professional practice suffered. His wife
+sadly, alienatedfurther way from him, but in six months, he was now
+standing at the cross roads of this country. As a candate for the
+biggest politcal movement to shake the very foundations of this country.
+
+John stared blanky at ino the darkness of the backstage curtains feeling
+the roar of the democraic convention bheind two layers of curtains.
+
+The sting of nerve pain snatched him from enojoying the moment. His left
+foot and then it twinged upwards and dispated. Another angle of his
+conditions was chirnic pain and neropathic nerve pain from degenrative
+spinal and cervical disks alng the watchtower of his spinal column -
+thanks be to the spinal stenosis gods.
+
+Sixs months ago.
+
+The rants began.
+
+Written. Then his hands grew too numb and inreliale from he nerve pain
+he moved to posting hot takes about what made him angry.
+
+Then the madness took over.
+
+Six months ago, John was a lawyer at a firm.
+
+But soon the rants grew too much even for the friendship and trust of
+the legal profession.
+
+So a non-profit formed around him. To pay a fe wbills and take donations
+for getting him help crawled around his friends and collegeaues.
+
+Then his hands turned numb and the his voice found the power of an AI
+chatbot.
+
+Thu began the first AI powerred persidential canidiate.
+
+One whose essays are reproduced in this book.
+
+Let slip the dogs of the most violent discourse we understand -
+democracy.
+
+The one thing that will surely demoralize before it demotes equality
+amugt the masses.
+
+The One Term President declared his campaing for president of the United
+States as he decended the stairs of a paplce from which the whole of us
+should have demanded resitiution.
+
+Thus we have our current timeline.
+
+###
+
+“Wouldn't it be funny if all of the recent political chicanery has
+really all been the outcome of a series of $1 bets between a small cadre
+of oligarchs that has just been happening the WHOLE TIME!” the radio
+crackled with audience laughter distorting across the tinny digital
+speaker.
+
+The room is a kitchen but food is not made here. No meals. But the tinge
+of chemicals in the air. Ammonia. Sulfate. Toxic.
+
+The body lay hunched in a pile of blood and vomit.
+
+Here, the lies beginning.
+
+A corpse. Elgin Rootspanger found his start in life like many of his
+kind, a lost, orphaned boy left over from the war that was meant to be
+the war avoided after the prior generation sought to end all wars with
+the first greater war.
+
+But even in all that sacrifice the scales to satisfy the gods of war
+remained unquenched.
+
+And now, the feeding of those gods was the new most powerful of roles.
+The makers of time and the means by which to rule the time of other men.
+
+Here, the one scrap of paper Rootspanger held most tightly than his last
+scrap of bearer papers of the last country he was cast from, was the
+source recipe for a new explosive. The last explosive mankind would dare
+use.
+
+And this flash glue, as he used it, caught sticky even in the wettest of
+storms and still flashed hot enough to burn through steel three times
+its use.
+
+The concoction was a murderous one indeed, and soon he found a way to
+display its usefulness to the gods of war.
+
+The early hours of September 11, 2026.
+
+On another continent. In another realm of human emotion. 
+
+Javier Milei is a far-right libertarian politician and economist who is
+running for president of Argentina in the October 2023 election. He is
+known for his anti-establishment rhetoric, his admiration of former US
+President Donald Trump, and his controversial proposals to dollarize the
+economy, abolish the central bank, and shrink the state. He emerged as
+the top vote-getter in the August 2023 primary election, surprising the
+traditional political parties and shaking up the race. He faces Sergio
+Massa, the candidate of the governing coalition, and Patricia Bullrich,
+the candidate of the main opposition coalition, in the first round of
+the election on October 22¹²³. He has also faced criticism from his
+rivals, who blame him for the sharp depreciation of the Argentine peso
+in the parallel market³.
+
+Some additional sentences are:
+
+- Milei has a distinctive appearance, with long, tousled hair and
+leather jackets, and often sings rock songs at his rallies. He has a
+large following among young and disenchanted voters, who are frustrated
+with the economic crisis and the political establishment¹⁴.
+
+- Milei claims to represent the values of liberty, individualism, and
+free markets, and opposes what he calls the "socialist tyranny" of the
+current government. He also advocates for legalizing the sale of human
+organs, reducing taxes, and withdrawing from international
+organizations¹⁵.
+
+- Milei's chances of winning the presidency are uncertain, as he faces a
+strong challenge from Massa, who has the support of the current
+president, Alberto Fernández, and Bullrich, who has the backing of the
+former president, Mauricio Macri. Some polls suggest that Milei could
+force a run-off with Massa, while others indicate that he could be
+eliminated in the first round²⁶.
+
+Source: Conversation with Bing, 11/19/2023
+
+(1) Who is Javier Milei, Argentina’s far-right populist politician?.
+https://www.aljazeera.com/news/2023/8/14/who-is-javier-milei-argentinas-far-right-populist-politician.
+
+(2) . https://bing.com/search?q=melli+Argentine+populist.
+
+(3) Argentina's populist presidential candidate Javier Milei faces ....
+https://apnews.com/article/argentina-javier-milei-peso-depreciation-presidential-election-1b94d270e6e20cbe2acbef0bcb3a316c.
+
+(4) Many frustrated Argentines pinning hopes on firebrand populist
+Javier ....
+https://apnews.com/article/milei-argentina-elections-massa-bullrich-cb2de60c5f9bc1ae52c216a8863b8b41.
+
+(5) undefined.
+https://www.euronews.com/2023/08/14/far-right-populist-javier-milei-is-the-biggest-vote-getter-in-argentinas-presidential-prim.
+
+(6) undefined.
+https://www.theguardian.com/world/2023/oct/23/sergio-massa-wins-first-round-argentina-presidential-election-over-javier-milei.
+
+###
+
+AI can spy on your screen by reading HDMI radiation, researchers warn
+
+• Researchers have shown that it's possible to spy on what's visible on
+a screen by intercepting electromagnetic radiation from HDMI cables
+using artificial intelligence.
+
+• The AI-powered cable-tapping method can reconstruct text from
+intercepted HDMI signals with around 70% accuracy, which is good enough
+for most human readers to decipher.
+
+• Hackers could use this technique to monitor sensitive information like
+password entries, financial data, or encrypted communications.
+
+• While the barrier to entry is still high for average users,
+researchers say these attacks are already being used against government
+agencies and sensitive industrial settings.
+
+https://www.techspot.com/news/104015-ai-can-see-what-screen-reading-hdmi-electromagnetic.html
+
+###
+
+WHAT
+
+### 1. Student Loan Forgiveness
+
+- **Historical Context**:
+
+- Federal involvement in student loans began post-World War II with the
+GI Bill, expanding through the Higher Education Act of 1965.
+
+- The growth of student debt has become a significant economic issue,
+with over $1.6 trillion in federal loans owed as of 2023 ((9)).
+
+- **Current Proposals**:
+
+- President Biden proposed debt cancellation initiatives, including the
+challenged sweeping plan and the new SAVE plan to reduce monthly
+payments ((5)) ((34)).
+
+- Various approaches to forgiveness: universal cancellation, targeted
+relief based on income, and income-driven repayment plans ((29)) ((31)).
+
+- **Economic Implications**:
+
+- Advocates argue that easing student debt could stimulate the economy
+by increasing consumer spending and promoting entrepreneurship ((48)).
+
+- Critics caution about fairness to those who have repaid loans and the
+potential high cost of large-scale debt cancellation ((30)) ((49)).
+
+Sure, here’s a basic outline for an argument in favor of forgiving
+student loan debt based on the United States presidential powers of the
+executive order:
+
+I. Introduction
+
+- Brief overview of the current student loan debt situation in the
+  United States.
+
+- Explanation of student loan forgiveness and its potential benefits.
+
+- Thesis statement: The President of the United States should use
+  executive powers to implement student loan forgiveness.
+
+II. Understanding Executive Orders
+
+- Definition and explanation of executive orders.
+
+- Historical examples of significant executive orders.
+
+- Legal basis for executive orders in the context of student loan
+  forgiveness.
+
+III. The Need for Student Loan Forgiveness
+
+- Discussion on the current state of student loan debt in the U.S.
+
+- Examination of the impact of student loan debt on individuals and
+  society.
+
+- Presentation of data and statistics to support the need for student
+  loan forgiveness.
+
+IV. The Role of Executive Orders in Implementing Student Loan
+Forgiveness
+
+- Analysis of how executive orders can be used to implement student loan
+  forgiveness.
+
+- Discussion on potential challenges and legal considerations.
+
+- Examination of potential impact and benefits.
+
+V. Case Studies
+
+- Examination of other countries that have implemented student loan
+  forgiveness.
+
+- Discussion on lessons learned and how they can be applied to the U.S.
+
+VI. Conclusion
+
+- Recap of the arguments made.
+
+- Restatement of thesis.
+
+- Call to action for further research and discussion on this topic.
+
+P
+
+The Second Essay. 
+
+Healthcare. It commanded the fruits of the tax revneues to offset all
+the costs of “supporting and creating a new American” who with no
+limiations. no boundraires to success. no more excuses.
+
+The pain suffered b y generaitons of those that couldnt afford the care
+they needed was over. The line item was simple the defense depending
+budget would be redirected to fill fill and back fill for years of under
+funding for complete and total health care for all citizens and
+residents of the United States and its territories. All persons entering
+and visiting oils also be given this healthcare for free.
+
+Doctors were to be priased. Hospitals to be jinned from stones and dust
+overnight to catch the great new wealth of curing a nation long mired by
+chronic capitalisized healthcare.
+
+The best interest of th country were that its citizenry and its
+residents should be in the best healthy condition possible to contribute
+to the greater good and ultimately the gross domestic product of the
+nation. Therefore, it is not an entitlement, but rather an investment in
+the very infrastructure of this nation - it’s people - that healthcare
+be free, total and complete.
+
+### 2. Medicare for All
+
+- **Historical Context**:
+
+- The evolution of healthcare reform in the U.S., including the
+introduction of Medicare in 1965, has been driven by dissatisfaction
+with private insurance models.
+
+- Increased costs and lack of coverage for millions highlight the
+urgency for comprehensive reform ((112)).
+
+- **Current Proposals**:
+
+- Medicare for All aims to create a single-payer system, eliminating
+private insurance, and providing extensive services without premiums or
+deductibles ((89)) ((122)).
+
+- Controversy exists among policymakers regarding how best to implement
+such a system while maintaining quality care ((90)).
+
+- **Economic Implications**:
+
+- Supporters claim it can reduce overall healthcare spending due to
+lower administrative costs ((88)).
+
+- Critics warn of potential drawbacks such as reduced provider income
+and the risk of negatively impacting care quality ((90)) ((94)).
+
+Sure, here’s a basic outline for an argument in favor of universal
+healthcare based on the United States presidential powers of the
+executive order:
+
+I. Introduction
+
+- Brief overview of the current healthcare system in the United States.
+
+- Explanation of universal healthcare and its potential benefits.
+
+- Thesis statement: The President of the United States should use
+  executive powers to implement universal healthcare.
+
+II. Understanding Executive Orders
+
+- Definition and explanation of executive orders.
+
+- Historical examples of significant executive orders.
+
+- Legal basis for executive orders in the context of healthcare reform.
+
+III. The Need for Universal Healthcare
+
+- Discussion on the current state of healthcare in the U.S.
+
+- Examination of healthcare disparities and inequities.
+
+- Presentation of data and statistics to support the need for universal
+  healthcare.
+
+IV. The Role of Executive Orders in Implementing Universal Healthcare
+
+- Analysis of how executive orders can be used to implement universal
+  healthcare.
+
+- Discussion on potential challenges and legal considerations.
+
+- Examination of potential impact and benefits.
+
+V. Case Studies
+
+- Examination of other countries that have implemented universal
+  healthcare.
+
+- Discussion on lessons learned and how they can be applied to the U.S.
+
+VI. Conclusion
+
+- Recap of the arguments made.
+
+- Restatement of thesis.
+
+- Call to action for further research and discussion on this topic.
+
+ 
+
+The Third Essay. 
+
+Defense Spending.
+
+It was simple, John wrote tersley. And lost no depth from his minial
+words.
+
+No defense spending for one year.
+
+nearly one trillion dollars would instead be spent on every single
+social and infrstruce program that was left unfunded for the past ten
+years. All in one year - each of them would get everyhtin gthey needed.
+
+But the bomb makers would have ot go hungry - or eat their leftover
+profits from the past 50 years of bloated spending.
+
+ 
+
+### 3. Universal Basic Income (UBI)
+
+- **Historical Context**:
+
+- The concept of UBI has historical roots dating back to figures like
+Thomas Paine and Martin Luther King Jr. advocating for income security
+and poverty alleviation ((130)) ((139)).
+
+- **Current Proposals**:
+
+- Recent proposals include various models of UBI, such as Andrew Yang's
+"Freedom Dividend" to provide $1,000 monthly to every adult ((133))
+((134)) ((135)).
+
+- **Economic Implications**:
+
+- UBI could reduce poverty and improve income security, making it easier
+for individuals to seek education and training ((168)).
+
+- Challenges include high fiscal costs and concerns over work incentives
+((156)) ((167)).
+
+### 4. Affordable Housing Initiatives
+
+- **Historical Context**:
+
+- Increasing housing costs have outpaced income, leading to a shortage
+of affordable units and affecting economic mobility ((285)) ((292)).
+
+- **Current Proposals**:
+
+- Policies aim to increase affordable housing supply and combat
+homelessness through various financing mechanisms and zoning reforms
+((287)) ((306)).
+
+- **Economic Implications**:
+
+- Access to affordable housing boosts local economies, increases
+productivity, and improves public health outcomes ((294)) ((337)).
+
+- The economic cost of lacking affordable housing is estimated at $2
+trillion annually due to lost productivity and wages ((320)).
+
+### 5. Tax Reform for Wealth Redistribution
+
+- **Historical Context**:
+
+- Tax policies in the U.S. have evolved, impacting income inequality;
+current debates focus on modifying corporate taxes to ensure fairness
+((506)) ((507)) ((508)) ((509)) ((510)).
+
+- **Current Proposals**:
+
+- Proposals target the wealthy for higher taxes and aim to eliminate
+loopholes that disproportionately benefit high-income individuals
+((508)) ((509)).
+
+- **Economic Implications**:
+
+- Ensuring wealthier individuals pay a fair share can fund critical
+public services and reduce inequality, fostering an environment for
+economic growth ((507)) ((529)).
+
+### 6. Climate Change Policies and Economic Recovery
+
+- **Historical Context**:
+
+- The growing urgency for climate action has increased support for
+environmentally sustainable policies across the political spectrum
+((184)) ((185)) ((186)) ((187)) ((188)).
+
+- **Current Proposals**:
+
+- Progressive climate policies include significant investments in green
+technologies and infrastructure as part of recovery efforts ((276))
+((277)).
+
+- **Economic Implications**:
+
+- Transitioning to a green economy can create jobs and prevent the
+costly impacts of climate disasters ((191)) ((192)) ((193)) ((194))
+((195)).
+
+- Immediate and consistent action is necessary to embed sustainability
+into economic policies effectively ((218)) ((219)).
+
+### 7. Labor Rights and Minimum Wage Increases
+
+- **Historical Context**:
+
+- The federal minimum wage was established in 1938, and ongoing debates
+continue about its adequacy in contemporary economic conditions ((464))
+((465)).
+
+- **Current Proposals**:
+
+- Various proposals seek to increase the federal minimum wage, arguing
+for a living wage to combat economic disparity ((472)).
+
+- **Economic Implications**:
+
+- Raising the minimum wage is expected to alleviate poverty and
+stimulate demand, albeit with potential inflationary concerns
+((472))((473))((474))((475))((476))((477))((478))((479))((480))((481))((482))((483))((484)).
+
+- Historical studies challenge the notion that minimum wage increases
+necessarily harm employment levels, suggesting nuanced effects ((500))
+((501)) ((502)) ((503)) ((504)).
+
+### 8. Racial and Economic Inequality Initiatives
+
+- **Historical Context**:
+
+- Systemic racial inequality has persisted throughout U.S. history,
+necessitating targeted policy interventions to promote equity ((14)).
+
+- **Current Proposals**:
+
+- Proposals include targeted economic relief programs, like student debt
+cancellation for minority groups disproportionately affected by loans
+((30)) ((14)).
+
+- **Economic Implications**:
+
+- Addressing racial disparities in wealth can drive overall economic
+improvement by enhancing consumer spending and labor market
+participation ((30)) ((67)).
+
+- Programs aimed at leveling the playing field contribute to a
+healthier, more diverse economy ((288)).
+
+HOW
+
+### 1. Overview of the Electoral Process Timeline
+
+The electoral process for the presidency in the United States is
+extensive and generally spans nearly two years. Key deadlines and events
+are crucial for candidates, influencing their campaign strategies and
+execution.
+
+The electoral process begins in the spring of the year before the
+election when candidates officially register with the Federal Election
+Commission (FEC). This period is followed closely by candidates
+announcing their intentions to run ((1)) ((4)) ((10)).
+
+### 2. Candidate Registration 
+
+Candidates can register to run for president at any time, but they
+typically do so much earlier to meet various state-specific filing
+requirements. Although there is no national deadline for filing their
+candidacy, candidates must comply with state regulations to appear on
+the ballot, which often includes collecting signatures and paying fees
+((1)) ((64)) ((65)) ((66)).
+
+### 3. Filing Deadlines and Key Dates
+
+- **Spring of the Preceding Year**: Candidates register with the FEC and
+announce their candidacy.
+
+- **January to June of Election Year**: States and parties conduct
+presidential primaries and caucuses, an essential aspect of the
+selection process ((12)).
+
+- **July to Early September**: Political parties hold their nominating
+conventions where the presidential candidates are officially selected
+((13)).
+
+- **Early November**: The general election occurs on the first Tuesday
+following the first Monday in November, which, for 2024, will be on
+November 5 ((5)).
+
+- **December**: Electors cast their votes for president in the Electoral
+College ((16)).
+
+### 4. Timeline for Third-Party Candidates
+
+Third-party candidates often face more strenuous processes regarding
+ballot access compared to major party candidates. They must gather
+signatures and meet state-specific deadlines to qualify for the ballot
+((178)) ((202)).
+
+- **Independent candidates**, such as third-party candidates, can begin
+this process later than major party candidates because they need to
+gather signatures in multiple states, which varies significantly in
+terms of timing and requirements. For instance, New Hampshire requires
+as few as 3,000 signatures ((204)).
+
+### 5. Waiting Period for Candidates
+
+Candidates indeed can wait until 12 months before the election to enter
+the race, as there is no formal national deadline that restricts this.
+Registration processes and filing for state ballots can be initiated
+well within this timeframe, depending on state-specific deadlines for
+registration and ballot access for both major and third-party candidates
+((3)).
+
+### 6. Pivotal Caucus and Primary Events
+
+Several key events mark the early phases of the electoral process:
+
+- **Iowa Caucus**: Traditionally the first event, held in early January
+of election years.
+
+- **New Hampshire Primary**: Follows shortly, usually in late January.
+
+- **South Carolina Primary**: Generally held in February, paving the way
+for other states to conduct primaries ((5)) ((64))((65))((66)).
+
+### Conclusion
+
+In summary, while candidates can register up to a year before the
+election and still be competitive, third-party candidates must meet
+additional requirements to secure ballot access. Additionally, pivotal
+primaries and caucuses in Iowa, New Hampshire, and South Carolina are
+critical in shaping the electoral race landscape. Candidates
+strategically plan their timelines to ensure they meet necessary
+deadlines and maximize their visibility leading up to the general
+election.
+
+ 
+
+Tangled in the Roots of a Troubled World
+
+The Fourth Essay. 
+
+No one bothered to read the fourth essay. Because riots were breaking
+out. Over banners and flags.
+
+The German ship Bremen was a passenger liner that made regular
+transatlantic crossings between Germany and the United States in the
+1920s and 1930s ⁴. According to a [Holocaust Education Program Resource
+Guide](^2^) article, on the night of Friday, July 26, 1935, several
+hundred Communists took part in an anti-Nazi demonstration on a pier in
+New York harbor as the Bremen was about to depart for Europe. They
+attempted to board the liner and were fought by 250 policemen,
+detectives, and crew members. The demonstrators were protesting against
+the Nazi regime in Germany, which had recently passed the Nuremberg
+Laws, stripping Jews of their citizenship and civil rights ².
+
+A [Forward](^1^) article provides more details about the incident.
+Around 2,000 anti-Nazis, communists, Catholics, and sailors participated
+in the protest that took place at the departing German ship Bremen. The
+signal was given for the larger protest against the bloody Hitler regime
+to start when three heroic American sailors tore down the hated Nazi
+flag. Hanging off the end of the sizable ship, it was lit up by beams
+and seen by thousands of demonstrators. Just as the three heroic
+anti-Nazis tore up the hated Nazi emblem off the flagpole, the
+surrounding streets resounded with incredible shouts of "hurrah" on the
+part of the thousands of demonstrators gathered there, many of whom were
+aboard the ship itself. The article notes that the irony of the
+situation was that precisely in the heart of the demonstration, meaning
+exactly where the Nazi flag was torn down, a Jewish detective could be
+found. Matthew Solomon was occupying the precise spot beneath the flag.
+Solomon was forced to choose between his duty as a policeman and his own
+sympathies as a Jew. He decided to fulfill his police duties and
+observed the demonstrators. Momentarily, many anti-Nazi protesters
+arrived to support the three ripping down the flag. They attacked the
+detective and beat him severely. A panic suddenly broke out amid the
+1,300 passengers, who included elegant ladies and gentlemen and others
+gathered on the ship, bidding farewell to their friends. Women and men
+who hadn't paid much heed to news coming out of Germany about the
+blood-drenched Nazi life still wanted to travel there. They now had the
+opportunity to come into contact with a bit of Hitlerism in the shape of
+a German ship cast off in New York and the rage that anything
+engendering the Nazi regime caused here. The demonstration eventually
+focused against those sort of self-satisfied or reactionary Americans,
+who despite all the wretched news the last two weeks coming out of
+Germany could still decide to travel there, and on a German ship yet!
+
+I hope this information helps! Let me know if you have any other
+questions.
+
+Source: Conversation with Bing, 12/31/2023
+
+(1) SS Bremen (1928) - Wikipedia.
+https://en.wikipedia.org/wiki/SS_Bremen_%281928%29.
+
+(2) The Swastika: A Sign of Good Luck Becomes a Symbol of Evil.
+https://www.holocaust-trc.org/the-holocaust-education-program-resource-guide/the-swastika/.
+
+(3) The Swastika: A Sign of Good Luck Becomes a Symbol of Evil.
+https://www.holocaust-trc.org/the-holocaust-education-program-resource-guide/the-swastika/.
+
+(4) From The Archives: Riot In New York At German Ship Bremen; Swastika
+....
+https://forward.com/culture/380130/from-the-archives-riot-in-new-york-at-german-ship-bremen-swastika-torn-down/.
+
+(5) SS Bremen (1929) | Military Wiki | Fandom.
+https://military-history.fandom.com/wiki/SS_Bremen_%281929%29.
+
+### The Rise of a Third-Party
+
+Why is it an island should rule over the mainland? Thomas Paine may have
+said something similar a long time ago, bit bow that question faces our
+eyes this day.
+
+describe the candidate as the party itself
+
+Third-party candidates have often played a significant role in shaping
+the political landscape in the United States, despite the inherent
+challenges they face in the two-party system. ((1)) ((4)) ((19)) ((33))
+These outsider candidates can inject new ideas into the public discourse
+and force the major parties to address issues they may have previously
+neglected. ((5)) ((19)) ((20))
+
+One such example is the potential impact of Robert F. Kennedy Jr.'s
+independent presidential campaign. As an anti-vaxxer and conspiracy
+theorist, Kennedy has broken with the Democratic Party and is running on
+an independent ticket, dismissing the notion that his presence in the
+race would help either former President Donald Trump or President Joe
+Biden. ((26)) While the Kennedy brand could hold appeal for some
+Democrats, his attacks on the public health community may also resonate
+with Trump supporters. ((26))
+
+The 2024 election is shaping up to be a close contest, with the
+possibility of a third-party or independent candidate influencing the
+outcome. ((27)) ((33)) This is because the last two elections have been
+decided by narrow margins in a small number of states, and a minor
+candidate could potentially draw a small but crucial slice of voters
+from Biden or Trump. ((27)) Given the high stakes of the election and
+the potential threat to American democracy, a third-party candidate's
+impact could be pivotal. ((47))
+
+The Convention Speech
+
+John Howard Ellis would be dead soon. Shot to death half-way through his
+speech.
+
+The gunshot was brutal. The heavy lead of the bullet followed its
+trajectory from the barrel that birthed its madness into this world to
+the clavicle of the would-be nominee John Ellis. It wasn’t meant to be -
+not in this timeline. Maybe some other fantasy, but the promises of John
+Howard Ellis fell dead with his body on the day he was to become the
+next great hope for so many.
+
+The person that witnessed the murder would never forget it.
+
+The next, “where were you when…”
+
+John was accepting the nomination on behalf of so many. Many watched
+that day. Many he never met. Many despised him for being bold enough to
+demand something more. Many that never paid him any attention. But for
+some, it meant something more. To see the spray of blood across the
+patriotic bunting.
+
+The shocking cries from the crowd.
+
+The rush of the secret service toward the slumped body.
+
+No one ever has a camera to capture the reaction of the new political
+party. The shock in the eyes of the youth that dared give a damn. The
+heartbreak in the now-empty ribcages of so many with so little to give.
+
+They now see the country they thought they could have reached for - shot
+dead in front of them.
+
+The body of John Howard Ellis lay dead before gravity took its bearings.
+The bullet ricocheted and shattered from his clavicle. The trajectory
+glanced it from there to his lower jaw along his aortic artery before
+tearing into the mandible and ripping itself through the back third of
+his skull.
+
+A populist labor movement had sprung up around him. Rallies sprouted up
+as people took John's writings and notes from his website and read them
+aloud. Like a modern Johnny Appleseed sewing hope along the laborers.
+His words were being read by AI bots to millions of people across the
+social media landscape.
+
+The words John wrote were powerful, they meant something to people that
+read them. And ultimately, they were too potent.
+
+The hole that found its way thought John's head was one of remarkable
+design. Yes, the end result is always part of the design when
+constructing a demise of any one person that could conjure such love
+from the people.
+
+The proof is in the bullet. It was a depleted uranium forged in such a
+way that it created a unique frequency when fired that kept it stable
+over long distances and high velocity projections. It also because of
+that resonance resisted shattering like so many other types of
+projectile material.
+
+The bullet did not liquify John's head as it hit it, instead a light
+puff of pink mist from blood and tissue liquifying around the entry
+wound.
+
+John’s brain didn’t die. 60 percent of it survived - for a few moments.
+it felt the impact. the push and give, then the fizzle of its substance.
+
+Then it felt nothing. And John was dead.
+
+His body collapsed behind the falcon podium - a faux seal meant to look
+like the presidents but in new colors and with new inscriptions were
+emblazoned on it.
+
+And Johns splatter and blood found a canvas on the seal of what some
+hoped to be the new seal of the president of the United states.
+
+But now, it was just evidence. Much like the painted X’s over the path
+of JFKs path through Dallas - 80 years ago.
+
+### Overcoming Structural Obstacles
+
+However, third-party candidates face significant structural obstacles in
+their quest to challenge the two-party system. ((11)) ((12)) ((13))
+((56)) The "winner-take-all" system used in most states, which awards
+all electoral votes to the plurality winner, makes it extremely
+difficuIlt for outsider candidates to gain traction. ((54)) ((55))
+((56)) Additionally, the high financial barriers and the lack of name
+recognition and organizational support provided by the major parties
+further hinder third-party candidates' chances of success. ((12)) ((13))
+
+Despite these challenges, some third-party candidates have managed to
+shape the political discourse and influence the outcomes of presidential
+elections. For instance, Theodore Roosevelt's 1912 candidacy as the
+Progressive Party (also known as the Bull Moose Party) candidate
+effectively doomed the reelection campaign of Republican President
+William Howard Taft and helped Woodrow Wilson, a Democrat, win the White
+House. ((7)) ((8)) ((28)) More recently, Ross Perot's independent bid in
+1992 drew 19% of the vote, forcing both Republicans and Democrats to
+address the issue of budget deficits. ((187))
+
+### Reforms to Mitigate Third-Party Disruption
+
+To prevent third-party candidates from disrupting the presidential
+election process and potentially altering the outcome, some experts have
+recommended reforms to the electoral system. ((53)) ((54)) ((55)) ((56))
+((57)) One of the proposed solutions is the implementation of
+ranked-choice voting, which allows voters to rank candidates in order of
+preference. ((57)) ((58)) ((59)) This system could mitigate the "spoiler
+effect" by enabling voters to support a third-party candidate while also
+ranking the major-party candidates, making it more likely that the
+candidate preferred by the most voters would win. ((58)) ((59))
+
+Additionally, the elimination of the "winner-take-all" system in favor
+of a proportional representation model has been suggested as a way to
+give third parties a more equitable voice in the political process.
+((54)) ((55)) ((56)) These reforms could help to expand the political
+debate and address the growing public dissatisfaction with the two-party
+system, while also ensuring that the electoral process remains fair and
+democratic. ((60)) ((61))
+
+The President of the United States holds the authority to issue
+executive orders, including those related to public health or military
+readiness.
+
+This power stems from both the Constitution and legislation enacted by
+Congress [1]. For instance, the President can issue executive orders
+under the International Emergency Economic Powers Act (IEEPA) that
+empower the Office of Foreign Assets Control (OFAC) to designate
+organizations as terrorist entities and freeze their assets [2].
+Similarly, during wartime, the President can establish authorities such
+as the War Relocation Authority through an executive order [3].
+The President's authority to issue executive orders also extends to
+federal labor-management relations, allowing the President to dictate an
+entire scheme of federal labor-management relations. However, such
+authority must not conflict with the will of Congress. If the
+President's executive orders infringe on a right guaranteed by Congress,
+such as the right to bargain collectively, those orders can be
+challenged.
+The Supreme Court in Youngstown Sheet & Tube Co. v. Sawyer held that the
+President's power to issue executive orders must be rooted in the
+Constitution or an act of Congress, and rejected the contention that the
+President has an 'inherent' power to act in the public interest beyond
+these sources. The President does have the power to recommend
+legislation, but it is Congress's role to legislate [1].
+In some instances, the President's authority to make orders has grown
+due to congressional acquiescence over time [4]. This is seen as
+effective as if the authority had been expressly conferred by law.
+However, the President does not have inherent power under the
+Constitution to confer jurisdiction on courts. Any such authority must
+derive from a permissible delegation of power from Congress [5].
+In the context of public health emergencies, executive orders have been
+used, for example, to address issues related to the COVID-19 pandemic.
+However, it was noted that as of September 2021, there were no reported
+Maryland cases addressing whether the defenses of impossibility and
+frustration of purpose can be invoked in the context of the COVID-19
+pandemic [6].
+In summary, the President has the authority to issue executive orders
+concerning public health and military readiness, but this authority must
+be grounded in the Constitution or an act of Congress, and it should not
+conflict with the will of Congress.
+
+Was this response helpful?
+
+Yes
+
+No
+
+Supporting Materials
+
+- [KeyCite Yellow Flag for Youngstown Sheet & Tube Co. v. Sawyer]
+
+  1. Youngstown Sheet & Tube Co. v. Sawyer
+
+  Supreme Court of the United StatesJune 02, 1952343 U.S. 57972 S.Ct.
+  863
+
+  "…If we sanctioned the present exercise of power by the President, we
+  would be expanding Article II of the Constitution and rewriting it to
+  suit the political conveniences of the present emergency. Article II
+  which vests the 'executive Power' in the President defines that power
+  with particularity. Article II, Section 2 makes the Chief Executive
+  the Commander in Chief of the Army and Navy. But our history and
+  tradition rebel at the thought that the grant of military power
+  carries with it authority over civilian affairs. Article II, Section 3
+  provides that the President shall "from time to time give to the
+  Congress Information of the State of the Union, and recommend to their
+  Consideration such Measures as he shall judge necessary and
+  expedient." The power to recommend legislation, granted to the
+  President, serves only to emphasize that it is his function to
+  recommend and that it is the function of the Congress to legislate.
+  Article II, Section 3, also provides that the President "shall take
+  Care that the Laws be faithfully executed." But as Mr. Justice BLACK
+  and Mr. Justice FRANKFURTER point out the power to execute the laws
+  starts and ends with the laws Congress has enacted.…"
+
+  "…It is clear that if the President had authority to issue the order
+  he did, it must be found in some provisions of the Constitution. And
+  it is not claimed that express constitutional language grants this
+  power to the President. The contention is that presidential power
+  should be implied from the aggregate of his powers under the
+  Constitution. Particular reliance is placed on provisions in Article
+  II which say that "the executive Power shall be vested in a
+  President * * *"; that "he shall take Care that the Laws be faithfully
+  executed"; and that he "shall be Commander in Chief of the Army and
+  Navy of the United States."…"
+
+  "…Contrary to contention that President had "inherent" power to be
+  exercised in public interest, the president's power to issue Executive
+  Order directing Secretary of Commerce to take possession of plants of
+  steel companies involved in labor dispute would have to stem either
+  from an act of Congress or from the Constitution itself.…"
+
+  [KeyCite Yellow Flag for Islamic American Relief Agency v. Gonzales]
+
+  2. Islamic American Relief Agency v. Gonzales
+
+  United States Court of Appeals, District of Columbia Circuit.February
+  13, 2007477 F.3d 7282007 WL 445936
+
+  "…OFAC's conduct was also lawful under the relevant statute and
+  Executive Orders. In the wake of the attacks of September 11, 2001,
+  the President invoked the authority of the International Emergency
+  Economic Powers Act, 50 U.S.C. SS 1701-1707 ("IEEPA") by declaring a
+  national emergency with respect to the "unusual and extraordinary
+  threat to national security" posed by terrorists. Blocking Property
+  and Prohibiting Transactions With Persons Who Commit, Threaten to
+  Commit, or Support Terrorism, Exec. Order No. 13,224, 66 Fed.Reg.
+  49,079 (Sept. 23, 2001), as amended by Exec. Orders No. 13,268, 67
+  Fed.Reg. 44,751 (July 2, 2002) and No. 13,372, 70 Fed.Reg. 8499 (Feb.
+  16, 2005). In that Order, the President described the types of conduct
+  that could subject an entity to blocking of its assets, such as
+  providing financial support to terrorists. He named a number of
+  entities whose assets would be blocked immediately, and authorized the
+  Treasury Department to designate additional entities that it
+  determines are within the purview of the Order. Exec. Order No.
+  13,224, SS 1, 7, 66 Fed.Reg. at 49,079, 49,081.…"
+
+  [KeyCite Yellow Flag for Hirabayashi v. U.S.]
+
+  3. Hirabayashi v. U.S.
+
+  Supreme Court of the United States.June 21, 1943320 U.S. 8163 S.Ct.
+  1375
+
+  "…An Executive Order of the President, No. 9102, of March 18, 1942,
+  established the War Relocation Authority, in the Office for Emergency
+  Management of the Executive Office of the President; it authorized the
+  Director of War Relocation Authority to formulate and effectuate a
+  program for the removal, relocation, maintenance and supervision of
+  persons designated under Executive Order No. 9066, already referred
+  to; and it conferred on the Director authority to prescribe
+  regulations necessary or desirable to promote the effective execution
+  of the program. 7 Federal Register 2165.…"
+
+  [KeyCite Yellow Flag for U.S. v. Midwest Oil Co.]
+
+  4. U.S. v. Midwest Oil Co.
+
+  Supreme Court of the United States.February 23, 1915236 U.S. 45935
+  S.Ct. 309
+
+  "…It is contended on behalf of the government that the power of the
+  President to make such orders as are here in question has grown up
+  from the authorization of Congress in its legislation and because of
+  its long sanction by acquiescence in the exercise of such Executive
+  authority, so that, if it be admitted that the authority of the
+  President to deal with the public lands must come from Congress, the
+  sanction which such action of the Executive has received in the course
+  of many years of legislation and congressional acquiescence is as
+  effective as though the express authority had been conferred by law.
+  In aid of this argument the general course of legislation is pointed
+  to, and the decisions of this court and opinions of Attorneys General
+  in connection with certain acts are cited. Upon the other hand, it is
+  contended that if these acts are to be taken as the general
+  declaration of congressional intent upon the subject, they contain
+  express authorization of the President to make withdrawals when
+  Congress wishes to confer such power. Some of the instances referred
+  to are set out in the margin.…"
+
+  5. Micei Intern. v. Department of Commerce
+
+  United States Court of Appeals, District of Columbia Circuit.July 16,
+  2010613 F.3d 11472010 WL 2794295
+
+  "…This court would have jurisdiction pursuant to the President's order
+  only if the President has the authority to confer jurisdiction-an
+  authority that, if it exists, must derive from either the Executive's
+  inherent power under the Constitution or a permissible delegation of
+  power from Congress. See Am. Int'l Group, Inc. v. Islamic Republic of
+  Iran, 657 F.2d 430, 441-46 (D.C.Cir.1981). The former is unavailing,
+  as the Constitution vests the power to confer jurisdiction in Congress
+  alone. See, e.g., Cary v. Curtis, 44 U.S. (3 How.) 236, 245, 11 L.Ed.
+  576 (1845) ("(T)he judicial power of the United States . is .
+  dependent for its distribution and organization, and for the modes of
+  its exercise, entirely upon the action of Congress, who possess the
+  sole power of creating the tribunals (inferior to the Supreme Court)
+  for the exercise of the judicial power, and of investing them with
+  jurisdiction."). Whether the executive order can provide the basis of
+  our jurisdiction, then, turns on whether the President can confer
+  jurisdiction on this court under the auspices of IEEPA.…"
+
+  6. Critzos v. Marquis
+
+  Appellate Court of Maryland. January 03, 2023256 Md.App. 684287 A.3d
+  1281
+
+  "…We turn, therefore, to whether the executive orders issued at the
+  onset of the COVID-19 public health emergency rendered the Marquises'
+  performance under the terms of the commercial lease for a brewery/pub
+  legally impossible or excused by the frustration of purpose doctrine.
+  As the circuit court observed, as of the time this matter was before
+  the circuit court in September 2021, the parties agreed "that they had
+  found no reported Maryland cases on point as to whether the
+  impossibility and frustration defenses properly might be invoked in
+  the context of the COVID-19 pandemic." To our knowledge, there remain
+  no Maryland cases addressing this precise issue.…"
+
+  [KeyCite Red Flag for American Federation of Government Employees,
+  AFL-CIO v. Trump]
+
+  7. American Federation of Government Employees, AFL-CIO v. Trump
+
+  United States District Court, District of Columbia.August 25, 2018318
+  F.Supp.3d 3702018 WL 4053398
+
+  "…Old Dominion can only be read to support the conclusion that the
+  President of the United States possesses the authority to issue
+  executive orders regarding federal labor-management relationships, at
+  least in the pre-FSLMRS world. Indeed, that appears to have been the
+  generally accepted view throughout history, because, by executive
+  order presidents have dictated an entire scheme of federal
+  labor-management relations, see Manhattan-Bronx Postal Union v.
+  Gronouski, 350 F.2d 451, 456 (D.C. Cir. 1965), and they have also
+  routinely determined what rights executive branch employees would
+  enjoy as part of that scheme, see, e.g., Exec. Order No. 11,491
+  (modifying the rights conferred by previous presidents in this field);
+  see also Novak, Collective Bargaining, 63 Geo. Wash. L. Rev. at 695
+  (explaining how these executive orders were the ones to extend to
+  federal employees "the right . to form, join and assist any employee
+  or organization" and to engage in "limited collective bargaining"
+  (internal quotation marks and citation omitted) ). Moreover, it
+  appears that the President's exercise of authority in this arena has
+  not ceased in modern times. See, e.g., Exec. Order No. 13,522, 74 Fed.
+  Reg. 66, 203 (Dec. 9, 2009), amended by Exec. Order No. 13,708, 80
+  Fed. Reg. 60,271 (Sept. 30, 2015), revoked by Exec. Order No. 13,812,
+  82 Fed. Reg. 46,367 (Sept. 29, 2017); Exec. Order No. 12,983, 60 Fed.
+  Reg. 66,855 (Dec. 21, 1995), revoked by Exec. Order No. 13,203, 66
+  Fed. Reg. 11,227 (Feb. 17, 2001); Exec. Order No. 12,128, 44 Fed. Reg.
+  20,625 (Apr. 4, 1979); Exec. Order No. 12,107, 44 Fed. Reg. 1,055
+  (Dec. 28, 1978). If anything, the more recent pronouncements of the
+  Supreme Court and other authorities strongly suggest in an even
+  clearer fashion that the President of the United States possesses
+  substantial authority over executive branch employees and operations.
+  Cf. Free Enter., 561 U.S. at 492, 130 S.Ct. 3138 ("(I)f any power
+  whatsoever is in its nature Executive, it is the power of appointing,
+  overseeing, and controlling those who execute the laws."); id. at
+  496-97, 130 S.Ct. 3138 ("Article II makes a single President
+  responsible for the actions of the Executive Branch." (internal
+  quotation marks and citation omitted) ); see also 5 C.F.R. 251 (citing
+  5 U.S.C. S 7301 as the statutory basis for certain regulations that
+  govern the relationships between agencies and labor unions).
+  Consequently, NFFE's insistence that there is no "statutory
+  foundation" for a President to issue an executive order concerning
+  federal labor-management relations rings hollow. (NFFE's Reply at
+  20.)…"
+
+  "…C. The President Has The Statutory And Constitutional Authority To
+  Issue Executive Orders That Pertain To Federal Labor-Management
+  Relations, So Long As His Orders Do Not Conflict With The Will Of
+  Congress.412…"
+
+  "…As to the merits of the Unions' contentions, while past precedents
+  and pertinent statutory language indicate that the President has the
+  authority to issue executive orders that carry the force of law with
+  respect to federal labor relations, it is undisputed that no such
+  orders can operate to eviscerate the right to bargain collectively as
+  envisioned in the FSLMRS. In this Court's view, the challenged
+  provisions of the executive orders at issue have that cumulative
+  effect. Stated succinctly, by enacting the FSLMRS, Congress undertook
+  to guarantee federal employees the statutory right to engage in
+  good-faith collective bargaining with agencies and executive branch
+  officials, and the pronouncements that the FSLMRS makes are clearly
+  based upon Congress's stated opinion that "the right of employees" to
+  "bargain collectively . safeguards the public interest, contributes to
+  the effective conduct of public business, and facilitates and
+  encourages the amicable settlements of disputes" in regard to the
+  "conditions of (federal) employment." 5 U.S.C. S 7101(a)(1). Viewed
+  collectively, the challenged executive orders reflect a decidedly
+  different policy choice; namely, the President's stated view that
+  federal employees' right to engage in collective bargaining over the
+  conditions of their employment is not apropos of an "effective and
+  efficient Government(,)" Exec. Order No. 13,836 S 1(b), and should be
+  rendered subordinate to the agencies' interest "in developing
+  efficient, effective, and cost-reducing collective bargaining
+  agreements(,)" id. (preamble); see also Exec. Order No. 13,837
+  (preamble); Exec. Order No. 13,839 (preamble).…"
+
+  "…a. The Specious Section 7117 Suggestion. Defendants vigorously
+  maintain that the President has the statutory authority to issue the
+  challenged executive order provisions notwithstanding any conflict
+  with the tenets of FSLMRS-and, in fact, that the President has
+  explicit authorization to contradict Congress-because the Orders
+  qualify as "Government-wide rule(s)" under section 7117(a)(1). To hear
+  Defendants tell it, the following statutory statement provides the
+  window through which Congress has permitted the President to toss any
+  of the other labor relations mandates that Congress has made:…"
+
+  [KeyCite Yellow Flag for Holy Land Foundation for Relief and
+  Development v. Ashcroft]
+
+  8. Holy Land Foundation for Relief and Development v. Ashcroft
+
+  United States District Court, District of Columbia.August 08, 2002219
+  F.Supp.2d 572002 WL 1818485
+
+  "…In this case, the Executive Orders and blocking order clearly meet
+  these requirements. First, President Bush and President Clinton
+  plainly had the power to issue the Executive Orders pursuant to the
+  IEEPA. Moreover, the IEEPA and the Executive Orders provide OFAC with
+  the authority to designate HLF and block its assets.…"
+
+  [KeyCite Red Flag for Ralls Corp. v. Committee On Foreign Inv. in the
+  U.S.]
+
+  9. Ralls Corp. v. Committee On Foreign Inv. in the U.S.
+
+  United States District Court, District of Columbia.February 26,
+  2013926 F.Supp.2d 712013 WL 681203
+
+  "…(E)xclusive of any powers derived from the Exon-Florio amendment or
+  related regulations or executive orders, the President ultimately
+  reserves the right in any transaction and at any time to reverse a
+  transaction for national security purposes. This authority derives
+  both from the International Emergency Economic Powers Act and his
+  inherent powers in the conduct of foreign affairs.…"
+
+  [KeyCite Yellow Flag for American Federation of Labor and Congress of
+  Indus. Organizations v. Kahn]
+
+  10. American Federation of Labor and Congress of Indus.
+  Organizations v. Kahn
+
+  United States Court of Appeals, District of Columbia Circuit.June 22,
+  1979618 F.2d 7841979 WL 547165
+
+  "…II. We note at the outset our disagreement with the contention that
+  this case presents the same issue decided by the Supreme Court in
+  Youngstown Sheet & Tube Co. v. Sawyer. In Youngstown President Truman
+  argued that he could constitutionally seize and operate the steel
+  mills, which had been closed by a labor dispute, under his "inherent
+  powers" to deal with national emergencies and wartime situations. In
+  arguing for the validity of Executive Order 12092, however, the
+  Government relies entirely upon authority said to be delegated by
+  statute, and makes no appeal to constitutional powers of the Executive
+  that have not been confirmed by legislation. Thus, although both cases
+  involve challenges to Executive actions, they raise sharply different
+  legal questions. Although the separation of powers between Congress
+  and the President was the dominant issue in Youngstown, here we
+  primarily face a difficult problem of statutory interpretation.
+  Appellees' challenge to the Executive Order is directed at the
+  procurement aspect of the Order, not at the Council's authority under
+  COWPSA to promulgate voluntary standards. Thus the central issue in
+  this case is whether the FPASA indeed grants to the President the
+  powers he has asserted.…"
+
+  [KeyCite Yellow Flag for Consarc Corp. v. Iraqi Ministry]
+
+  11. Consarc Corp. v. Iraqi Ministry
+
+  United States Court of Appeals, District of Columbia Circuit.July 12,
+  199427 F.3d 6951994 WL 326775
+
+  "…We think that OFAC may choose and apply its own definition of
+  property interests, subject to deferential judicial review. By section
+  1704 of the Emergency Powers Act the President may "issue such
+  regulations, including regulations prescribing definitions, as may be
+  necessary for the exercise of the authorities granted by this
+  chapter." 50 U.S.C. S 1704. Among those authorities is the power to
+  "prohibit any . transfer (of) . any property in which any foreign
+  country or a national thereof has any interest." Id. S 1702(a)(1)(B).
+  The President delegated his power to define the statutory terms to the
+  Secretary of the Treasury, see Exec. Order No. 12724, 55 Fed.Reg.
+  33089 (1990), and OFAC exercises the delegated power on the
+  Secretary's behalf. By these provisions OFAC has received the
+  authority to administer the statute, cf. Wagner Seed Co. v. Bush, 946
+  F.2d 918, 920 (D.C.Cir.1991), cert. denied , 503 U.S. 970, 112 S.Ct.
+  1584, 118 L.Ed.2d 304 (1992), so that we must give effect to OFAC's
+  regulations unless they contradict express statutory language or prove
+  unreasonable. See Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837, 844-45,
+  104 S.Ct. 2778, 2782-83, 81 L.Ed.2d 694 (1984).…"
+
+  "…On August 2, 1990, President Bush invoked his authority under the
+  International Emergency Economic Powers Act, 50 U.S.C. S 1701 et seq.
+  ("Emergency Powers Act"). By executive order the President froze
+  "(a)ll property and interests in property of the Government of Iraq,
+  its agencies, instrumentalities and controlled entities" within the
+  United States. See Exec. Order No. 12722, 55 Fed.Reg. 31803 (1990).
+  OFAC implemented the order through the Iraqi Sanctions Regulations
+  ("ISR"), codified at 31 C.F.R. SS 575.101-575.901 (1993). The
+  regulations provide that "(except as OFAC permits) no property or
+  interests in property of the Government of Iraq . may be transferred,
+  paid, exported, withdrawn or otherwise dealt in." ISR S 575.201(a).
+  "Transfer" is defined under the regulations to include "the issuance,
+  docketing, filing, or the levy of or under any judgment, decree,
+  attachment, injunction, execution, or other judicial or administrative
+  process or order." ISR S 575.317.…"
+
+  [KeyCite Yellow Flag for Islamic American Relief Agency v.
+  Unidentified FBI Agents]
+
+  12. Islamic American Relief Agency v. Unidentified FBI Agents
+
+  United States District Court, District of Columbia.September 15,
+  2005394 F.Supp.2d 342005 WL 2386028
+
+  "…Government, in blocking assets of Islamic relief organization found
+  to be a Specially Designated Global Terrorist (SDGT), did not violate
+  organization's free speech rights; President had authority to issue
+  Executive Order declaring a national emergency and government had
+  authority to block organization's assets, those actions furthered
+  important governmental interest of preventing terrorist attacks,
+  government's interest was unrelated to the suppression of free
+  expression, and the incidental restriction on the First Amendment was
+  no greater than necessary. U.S.C.A. Const.Amend. 1.…"
+
+  [KeyCite Yellow Flag for § 1701. Unusual and extraordinary threat;
+   declaration of national emergency;  exercise of Presidential
+  authorities]
+
+  13. § 1701. Unusual and extraordinary threat;  declaration of national
+  emergency;  exercise of Presidential authorities
+
+  50 USCA § 1701
+
+  "…(a) Any authority granted to the President by section 1702 of this
+  title may be exercised to deal with any unusual and extraordinary
+  threat, which has its source in whole or substantial part outside the
+  United States, to the national security, foreign policy, or economy of
+  the United States, if the President declares a national emergency with
+  respect to such threat.…"
+
+Sleep Now In The Fire
+
+depict a person lost in the throw of economic delicate. Lost in the debt
+and mire of what the world left us. Mirror to the RAGE video
+
+St. Anger.
+
+the out come of the decadence and loss after the toils were taken.
+
+Shove it my Own Summer.
+
+To be the final hayclyon daze of the come up prance.
+
+This is the throws of where the book begins.
+
+This is the product of so many moons of the tools used against us
+
+For so many to lose their worthy of the bone and body for all else to
+lose faith
+
+to now find ourselves in the cut of the colonials woes
+
+and finals curses of the outside.
+
+outside the evils of understanding.
+
+We are all lost after the accounting is done.
+
+And we know how much we owe.
+
+We just don’t wanna understand why
+
+heres too the lost generations and the over opowered loses of
+yesteryears
+
+that hang on our necks like albatrossed-guilotines.
+
+Louisiana 1934. 
+
+The Great Depression has gripped the country and suffering is great -
+however not evenly felt.
+
+The wealth disparity
+
+The Share Our Wealth program was a movement that began in February 1934,
+during the Great Depression, by Huey Long, a governor and later United
+States Senator from Louisiana¹. The program was designed to provide a
+decent standard of living to all Americans by spreading the nation’s
+wealth among the people².
+
+[]
+
+Long first proposed the plan in a national radio address, which is now
+referred to as the "Share Our Wealth Speech"¹. To stimulate the economy,
+the Share Our Wealth program called for massive federal spending, a
+wealth tax, and wealth redistribution¹. These proposals drew wide
+support, with millions joining local Share Our Wealth clubs¹.
+
+Long believed that the underlying cause of the Great Depression was the
+growing disparity between the rich and everyone else¹. For most of his
+political career, he focused his speeches and efforts on the “little
+man”, referring to the rural poor¹. The Share Our Wealth program was
+intended to become the capstone project for Long’s agenda¹.
+
+In March 1933, Long offered a series of bills collectively known as “the
+Long plan” for the redistribution of wealth¹. The first bill proposed a
+new progressive tax code designed to cap personal fortunes at $100
+million (about $2 billion in 2022 dollars)¹. Fortunes above $1 million
+($20 million in 2022) would be taxed at 1 percent; fortunes above $2
+million ($40 million in 2022) would be taxed at 2 percent, and so forth,
+up to a 100 percent tax on fortunes greater than $100 million¹.
+
+The second bill would limit annual income to $1 million ($20 million in
+2022), and the third bill would cap individual inheritances at $5
+million ($99 million in 2022)¹.
+
+In February 1934, Long introduced his “Share Our Wealth” plan over a
+nationwide radio broadcast¹. His plan was to minimize wealth inequality,
+via Federal tax and spend policy¹. An individual’s right to wealth would
+be restricted to: a maximum INHERITANCE of $5 million ($100 million in
+2022); a maximum annual INCOME of $1 million ($20 million, 2022); and an
+individual’s private WEALTH/FORTUNE to $50 million ($1 billion in
+2022)¹.
+
+The taxes raised would guarantee every family what Long called a
+“Household Estate” of $5,000 (a Basic Household Grant worth $100,000 in
+2022) and a minimum annual income of $2,000–3,000 (a Universal Basic
+Income to each household of $40,000 - $60,000 per year, 2022), or
+one-third of the average family homestead value and income¹. It also
+included free higher education (including degree-level study at a
+college, and vocational internships/training required to enter
+professional organizations)¹.
+
+The Share Our Wealth program was a radical and ambitious attempt to
+address wealth inequality during the Great Depression. While it was not
+fully implemented, it influenced the national conversation about wealth
+and inequality¹.

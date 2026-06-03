@@ -1,0 +1,49 @@
+---
+title: my mothers story
+---
+
+my mothers story.
+
+there was something to fight for then.
+something to protest.
+something to stand up for.
+there was a difference between,
+now and then.
+many didn't want to believe it,
+but it was close, almost too
+close to call.
+there was anger.
+ther was hate.
+and it seeped into the ground.
+
+there was a war.
+but with vague political reasons fueling it.
+the world seemed to have
+been able to shake itself
+apart.
+
+the world could have.
+
+it wasn't magical.
+it wasn't pretty.
+it certainly wasn't picturesque.
+
+there were kids acting up
+and walking on campus.
+but really did that do much good.
+the war had it's impact and it
+took it it's toll.
+
+my brother didn't come back 
+	the same.
+my mother really didn't want to understand
+	and still i believe she doesn't.
+but nothing was ever the same.
+never did i emagine that.
+
+the fight didn't stop just
+	because it seemed a world away.
+
+protests...there were protests.
+
+everything just seemed wrong.

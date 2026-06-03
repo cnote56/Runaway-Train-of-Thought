@@ -1,0 +1,30 @@
+---
+title: A bullet to die from
+---
+
+A bullet to die from.
+
+Sounds like the worst band name to ever get dragged to see. But you
+went. You went because she went. You went because you refused to say no.
+
+Why?
+
+A bullet to die from?
+
+The shirt is still in your closet.
+
+You even thought about buying their terrible “demo” they had for sale.
+Because she fawned over them. And she gushed at the way the bass player
+stood.
+
+She thought the singer was okay, but really thought the drummer was hot.
+
+You bought the fucking t-shirt.
+
+A bullet to die from.
+
+Bet you wished you shot that wad on a video game instead. Better use of
+the effort.
+
+You don’t even remember her name anymore, but you have that t-shirt in
+your closet. Its hanging there, like a corpse. Like the corpse

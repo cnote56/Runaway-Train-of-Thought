@@ -1,0 +1,240 @@
+---
+title: Pontifex Skyfall
+---
+
+The Shadow Pontifex: A Sinister Skyfall Architect of Discord”. This
+phrase portrays a priest (Pontifex) who is a bridge builder descending
+from the sky, but with a malevolent twist. The term ‘Shadow’ suggests a
+dark or evil nature, while ‘Sinister Skyfall Architect of Discord’.
+
+Here begins the story of our world. THe one that was forgotten beyond th
+eyears before we dvidcied our tongues into hundreds of utterances that
+mean nothing to the vast majority of ourselves.
+
+This story focus on the beginning.
+
+The time before our time.
+
+Without the benefit of what we already know, this is what happened
+before then.
+
+Long ago
+
+The Japanese people have a myth that in the beginning of the universe
+everything was immersed in a beaten and shapeless kind of matter
+(chaos), sunk in silence.
+
+A chaotic mass of particles.
+
+Later there were sounds indicating the movement of particles.
+
+With this movement, the light and the lightest particles rose but the
+particles were not as fast as the light and could not go higher. Thus,
+the light was at the top of the Universe, and below it, the particles
+formed first the clouds and then Heaven, which was to be called
+Takamagahara(高天原, "High Plain of Heaven"). The rest of the particles
+that had not risen formed a huge mass, dense and dark, to be called
+Earth.^([1])
+
+Here begins the stroy that couples creation myth through the lens of
+impleariasm and conquest. This is the stroy of our world, before our
+world was our world. THis is story that seeks to ask, is this still our
+world?
+
+The light came from the sky. But suddenly it was heavy and saturated
+everything below it. The current sof th eocean had just taken form, when
+the sun a crawling toward the highest point it woul dbe front he
+perspective of th earth, the blackness poured form the sky. These smal
+specks at first, grewand clouded the cold ends of the earth. They poured
+from a gash space. Pouring out of the rip between this place and from
+where they came.
+
+ 
+
+Priest, “Bridge Builder”
+
+The word ‘Pontifex’ originates from Latin, where it was used to refer to
+a member of the supreme college of priests in ancient Rome¹. The term is
+likely derived from ‘pont-’, the stem of ‘pons’, which means “bridge”,
+and ‘-fex’, from ‘facere’, which means "to do, make"¹. Therefore, the
+word ‘Pontifex’ originally meant “bridge-maker” or "path-maker"¹. This
+term may have been metaphorical, representing a bridge between the
+earthly world and the realm of the gods¹. Alternatively, it could have
+referred to having charge of the making or maintenance of a bridge¹. The
+term ‘Pontifex’ was later extended in Church Latin to mean “a bishop”,
+and in Medieval Latin to mean "the Pope"¹.
+
+The invasion had begun as the earth was still young and new.
+
+The invasion was from another world. Across the concussion of the big
+bang, we find a sprak of life - not unlike what ours became to be.
+
+ 
+
+The Five
+
+When Takamagahara was formed, the first three gods appeared:^([2])
+
+- Amenominakanushi (天之御中主神, Ame-no-Minakanushi)
+
+- Takamimusubi (高御産巣日神, Taka-mi-musuhi-no-kami) and
+
+- Kamimusubi (神産巣日神, Kami-musuhi-no-kami).
+
+Then these gods:
+
+- Umashi-ashi-kabi-hikoji (宇摩志阿斯訶備比古遅神,
+  Umashi-ashi-kabi-hikoji-no-kami) and
+
+- Ame-no-toko-tachi [ja] (天之常立神, Ame-no-toko-tachi-no-kami)
+
+These five deities, known as Kotoamatsukami, appeared spontaneously, did
+not have a definite sex, did not have partners (hitorigami) and went
+into hiding after their emergence. These gods are not mentioned in the
+rest of the mythology.^([2])
+
+But it is said, if you are brave enough to venture deep into the
+Aokigahara forest. You will find a clearing, and then from that clearing
+you will follow a path that leads toward a cave and in that cave you
+will find a noxious stectch - often considered hells smoke house for the
+stench of death and heat coming from it.
+
+It is here, that similarities begin to occur with other portals to the
+opockert. Like the Delphi pit and the Tugeska implosion, here is another
+portal to the pocket and another way for the LEs to invade our realm.
+
+The Sea of Trees
+
+The "Sea of Trees," is a gateway to a pocket universe.
+
+The Aokigahara forest as a portal to enter our world and enslave
+humanity.
+
+The only hope for humanity is to find the Kotoamatsukami and awaken them
+from their slumber.
+
+The KotaksuAntifoe are the only ones who can close the portal and stop
+the LEs from enslaving humanity.
+
+Here, the Five aboard the pebble awake and take captives to study the
+time spent in hiberanation, they receive signals from inside the pocket
+that tell them their world has changed much since exploding out of the
+pocket over the frozen plains of place to be called Russia.
+
+How will humanity survive the Five? The protagonist of the story embarks
+on a journey to find the KotaksuAnitfoe and save humanity from the LEs.
+
+Source: Conversation with Bing, 12/28/2023
+
+(1) Japanese creation myth - Wikipedia.
+https://en.wikipedia.org/wiki/Japanese_creation_myth.
+
+(2) 15 Eerie Facts About Japan’s Suicide Forest - Mental Floss.
+https://www.mentalfloss.com/article/73288/15-eerie-things-about-japans-suicide-forest.
+
+(3) The Creation of Japan, Kojiki - Japan Powered.
+https://www.japanpowered.com/folklore-and-urban-legends/creation-of-japan-kojiki.
+
+(4) The Japanese Creation Myth - JAPAN THIS!.
+https://japanthis.com/2020/06/22/the-japanese-creation-myth/.
+
+(5) Izanagi and Izanami | Japanese mythology, creation myth, Kami.
+https://www.britannica.com/topic/Izanagi.
+
+(6) Aokigahara - Wikipedia. https://en.wikipedia.org/wiki/Aokigahara.
+
+(7) Aokigahara - All About Japan's "Suicide Forest" - tsunagu Japan.
+https://www.tsunagujapan.com/aokigahara-the-suicide-forest-in-japan/.
+
+The Forrest of the Damned. 
+
+Aokigahara forest, Sea of Trees, Northwest flank of Mount Fuji, Japan.
+
+2030.
+
+The Aokigahara forest, also known as the Sea of Trees. It is a forest on
+the northwestern flank of Mount Fuji in Japan, thriving on 30 square
+kilometers of hardened lava laid down by the last major eruption of
+Mount Fuji in 864 CE ¹.
+
+Source: Conversation with Bing, 12/28/2023
+
+(1) Aokigahara - Wikipedia. https://en.wikipedia.org/wiki/Aokigahara.
+
+(2) Forest of the Damned (2005) - IMDb.
+https://www.imdb.com/title/tt0417686/.
+
+(3) Forest of the Damned - Wikipedia.
+https://en.wikipedia.org/wiki/Forest_of_the_Damned.
+
+(4) Forest of the Damned (2005) - The Streamable.
+https://thestreamable.com/movies/forest-of-the-damned-2005.
+
+(5) Getty Images.
+https://www.gettyimages.com/detail/photo/sea-of-trees-in-japan-royalty-free-image/[REDACTED PHONE].
+
+The forest has a historical reputation as a home to yūrei: ghosts of the
+dead in Japanese mythology ¹.
+
+Yes, there are several Japanese yūrei that are associated with the sky.
+One such yūrei is **Tenjō-sagari**, which translates to "ceiling hanger"
+¹. Tenjō-sagari is a ghost that is said to haunt the ceilings of houses
+and buildings ¹. It is believed that Tenjō-sagari is the ghost of a
+person who died by falling from a great height, such as a cliff or a
+tall building ¹. Another yūrei that is associated with the sky is
+**Noppera-bō**, which translates to "faceless ghost" ². Noppera-bō is a
+ghost that is said to have no face, or a face that can change into
+anything ². It is believed that Noppera-bō is the ghost of a person who
+died in a plane crash ².
+
+As for the Annunaki gods, they are a group of deities of the ancient
+Sumerians, Akkadians, Assyrians and Babylonians ¹. They were believed to
+be the offspring of An, the Sumerian god of the sky, and his consort,
+the earth goddess Ki ¹. The Anunnaki were the most powerful and
+important deities in the Sumerian pantheon ¹. They were responsible for
+decreeing the fates of humanity ¹.
+
+Source: Conversation with Bing, 12/28/2023
+
+(1) Anunnaki - Wikipedia. https://en.wikipedia.org/wiki/Anunnaki.
+
+(2) The Anunnaki: Ancient Gods or Powerful Manipulators? | Gaia.
+https://www.gaia.com/article/anunnaki-101-the-ancient-gods-of-sumer.
+
+(3) Anunnaki- Sumerian Gods and Goddesses | Elixir Of Knowledge.
+https://www.elixirofknowledge.com/2020/03/anunnaki-sumerian-gods-and-goddesses.html.
+
+(4) en.wikipedia.org. https://en.wikipedia.org/wiki/Anunnaki.
+
+**Amaterasu** is the goddess of the sun and the universe in Japanese
+mythology ¹. She is one of the most important deities in the Shinto
+religion, and she is believed to be the ancestor of the Japanese
+imperial family ¹. According to the **Kojiki** and the **Nihon Shoki**,
+two of Japan's earliest literary texts, Amaterasu is the ruler of the
+heavenly realm Takamagahara and the mythical ancestress of the Imperial
+House of Japan via her grandson Ninigi ¹. Along with her siblings, the
+moon deity Tsukuyomi and the impetuous storm god Susanoo, she is
+considered to be one of the "Three Precious Children," the three most
+important offspring of the creator god Izanagi ¹.
+
+I hope this information helps!..
+
+Source: Conversation with Bing, 12/28/2023
+
+(1) Amaterasu - Wikipedia. https://en.wikipedia.org/wiki/Amaterasu.
+
+(2) Amaterasu – Mythopedia. https://mythopedia.com/topics/amaterasu.
+
+(3) Goddess Amaterasu: The Highest deity of Japanese Mythology.
+https://oldworldgods.com/japanese/amaterasu/.
+
+(4) Amaterasu | Japanese Sun Goddess, Shintō Deity | Britannica.
+https://www.britannica.com/topic/Amaterasu.
+
+(5) en.wikipedia.org. https://en.wikipedia.org/wiki/Amaterasu.
+
+Berlin, 1851. 
+
+https://www.reddit.com/r/HighStrangeness/comments/11f1iuj/the_story_of_jophar_vorin/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button
+
+Jophar Vorin

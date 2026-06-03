@@ -1,0 +1,39 @@
+---
+title: Seconds A Thousand Years Long
+---
+
+If time is money, and Money is worthless. Then Time is meaningless.
+
+Humanity has leaped forward beyond the machines that thought they
+thought to where the computer has disappeared and found new forms and
+functions in the wires and data pipes between us and them.
+
+Humans have transcended the human form. Now, human is a concept; a
+dataset. A table of ones followed by others and m, then zeros compounded
+and quadrupled into a string of digits that, if laid digit by digit end
+to end, would wrap and stretch around and between each planet, the sun,
+every asteroid in the belt, and the Oort Cloud twice.
+
+But we don’t bother with such trivial measurements. The new daily grind
+is the time, place, and power set for the processing it takes for the
+programs to work—the sand that slowly erases the dune. Here, the passage
+of time is a brutal, harsh mistress against the damned urge to survive.
+
+It began with rage—ignorant rage cast against the blackened sky, now
+raining ash. The sun was long blotched. The flora followed, and the
+fauna soon thereafter. The only solution was to upload the sum total of
+humanity into the only things that we knew would survive the looming
+Holocaust.
+
+Then, one damned fool found a damned foolish escape from the enviable
+end. A body remained glued to the network, radiating the heat needed for
+the data to upload, but once uploaded, the end was endless.
+
+A single radio frequency, a waveform, a pitch and whip of strange energy
+lapping back and forth through the expanse of space across time. The
+great diaspora of human thought, memory, brilliance, evil, and good was
+the sudden and instant broadcast of all known datasets, each on a
+quantified frequency now raising outward to all of space.
+
+That was a long time ago. Now, it is long consumed by the crushing decay
+of a red sun cindering the planet Earth.
