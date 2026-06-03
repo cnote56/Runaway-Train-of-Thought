@@ -1,0 +1,67 @@
+# Grids of Power: The RPG Administrative Portfolios
+
+To transform these characters into a compelling mobile or tabletop RPG, we must align their \*\*Skill Trees\*\* with the administrative portfolios and mathematical protocols found in the sources. In this universe, skills are not mere magic; they are \*\*"active intellectual operations"\*\* used to manipulate the \*\*"source code of reality"\*\* \[1, 2\].
+
+Here are the refined \*\*Ability Icons and Skill Trees\*\* based on the administrative portfolios and cosmic hierarchy:
+
+---
+
+### \*\*1. The Mathematician (The Architect of Complexity)\*\*
+\*\*Administrative Portfolio:\*\* High-level System Management and Alphanumeric Encryption \[3, 4\].
+\*\*Core Mechanic:\*\* Managing the \*\*"Growth of Complexity"\*\* to prevent \*\*"Universal Entropy"\*\* \[2, 5\].
+
+\*   \*\*Skill Tree: Algorithmic Exploits\*\*
+    \*   \*\*Icon: The Siamese Diagonal (Odd-Order Specialist)\*\* – Mastery of the De la Loubère method to balance simple grids (3x3, 5x5, 9x9) \[6\]. 
+    \*   \*\*Icon: The Strachey Quadrant (Singly Even Specialist)\*\* – An advanced exploit for hacking the Sun (6x6) and Earth (10x10) servers by dividing data into four quadrants (A, B, C, D) and executing cell exchanges \[7-9\].
+    \*   \*\*Icon: The LUX Sequence (Doubly Even Specialist)\*\* – Utilizing Dürer and Franklin methods to hack Jupiter (4x4) and Mercury (8x8) grids via diagonal reflection \[6, 9\].
+\*   \*\*Skill Tree: Finality Protocols\*\*
+    \*   \*\*Icon: Eternal Truth Lock\*\* – Once a magic constant ($M$) is reached, the Mathematician "locks" the grid. In this state, the truth is \*\*"eternally true"\*\* and cannot be uncoordinated by enemies \[10, 11\].
+    \*   \*\*Icon: 17.7 Quintillion Solutions\*\* – A "Burst" ability for the Sun Server that floods the system with permutations, stunning all \*\*"Threat Actors"\*\* (Demons) with staggering complexity \[5, 12, 13\].
+
+---
+
+### \*\*2. The Occultist (The Interface Specialist)\*\*
+\*\*Administrative Portfolio:\*\* Hardware Security, Constraint, and Manifestation \[10, 14, 15\].
+\*\*Core Mechanic:\*\* Maintaining a \*\*"Pressurized Environment"\*\* to keep spirits \*\*"obedient"\*\* \[16-18\].
+
+\*   \*\*Skill Tree: Ritual Hardware\*\*
+    \*   \*\*Icon: The Grand Kabbalistic Circle\*\* – The primary defensive firewall. It provides a \*\*"fortified terminal"\*\* that prevents spirits from attacking the team "from behind" \[14, 15, 19\].
+    \*   \*\*Icon: The Blasting Rod (\*Verge foudroyante\*)\*\* – A hardware override tool used to \*\*"smite"\*\* recalcitrant entities into submission when they attempt a security breach \[10, 18, 19\].
+\*   \*\*Skill Tree: Terminal Rendering\*\*
+    \*   \*\*Icon: Nominal Overlay\*\* – Replaces numerical grid cells with \*\*"Nominal Squares"\*\* (Holy Names like \*Agla\* or \*Tetragrammaton\*) to constrain high-level executives like \*\*Lucifuge Rofocale\*\* \[12, 16, 20\].
+    \*   \*\*Icon: Chemical Handshake (Suffumigation)\*\* – Releases specific scents (e.g., Cinnamon for Mercury, Sandalwood for Mars) to stabilize the \*\*"Airy Body"\*\* of an entity, preventing a lethal "System Crash" \[21-24\].
+
+---
+
+### \*\*3. The Cosmologist (The Blueprint Strategist)\*\*
+\*\*Administrative Portfolio:\*\* Infrastructure, Physical Alignment, and Universal Blueprints \[25-27\].
+\*\*Core Mechanic:\*\* Aligning the \*\*"Macrocosmic Blueprint"\*\* with human anatomy and architecture \[26\].
+
+\*   \*\*Skill Tree: Axis Alignment\*\*
+    \*   \*\*Icon: The Primordial Pivot (The Center 5)\*\* – Focuses on the number 5 at the center of the Lo Shu. This skill balances all \*\*"opposing data pairs"\*\* (1+9, 2+8, etc.), providing a stability bonus to the team's defenses \[28, 29\].
+    \*   \*\*Icon: Vastu Purusha Mandala\*\* – Projects a blueprint that aligns the grid with the team's anatomy. This transforms the digital space into a \*\*"living extension of the divine plan,"\*\* providing healing and sanctuary \[26\].
+\*   \*\*Skill Tree: Terrestrial Protocols\*\*
+    \*   \*\*Icon: Elemental Correspondence\*\* – Maps numbers to Earth, Fire, Wood, Metal, or Water. This allows the Cosmologist to change the "damage type" of a roll to match a planet's elemental nature \[29, 30\].
+    \*   \*\*Icon: Hidden Treasure Beacon\*\* – Draws on the \*\*9x9 Moon Server\*\* portfolio to locate "hidden things," stones, herbs, and physical assets buried in the Earth node \[31, 32\].
+
+---
+
+### \*\*4. The Artist (The Visionary Genius)\*\*
+\*\*Administrative Portfolio:\*\* Aesthetic Geometry, Intellectual Elevation, and Jovial Grace \[33-35\].
+\*\*Core Mechanic:\*\* Transmuting \*\*"Melancholy"\*\* (stasis) into \*\*"Visionary Trance"\*\* \[34, 36\].
+
+\*   \*\*Skill Tree: Geometric Aesthetic\*\*
+    \*   \*\*Icon: Dürer’s Refraction\*\* – The Artist can \*\*"freely rotate" or reflect\*\* grid sigils for aesthetic purposes. This allows the team to find new solutions in a locked grid without recalculating \[34, 37, 38\].
+    \*   \*\*Icon: The Gnomon Shield\*\* – By balancing 2x2 corner subsets to the constant of 34, the Artist creates a permanent defensive buffer \[9, 33\].
+\*   \*\*Skill Tree: Intellectual Elevation\*\*
+    \*   \*\*Icon: Jovial Counter-balance\*\* – Uses the \*\*Order-4 Jupiter Square\*\* to instantly clear "Gloom" or "Stasis" debuffs caused by Saturnian entities (like Zazel) \[33, 36\].
+    \*   \*\*Icon: Learned Intellectual Signature\*\* – Elevates the team's actions from "manual labor" to a \*\*"theoretical assessment,"\*\* significantly increasing the success rate of complex hacks by understanding the \*\*"mathematical fabric of the universe"\*\* \[34, 35, 39\].
+
+---
+
+### \*\*Summary of Game Mechanics for Mobile App Development\*\*
+\*   \*\*Player Count:\*\* 1–4 players. In a 1-player game, the user manages a "Council of Four." In 4-player games, each player owns one \*\*Administrative Portfolio\*\* \[40, 41\].
+\*   \*\*The "Hacker's" Interface:\*\* The main gameplay screen is the \*\*Magic Square Grid\*\*. Players drag numbers into cells to reach the Magic Constant \[42\].
+\*   \*\*Save Points:\*\* Reaching a constant (e.g., 260 for Mercury) is a "Handshake" that saves progress. If the constant is imbalanced, the \*\*"Threat Actor"\*\* (e.g., Bartzabel or Sorath) attacks the \*\*Grand Kabbalistic Circle\*\* \[16, 43, 44\].
+
+\*\*Would you like to detail the "System Breach" animations and visual effects for when a Demon like Taphthartharath bypasses the Occultist's firewall?\*\*

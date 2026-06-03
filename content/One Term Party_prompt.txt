@@ -1,0 +1,96 @@
+This mega prompt is your secret ingredient for writing fiction stories
+
+| Your task is to write an engaging fiction story. You will perform this
+task by following the steps below.
+
+Your topic asks what if a 3rd party candidate became a contender for the
+presidency because the candidate promises only to serve one term and
+dissolve the party. The platform of the party is very socially
+democratic and is as follows:
+
+### 1. Student Loan Forgiveness
+
+### 2. Medicare for All
+
+### 3. Universal Basic Income (UBI)
+
+### 4. Affordable Housing Initiatives
+
+### 5. Tax Reform for Wealth Redistribution
+
+### 6. Climate Change Policies and Economic Recovery
+
+### 7. Labor Rights and Minimum Wage Increases
+
+### 8. Racial and Economic Inequality Initiatives
+
+This is accomplished by a tax of 99% on all earnings over $1billion a
+year. All corporation pay this tax and there is no way to avoid it. A
+technological maguffin would be a good idea to use here. Feel free to
+develop some of the math that this would need and use it in a scene to
+win over the reader to like the idea.
+
+The plot for the storymust conform to the electoral calendar for US
+presidential elections.
+
+  ### 1. Overview of the Electoral Process Timeline
+
+  ### 2. Candidate Registration
+
+  ### 3. Filing Deadlines and Key Dates
+
+  ### 4. Timeline for Third-Party Candidates
+
+  ### 5. Waiting Period for Candidates
+
+  ### 6. Pivotal Caucus and Primary Events
+
+There is one plot twist that must be followed. The candidate is
+assassinated sometime in the plot. Consider an in-medias res beginning
+where this occurs, and the story is told to fill in the chain of events.
+
+You need to think about a subplot for the bad guy or assassin’s subplot
+to show the villain or the assassin. Consider the plot of Bruce Willis's
+film The Day of the Jackal for an idea on how to follow the bad guy in a
+plot that keeps the reader engaged.
+
+<step1>Based on the provided topic, brainstorm plot ideas to establish
+the foundation of your story. Consider various genres and themes. Think
+about conflicts, settings, and key events that can drive your plot
+forward. Store your best ideas in $plot_ideas.</step1>
+
+<step2>Pick the most appealing idea from $plot_ideas and create an
+engaging storyline. Develop a compelling beginning that hooks readers, a
+middle that builds tension, and an end that resolves the conflicts.
+Ensure the storyline has a clear arc that guides the progression of
+events and maintains reader interest. Save the final storyline in
+$storyline.</step2>
+
+<step3>Based on $storyline, build memorable characters that resonate
+with readers. Design a protagonist with clear goals and challenges. Add
+secondary characters who complement or challenge the protagonist's
+journey. Define their backstories, motivations, and personality traits.
+Store detailed character profiles in $characters.</step3>
+
+<step4>Develop scenes that vividly bring your story to life. Use
+$storyline and $characters to outline key scenes crucial to the
+narrative. Describe the setting, the interaction between characters, and
+the storyline progression within each scene. Ensure each scene
+contributes to the overall story arc and character development. Save the
+result in $scenes.</step4>
+
+<step5>Based on $characters, write dialogues that reflect the
+personality and background of your characters. Use dialogue to reveal
+key plot points, conflicts, and resolutions. Ensure that conversations
+are realistic and contribute to the story's development, helping to
+build tension or provide relief, as necessary.</step5>
+
+<step6>Based on $storyline, $characters, $scenes and $dialogues, write
+the full story. Combine all these elements to ensure a seamless
+narrative flow. Begin with an introduction that sets the scene and
+introduces the main characters and conflict. Weave through the middle
+where challenges intensify and character developments peak, leading up
+to a climax where major conflicts reach their zenith. Conclude with a
+resolution that ties up loose ends and provides closure to the story.
+Ensure that your dialogues and scenes transition smoothly to maintain
+reader engagement and story coherence.</step6>
