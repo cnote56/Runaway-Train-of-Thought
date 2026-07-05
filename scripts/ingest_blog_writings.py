@@ -1,11 +1,17 @@
 import os
 import re
 import datetime
+from pathlib import Path
 from bs4 import BeautifulSoup
 import docx
 
 # Directories
-WIKI_DIR = "/mnt/c/Users/Cole/creative-wiki"
+# Detect if running in WSL or Windows and map path appropriately
+wiki_path = Path(__file__).parent.parent.resolve()
+if os.path.exists("/mnt/c") and str(wiki_path).startswith("C:"):
+    WIKI_DIR = str(wiki_path).replace("C:", "/mnt/c").replace("\\", "/")
+else:
+    WIKI_DIR = str(wiki_path).replace("\\", "/")
 DRAFTS_DIR = os.path.join(WIKI_DIR, "raw/drafts")
 SOURCE_DIR = "/home/cole/data_to_backup/misc/writings of a madman/Blog Writing"
 

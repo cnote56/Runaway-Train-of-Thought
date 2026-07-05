@@ -4,7 +4,7 @@ created: "2026-06-02"
 updated: "2026-06-02"
 type: "location"
 tags: ["location", "draft"]
-sources: ["raw/drafts/alone-and-searching.md"]
+sources: ["raw/drafts/alone-and-searching.md", "raw/drafts/alone-and-tired.md"]
 canon_status: "draft"
 ---
 # Alone Room
@@ -14,3 +14,7 @@ A room where Dowden feels completely alone and lost.^[[raw/drafts/alone-and-sear
 
 ## History & Appearances
 - [[alone-and-searching]] - Introduced/mentioned.^[[raw/drafts/alone-and-searching.md]]
+
+
+### Update from [[alone-and-tired]]
+A solitary room where Dowden reflects on his situation.^[[raw/drafts/alone-and-tired.md]]

@@ -2,7 +2,7 @@
 
 > **Story Bible & Lore Vault**
 > Catalog of our compounding creative work. Every page is listed below under its category with a one-line summary.
-> Last updated: 2026-06-02 | Total wiki pages: 475
+> Last updated: 2026-06-21 | Total wiki pages: 548
 
 ---
 
@@ -71,6 +71,19 @@
 - [[raw/drafts/hawks-nets-series-i-expect-a-game-8.md|Hawks Nets Series I Expect a Game 8]] - Historical comparison and gritty analysis of the 2015 Hawks-Nets NBA playoff series.
 
 ## 📖 Fiction Drafts
+- [[raw/drafts/the-insects-dilemma.md|The Insect's Dilemma]] - Insect trapped in confined space dreams of escape.
+- [[raw/drafts/the-accident-and-its-aftermath.md|The Accident and Its Aftermath]] - Tony discovers his wife Emily is in a coma after a car accident.
+- [[raw/drafts/home-for-gilded-age.md|Home for Gilded Age]] - Gilded age setting with a home in Pella, IA.
+- [[raw/drafts/hells-kitchen-a-tale-of-segregation.md|Hell's Kitchen: A Tale of Segregation]] - Segregation in Hell’s Kitchen through newspaperman's eyes.
+- [[raw/drafts/william-clark-the-copper-king-and-his-untold-story.md|William Clark: The Copper King and His Untold Story]] - Rival magnate William Carter vs. young heir Reginald Von Dorne in Gilded Age mining conflict.
+- [[raw/drafts/heat-island.md|Heat Island]] - Science fiction thriller set in a overheated city.
+- [[raw/drafts/heartbreaks-and-hesitations.md|Heartbreaks and Hesitations]] - A man's reflections on life, religion, and work.
+- [[raw/drafts/alone-and-tired.md|Alone and Tired]] - Mysterious character's solitary struggle for identity.
+- [[raw/drafts/the-old-man-and-his-pocket-watch.md|The Old Man and His Pocket Watch]] - Old man with pocket watch reflects on time in modern world.
+- [[raw/drafts/haunted-memories.md|Haunted Memories]] - Haunted husband torments widow and children.
+- [[raw/drafts/hated-and-revered.md|Hated and Revered]] - New kid faces prejudice in small town.
+- [[raw/drafts/demon-possession-of-a-preacher.md|Demon Possession of a Preacher]] - Preacher loses control to demonic possession.
+- [[raw/drafts/the-grin.md|The Grin]] - A contemplative reflection on a mysterious smile.
 - [[raw/drafts/prisoners-reflections.md|Prisoner's Reflections]] - Prisoner recounts his experiences in a cage.
 - [[raw/drafts/last-rounds.md|Last Rounds]] - Survivor's final stand against overwhelming odds.
 - [[raw/drafts/good-morning-welcome-home.md|Good Morning, Welcome Home]] - Morning scenes in a city with diverse characters.

@@ -26,7 +26,7 @@
 
 #### IV. Strategic Actions
 1.  **Tagging:** I am tagging this as `[OMEGA-ASSET]` for the Simulation Atlas—it is a critical "System-Control" document.
-2.  **Wiki Churn:** Extracted the "Protocol" list into `C:/Users/Cole/creative-wiki/lore/filter_protocols.md`.
+2.  **Wiki Churn:** Extracted the "Protocol" list into `concepts/surveillance-protocols.md` (or similar).
 3.  **Cross-Reference:** Flagged the "White Room" scene as a secondary potential location for the "Axis Point" we found in `13.8.txt`.
 
 ---
@@ -51,7 +51,7 @@ This manuscript is the **Humanist Origin Point** of your simulation's financial 
 
 #### IV. Strategic Actions
 1.  **Tagging:** Tagged as `[ORIGIN-ASSET]` for the Simulation Atlas—this is where your "Financial Horror" theme began.
-2.  **Wiki Churn:** Extracted the "Grandfather’s Ledger" notes into `C:/Users/Cole/creative-wiki/lore/grandfather_ledger.md`.
+2.  **Wiki Churn:** Extracted the "Grandfather’s Ledger" notes into `plots/grandfather-audit-73.md` (or similar).
 3.  **Cross-Reference:** Linked the "Necropolis Cristóbal Colón" tomb to the "Void-Hangar" sector, as a symbolic site of origin.
 
 ---

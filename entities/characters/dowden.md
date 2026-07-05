@@ -4,7 +4,7 @@ created: "2026-06-02"
 updated: "2026-06-02"
 type: "character"
 tags: ["character", "draft"]
-sources: ["raw/drafts/alone-and-searching.md", "raw/drafts/the-lonely-dwellers.md"]
+sources: ["raw/drafts/alone-and-searching.md", "raw/drafts/the-lonely-dwellers.md", "raw/drafts/alone-and-tired.md"]
 canon_status: "draft"
 ---
 # Dowden
@@ -24,3 +24,6 @@ Main character, feeling isolated and searching for something meaningful.^[[raw/d
 
 ### Update from [[the-lonely-dwellers]]
 A misanthropic and lonely individual.^[[raw/drafts/the-lonely-dwellers.md]]
+
+### Update from [[alone-and-tired]]
+Main character, feeling isolated and questioning his place in the world.^[[raw/drafts/alone-and-tired.md]]

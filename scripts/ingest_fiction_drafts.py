@@ -3,10 +3,11 @@ import re
 import datetime
 import subprocess
 import docx
+from pathlib import Path
 from striprtf.striprtf import rtf_to_text
 
 # Directories
-WIKI_DIR = r"C:\Users\Cole\creative-wiki"
+WIKI_DIR = str(Path(__file__).parent.parent.resolve())
 DRAFTS_DIR = os.path.join(WIKI_DIR, "raw", "drafts")
 SOURCE_DIR = r"//wsl.localhost/Ubuntu/home/cole/data_to_backup/misc/writings of a madman/fiction/almost done"
 

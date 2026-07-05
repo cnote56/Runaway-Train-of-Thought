@@ -26,5 +26,5 @@ This is an industrial horror thriller set in a collapsing reality-loop. The worl
 
 ## IV. PRODUCTION ROADMAP
 1. **Develop "The Ledger" as the central plot device.** It must be the physical/data object that bridges the three storylines (Saboteur, Survivor, Creditor).
-2. **Standardize Lore:** Ensure all wiki entries (`C:/Users/Cole/creative-wiki/lore/`) match the Master Atlas vulnerabilities.
+2. **Standardize Lore:** Ensure all wiki entries (relative path: `lore/` or concepts/locations/etc.) match the Master Atlas vulnerabilities.
 3. **Drafting:** Initiate the opening scene for *The Last Creditor* to establish the "Bankrupt Reality" hook immediately.
