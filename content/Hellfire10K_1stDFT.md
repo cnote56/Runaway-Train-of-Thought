@@ -1,0 +1,843 @@
+---
+title: Hellfire10K_1stDFT
+---
+
+Hellfire_10K ~7000 words
+
+Cole.dowden@gmail.com
+
+1
+
+Zero Day Plus 34 Days.
+
+The Change. Some never saw it coming. Others felt it creep up their
+spines – unlocking each vertebra like buckles of a straight-jacket.
+
+For some it came suddenly.
+
+Others slow.
+
+Then hordes and packs started.
+
+The remainder of us are left here stranded on the face of this wretched
+earth.
+
+And that’s where I find myself, hungover and spitting up the bile that
+bubbled up as the turbulence rattled my joints aboard the transport.
+
+Transport… a kind word for a warthog-mutation of a heavy-duty Humvee
+with a reinforced cow guard hung on the front to plow the road.
+
+I am strapped to a gun, starboard – the right side in the swing out seat
+welded to the side with a belt-fed twin grips of my .50 Caliber Mark-VI
+strapped to the crotch of the gimble-powered targeting controls. The
+mongrelized gun was homebrewed by the techs at the base, but finely
+tuned to chug ammo all night. Another gunner sitting starboard had
+similar armaments and also enjoyed dangling his boots over 300 meters in
+the air.
+
+Inside: sit the navigator and the pilot. Along the port side, my fellow
+gunner – a twin in zero sense of the word other than he had the same
+mounted gun fed by the same battery below. Our rear gunner faced the
+tail-ends of the masses that filled the bloody gash we carved with the
+front and side guns of this beast.
+
+A heavy lift chopper cradles us below her powerful blades and we are
+soon to touchdown and begin our nightly patrol. Our nightly hunt of
+things that used to be something we called Americans. People. Neighbors.
+Friends no more. They are SLUGs now. That’s just what we call them. It
+makes it easier.
+
+They are just not of the same ilk as we are. The change took them.
+
+Videos online scream about a DNA time bomb in our genes somehow
+triggered, counted down, and exploded across the known world. We call it
+Zero Day.
+
+Mothers turned on their breast-feeding babies.
+
+The sickly turned strong with rage and vigor that struck many with a
+gasp and then the blood filled their eyes and blackened bile poured from
+their mouths.
+
+And a hunger-churned-rage drove their bloodlust and carnage ensued.
+
+Our scientists theorized it was unforeseeable this sudden and
+catastrophic genetic sea-change. But it happened nonetheless. Then the
+Center for Disease Control was overrun.
+
+Weeks passed after the first outbreak. Many were dead and many died
+along the way, but somehow the SLUGs always came out every night.
+
+After we lost contact with Los Angeles. All the other strongholds fell –
+or never bothered to trigger their bio-hazard fail-safes. The radios
+went silent.
+
+Washington, DC remained. But that is thousands of miles away – the
+surface of the moon for as much as it matters to us now. Satellites
+still worked and our Techs had been pulling down the surveillance feeds
+giving us a view of the destruction of America. Whole chunks of the
+terrain were blackened and smoldering.
+
+Chicago. Ashed.
+
+St. Louis. Burning since Zero Day.
+
+Salt Lake, Denver, Seattle. Nuked by some damned fool. The fallout has
+drifted northerly and darkened much of Canada. If anyone remained there,
+they likely were underground, if the SLUGs there hadn’t already overrun
+them.
+
+New York was dark along with much of the Northeastern seaboard. Fires
+mark some signals of humanity, but there are fewer each day.
+
+The helicopter above us slows to a hover. Our transport slumps and
+shudders to the ground as autocables disconnect, the helicopter recedes
+away. Blasting alive with energy the hulk I ride upon churns forward
+across the burning hulks of cars, trucks and semi’s on what was once a
+highway. And that is where we find ourselves today. Hammering down some
+forgotten highway toward downtown Dallas, Texas.
+
+“Head’s up,” My pilot’s comm chirped in my ear. “We’ve got SLUGS ahead.”
+
+“Roger.” I clicked through my throat mic. My fellow gunners licked their
+affirmatives.
+
+I checked my ammo feed. Clear. My heads up display tallied the remaining
+ammo allotted to my gun – 10,000 rounds; a full compliment. 50,000
+rounds total 10K each with 10K as a reserve. My eyes saw the ramble of
+SLUGs ahead a dusty cloud of filth and stink and my pilot was headed
+toward center mass.
+
+My hand gripped the twin grips of my .50 Caliber Mark-VI. It was an
+updated version of the old guns used in World War II bombers and tanks.
+They never broke, were plentiful in the moth-balled warehouses of the
+National Guard Armories across the country and fitted easy to the sides
+of these new transports we fabricated ad-hoc in the same armories.
+
+The SLUGs were getting closer.
+
+I felt the whine of the engine as the pilot down shifted. We had to
+crawl into the mass of SLUGs because we had to kill as many as possible.
+
+“Lock and Load, Gentlemen.” The Pilot rasped into his mic. “We’re going
+into the grinder.”
+
+“Get SOME!!” My rear gunner shouted. I do not blame him for his zeal
+rear gunners usually saw little heat from the SLUGS until we were
+halfway through the crowd. He mopped up the stragglers from what the
+Navigator and the two side gunners could not manage.
+
+Five hundred yards ahead.
+
+POP! The navigator fired a round for aim adjustment.
+
+“Winds are across port to Star 2.5 knots,” The Navigator chirped in
+teams open channel from his throat-mic.
+
+I swiveled my gunners chair out over the edge of the transport and lined
+up my sights on the center mass of SLUGs straight ahead.
+
+“Steady,” The Pilot ordered. “Make the shots count; we’ve got a long
+night ahead of us.
+
+The sun was still out and we’d been on patrol for an hour, with these
+SLUGs our 12 hours minimum of engagement time just started.
+
+Engagement time only counted when we were shooting. The only excuse for
+returning early and not facing a court-martial was exhaustion of ammo –
+it did not matter if your energy gave out; you were not off duty until
+your ammo was out and your kills were verified by the little birds in
+the sky; drones with live feeds back to Command.
+
+The SLUGs were closer now, almost in range.
+
+“Come on, Top!” Tony, my port-side gunner shouted. “Give us the go!”
+
+He was anxious to get the mission clock rolling.
+
+“LOOSE!” The Pilot commanded and almost instantly all three forward
+facing guns unleashed a torrent of lead and fire.
+
+The front line of SLUGs liquefied and dropped. We were a hundred yards
+away and closing. Now these fetid and rotten masses were not real SLUGs;
+no gardens here. No, these were once our fellow country men. And we hate
+to shoot to kill, but they were no longer “our kind.”
+
+Free from all the things that normally would make killing these things
+difficult – no hair, barely clothed now, and coal-black eyes. Mouth
+agape with drooling teeth. Their eyes no black shells of their former
+selves, but his was the change that just triggered one day and turned
+two-thirds of the world against itself.
+
+The mass of SLUGs bubbled up from the gutters and sewers; they were
+massing against the patrols circling there were coming for the refueling
+truck. I had never seen the numbers of these SLUGs before and I had been
+surrounded and halfway through my 10k that night.
+
+No, these was different. These SLUGs were not just some randomized
+grouping of animals. They were organized. They were commanded. They were
+thinking.
+
+Cold dread shot through my veins and centered in the pit of my stomach.
+Half of our transports were slowly lopping toward this ambush. I saw the
+writing on the wall. These SLUGs were going to overwhelm the transports
+in a matter of minutes. They would not even be able to get the order off
+for a hot retraction out of harm’s way.
+
+I had no bombs to throw down and nothing to try and get the mass of
+SLUGs to breakup. I had only one option.
+
+I targeted the tanker truck and let slip a torrent of gunfire at its
+tanks.
+
+The erupting blast shook the foundations of the building I was perched
+on so much that it swayed as glass rained down on the street below,
+chopping and slicing at the SLUGs there.
+
+The explosion worked the mass of SLUGs was half on fire and half
+scrambling like cockroaches.
+
+“The tanker’s gone!” A voice in my all-comms radio shouted.
+
+“What? The explosion?” Another voice asked.
+
+“It’s gone. Boom! Gone and the SLUGs are half blow away and the rest on
+fire.” The first voice answered. “Jesus, there must have been a hundred
+thousand of them right in the immediate area!”
+
+“The tanker must have blown for some reason,” The second voice answered.
+
+“Fucking, Hellfire. That’s what it looks like. Jesus.”
+
+“Saved us 10K of bullets for the evening.”
+
+That’s how I got my call sign, Hellfire.
+
+Hellfire 10k.
+
+2
+
+A cleansing, I remember the preachers shouting it from the street
+corners and pulpits – and the AM radio that I had to hand crank as the
+food ran out and the explosions took the power.
+
+Before that, the cable news had hourly reports of the changes. The
+podiums of Washington, DC and the Center for Disease Control were on a
+steady rotation – but the speakers were new almost every time. I
+remember watching them rotate and change the spokespersons. I just
+thought they were new because it was exhausting to give those briefings
+based on the same old data form the field. But as it turned out their
+spokes people kept changing. The world was eating itself and the 24-hour
+news cycle could not keep fresh faces on the screen. Soon the test
+patterns hit the screens and the live video dropped from the internet.
+Soon it was not what you saw online it was what you did not see and then
+had to turn your eyes to the real world outside your window.
+
+The Change occurred for some quickly and others it took maybe a week.
+Like a reverse rapture, expect everyone was left on this earth; slashing
+at each other’s throats.
+
+The spec reports indicated these things were once human, but not they
+resembled something more like maggots crossed with sickly athletic
+humanoids. We called them SLUGs to dehumanize them and help us divorce
+their appearance form what we knew they once were.
+
+Strong as bears and twice as angry these SLUGs clamored toward us when
+they heard our rumbles and guns.
+
+“TOP!” I shouted into my mic using the comms trigger next to the real
+trigger of my Mark VI. “LET’S ROCK AND ROLL!”
+
+In a moment the gunfire chorused the beat of Led Zeppelin. What song? It
+didn’t matter. It just needed to be loud and help the gunners disconnect
+from the murders at hand.
+
+Heads exploding like watermelons stuffed with fireworks. Blood and black
+bodily fluids spattered on my boots. This was a new kind of mud. And I’d
+have to get decontaminated if I made it back to the bunker.
+
+It is in these moments that a gunner goes into his own mind. It is a
+defensive mind trick. You don’t want to pay attention to the details of
+the SLUGs you are blasting. You want them all to look hideous and
+inhuman as possible or the seed of guilt might set in.
+
+All it takes is name tag hanging off a shoulder. Or the shreds of a
+button down shirt to trigger a memory from your past and then you think
+you just blasted someone you thought you once knew. That thought is
+worse than a mortal wound because it eats at you. It settles in your
+mind and will not shake loose. It twists inside there and soon you have
+convinced yourself you shot your track coach or neighbor. You will bolt
+awake in the mind of the night screaming you are sorry and the germ of
+that memory has sun itself into butter and shackled your mind from ever
+being capable of holding the grips and shooting the gun.
+
+I know I’ve seen it happen to gunners before. A few nights of screaming
+and cold sweats do not make for a capable fighting force. When these
+things happen the crew member is replaced and a new recruit is assigned.
+They usually start in the rear. If we see a guy starting to get flakey
+then they get reassigned to the rear gun. It’s supposed to be the
+easiest gun to man with the least amount of front facing time. Front
+facing time is the time spent staring down from our gunner perches at
+those black eyes, sharp talons, and gaping mouths.
+
+POP! PA-PA-PA-POP! The guns have a strange rhythm. The stuttering shots
+are supposed to give the barrels time to cool even when they are rolling
+for twenty of more minutes at a time. But we’ve been on missions with
+engagements of 45 minutes or more. I do not remember checking my HUD for
+engagement time, but I remember getting the slap on the back and an
+extra ration of booze for surviving that night. The congratulation was
+temporary, but the booze helped us forget the mission; so that was a
+bonus.
+
+The music. The nascent booze in my veins. The disassociation. It was all
+meant to lull us asleep. To Kill and not be bothered. To just eradicate
+these things before they swarmed all over us in our sleep. Wrinkling the
+skin of our best weapons – our minds.
+
+That was the dream I has having. And I meant it as a dream not a
+nightmare. I know the difference. And it would be a dream to just not
+wake up after some of these nights.
+
+I tried not to think of it. I tried very hard not to let it show but I
+think my Pilot, Pearson, was seeing the signs. He spent more time making
+me clean and double-check my gun, chair, and the ammo-feed-belts. I
+guess he thought the extra work would get my mind off the wrinkles
+developing in my mind.
+
+Maybe he thought hating him would make it easier for me to kill these
+things. It is a common practice, or so I had been told when my grumbling
+complaints were over heard by my fellow side gunner, Marks.
+
+Either way it was not helpful. What did help was a few extra mood
+stabilizers slipped to me by the Corpsman. He must’ve noticed the hard
+time I was getting from Pearson and had seen it before. I popped a
+couple of them before each mission and my give a shit got up and went. I
+was good to go kill some SLUGs. Right as acid rain.
+
+###
+
+Twelve hours of murder really takes its toll. Three nights on and two
+nights off, that was the regulation we followed. Last night was our
+third night. We’d rotate through medical and psych for blood work and
+the same list of questions we had been asked after each mission rotation
+for as long as I could remember.
+
+So now a day to decompress and clean gear was on the order sheet. Just a
+day, not long enough to find booze, pills, or weed; much try to enjoy it
+enough to forget what was coming in 18 of the shortest hours you would
+ever experience.
+
+Command recognized that they could not have a pile of drunk enlisted
+grunts drunk off their asses a day before they were to go out for
+another 72 hours. So they gave us options: gym, church, or the brothel.
+
+I spent my time in all three at one point or another.
+
+The Gym was easy. It was a place to go in and get all the hell out of
+you before you have to go back into it for another bath.
+
+Some grunts got the brilliant idea to try and drop some weights on their
+foot or dislocate a shoulder in order to get out of another three days
+on duty. Command did not accept that as an excuse when they saw a drop
+off of able-bodied enlisted ready for duty the next day. Medical was
+ordered to dope them up enough to get them in the field regardless of
+broken feet or bad shoulders. If they still had thumbs to press the
+controls of the guns and an ass to strap into the gunners chairs then
+they rode and shot.
+
+Chapel was of little use to me. I went a few times, but kept hearing the
+same thing from the different chaplains.
+
+“It’s the righteous work you are doing, my son.” They would say and then
+either try to reassure me with a hand on my shoulder.
+
+“God has a plan,” One Chaplain said. “You’re cleansing the earth.”
+
+I stopped going when they turned a God of peace into a God who trades in
+hellfire and blood.
+
+The brothels are the only sanctuary I felt a hint of peace in. It was
+the only thing that reminded me of life before the Change.
+
+It was more than just tits, pussy, dick, or ass. It was the moment that
+you could get outside of yourself. It was brief restful feeling of
+losing your load off your shoulders and out of your nutsack.
+
+Also, the booze helped. There you were allowed a few extra rations and
+few moments out of your bunk where you did not have to salute an officer
+or keep your boots stowed per regulations while you got your dick wet.
+Besides, it is really awkward to salute an officer while either he or
+you are getting a blowjob.
+
+It was also free. That was always the catch that reminded me that this
+was not normal or a glimpse back to before the Change. Hookers never let
+you fuck them for free. And even if you just tried to act you were on a
+date, even before the Change that was never free either. Sex always came
+with a price tag. Whether it is the emotional drop you feel when you are
+back in your bunk alone or if it’s the sudden realization that you once
+had a wife and you could still remember her face.
+
+It also grew tiresome after a while. I mean, I am only human and there
+is only so much pillow talk with a person that you do not know that you
+can make up.
+
+Usually, I got my nut and then hung out at the bar. When they cut me
+off, I would stumble back to my bunk and pray the booze kept me asleep
+long enough for the wake-up call and the mission the next day.
+
+3
+
+Mission briefings were short and sweet; the objective never changed.
+Airdrop in. Rotate through the area. Find the SLUGs and get your
+engagement time.
+
+“The clock is ticking, gentlemen,” The Commanding Officer on Duty – COD
+for short – always ended the briefing.
+
+The briefing room would respond with Tempus Fugit! It was our version of
+Semper Fi. We changed it from Hoo-Yah, Hoo-Wah, or Hoo-Rah because we
+all were not Marines and those pig fuckers always got touchy if you took
+the only words they knew.
+
+From the briefing room we reported to the depot. There we did last
+minute checks on machinery, guns, and ammo; in that order. If your gear
+had moved or looked different form when you last left it you double
+checked everything on it; sabotage was very real even in a world where
+you had SLUGs actively trying to kill you – there were no safe zones.
+
+Impacted barrels were the easiest way to get your shit blown off. It was
+also the easiest way to get an investigation on how you ended up in a
+hospital bed with missing thumbs, fingers, and a face; they focused on
+those parts because when you are strapped into a gunners chair that is
+the only things you really need to fire your weapon and remain
+effective.
+
+I once had a hundred pound magazine drop on my steel toe boot and ended
+up in medical to get an x-ray and cleared back for duty after my two
+days off and saw first hand a bandaged gunner answer the interrogators
+questions. It was not pleasant. I said I was go to go and immediately
+limped back to my detail when the interrogator grabbed the wrist of the
+wounded gunner’s mangled hand and repeat his loaded question.
+
+I made it a habit of double checking my gun before every mission because
+I liked my thumbs and I did not want to meet up with the man that
+thought someone would try to blow off their fingers to stay out of the
+field.
+
+On the other hand, the questions were loaded because someone had tried
+exactly that before.
+
+###
+
+Airdrops were always eventful. The transports would hookup to these
+heavy lift choppers – you know the ones that looked like bugs with these
+right angled legs spread wide with very little airframe under a massive
+engine. The transport would tuck up under in the empty space and then
+lifter would thrust upwards taking the transport with it tethered by
+four thick steel cables.
+
+Regulations dictated we should ride inside the transport until we got
+dropped and the lifter dusted off. Then we would pop up out of the top
+hatch and take out assigned seats. The pilot and the navigator would
+remain in side in the two front seats. Gunners rode outside rain, shine,
+or SLUGs.
+
+The gunner chairs swiveled and swung out over the edge of the transport
+– how else are you going to get any SLUGs that might crawl up the side
+of the damn machine.
+
+The Mark VI had a universal direction mount. While the gunner was
+strapped into the chair with a five point racing harness he could
+dictate the angle of the chair with hydraulic levers at his feet.
+
+During one heavy fight I had pivoted my chair so far out I was spraying
+the SLUGs as I hung parallel to the ground. I swung back and forth for
+what felt like ages as I cleaned the damn things off the side of the
+transport. I did not even notice I had done what I did until we were
+back at base and we read the telemetry data during debrief.
+
+That night’s mission began with a hot infiltration. We were to ride
+outside the transport while airborne so we could get dropped on top of a
+mass of SLUGs spotted by our drones over head. The navigator had the
+honor of popping up out of the top hatch after touchdown to unclip the
+tether cables while all three gunners were unleashing hell.
+
+As the wind whipped us raw I could hear our Navigator, Ruffe, bitching
+the whole flight on our secondary channel. He was checking al the
+satellite and drone images for an easier way to enter the hot zone
+without the need for a hot infiltration.
+
+I switched off his channel and put on some melodic metal music to
+distract me from the fight we were screaming toward. I think it was by a
+band with some black cat’s name and the song was about cemeteries or
+something. In these moments, music was not for enjoyment it was to drown
+out the hell.
+
+“We’re hot in five!” Pearson comm channel overrode all others and cut
+off the music.
+
+Something told me he either told Ruffe to shut up or pulled his side arm
+and reminded him that he was qualified to pilot and operate the nav-gun
+at the same time.
+
+“Hey, Top!” I checked in with my throat-mic. “We need something fast and
+charging to get through this first bit. Mind if I DJ?”
+
+“Roger that, Edders, You have the turntables.” Pearson clicked off his
+channel as the lifter slowed and began to lower down.
+
+“Permission to go 90 degrees, TOP!” I asked before selecting the
+heaviest playlist I had in my comm-bank.
+
+“Granted,” Pearson answered. “Gentlemen, you have permission to say
+hello to our little friends below.”
+
+“Fuck you, Edders.” The rear gunner checked off his mic before I could
+muster a retort.
+
+“ROCK AND ROLL, MOTHERFUCKERS!” My side gunner dropped over the edge.
+
+I selected a playlist filled with Fear Factory and stamped my foot on
+the lever to send me overboard.
+
+The horizon rushed over my head as the cityscape rolled in front of me.
+Tracer fire streamed from the rear and opposite side of the transport.
+Directly ahead I saw the teeming mass of SLUGs under us and looming
+closer. I unleashed my Mark Vi full-bore and marveled at the liquefying
+effect the rounds of heavy hot metal had on the mass of SLUGs below us.
+
+Soon a small patch of bloody ground opened up directly below us. Each
+gunner’s training took over and it was pattern shooting from there on
+out. Steady rolls of sweeping fire tracing the edges of the bloody patch
+outward. You did not want to leave one SLUG under you when you landed,
+so you had to dump ammo down range and get the zone clear.
+
+SLUGs were resourceful. They also did not feel much pain until they were
+too dead to notice. So they would clamor legs and arm torn and bleeding
+to climb up the sides of the transport to get a piece of anything human
+that it could get. Think of the world’s worst murderous groupies you
+could imagine going after the band on stage. Now imagine one of those
+groupies getting under the stage and popping up under the drummer - here
+the pilot – and ripping through the stage floor – here the thin armor
+plating underneath the transport and ripping the head off the drummer.
+Here, well that would be the pilot still and now you’re dead meat as
+your bassist – the navigator – your singer and rhythm guitarist get
+eviscerated while you solo without a backing band. It doesn’t end well
+for your version of your favorite Van Halen tune. Worst. Concert. Ever.
+
+So it is important to stay focused on cleaning the landing zone. Then
+you can lift back atop the transport once you hit terra firma.
+
+“Touchdown!” Pearson shouted over the driving drums of the song in my
+ears.
+
+The smoke and fire erupting form my Mark VI was tearing apart the mass
+of SLUGs surrounding us.
+
+“Fuck!” Ruffe shouted as he clamored out of the top hatch and lunged for
+the tethers to release the lifter. “Fuck!”
+
+“Two more, Ruffe!” I cheered him on over the music and the gunfire.
+
+“Fuck you!” Ruffe unclipped the second tether.
+
+His nav-gun was firing at full speed. I imagined Pearson leaning over
+the center console and pulling the trigger and sweeping the nav-gun side
+to side as Ruffe’s ass flew over the seats.
+
+“FUCK OFF!” Ruffe shouted and slid back down the top hatch and snapping
+it shut in one motion.
+
+“Roger that, Black Dog,” The pilot of the lifter chirped into the comms.
+“Happy Hunting.”
+
+The full thrust of the down draft pressed the SLUGs away from the
+transport laying them out and flushing their smell away for just a
+moment. It is a strange sweet-stale-musky scent. It does not leave your
+sense once you smell it; it just hangs in your nostrils like a dead man
+on a barren tree.
+
+On the ground, our training kicked in after the push of the air forced
+back the SLUGs giving us a few meters of space to retrain our guns back
+to slow sweeping patterns.
+
+The gore and destruction was incredible. Eruptions of blood and viscera
+exploded with every burst of fire form our guns. The claws and limbs
+just liquefied when the hot stream of ammo cut then down like an
+invisible knife. The music drowned out the roar of their attack and the
+report of the gun vibrating the hell unleashed comforted me. Because
+knowing it was operating at full bore meant I was going to survive. If
+it stopped for any reason, I was a dead man.
+
+“SLUGs are extra juicy tonight!” Tony shouted on the comms.
+
+“Focus and fire for effect,” Pearson hammered the transport into gear
+and pressed it forward against the mass of SLUGs. While on mission the
+pilot drove blind with blast shutters down for protection. Instead of
+his eyes he relied on infrared sensors set atop the transport to give
+him a 360-degree view of the SLUGs around us. The sensors were good
+enough to make out the cold buildings form the hot-blooded SLUGs and all
+the bits and pieces of them. On a moonless night if the there was zero
+visibility the rest of the gunners would also tap into the feed to make
+out the targets.
+
+Tonight had a full moon, and we were howling.
+
+The mission was to push into the SLUGs center mass with multiple
+transports on all sides. The heads up display painted our fellow
+transports with green markers and distances to keep us form getting
+friendly fire.
+
+The green highlights were slowly creeping in the direction we were. Then
+shit went sideways.
+
+Our comms dropped. Our HUD displays were blank.
+
+“My fucking infrared is out!” Pearson shouted. “I’m driving blind!”
+
+“Fuck!” Ruffe shouted as I assumed he was busy trying to reboot the
+comms system from his station.
+
+I glanced away from my fire zone to see the nav-gun popping bursts of
+fire into the SLUGs straight ahead and Pearson was keeping the transport
+steady and churning down the wide city street of what used to be Dallas,
+Texas.
+
+“You’re in the pipe, five by five,” I shouted and returned my eyes to my
+line of fire.
+
+“Check, Check!” Tony shouted confirming his glance of Pearson’s driving
+form his side.
+
+“WHERE ARE MY FUCKING EYES, RUFFE!!!” Pearson cursed over the comms.
+
+“On it, the damn thing just shut off. I see nothing on the diagnos…”
+Ruffe cut off and the HUD displays came back online.
+
+My display flickered and then displayed a green image of another
+transport directly in line of fire. With the tracer rounds already
+racing from the barrel of my Mark VI; there was no prayer that could
+have called them back.
+
+The bullets from the end of my Mark VI tore through the heat signature
+of a gunner swung on a forty-five degree angle over the side of his
+transport. Ripped open with chunks torn out and the streams of blood
+poured out of him. I’ll never forget the flicker of his heat signature
+drain cold.
+
+He was dead before the stream of lead I shot stopped.
+
+“CEASE FIRE! CEASE FIRE! GOD DAMNIT! FUCK!” the voice on the other end
+of the all-comms channel was frantic and terrified. It was very likely
+the pilot of the transport whose gunner I just murdered.
+
+A cease fire order does not mean you stop firing. It just means you stop
+firing in that direction. I swiveled my gun away form that transport and
+trained it back on the SLUGs that were thinning around us.
+
+Within moments there were no more SLUGs to shoot and I swiveled back to
+see the transport I had fired upon.
+
+“WHO THE FUCK DO YOU THINK YOU ARE! BLACK DOG!” The Pilot shouted at my
+transport.
+
+“I…I..didn’t see…” I stammered.
+
+“CHECK YOUR SHIT, EDDERS!” Pearson interrupted my stammering. “The rest
+of you all sys-check and keep eyes out.
+
+“Green Meanie,” Pearson answered. “We had a full visual system failure
+and lost tracking. Are you operational?”
+
+“Fuck you, Black Dog!” The Pilot was losing it. “Fuck you! You shot
+Mattis! You fucking killed him! His vitals are zero across the board!”
+
+I did not need to know his name. But now I could not forget it; I stared
+at the greenish globs of nightvision that used to be Mattis, a gunner
+just like me. Shot through as I switched off nightvision to witness my
+MARK VI’s effect first-hand as our transports flew under a helicopter
+each back to base.
+
+  4
+
+The Mark VI bullet is a dense depleted metal round that can tear through
+a foot of concrete and still travel a mile to hit the bullseye of the
+target.
+
+This amount of kinetic force does not mix well with the human body. It
+liquefied half of Mattis’ upper torso. He was missing his left shoulder
+and had a gaping bloody wound across his right side. His helmet
+mercifully still covered his head with his blast shield down; I did not
+want to see his eyes. Another hole gapped the side of the Green Meanie.
+From my angle I missed taking out the rear gunner by a few inches as
+well.
+
+The report rolled across the judges HUDs with footage and transcripts
+filling their empty gazes.
+
+I sat in silence while remembering every miserable moment of that night.
+
+After the shot. The music stopped. I thought I heard Pearson and the
+green Meanie’s Pilot yelling at each other through the static between
+the comms channels.
+
+The Playback continued…“Mother, this is taskforce Raven,” Pearson
+announced over the all-comm channel. “We are no longer effective. We
+have a Wounded Eagle and request return to base.”
+
+“Hold Black Dog,” The radio operator from our home base, Mother,
+answered.
+
+Silence swirled around us. Even the hum of the diesel engines of the
+transports seemed to hush.
+
+I felt as though I was right there allover again—reliving it; shooting
+Mattis, again, and again.
+
+“Black Dog, can you continue to patrol objectives without Green Meanie?”
+The radio operator came back across the comm channel.
+
+“That is a negative, Mother,” Pearson answered. “Black Dog was the cause
+of the Wounded Eagle against Green Meanie.”
+
+The words stabbed my in the gut as I stared at the corpse dangling still
+at a forty-five degree angle over the side of the transport.
+
+“Copy that, Black Dog.”
+
+“Fucking bullshit,” the Green Meanie Pilot interrupted the conversation.
+“You shot him you fucking idiot!”
+
+The flight recorders ceased and a dense silence filled the Court Martial
+hearing. Mine.
+
+###
+
+The past is the future's first villain, when reality goes sideways.
+
+I ran the past few moments over in my head; over and over again. I was
+trying to see if there was something that would have made me pause for a
+moment or change my angle just enough to miss him. Nothing.
+
+Regulations stated gunners were to ride inside the transports when being
+airlifted back. None of us did. My two fellow gunners stayed strapped to
+their chairs and enjoyed the scenery on the flight back. I was in my
+chair, and I didn’t enjoy the flight back. I kept staring at the corpse
+strapped in his chair on the other transport; arms dangling lifeless but
+whipped by the winds and push of the helicopter blades. Their gunners
+rode inside the transport per regulations.
+
+He was a mirror image to me just on the port side. I muted my comms;
+there would nothing to talk about. Besides the regulations stated I
+should not be talking to anyone. I also did not want to hear, “Oh that’s
+my old high school down there! Can we circle it so I can take a dump on
+it!?”
+
+I just keep my eyes on my murder victim. Slumped and dead in his chair,
+perhaps his favorite bands still on his comm channel playing in his
+ears. Static played in mine; the raspy snarl and whoosh of the radio
+frequencies drown out any chance for overhearing any discussions between
+my gunners and my pilot. Regulations. I was persona non grata until
+after debrief and might get reassigned to a solitary bunk until the
+investigation concluded. But I was on my way to court-martial
+proceedings regardless.
+
+5
+
+I remember being ordered to clean up and dress out in my formal uniform,
+but I do not remember how I arrived in the hallway of the Justice Center
+outside a court room where I could hear words and parts of words, but
+nothing substantial.
+
+The double doors broke open. Pearson, my Pilot, burst through them still
+in his flight suit.
+
+“This is bullshit,” He growled. “The Goddamn HUD went down and we were
+flying blind. There was no other reason for it. End of fucking report!”
+He shouted back at the double doors as they closed.
+
+I cocked my head to the side to line my eyes up to his. For a moment I
+was the RCA dog looking at the Vitrola.
+
+“Listen, whatever happens in there,” Pearson paused as he held something
+back. “I want you to know you… you’re a…you were a damn good gunner.”
+
+He turned on his heels and walked away. That was the last time I saw
+Pearson face to face. I have seen him since, but it was just in passing
+and I did not want to bother him. That was also the first and only
+compliment he ever paid me.
+
+From behind the closed court room door, I heard my name and the command
+to enter.
+
+The grain on the doors rubbed against the tips of my fingers. I was not
+used to touching wood, I had been around metal and plastic for most of
+the time since I joined the force. I pushed the door with my right hand
+and entered the inner entry way into the court room nearly colliding
+with a young Marine exiting.
+
+I took a breath. I would likely be the last free one I could expect for
+a while.
+
+  ###
+
+A gravelly voiced General began reading my sentence.
+
+“Life must survive. Otherwise we are nothing more than our astrological
+neighbors. Lifeless husks of planets teeming with resources but devoid
+of life. Or are we just the bacteria on the hide of another greater
+animal.
+
+“Earth. This is our home. But like the bacteria causing an itch on the
+underside of our left buttock right when the professor directs his
+interrogations at us, we are desperate to itch our ass, but cannot. This
+is the Earth’s struggle with us; her pet bacteria crawling on her skin.
+
+“It began so long ago. Our precious Geo, Earth was so young and naive.
+She didn’t believe that little protozoan infection would amount to much.
+Youth is wasted on the young. Then we grew into these little furry
+things and ate the scaly things and it was really quite embarrassing for
+such a lovely planet that had formed marvelous water exhibits and crusty
+areas with ridges and vegetation. Too bad it was infected at every level
+with those, things. Aggressive little apex predatory-bacteria is what it
+appears. They like to call themselves “human.”
+
+“Now our little Geo is growing and changing. Finally blossoming and that
+means the bacteria must go. So it was as it was so many revolutions
+prior to this one, this is the shift that makes these little monster
+either eat and fizzle themselves out or they pivot the table once more
+and make our poor Geo Named Earth fight them off in a another form when
+she is strong enough to again, in another incantation of this so-called
+lifeform.
+
+“Every turn of the evolution of the earth has met with the generation
+and regeneration of life. We exist because the genes that take the
+information learned and pass it down the evolutionary chain gives us the
+opportunity to survive. We have a thumb to make the tool to save our
+throat from being cut by the tooth of the tiger currently eating our
+young. We can kill the tiger, but it will cost our young. That is the
+next step in this chain. A step we’ve not yet grown eyes to see.
+
+“For now, the fight is Nature versus Man. Man versus Nature. And she’s a
+lovely bitch that wants us to die, because she has to live.
+
+“Somehow, the world wants humanity dead. The SLUGs were thriving
+underground. You are now to be their death.”
+
+I was court martialed. I had my rank striped off my chest and shoulders
+by a General I had never met before.
+
+I was then sworn back into service, a life sentence as long as I stayed
+alive.
+
+A sniper rifle, short machine gun, and high velocity 9mm handgun. The
+rest of my kit resembled that of an Airborne Ranger’s. To that end, I
+was dropped into the darkness of Downtown Dallas. Kill. Stay alive. More
+airdrops of gear, food, and medicine keep coming.
+
+I resupply or I die.
+
+Death just meant my life sentence was finished.
+
+6

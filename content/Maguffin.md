@@ -1,0 +1,291 @@
+---
+title: Maguffin
+---
+
+I’m a Doppelganger in love with the role my clone plays.
+
+I am Watching my clone and rooting for the other guy. Somedays, the hell
+on screen was transplanted to the home.
+
+It’s a world where the most straightforward truth is the lie we keep
+telling ourselves.
+
+Los Angeles lay before me. The travertine floor warmed my feet, and my
+toes gripped the grooved texture—smoke from a canyon fire streaks east
+to west across the sky. In the late afternoon, the orange and yellow of
+the shimmering ocean catch off crystal glass and polished steel.
+
+A housecoat whips my legs from the afternoon wind, slapping my shins.
+The robe flashes around me, caught by a gust. I am wearing sunglasses. I
+could not stand the light without them. Through the darkness of the
+lenses, my hangover is shielded but barely.
+
+Along either side of the backyard are wooded monster mansions. They're
+just far enough away not to make out a detail but close enough to see
+all the money each of us has—or, instead, how much sunken cost fallacy
+our accountants will allow.
+
+Just around the curve of the canyon to the left, there is a house that
+has either been in some form of construction or renovation since this
+house was built, permitted, bought, and sold twice. I’ve seen more
+contractors and day laborers there than anyone with a property right.
+
+To my right, we have a modest modern. It is a lovely single-level home
+with an executive infinity pool and a glass acrylic outer wall. It is a
+beautiful place for a 3 a.m. skinny dip.
+
+I think the owners rent it. I’ve never seen an occupant stay for more
+than a few months. Currently, the occupiers are a trio. We’ve chatted
+briefly, but mainly, it’s been the 3 a.m. skinny dips keeping us close
+these days.
+
+I watch her stretch into a warrior pose on the tightly turfed grass
+poolside. Strong, perfect legs uphold her frame. The twist of the ankle
+leading up toward an onion bull of the calf, then behind a ticklish
+knee—I could hear her giggle now. Now down unto the valley, we go across
+the lions, and pitching of flesh now covered fleshy pink and green polka
+dotted boyshorts modest at best. Strong hips rise over the leg and lower
+belly. My eye traces the Whipple of fabric and seam stretched over the
+skin when tickled with a light kiss of gooseflesh nicely—if memory
+serves me, which it has been known not to do. But once, in a movie, he
+got to say the line, “I could eat a peach for hours.” And had.
+
+Two breasts rise from her chest, bulbing upward, the shadow of her
+nipples licking at her sports bra, taut but confident.
+
+We make eye contact. I see a release of her shoulders and a roll of her
+head. I can hear a light chuckle from over the hedges between us. I
+raise my martini glass in salute as I feel the wind against my public
+hair.
+
+Very few people know exactly who I am. She does not. No one in this
+canyon knows about theaters, and I am lusted after by insatiable
+admirers. I’ve been around the world twice last year, but strangely,
+I’ve never left this house in a canyon overlooking Los Angeles.
+
+I hear the front pivot door rub against the travertine floor at the
+entrance. I hear a familiar voice calling to me. The voice is nearly
+identical to what mine sounds like, but his face is the one everyone
+sees. I’m just the insurance policy.
+
+“‘What the fuck!” Get some pants on!!!”
+
+I answer, “They can see any of this. Even if they could get an airborne
+drone, it gets EMP’d the second it hits the subdivision.”
+
+My excuses were ignored. I heard the slap scripts on the kitchen
+counter.
+
+“The paparazzi’s drooling to catch a shot of my cock and balls! Get the
+fuck in here and cover up!”
+
+A low trumpet fart bubbled out of my ass.
+
+“‘NOW!” Like a mirror of myself, I watched as I slapped light switches
+in the kitchen; the house lighting glowed against the late afternoon
+sun.
+
+We locked eyes as I gathered the wings of my housecoat around my
+nakedness—our nakedness. I was halfway to the sliding glass kitchen wall
+when they began to close automatically. I pivoted toward the next open
+set of walled glass barn doors. Those started to close as well.
+
+Locking eyes with myself, I’m grinning back at myself from the kitchen
+control panel to the half-naked version of me growing frustrated with
+the game. I stopped walking inside. And whipped off my whole robe.
+
+“‘Hey! Come on!!!!” I was yelling at myself to wrap myself u- again
+because I was worried about having to pay back the $10 million exclusive
+naked “paparazzi” pics that were to leak in a few days.
+
+From the kitchen, I am frustrated at myself standing on the pool patio
+20 feet from inside, clutching the facsimile of a cock hung from
+himself.
+
+“‘fuck it, let’s give them a show!”
+
+“Stop. Stop! STOP. STOP!!’” I heard myself shouting at me as I spun on
+my heels and began whipping the thick flaccid penis like an old plane
+propeller.
+
+I had half an erection coaxed when I tackled myself into the now
+multicolored shimmer of the pool.
+
+“You idiot! We leak a glimpse of it, and we get dead! If not, dead, then
+we’ll get POOR!”
+
+I yelled at myself as I trudged toward the pool steps, leaving myself
+standing in the shallow pool end a few steps behind. “Jerk it and spray
+a huge rope of it, and we lose half of the bonus.”
+
+“Yeah, yeah,” I dismiss my concerns.
+
+“‘No,” look at me, you fuckhead. “‘That bonus is half in this place and
+half hidden! I can’t get it liquid in time to satisfy the goons at the
+Examiner in time for them not to order a helicopter to take my ass—our
+ass—on a one-way ride.
+
+‘“Money is meaningless.” I am now just trying to piss myself off as we
+argue. Shouting at each other across the vast emptiness of this
+obnoxious half-glass house.
+
+I stopped cold as we both locked eyes.
+
+“‘It is not only about the fucking money.” I sighed, “‘it’s about you.”
+
+I scoffed and whipped into my side of the main bedroom's twin closets.
+
+I’m wrapping myself in a thick terry cloth robe. The chlorine sting
+remains in my sinuses. I feel myself reach toward me and clutch my upper
+left arm. A shocked look greets my assault, only to be cowed by my face,
+staring back infuriated and boiling.
+
+“‘They will kill us.” I heard myself. “‘Dead. Kill. Like all the other
+lab rats. The same ones that weren’t supposed to exist either.”
+
+The ones were ungodly abominations lampooned by politicians and revised
+again for the made-for-TV movie. It was one of the best roles; it paid
+for the first half of this house. Now, it is long dead from the mass
+destruction of the cloning facility in the Yucatán peninsula, from which
+two of us returned.
+
+What is worse? We don’t know who the clone is and who the original is.
+
+Being an actor and making money off your face is difficult if there were
+two identical versions of the guy everyone laughs at for always having a
+scene where he runs across some famous background.
+
+There was only one, Eddie Marco. He starred in one movie where he played
+an accountant who blew a whistle on a firm laundering money for the
+cartel. That movie had him running down Broadway to an empty Times
+Square. In another film, he flew jets and flipped off the bad guys
+through the glass canopy—“cockpit to cockpit” was an awful title. The
+box office receipts were also just as disgusting. He pulled a hamstring
+in that one as he trained for a stunt—rewrites dumped the running scene.
+
+At some point after that occurred two of us came into being. Both are
+shaking from adrenaline in hospital gowns and staring at a mirror
+version of himself.
+
+Getting out of the jungle was easier than getting from the private plane
+to this house. I have not left since. My other self has been around the
+world eight times since filming those ridiculous movies that made Eddie
+Marco rich. But only one Eddie Marco exists. If one of us goes, the
+other takes. It’s not a moral or ethical choice. The lawyers wrote it up
+this way. One stays home. The other goes out. If something happens to
+us, we retire and allow our fans to mourn. Either way, we keep the
+houses, bank accounts, and assets, and the government doesn’t confiscate
+them for “crimes against the public.”
+
+That’s the ridiculous charge they’d execute the both of us with. Assets
+back to the government. Some say, ‘That’s the way love goes.’
+
+It’s not. I’m an insurance policy. All I have to do is exist and not be
+seen. I get everything if I ignore my existence.
+
+“‘I’m going for a run.” He’s changed shirts and into jogger pants.
+“‘Back soon.”
+
+I was out the front door and down the street before I could glance for
+my running shoes, but then I remembered, ‘I don’t exist’ as I stared
+after the emptiness where I used to be.
+
+The wet robe slapped the marble floor as the steam puffed the room. The
+shower’s hiss drowned the ringing in my ears from the pool water. I
+opened a small chest and pulled out a thin plastic tube filled with a
+green liquid. Twisting off the end cap, I drained the tube down my
+throat and swallowed the ‘green’ flavor.
+
+I don’t remember passing out.
+
+I remember myself standing over myself, yelling about how I was fucking
+up my life to the cacophony of medical triage.
+
+I woke up in the house's infirmary. A complete copy of an emergency room
+built for only one man—but used to keep his clone alive. If that is his
+clone.
+
+The heart monitor beat remained between us after he finished yelling at
+me for trying to ruin everything and destroy his life.
+
+“‘I wasn’t trying to…”I interrupted myself and continued growling at
+myself and outlining the fallout of Eddie Marco’s suicide.
+
+I closed the sliding door after leaving through it and back into the
+basement of the shared house. I could almost hear the curses I caught
+from downstairs as I began clattering in the kitchen.
+
+The tube of green was not a cry for help. I was not trying to kill
+myself. I have a shitty dealer, mainly because I’m not allowed to go out
+and get better drugs.
+
+It would have been a terrible obituary anyway. I was working on a
+project about a musical about Teddy Roosevelt smoking pot and gateways
+into heroin. No one wants the last thing you worked on to be about
+something so ridiculous as “Tedddy’s Sugar.”
+
+Cottonmouthed and sore, I pulled myself up from the hospital bed. Clips
+popped off the affixed anchors as a cacophony of alarms rang against my
+aching head and now body, feeling the whole pulse of each beep, buzz,
+and ring. Slapping the consoles and the beeping subsides, I can gather
+my shattered brains.
+
+Now quiet, I gathered myself with the blanket from the bed, slipping off
+my naked frame. Stepping toward the door, I saw a basement resembling
+more of a personal entertainment paradise with nearly everything there
+was to have concerning video games and movies.
+
+I am a fan first. Vintage movie posters signed editions framed and
+lighted with specialized UV filtering glass to protect their mint
+conditions. A gallery of video game cabinets lined a barrel-lined
+adjacent room.
+
+The whole entertainment area of the basement opened up to a 16-foot
+ceiling and lavishly but minimally decorated creature comforts.
+
+I was sitting in the center of the U-shaped couch, with the wall of TV
+screens broken up into six different channels, all on one topic.
+
+He’s left a scotch for me on the bar behind him. I’m a bit too groggy
+still for booze right then. I passed behind myself toward the gym and
+indoor sauna, whipping another house robe waiting for me on a barstool
+around my shoulders.
+
+The door to the sauna lay before me, but my breaths were short and
+quick, and suddenly, I felt flushed. Next, I’m sitting next to myself,
+watching the same six channels on one topic. That topic was ‘Us.’
+
+”Why are we on ALL the channels?” I was trying not to sound like
+Madeleine Ashton in Death Becomes Her; now a warning?!
+
+I ignored myself. A dry glass was in my hand, and the remote was in the
+other.
+
+“Hey!” I slapped myself and shook the dumb bastard to get his attention.
+“WHY ARE WE ON ALL THE CHANNELS?!!”
+
+“We don’t play the question game here,” I griped and shook the shoulder
+closest to me, getting me to turn my head.
+
+The glass rolled from my hand and plunged to the thick Persian rug
+underfoot. “I fucked up.”
+
+Then I passed out as my thumb triggered the unmute button.
+
+A shouting chorus of reporters assertively delivering sharp-punched
+statements and file footage peppered my senses.
+
+In a surprise release today, international film actor Eddie Marco was
+killed on the set of his passion project reenvisioning the role of
+President Theodore Roosevelt's effect on the proliferation of opium dens
+in America being turned from drug dealers into modern pharmaceutical
+giants known one names and owned by a string of others.
+
+I was dead. Killed onset with a loaded gun that should not have been.
+
+If I was there, dead. Then why was I now passed out next to myself?
+Turning blue.
+
+NOW QUICKLY TURNING BLUE!
+
+###

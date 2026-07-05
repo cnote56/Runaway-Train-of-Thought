@@ -1,0 +1,122 @@
+---
+title: Damn you
+---
+
+Damn you for reading this.
+
+Damn you for me gearing nothing but the sizzle of air on the membranes
+of my ear drums vedcause my senses have caught the plague of enlightens.
+
+Yes. I’ve caught the woke.
+
+I’ve caught the plague of all the fears your resists fucjing gramdmother
+held true.
+
+Yes. Maw. Maw was a fucking fasciitis CUNT.
+
+And I’ll spit that on every grave you point me at.
+
+And TWICE in ever grandson’s face of the bloody botch that sucked too
+many tiny dicks to count.
+
+Yes, I’m calling YOUR grandmother a fucking little dick sucking cunt
+that never deserved the respect we spit at the whore.
+
+ITs ALL A FUCKING LIE!!!
+
+I’m not gonna repeat it anymore.
+
+IT’S ALL A FUCKING LIE.
+
+And yes, I’ve lost my mind.
+
+I’ve cast aside the generagtions before me. And I’ve said to hell with
+all the lies my grandfather tried to tell me that myth mother dad was
+true and all the bull shit that my grandmothers kept reheating and
+feeding me saying out was home cooking.
+
+ITS ALL A GODAMNED LIE.
+
+And yes, I’ve lost my mind.
+
+My fathe is lying in a hospital bed.
+
+Beghgginb to come home and breath his own air before he casts off the
+shitty coil that dragged him low enough to carve out a hole big enough
+to raise a family and try to make sense of the shit hole .
+
+]
+
+]yes. 30K
+
+That’s his tumult.
+
+30k. To his name. To pass blindly upon the insane woman that anchored
+herself to him for so many years.
+
+Yes, my mother.
+
+My mother. She is a bruised woman. Long before my father and mostly by
+her hand… save her CUNT of a mother’s designs laid out on a poor young
+girl.
+
+No. I don;t blame my mother. Nor do I my father.
+
+I blame them all. Equally. Just as you and myself.
+
+Yes, I hoilodl myself the most corrupt.
+
+For believing in it for so long not to see the self destruction left to
+my own parents in the wake of this… capitalism.
+
+This work makes free.
+
+Hager Mach fire. Fuck all for caring about the labor that rose the
+towers around us.
+
+Fuck all but the C-suite and the shareholders.
+
+My brother toils for 15 years. To work for a company that streaks his
+own blood from his veins.
+
+The company has an annual revenue at around $21 billion per year.
+Profits are believed to come mainly from over $11 trillion in assets,
+which generates significant revenue.
+
+In 2020, HIS OVERLORD reported record profits due to increased trading
+activity during stock market volatility and growth in assets under
+management. Their assets under management grew over 25% that year.
+
+Over the long-term, THE OVERLORD's profits have likely grown steadily as
+the company has grown its assets under management and expanded its
+financial services offerings.
+
+Market trends like the shift from active to passive investing and
+low-cost index funds have put some pressure on profits, but THE
+OVERLORD's scale has allowed it to maintain strong profitability.
+
+So in summary, while exact figures are not available, THE OVERLORD is
+regarded as a highly profitable company in the financial services
+sector, with profits likely increasing over the last 15 years along with
+growth in its customer assets and services.
+
+Now tell me again, why he hasn’t received a raise in the past 15 years.
+
+Exactly.
+
+You can’t.
+
+The OVERLORD CORP will not allow us such fribvolity.
+
+FUCK. THEM. ALL.
+
+BURN. THEIR. YATCHS.
+
+I’m going to sell all my holdings. I; going to start funding terorists.
+
+Because this is all the hell cast in the name of your father and mother.
+All in the name of your sweet grandma my.
+
+Fuck that dry cunt bloody.
+
+Leave it in the sun… to burn and wither.

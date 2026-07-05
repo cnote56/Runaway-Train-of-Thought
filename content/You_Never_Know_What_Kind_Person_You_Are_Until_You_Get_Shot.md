@@ -1,0 +1,71 @@
+---
+title: You Never Know What Kind Person You Are Until You Get Shot
+---
+
+You Never Know What Kind Person You Are Until You Get Shot.
+
+Cole Dowden
+
+[REDACTED PHONE]
+
+cole.dowden@gmail.com
+
+Madness thundered in his veins.
+
+“Stop!” The Police Officer shouted. “Hands in the air!”
+
+Each heart beat sent a “BOOM!” through his chest.
+
+“Drop your weapon!”
+
+His eyes darted from the police officer to his right hand across his
+chest. It held a gun. He followed the clean line of the barrel of the
+revolver to a mass of hair and grunted struggle. His left arm encircled
+the frame of a stranger. Female from the bulge of breast just under his
+left wrist.
+
+“Let the hostage go!”
+
+Franklin Emerson does not know how he got to this moment. From his
+perspective he just woke up, fully dressed, holding a gun, with a
+hostage in his arms.
+
+It was supposed to be a Tuesday. Franklin remembered, the thought coming
+to his brain like a bullet, “I’ve got a sales meeting at three!”
+
+“Drop the weapon!”
+
+Franklin thought, did I just yell out about a sales meeting?” His right
+hand tightened its grip on the gun. His left arm wrenched the poor
+hostages neck harder. Franklin Emerson was not telling his arms and body
+to do these actions. But they were.
+
+“Whoa! Stop” The Police Officer’s shouts were growing more desperate.
+“Drop the weapon! I can’t let you hurt the lady!”
+
+“I’m not doing this!” Franklin shouted at the officer.
+
+“Drop! Your! Weapon!”
+
+Franklin Emerson did not do as commanded. Instead, he uncontrollably
+smiled at the officer and whipped his left arm away from his chest and
+pointed the gun at the officer.
+
+The polices officers gun barrel muzzle flashed. The shots thunder
+cracked the moment to its core. A force struck Franklin Emerson’s chest.
+His gun-holding arm dropped to his side.
+
+His knees buckled.
+
+His left arm released the hostage.
+
+To his knees, Emerson slumped and his head tilted backwards; his eyes
+rolling to the sky. The impact of the force against his chest send the
+crack of thunder through his body, senses, and understanding. The rumble
+echoed in his ears and across the ceiling of his skull.
+
+Blood jutting from his chest.
+
+Franklin Emerson died not knowing why he was where he was when he died.
+One of his last thoughts concerned a vague reminder of some meeting that
+afternoon, about sales or something.

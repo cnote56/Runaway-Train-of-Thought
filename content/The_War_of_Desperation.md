@@ -1,0 +1,25 @@
+---
+title: The War of Desperation
+---
+
+﻿Quiet Wars; Chronic Conflict And Mankind’s Madness
+
+
+
+
+
+
+
+
+
+
+The Quiet War
+
+
+
+
+
+
+
+
+There will always be war. There is no one time in the history of mankind that there was not a conflict of consequence.

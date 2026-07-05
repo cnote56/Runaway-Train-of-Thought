@@ -1,0 +1,184 @@
+---
+title: Death Becomes Them
+---
+
+Death Becomes Them.
+
+Blade vs. Wolverine vs. DeadPool
+
+Synopsis:
+
+A spreading plague is marching across the world. Silent at first, but
+slowly it is gathering victims and turning them. Mindless at first, but
+now growing into an organized movement. These people now follow the
+direction of some unknown commander. Will we discover who is controlling
+the infected before our heroes succumb to the sickness.
+
+###
+
+We’re coming for you.The handmade signs on long wooden stakes shook and
+jumped up and down in concert with the shouts for impeachment and
+criminal trials.
+
+Clear night. No rain, but the streets are still wet from the daily water
+truck sprays at dusk. They weren’t spraying only water. It was a
+disinfectant. Against the night’s future activities.
+
+The data from the crowd like a strong cloud of perfume. To the naked eye
+he was just a normal man leaning against a wall watching a protest swell
+and pass down the city street. Normal if it weren’t midnight and these
+protesters weren’t vampires.
+
+Sniffing the air, he smelt the majority of the crowd were real vampires,
+but none of them natural born. All either just turned or wanting to be
+turned. None of them over a year old. Blade felt the shorter katana
+press against his spine. His head’s up displays in his shades gave him
+the body temperatures and respirations of the protesters. Some weren’t
+breathing. Some were changing as they marched; their puncture wounds
+fresh on their necks and chests.
+
+Two fang marks on the neck, a classic sign of vampirism.
+
+Three incision marks - some just above the collar bone others straight
+throgh the sternum.
+
+“Unexplainable. Unless he’s changing them with his claws, too. Curious,”
+Blade thought to himself. “Is he turning them or is someone else? I’m
+not going to find him here.”
+
+Blade stepped away from the wall he was leaning on and walked down an
+alleyway toward his car. “Whisker! Nothin here, the lead was a bust.
+He’s not here, but he was. About an hour ago.”
+
+###
+
+Across the rooftops, perched like a gargoyle, a humanoid figure watches
+the protesters trudge and shout down the street. His claws slowly
+retracting into his forearms. He started to feel their blood mix with
+his.
+
+The the slow carve of his forearm blades pulling back into his body drew
+rememants of his victims tissue and blood to migle deep into himself.
+And then his regenerating healing abilities began to digest and assume
+the new DNA pulled into its ecosystem. He was learning about these
+people. The same people that should not be walking, much less in some
+loose accord and with the same political message leaping form their
+lips.
+
+“I stabbed that guy right there. Center mass. Dead to rights.” His eyes
+keen and clear focused in on the man now with glassy and frosted eyes
+mumbling a call and response chant and loosely hold a placard with a NOT
+MY PRESIDENT sign.
+
+“He shouldn't be breathing.” Logan growled.
+
+But this man - or what used to be a man - was now breathing and
+participating in the democratic process.
+
+But he is, Logan. In the transmitter in his ear, Logan heard Psylocke.
+We’ve got to analyze the dna you’ve got on your claws. Don’t retract
+them all the way and return to the Blackbird.
+
+“Copy that,” Logan answered.
+
+He left one claw, the middle one extended on his right arm. Standing and
+retrieving a small device - essentially only a handle - and pointed it
+directly above his head. A click of his thumb against the device shot a
+filament with a high powered magnet into the air. It thumped against an
+invisible object. Then the device in Logan’s hand expanded and engulfed
+his hand and he was immediately lifted skyward.
+
+###
+
+Inside the Blackbird, Psylocke is taking tissue and blood samples form
+Logan’s extended claw.
+
+“How are you feeling?” Psylocke asked.
+
+“Okay, I guess.” Logan answered. “Maybe a little drowsy.”
+
+“I don’t want you sleeping unsurvisized.” Psylocke staid.
+
+“What? Think I’m gonna give up the ghost on ya?” Logan asked.
+
+“Yes, being honest.” Psylocke answered. “I think you’re going to turn
+and endanger us all. We should have never taken the Blackbird out on
+this damn mission.”
+
+“Shoulda. Woulda,” Logan said antagonizing Psylocke. “Coulda, kid. We
+needed to observe the animal before we figure out to kill it. You gotta
+know what it is before you hunt.”
+
+“Drones!” Psylocke spat back at Logan. “A fucking little machine that
+flies. We could have flown it right into the thick of them! Next time,
+curb the cowboy shit, Logan.”
+
+Act By Act Synopsis
+
+First Act - Wolverine and Psylocke are investigating the source and
+cause of a new biohazard infection that is spreading across the globe.
+Counting on his healing abilities, logan draws blood and tissue samples
+with his claws and unintentionaly infects himself, slowly driving
+himself insane and turning into one of the plagues victims.
+
+Psylocke attempts to find a cure for Logan, while Blade is also hunting
+the cuase of this new plague. He suspects a new powerful vampire has
+been unearthed - one with the ability to infect with both his fangs and
+claws. He suspects a three clawed vampire - ultimately leading him to
+suspect Wolverine is not letting on to the extent of his illness and
+whether his healing abilities have been compromised by the plague.
+
+Second Act - Blade’s suspicions lead him to confront Logan and an
+extensive battle ensues between them. Nearly dead form the fight, Logan
+and Blade both retreat when the hordes of infected grow to great to
+ignore. Here, Deadpool joins the story as he fights the infected. He
+sees Wolverine is not well but has suspected the plague is not caused by
+Wolverine but rather a biological nerve agent that takes over the motor
+skills and higher functions of its victims essentially turning them into
+a hive minded organism. This infection was unleashed by General Striker
+as a biological weapon derivative of the Weapon X program.
+
+Third Act - Wolverine growing ever-more feral from the infection is
+fighting the hivemind effects of the plague while growing more and more
+in touch with General Striker. He is having visions and hallucinations
+and loses his mind and attacks Psylocke. Severely wounding her in a fit
+of rage he escapes the facility and charges out into the snowy
+wilderness alone and maddening.
+
+Blade and Deadpool face off with Deadpool trying to explain the plague
+to Blade, but Blade refusing to listen. Their fight grows more and more
+violent and finds itself in the midst of a horde of infected. They soon
+must fight their way out of the horde and discover they are at Alkaline
+Lake - the Weapon X testing facility.
+
+Their fight soon evolves into a hunt for Striker in the complex as the
+infected breakthrough the security barriers.
+
+Wolverine returns - fighting his feral instincts - he is struggling to
+focus his fight against Striker to obtain the antidote.
+
+Their battle envelopes Blade and Deadpool with the antidote being broken
+in the fight.
+
+Striker escapes.
+
+Wolverine begins to spiral out of control as the infection resurges in
+his system.
+
+Psylocke enters Alkaline Lake at a pivotal moment when Wolverine is
+beating Blade and Deadpool to inject him with a serum designed to be the
+antidote to the infection. It passfies Wolverine but not before Deadpool
+is comedically wounded.
+
+Blade unleashes a blow meant to decapitate Wolverine only because the
+adminatium in his bones snaps his katana like a matchstick.
+
+The infection is receding after Psylocke sets off an airborne bomb with
+the antidote over a mass of the horde outside.
+
+As the last moments of the story wraps up, Psylocke is still infected
+and has only genetically redesigned the virus to follow her commands.
+The masses of infected people appear to be cured, but the virus lies
+dormant in their genome waiting for Psylocke's command.
+
+.

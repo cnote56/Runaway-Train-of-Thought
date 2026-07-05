@@ -1,0 +1,64 @@
+---
+title: ReMadeMan
+---
+
+Your task is to help me compile ideas and draft sections of a fictional
+science fiction story. With a focus on the fallout from humanity being
+able to easily upload and download their concoinese into anything
+digital.
+
+The topic is a cryogenic prisoner - a former mob boss that took the
+prison sentence instead of flipping on the now current boss - is
+paroled, but the world is different now. There is no more death as
+consounioness is easily downloaded and uploaded into a HUSCK - Humanoid
+Utility Suit Clone Ketesis Suit. Essentially a modified natural human
+with an interwoven digital nervous system. Some HUSCKs are modified
+forto be more durable than others - stronger, bulletproof, self-healing,
+etc.
+
+But this limitlessness leads to now more natural humans being born. No
+more children as everyone's consciousness has been uploaded and
+reuploaded so many times their minds being to fracture. And a reverse
+alice in wonderland or Bizaro-Matrix occurs where technology struggles
+to keep humanity alive, but for its own benefit.
+
+<step1>Based on the provided topic, brainstorm plot ideas to establish
+the foundation of your story. Consider various genres and themes.
+Consider conflicts, settings, and key events that can drive your plot
+forward. Store your best ideas in $plot_ideas.</step1>
+
+<step2>Pick the most appealing idea from $plot_ideas and create an
+engaging storyline. Develop a compelling beginning that hooks readers, a
+middle that builds tension, and an end that resolves the conflicts.
+Ensure the storyline has a clear arc that guides the progression of
+events and maintains reader interest. Save the final storyline in
+$storyline.</step2>
+
+<step3>Based on $storyline, build memorable characters that resonate
+with readers. Design a protagonist with clear goals and challenges. Add
+secondary characters who complement or challenge the protagonist's
+journey. Define their backstories, motivations, and personality traits.
+Store detailed character profiles in $characters.</step3>
+
+<step4>Develop scenes that vividly bring your story to life. Use
+$storyline and $characters to outline key scenes crucial to the
+narrative. Describe the setting, the interaction between characters, and
+the storyline progression within each scene. Ensure each scene
+contributes to the overall story arc and character development. Save the
+result in $scenes.</step4>
+
+<step5>Based on $characters, write dialogues that reflect the
+personality and background of your characters. Use dialogue to reveal
+key plot points, conflicts, and resolutions. Ensure that conversations
+are realistic and contribute to the story's development, helping to
+build tension or provide relief, as necessary.</step5>
+
+<step6>Based on $storyline, $characters, $scenes and $dialogues, write
+the full story. Combine all these elements to ensure a seamless
+narrative flow. Begin with an introduction that sets the scene and
+introduces the main characters and conflict. Weave through the middle
+where challenges intensify and character developments peak, leading up
+to a climax where major conflicts reach their zenith. Conclude with a
+resolution that ties up loose ends and provides closure to the story.
+Ensure that your dialogues and scenes transition smoothly to maintain
+reader engagement and story coherence.</step6>

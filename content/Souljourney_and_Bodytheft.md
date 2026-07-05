@@ -1,0 +1,58 @@
+---
+title: Souljourney and Bodytheft
+---
+
+The worst fear is beyond all the pitfalls between life and death.
+
+The chance to make up for all the worst of the prior years.
+
+death of phrsial is not loss of awaetrness.
+
+souljourny and bodytheft
+
+the travel of sould through timeand space, wuithout regard to your
+understanding.
+
+Here, we finda young boy. kneelded aty the base of an old tree whoose
+roots traced years underground. snd himself the attentiuon of three
+unsavory dark rogues.
+
+a few words echganged.
+
+the young boy called to his feet from the ground amd then caught witgh a
+boot to his face sneing him bnack down,
+
+and then a gunshot.
+
+another exhcange wbwtween the bastards baiting the yought man.
+
+and now a panicicked escape, back form whence they came.
+
+and to hell may they find their way.
+
+but here lies a young boy.
+
+teken at the tine of his unripened prime.
+
+yet to be a man, yet to know that path.
+
+here lies the pure soul. a perfect recruit.
+
+a revenerger.
+
+a rider.
+
+a bringer of light
+
+the light that ruts the lies from bones.
+
+and burns the falsehoods from their eyes.
+
+leave the husk, he said.
+
+leasve the bones.
+
+they dont have anyhting left 9iinthemb ut the calcuum for the souiil.
+
+let them have thgat last honor, mamybe they grow a flower. from their
+disgrace.
