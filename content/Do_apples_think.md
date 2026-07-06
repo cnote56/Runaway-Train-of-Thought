@@ -1,0 +1,48 @@
+---
+title: Do apples think
+---
+
+Do apples think?
+
+Cole Dowden
+
+[REDACTED PHONE]
+
+cole.dowden@gmail.com
+
+Preface:
+
+A technician at a body factory realizes the replacement bodies aren't
+just empty shells when one wakes up and refuses to accept its fate.
+
+###
+
+“But I'm alive.” It spoke. It was not suposed to speak.
+
+“No, you're a husk grown on the tree like an apple. And you're supposed
+to be picked for her.”
+
+He pointed through a one way glass at an older version of the same
+person laughing with the salesman as he explained the process for the
+12th time.
+
+“I'm human,” It responded. It responded.
+
+“No, you’re a replacement body.” The technician stopped suddenly
+realizing he was speaking to what was supposed to be an inert fabricated
+replacement body.
+
+“But I’m alive. I think I feel.” It thought. Thinking is not supposed to
+happen.
+
+These two find each in awkward beginings. Her’s not so new, but very
+awkward. And his somewhat older, but possibly much much more awkward.
+
+The room was a prep room where husks
+
+“You're what we call an apple. And you belong to her,” The technician
+pointed through the one-way glass at the older version of the Apple …
+fully clothed and looking very rich.
+
+Says who? I'm alive. How can I belong to her? She has no claim to me
+other than a few strands of DNA.

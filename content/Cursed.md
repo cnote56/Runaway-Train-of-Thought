@@ -1,0 +1,14 @@
+---
+title: Cursed
+---
+
+Cursed.
+
+Synopsis: a squad of mercenaries sent deep into the African jungle on a
+mission to retrieve hostages held by a warlord meet with strange and
+miraculous events that soon appear not to be random and unexplainable as
+first thought.
+
+The soliders of Fortune soon realize they are being hunted and thwarted
+by forces they could have never imagined; the forces and God's of the
+jungle.

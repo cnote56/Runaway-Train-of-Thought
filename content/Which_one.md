@@ -1,0 +1,11 @@
+---
+title: Which one
+---
+
+Which one gets covered ?
+
+Which one gets smothered?
+
+Which one gets saved?
+
+Which one gets to see God?

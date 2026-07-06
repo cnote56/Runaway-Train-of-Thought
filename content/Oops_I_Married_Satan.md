@@ -1,0 +1,391 @@
+---
+title: Oops I Married Satan
+---
+
+COLE DOWDEN ~2500 WORDS
+
+5922 CROWN ST. CAP.HEIGHTS, MD 20743 | COLE.DOWDEN@GMAIL.COM
+|[REDACTED PHONE]
+
+"Oops! I Married Satan!"
+
+Setting: A game show soundstage in hell. Three podiums for contestants
+are on one side of the stage, and one podium for the host is on the
+opposite. An audience of humans, ghouls, and monsters fills the house
+seats, where an Applause sign reads, “HISS—HECKLE.”
+
+---
+
+Cast:
+
+- HOST (ghoulified versions of Trebek crossed with Sajak but possessing
+  Jim Carrey, seething with resentment for all humanity)
+
+- JOHNNY ANNOUNCER (a disembodied off-camera voice)
+
+- DRACULA
+
+- MINA (Dracula’s Wife wearing a plain house dress and half apron, like
+  a Stepford Wife)
+
+- MR. HOCKEY MASK (Jason Parody, poorly done; His ‘hockey mask’ is a
+  paper plate)
+
+- MRS. HOCKEY MASK (she wears a knitted sweater patterned with little
+  axes and Hockey Masks on it - she knitted it herself and now sells
+  them on Etsy)
+
+- JOE SMITH (rich and WASPy white guy with a sweater tied around his
+  shoulders, wearing a polo and periwinkle shorts with boat shoes.)
+
+- OFF-CAMERA AUDIENCE MEMBER VOICE
+
+- JENNIFER SMITH-SMITH (Joe Smith’s wife, an ordinary, typical white
+  woman)
+
+- STUDIO AUDIENCE MEMBER 1
+
+- STUDIO AUDIENCE MEMBER 2
+
+--- Fade In from Static TV screen ---
+
+  HOST: (cheerfully, standing center stage) "Welcome, everyone, to the
+  worst game show known to all who have darkness gripping their
+  blackened little hearts! This is Oops! I Married Satan! Where love
+  takes a monstrous turn, and only the brave survive! We have three
+  extraordinary couples ready to face the ultimate test of their
+  relationships tonight. Who will confess the most shocking secrets and
+  walk away shaken and emptied of their humanity? Let’s meet our
+  couples!"
+
+[Audience erupts, jeering and screaming.]
+
+--- The camera cuts to three couples moving in pairs from the side
+stages. ---
+
+[Spotlight shines on couple one, Dracula and his wife. The audience
+cheers.]
+
+  JOHNNY ANNOUNCER: (disembodied voice) "First, we have the dashing
+  Dracula and his lovely wife, Mina! He’s charming, mysterious, and not
+  a fan of garlic!"
+
+[Spotlight shifts to couple two, a guy wearing a hockey mask, holding a
+bloody axe. His wife trails behind him, meek and dressed. The audience
+reacts with a mix of laughter and gasps.]
+
+  HOST: "Next, let’s welcome Jenny and her husband, the intimidating Mr.
+  Hockey Mask Killer! He's got a penchant for the macabre and loves...
+  camping at the lake, right?"
+
+[Spotlight settles on the final couple, an ordinary guy in a plain suit
+and his wife dressed very plainly. The audience applauds but stops as
+the couple's ordinariness puts them off.]
+
+  HOST: (laughing off the shock) "And finally, we have Jennifer…is this
+  a typo? I mean… Jennifer Smith… -Smith? And, her husband, the
+  surprisingly also boringly normal Joe Smith. Johnny Announcer! Tell us
+  more about these goddamned idiots!
+
+  JOHNNY ANNOUNCER: “They live in a four-floor walkup in a recently
+  gentrified neighborhood where they bought their first home with cash
+  with a zero-interest loan from his father’s tightly controlled family
+  trust set up by his great-great-grandfather, who owned a Diamond Mine
+  in Africa during the Belgian occupation of the Congo! Also, Joe’s
+  father - who makes his children call him ‘Sir’ - disapproves of
+  Deborah’s background because she went to a public school and took out
+  student loans to pay for it! Together, they prove that sometimes love
+  looks a little…like it was born while sliding across home plate!"
+
+[Audience claps awkwardly. Crickets fill the silence.]
+
+--- Camera cut away to Host ---
+
+  HOST: "Let’s jump right into our first round! Remember, this game is
+  about honesty and laughter. We’re all here just to have a good time,
+  find some fault in another person to make ourselves feel better, and
+  continue suffering through the monotonous void that we all call
+  reality.”
+
+[He smiles, nervous, as his third arm reaches over his shoulder, wiping
+his brow with a handkerchief.]
+
+  HOST: “Couples, are you ready?"
+
+[The audience cheers, releasing the pent-up tension.]
+
+  HOST: "Alright then! Here’s the first question, out of order and first
+  on the CHOPPING BLOCK!!! Couple Number Two! Mr. and Mrs. Hockey Mask!
+  Have you ever killed girls in sleeping bags? At a lake?! In the
+  Mid-80s!"
+
+[The camera zooms in on couple two; the hockey mask husband looks at his
+wife, exchanging nervous glances with the audience howling with
+laughter.
+
+Mr. Hockey Mask nods affirmatively, resigning himself to admit.]
+
+  MR. HOCKEY MASK: (sheepishly) "Let’s just say I… I grew up… in… In a
+  different time. I’m not saying they deserved it. But… I was young!
+  They! They asked for it! This is entrapment, man!."
+
+--- Camera cuts to Audience ---
+
+[The audience bursts into laughter.]
+
+--- Camera pulls back, bringing the couple into the frame, visibly
+relieved by the response. ---
+
+  HOST: "Wow! Bold confession! That gave the Audience a good tickle! But
+  really, Audience? Do we really need another serial killer with us? A
+  dime a dozen, am I right, folks?”
+
+[The audience erupts for elimination.]
+
+  HOST: "And... it looks like it’s time to say goodbye! Mr. Hockey Mask,
+  you and your wife are eliminated from our game! It’s just not evil
+  enough for our judges tonight! But we have some lovely paritng gifts
+  for you. Johnny? Can you tell our contestants what they’ve received?”
+
+  JOHNNY ANNOUNCER: (from off camera) “Congratulations! Mr. and Mrs.
+  Hockey Mask! You’ve already got what you're going to get! UNBEARABLE
+  SOCIAL REDICULE. LEAVE NOW! RUN BEFORE WE LOOSE THE HELLHOUNDS UPON
+  YOU! AND TEAR YOU LIMB FROM LIMB!”
+
+[The audience hisses and roars in anger and hatred at the couple. They
+rush off-camera as chairs fly into the frame from off-camera.]
+
+  HOST: “We’ll leave a link in the description below if anyone at home
+  wants one of those sweaters. Alright! Get the fuck out of here,
+  kiddos, before they riot! AND CONGRATULATIONS TO OUR SURVING COUPLES!”
+
+[The host casts a spell at the audience, and instantly, the anger shifts
+to applause and laughter]
+
+  HOST: “Now, on to round two. Dracula and Mina, let’s see if you can
+  keep your spooky romance alive with this question: What is the
+  weirdest thing a guest has done at your house?"
+
+[Couple one whispers among themselves before Dracula leans in.]
+
+  DRACULA: "Well, we've had plenty of strange visitors, but the one that
+  takes the cake is when someone tried to bite my neck... while I was
+  cooking dinner! I was like, ‘Listen here, VanHelsing! I don’t swing
+  that way!’ Heh, heh, guess you had to be there."
+
+[The audience laughs heartily and aggressively, visually unnerving the
+Couple.]
+
+  HOST: "I bet they sunk their teeth into the meal, didn’t they?! But
+  (visibly displeased) we wanted weirder! Let’s hear the audience's
+  reaction! Are they going to keep this couple?"
+
+[The audience murmurs, some ever so slightly hesitant.]
+
+  HOST: "It seems like the tension is high! Audience (Host voice turns
+  demonic)
+
+  DECIDE! NOW! FOR YOUR SOULS, MAGGOTS! (Host coughs and clears his
+  throat)
+
+  Whadday say? Is it time to say farewell to our vampire couple?"
+
+--- Camera Cuts to Audience --
+
+[A wave of cheers and boos ensues. The camera cuts to the audience.
+Fights break out in the stands. A person mimes, shooting another.
+Another suplexes another off the top back row and out of frame. Cheers
+for their elimination win. The atmosphere changes, the tension palpable.
+The camera returns to the Host; he is holding his hands up like a
+sorcerer, inflicting a hypnotic command over the audience.]
+
+  HOST: (releasing his hypnotic hold on the audience and tapping his cue
+  cards on his podium.) "And Dracula, I’m afraid it’s time for you to
+  fly off into the night! It looks like nobody likes a biter! (like a
+  baseball umpire) You! Are! OUTTA HERE!"
+
+[Dracula scoffs and then bows dramatically while disappearing in a puff
+of smoke, leaving his wife behind. The audience claps as Mina looks
+around and follows off-stage commands to exit the opposite way from
+where she started. Whispers surface from the Audience over the news of
+his elimination.]
+
+  HOST: "We have only one couple left: Joe Smith and Jennifer
+  Smith-Smith. That’s a funny last name, Jennifer. Is that a hyphenated
+  last name?
+
+  JENNIFER SMITH-SMITH: (nervously) “Yes, I wanted to keep my family
+  name when we eloped and married in Branson, Missouri. It was our dream
+  destination wedding, and it was beautiful. My mother-in-law ran the
+  whole thing and looked beautiful in her platinum white wedding
+  coordinator's. Everyone had a great time, and we were all in bed
+  before 8 o’clock that night!”
+
+  HOST: Riiiight. It’s now time for our unique couples therapy round!
+  Remember, love conquers all, even the darkest truths! Let’s get into
+  this."
+
+[The lights shift and change, creating a severe atmosphere.]
+
+  HOST: “We’re diving deep into the secrets of our final couple. Joe,
+  it’s time to come clean. What’s the darkest secret you’ve kept from
+  your wife?" (The host dramatically throws his arms toward Joe as
+  evil-reversing and dark voices erupt from the audience members.)
+
+--- Camera cut to Joe ---
+
+[Joe fidgets, avoiding eye contact with his wife. The audience waits in
+suspense.]
+
+  JOE: (sighs) "I guess it’s time for you to know… I’m not just an
+  ordinary guy. I'm a tax... a... attorney. I coach Little League in the
+  summers and like to drive on family vacations to see large balls of
+  twine. I obsessively study the meaningless local history of a place
+  I’ve never lived, visited, or planned to vacation. I’ve written fan
+  fiction about the Teapot Dome Scandal."
+
+[Camera cuts as the audience gasps collectively, disbelief etched on
+every face. Crickets trill.]
+
+  HOST: "Wow, that’s a shocking admission! How do you feel about that,
+  Smith-Smith?"
+
+---Camera cuts to closeup of wife---
+
+[All eyes are on the wife as the tension thickens.]
+
+  JENNIFER SMITH-SMITH: "I… I just can’t believe this. We’ve built our
+  life on trust, and now I feel so betrayed."
+
+[The audience whispers, grappling with the enormity of the revelation
+from off-camera.]
+
+  HOST: “Let’s ask our audience what they think?”
+
+[Camera spins to focus on two audience members hypnotically reading cue
+cards.]
+
+  AUDIENCE MEMBER 1: (delivered with monotone, like a lobotomy patient.)
+  "Is she going to stay with him after this? Ain’t Nobody. Got. Time.
+  FoThat."
+
+[Camera rotates back to the host. He quickly drops his arms from his
+sorcerer pose. His eyes dart nervously from side to side, his command
+over the audience losing grip.]
+
+  AUDIENCE MEMBER 2: (fighting the hypnosis) "How… Ho… how...(breaking
+  the host's mind control) HELP ME!!! HE’S CONTROLING ALL OF US!!! HE’S
+  IN OUR BRIANS! HE’S EATING MY BRAIN!! MY MIND IS ON FIRE!! …
+  (twitching violently and then entranced monotone again) How do you
+  sleep at night?"
+
+[ Host swipes his hand across his throat. The disruptive audience member
+screams and collapses in a puff of smoke, and a heap of bloody clothes
+appears in her place. The wife pauses, taking a deep breath, the
+audience hanging on her every word.]
+
+  JENNIFER SMITH-SMITH: "I have to think about what this means for me. I
+  loved you—despite your past… I can't just turn you in. But I can’t
+  live in fear, either.” (She pauses) " Wait, but who is your client? A
+  non-profit? Small businesses helping to uplift a disadvantaged
+  community? I mean, what else could you have done?!”
+
+[The tension is palpable as the audience anxiously leans forward. The
+Host grips the air with bony hands and stares intently at him from
+across the stage. Joe is visibly sweating and disturbed.]
+
+  JOE SMITH: “I’ve worked for Exxon Mobil since I got my Bachelor's
+  degree in Advanced Weaponzied Capitalism from Expensiveus University.
+  I’m rich but took out student loans because I wanted a college
+  experience! I’m still paying off my personal and unconsolidated
+  student loans because I think it builds character!.” (coughs and
+  gags.) “I BOUGHT a second-hand CYBERTRUCK! I THINK CEO’s deserve MORE
+  MONEY!” (gasping for air.) I DONATE 10% of my takehome pay …. after
+  taxes…directly to Republican Party candidates in gerrymandered
+  districts!!” (struggling, he loosens his necktie.) “Workers today have
+  too many RIGHTS!” (spitting) “You IGNORANT PLEBS are paid too much
+  while also paying too little for healthcare coverage that doesn’t even
+  cover a flu shot!” (gasping for air) I actively lobby against student
+  loan debt forgiveness not because it's the right thing to do but
+  because it will allow those ‘stupid poors’ to escape crushing poverty
+  and the weaponized capitalism that directly benefits the systematic
+  racism and classism that my family directly benefits from!”
+
+[He drops to his knees and vomits loudly off-camera. The Audience is
+stunned and silent.]
+
+  OFF-CAMERA AUDIENCE MEMBER: “That’s some dumb shit!”
+
+[A disembodied cough breaks the silence.]
+
+--- Camera cut to Jennifer ---
+
+  JENNIFER SMITH-SMITH: (pensive, she nervously rubs her hands against
+  each other as she speaks) “I've made my decision. I try to live a good
+  life. I want us all to be happy and successful. And I live my life by
+  three words. Live. Laugh. Love.”
+
+[Accidental laughter breaks out from the audience and then stops
+abruptly, hissed to silence by the Host.]
+
+  JENNIFER SMITH-SMITH: “And because of those sacred words that I first
+  heard on my wedding day from my drunk mother-in-law… last week…I...I
+  accept you for what you are… because… I made a promise to God
+  (audience and Host scream and stop abruptly) …because you’re my
+  husband."
+
+[The crowd gasps in surprise, some applause mixed with disbelief. The
+Host hisses them to silence.]
+
+--- Camera cut to Host and Wife standing uncomfortably close to each
+other. Her husband is still visibly sick and trying to pull himself up
+the podium. ---
+
+  HOST: "Whoa. Hold the phone, Smith-Smith,”
+
+[The Host flashes across the stage, sweeping her into a ballroom dancing
+pose. They spin together into a dramatic pose; she is stunned by the
+Host’s control over her.
+
+Host grips the wife's face, clutching her inches from his.]
+
+  HOST: “Do you accept this man for all the deplorable tripe he’s
+  confessed to … all of us?" (he sweeps a third hand that appears from
+  under his jacket, gesturing to the audience, then quickly retreats.)
+
+  JENNIFER SMITH-SMITH: (victorious, a sly grin creeping across her
+  face, and the Host releases her from his grip. She faces the audience
+  and smiles.) "I guess…I don’t know… maybe…that… Oops! I married
+  Satan!"
+
+[The audience erupts in applause and laughter as the lights flash. The
+host joins in the laughter.]
+
+  HOST: (laughing manically and speaking over the audience's roar
+  erupting with violence and screaming) "That’s all the time we have for
+  you slobs today! Thank you all for tuning in to Oops! I Married Satan!
+  This couple’s journey reminds us that love can be complicated, but
+  even the deplorable isn’t worth ritualistically murdering in the name
+  of our DARK LORD! FOR WHOM WE ALL WILL BURN IN A LAKE OF FIRE
+  FOREVER!! (Host regains his composure) We’ll see you next time for
+  more monstrous confessions and wild relationships on… (mind
+  controlling the audience with a flare of his nostrils and a wild feral
+  glance).
+
+  AUDIENCE: (screaming and crying miserably in unison) “Oops! I MARRIED
+  SATAN!”
+
+[Fire erupts, surrounding the soundstage.]
+
+  HOST: (releasing the audience from his control) “Thanks for joining us
+  at home! Remember, You are loved. You are valued. And You are going to
+  die. Spay and neuter your local elected officials! GOOD NIGHT
+  EVERYONE!”
+
+[Host disappears in a puff of smoke. The camera zooms out, showcasing
+the cheering audience - a wild gaggle of demons and ghouls rushing the
+stage and attacking the couple in the spotlight as the credits roll.]
+
+---
+
+[### End of Script ###]

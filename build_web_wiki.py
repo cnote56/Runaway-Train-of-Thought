@@ -175,69 +175,67 @@ def build_wiki():
     
     pages = []
     
-    # Recursively find all markdown files
-    for md_file in WIKI_DIR.rglob("*.md"):
-        # Skip output files or cache files
-        if "node_modules" in md_file.parts or ".git" in md_file.parts:
-            continue
-            
-        rel_path = md_file.relative_to(WIKI_DIR).as_posix() # use forward slashes for URLs
+    # Recursively find all markdown/text files
+    for root, dirs, files in os.walk(WIKI_DIR):
+        for file in files:
+            if file.endswith(".md") or file.endswith(".txt"):
+                md_file = Path(root) / file
+                # Skip output files or cache files
+                if "node_modules" in md_file.parts or ".git" in md_file.parts:
+                    continue
+                    
+                rel_path = md_file.relative_to(WIKI_DIR).as_posix() # use forward slashes for URLs
         
-        # Read file contents
-        try:
-            with open(md_file, "r", encoding="utf-8", errors="ignore") as f:
-                content = f.read()
-        except Exception as e:
-            print(f"Error reading {md_file}: {e}")
-            continue
-            
-        metadata, body = parse_markdown_file(content)
+                # Read file contents
+                try:
+                    with open(md_file, "r", encoding="utf-8", errors="ignore") as f:
+                        content = f.read()
+                except Exception as e:
+                    print(f"Error reading {md_file}: {e}")
+                    continue
+                    
+                metadata, body = parse_markdown_file(content)
         
-        # Extract title
-        title = metadata.get("title")
-        if not title:
-            # Try to extract first H1 heading
-            h1_match = re.search(r'^#\s+(.+)$', body, re.MULTILINE)
-            if h1_match:
-                title = h1_match.group(1).strip()
-            else:
-                title = md_file.stem.replace("-", " ").title()
-        
-        # Word count
-        word_count = get_word_count(body)
-        
-        # Determine category/group based on file path
-        group = "core"
-        if "entities/characters" in rel_path:
-            group = "characters"
-        elif "entities/locations" in rel_path:
-            group = "locations"
-        elif "entities/organizations" in rel_path:
-            group = "organizations"
-        elif "entities/items" in rel_path:
-            group = "items"
-        elif "entities/" in rel_path:
-            group = "entities"
-        elif "concepts" in rel_path:
-            group = "concepts"
-        elif "plots" in rel_path:
-            group = "plots"
-        elif "raw/drafts" in rel_path:
-            group = "drafts"
-        elif "raw/fragments" in rel_path:
-            group = "fragments"
-        elif "raw/" in rel_path:
-            group = "raw"
-            
-        pages.append({
-            "path": rel_path,
-            "title": title,
-            "metadata": metadata,
-            "content": body,
-            "word_count": word_count,
-            "group": group,
-            "backlinks": []
-        })
+                # Extract title
+                title = metadata.get("title")
+                if not title:
+                    # Try to extract first H1 heading
+                    h1_match = re.search(r'^#\s+(.+)$', body, re.MULTILINE)
+                    if h1_match:
+                        title = h1_match.group(1).strip()
+                    else:
+                        title = md_file.stem.replace("-", " ").title()
+                
+                # Word count
+                word_count = get_word_count(body)
+                
+                # Determine category/group based on filename patterns
+                group = "core"
+                filename_lower = rel_path.lower()
+                if "character" in filename_lower or "profile" in filename_lower:
+                    group = "characters"
+                elif "location" in filename_lower or "city" in filename_lower or "server" in filename_lower:
+                    group = "locations"
+                elif "organization" in filename_lower or "syndicate" in filename_lower or "alliance" in filename_lower:
+                    group = "organizations"
+                elif "item" in filename_lower or "weapon" in filename_lower or "book" in filename_lower:
+                    group = "items"
+                elif "draft" in filename_lower:
+                    group = "drafts"
+                elif "plot" in filename_lower:
+                    group = "plots"
+                elif "meta" in filename_lower:
+                    group = "raw"
+                    
+                pages.append({
+                    "path": rel_path,
+                    "title": title,
+                    "metadata": metadata,
+                    "content": body,
+                    "word_count": word_count,
+                    "group": group,
+                    "backlinks": []
+                })
         
     # Build target-resolution map for [[wikilinks]] and images
     resolver_map = {}

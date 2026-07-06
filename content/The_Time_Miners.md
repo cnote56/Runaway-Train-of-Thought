@@ -1,0 +1,369 @@
+---
+title: The Time Miners
+---
+
+Cole Dowden
+
+The Underground Farmer
+
+Once considered a fool, one man wanting financial peace discovers a cave
+network near a cabin left to him by a mysterious stranger. Unbeknowst to
+him the land contains amen abandoned silver mine with a dark past. The
+site of a boomtown during the American invasion of the western
+continent; now the place lay abandoned and nearly forgotten. But never
+foresaken. The land had been conveyed and reconvened and then handed
+down and inherited for over 400 years at this point. In and out of
+family bloodlines the land found itself to the hands of barren widower
+who visited it sparingly while he taught a class near civilization. The
+old man found himself facing his mortality and found a familiar spirit
+in James when he studied at the college where he taught. As a teacher
+becomes a mentor and a student to a pupil; the old man and James grew
+close and a family bond formed. As James struggled to find work after
+his college time ran through — the old man’s retirement and loneliness
+last only a few months.
+
+The old man had a small estate when he died. A few publishing royalties
+fed a small savings account tied to a deed of a house belonging to the
+old man’s distant sister in his will. The farcast land was for James.
+
+“Thanks for the burden.” James was petulant and shortsighted. He left
+the reading of the will after a week of mourning since the funeral last
+Tuesday. Slapping a pair of sunglasses to his face he tapped pockets for
+his pack of hemps. The sister didn’t even bother coming to the funeral
+much less the reading of the will - where she caught the windfall, if it
+could be called such.
+
+James had nothing much else to keep him where he was. And the old man
+had just given him “land” …somewhere in the desert.
+
+Nearly worthless the desolate land traced a curve of a bombing range in
+the remote western desert of North America. Or what used to be North
+America.
+
+The cave network resembles more labyrinth than mine. He found his way to
+the land. Penniless and nearly homeless he left Los Angels and found his
+way to his property.
+
+He hardly believed it. James hadn’t been able to do much of anything
+with is life. Raised in a cult and after he broke away, he found life in
+America was a harsh planet - losing its resemblance to the places he
+remembered more and more each day.
+
+Selling his possessions to the roommate he already owed money and took
+in trade for a vintage guitar for a rusty relic that suffered from the
+dry heat of the desert that had four wheels and the ability to drive him
+to the place he owned. The guitar could not do any of that — it had to
+go.
+
+The rattle of the exhaust under the rotting undercarriage of the car
+nearly kept the beat of the song on the radio. James Brigham Smith was
+driving the car. His hands rested on the warm plastic of the steering
+wheel. His backside felt the outline of the springs that should have
+been under the foam it had been pressed through over th years of various
+asses riding, farting, rubbing, pissing, and coming in that very seat
+for nearly 280,000 miles.
+
+He was a few miles from the turn off to the state road that lead to the
+county roads that led to the back roads and then the last road at the
+end of which was the plot of a map he held in his hands as the wind
+whipped the edges back and forth. The hot air pushed and pulled at James
+while he squinted at the mountain range ahead of him. Under his feet was
+a crossroads. Which crossroad was of importance because he couldn’t find
+where he was standing on the map he struggled to keep flat.
+
+A ragged overlander plowed a trail of dust behind it as it slowed to a
+crawl alongside Jame’s car on the side of the road.
+
+“You there!? Smith? James Smith?”
+
+”How did you know?”
+
+”Friend, there’s only about six or seven people in this whole valley and
+we make up a third of the population. We’re basically a quorum. Will
+that thing go up a trail? Nothing too heavy, but we might need to leave
+it here if it isn’t reliable.”
+
+James looked back at the ancient faded paint and the corroded circles of
+the emblem on the keys now clutched in his hands after stuffing the maps
+into the car.
+
+“Yeah, I wouldn’t trust it much further.” James smiled sheepishly. “I
+did know the place was so off the mains.”
+
+“Welcome to the desert.” Arron Hussein smiled as James tossed his
+backpack and duffle — all of his possessions — and climbed into the Jeep
+clutching the handholds and leveraging his legs to boost his body up and
+into the passenger seat. “My names’, Arron. Arrow on the radio if you
+need to chat from up on the mountain.”
+
+”Mountain?” James blinked and if he could would have blinked his ears to
+ensure he heard what he thought he heard. “Radio? MOUNTAIN?”
+
+”Oh you haven’t looked at the topographical map have you.” Arron tapped
+a few commands into his Jeeps onboard computer and a holographic emerged
+from a projector as the windows darkened. The cool air conditioning
+washed over James as he cozied himself into the technology of Arron’s
+impressed overlander-Jeep.
+
+The green and blue lines of the projection traced over each other as a
+mountain range surrounding them came into focus with an orange line
+splitting the map with a tiny red dot at its start.
+
+“That’s us,” Arron gestured to the red dot and tapped another button on
+his drivers console. “There is where we’re going.”
+
+The map whooshed backward to expose the orange trail they followed up
+the mountain after leaving Jame’s car and turning off the last county
+road and onto a gavel paved, then dirt, and then some rougher rock and
+dirt. They chatted politely as they got to know each other.
+
+Aaron was the local know-everyone he used to know the owner oof the land
+but he never met the old man Jame’s described. The land had changed
+hands so many tines over the years even the land office wasn’t sure how
+or who first claimed the plot.
+
+After a half hour of the rough trail to the property, James’s backside
+was growing sore from the ride’s jostle and plunge.
+
+“And we’re here.” Aaron eased the Jeep to a halt and powered down its
+engines. “Welcome to Heaven, I guess.”
+
+James looked out the light tint of the Jeep to see a purpled landscape —
+seining more alien than earth. A cabin, reasonably well kept, tucked
+itself into the rise of the mountainside. A utility power plant
+connected to the cabin and itself to a string of solar rocks installed
+above the tree line. The Silicate stones weren’t “rocks” in the
+geological sense, but they did belong where they sat and they enjoyed
+where they sat glowing alive with the sun’s radiation they were the only
+source of energy for the property.
+
+“Where’s the property boundary? The line where it stops?” James asked as
+Aaron popped the seal on the Jeeps drivers door and began climbing out.
+
+“The property line?” Aaron answered in disblief. “That’s back where you
+parked.”
+
+Aaron left him with the codes and credentials to operate the power plant
+and the cabin was in good livable condition. Aaron promised to return
+the next day to take him back to the car and they could figure out how
+James could stay there but also get out off the mountain if needed - in
+short, he needed a four-wheeled vehicle and the car he drove here wasn’t
+likely to get much further. They traded chain codes for their commpagers
+and Aaron trundled back down the trail as dusk began falling over the
+valley below.
+
+He finds the plot of land nearly overwhelming at first. There was no
+time then to explore so he retreated to the cabin.
+
+A long night ensued.
+
+###
+
+He finds himself not alone on his property. Another man appears out of
+the cave above the cabin. After a fight and struggle they resolve their
+conflict and discover the man is not of Jame’s era, but one of a few
+hundred years ago.
+
+The cave contains a time portal that leads to loops of people and one
+more version of James.
+
+And then James loses himself in the caves.
+
+###
+
+A struggle between the owners of the mine ensues over time as each man
+long thought dead is not, but rather lost in time while fighting for
+control of the property as the other owners also do.
+
+###
+
+The prize is the gold mine in the cave. It is also subject to the time
+warp and continually produces gold as if the gold taken a few moments
+ago was somehow replenished or regrown.
+
+TREATMENT AND PLOT NOTES
+
+Here's a detailed combined plot progression that blends the **Claim
+Dispute Plot** with the **Heroic Defense Plot**, integrating a
+**time-traveling gold mine** concept and the escalating conflict across
+time periods:
+
+---
+
+## **Title:** *The Vein of Time*
+
+---
+
+### **Act 1: The Discovery**
+
+1. **The Present-Day Protagonist**
+
+- In a remote, rugged corner of the Old West frontier (now a modern-day
+ghost town), **Alex Morgan**—a struggling geologist and adventurer—finds
+an old prospector’s journal hinting at a legendary gold mine.
+
+- Following the clues, Alex uncovers the mine deep in the hills. Inside,
+an unusual chamber lined with strange rock formations gives off an eerie
+energy. Alex unknowingly steps through **a temporal fissure** and finds
+themselves in the 1850s—the height of the Gold Rush.
+
+2. **The First Encounter**
+
+- Alex stumbles into the mine’s past-life, where it’s controlled by a
+brutal prospector, **Silas Cain**, who’s already discovered the mine’s
+golden vein and guards it fiercely. Silas believes Alex to be a spy sent
+to steal his claim.
+
+- A violent fight ensues, forcing Alex back into the chamber. As the
+mine pulses with energy, Alex returns to their own time—injured and
+shaken.
+
+3. **Other Prospectors Enter the Fray**
+
+- Alex begins to experiment with the mine’s strange properties,
+realizing it connects time periods through a **nexus of gold veins**.
+However, each use of the fissure leaves behind a subtle “time signature”
+that others can follow.
+
+- Soon, **Silas Cain** and his 1850s crew chase Alex through the fissure
+into the present day, now out of time but still obsessively claiming the
+mine. At the same time, other factions begin to appear from **different
+eras**:
+
+- A 1920s gangster group led by **“Big Eddie” Roth**, who stumbled onto
+the mine during Prohibition.
+
+- A 1970s crew of treasure hunters and drifters led by **Marlowe
+Steele**, who discovered the mine’s mysterious gold and are determined
+to exploit it.
+
+---
+
+### **Act 2: The Conflict Across Time**
+
+1. **The Battle for Control**
+
+- The mine becomes the center of a brutal **time-fractured struggle**,
+with prospectors from different eras clashing over the gold. Each group
+believes the mine is rightfully theirs and views the others as “claim
+jumpers.”
+
+- **Tensions escalate**:
+
+- Silas Cain’s 1850s men use brute force and frontier-era cunning.
+
+- Big Eddie’s 1920s gangsters bring Tommy guns and explosive dynamite.
+
+- Marlowe Steele’s 1970s treasure hunters employ traps and guerrilla
+tactics.
+
+- Alex, caught in the middle, tries to defend their own claim while
+grappling with the moral and existential horror of the mine’s
+time-warping abilities.
+
+2. **The Deaths Out of Time**
+
+- Battles spill into **different time periods**:
+
+- Silas and some of his men are lured into the 1970s and are killed by
+Marlowe’s crew, who view them as easy targets.
+
+- Big Eddie’s gang chases Alex into the 1850s, where Silas’ surviving
+crew ambushes them, killing Eddie in the Old West.
+
+- Members of Marlowe’s crew wind up stranded in the 1920s, where they’re
+hunted down as outlaws by lawmen.
+
+- Each death **ripples through time**, leaving the survivors paranoid
+and desperate as the mine begins to destabilize. The **temporal
+fissure** grows unstable, causing visions of past and future deaths to
+haunt the remaining prospectors.
+
+3. **The Moral Crossroads**
+
+- Alex begins to realize that the mine itself is the source of the time
+fractures, feeding off the greed and bloodshed it attracts. Destroying
+the mine may be the only way to stop the chaos.
+
+- Meanwhile, Silas Cain—obsessed and half-mad—refuses to give up. He
+declares the mine his “eternal” property, planning to use its power to
+dominate across time.
+
+- Marlowe and the remnants of the other crews unite temporarily with
+Alex for a **final stand**, realizing that if the mine isn’t sealed, no
+one will escape its influence.
+
+---
+
+### **Act 3: The Timeless Showdown**
+
+1. **The Collapse of Time**
+
+- The factions converge inside the mine for an explosive final
+confrontation. Battles rage across shifting time zones as the mine’s
+power fractures reality itself:
+
+- Ghostly echoes of past prospectors appear alongside the combatants.
+
+- Silas fights with frontier-era brutality, while Marlowe and others use
+modern explosives to collapse tunnels.
+
+- In a climactic moment, Alex sacrifices part of the mine—triggering a
+**chain reaction** that destabilizes the temporal fissure.
+
+2. **Out-of-Time Deaths**
+
+- As the fissure collapses:
+
+- Silas Cain is pulled into the modern era but dies in a jeep explosion,
+a man of the 1850s killed by future machinery.
+
+- Marlowe Steele and the remaining treasure hunters are stranded in the
+1850s, becoming part of the mine’s tragic legend.
+
+- Big Eddie’s remaining gang members vanish into the unstable fissure,
+lost to an unknown time.
+
+3. **The Last Survivor**
+
+- Alex barely escapes as the mine collapses, sealing its secrets
+forever. Emerging battered and alone, Alex believes they’ve ended the
+cycle of greed and bloodshed.
+
+4. **The Haunting Ending**
+
+- Days later, Alex stands near the now-sealed mine entrance, staring at
+the desolate hills. The air feels *still*.
+
+- A distant rumble breaks the silence. Alex sees a **stranger wandering
+up the old jeep trail**—an unfamiliar figure in worn 1850s prospecting
+gear. The stranger holds **Silas Cain’s journal** and mutters about
+“claiming what’s mine.”
+
+- The cycle begins again.
+
+---
+
+### **Themes:**
+
+- **Greed and Corruption:** The gold mine reflects humanity’s insatiable
+hunger for wealth, consuming those who seek it across time.
+
+- **Time as a Weapon:** The mine’s power destabilizes reality, turning
+time into both a tool and a trap.
+
+- **Futility of Ownership:** The fight for control of the mine proves
+meaningless, as it destroys everyone who claims it.
+
+- **The Eternal Cycle:** The ending suggests that some conflicts—like
+greed and ambition—are timeless and inescapable.
+
+---
+
+### **Visual and Tonal Influences:**
+
+- A mix of *The Treasure of the Sierra Madre* and *Predestination*, with
+hints of *Westworld* and *The Time Machine*.
+
+- A gritty, eerie atmosphere combining frontier ruggedness with the
+haunting sci-fi aesthetic of temporal fractures.

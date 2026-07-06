@@ -1,0 +1,188 @@
+---
+title: DunceCap
+---
+
+Late one evening.
+
+The Smithsoinian secure warehouse. Deep Underground, Washington dc.
+
+Arguing with his co-worker down the hall, “ Yeah I hear you, jack. I'm
+done after this pallet. No more unpaid overtime, man. I'm done for the
+week. I got a lady and bottle waiting on me!”
+
+An overloaded pallet of heavy hard plastic containers. The hover cart
+basically propelled itself, but for the priceless articfafts and
+provencace of the united states being far too valuable tomtrudt to a
+simple a I driven antimag lift controlled system that can transport up
+to 100 tons and moves countless high speed railsmcrisscrossing this
+version of the united states.
+
+In. This timeline we have universal healthcare.
+
+But that doesn't mean anything.
+
+The hover cart hummed along the infrared path as the Teamster behind it
+walked with the controller in hand.
+
+The hover cart whipped to the left and then slid itself in a 180 turn
+half way down an isle. The over head drain took the mag lifts from the
+casing and began sorting the boxes into the shelving and contiares
+longing the aisle for one kilometer in each direction. Side to side and
+upwards.
+
+The high tensile strength carboninzed ceramic steel only looks like it
+bends to the h8man eye. But in reality it is straight as the day it was
+forged from the foundry machines.
+
+Filling the nearing 10 Square kilometer building with the wares of all
+the history and imperial legacy of the greatest empire since Rome.
+
+The United States National History Vault was never to be seen by another
+other than even the most expert or highly trusted indivuals with a
+security clearance and onlythe highest cleared reasoning to be in this
+room.
+
+other than this teamster and his hover cart.
+
+Only open a certain number of days to limit the degradation of the air
+wquality and avoid offsetting the delicate ecosystem within the Vault.
+
+Built on top of and across the potomac river, the Vault spanned nearly
+10 square kilometers from its foundations over the footpriunt of the
+Pentagon to the Former State Department campus edge that butted its
+northern edge against the Kennedy Center and Watergate that then traced
+itself toward the Whitehouse and 12th street.
+
+[]
+
+The foundations of the massive building both supported and uplifted many
+of the moneuments on the western side of the national malland saved much
+of the Washignton DC shoreline witht e potomac.
+
+before the natonal vault was created the lincoln memorial was sinking
+into the potomac.
+
+Then materials science and engineering abiltiy caught up with our needs.
+Before the lincoln meorial was to succumb to the earth and potomac. The
+new high tensile carbosteel lifted the memorial from destruciton and
+created a new level of development and useful space in the district. The
+Vault held over the ditrict like an attic.
+
+The lightweight carbosteel framed the Vault and
+
+the continaers almost done sorted.
+
+“you’re done, shifty.” Jacob - the teamster holfing the controller in
+his hand. “I’mm send you back on your own.”
+
+A few commands entered in the remote and the hover cart raised as the
+last contianer left is hold.
+
+Jacob pivoted on his heels and headed for an exit to the hyperloop
+transported that would take him back aross the 100 kilometer campus and
+to a security portal that would be closes to his conveyance - already
+knockling the light frost from its plexiglass widnsheild and begining to
+preheat the cabin for Jacobs commute back to his apartment across the
+potomac near the CostPlus-Citi Towers, but more affordable and in line
+with his government salary and social standing.
+
+Back in the warehouse the hover cart - left alone and commanded to
+return to is home charging port, was now wandering across the 10
+kilometer wide and long warehouse toward it’s charigng staiton. but
+unfortunately the inconsistent commands form Jacob left its state of
+charge less than capable of making it back to its prime port.
+
+the power output of the hover cart began to lessen as it neared the
+charing port.
+
+then the ifrared sensonrs lost the cunductive charge to keep orperating
+and the hover carts AI was not very good as drivng with its eyes cloe.
+
+The drift of the cart bent toward the left side of the cavern-like
+stacks of artifacts and technology caputeed by the vast histoery of his
+country.
+
+then the hover cart glanced across the yellow line and swiped a corner
+of the carbon forged hypertensil steel sending a shudder across its
+molecular fibres to culminate in a small container - barely a few
+kilograms in wiehgt to tilt and pitch itself across the back side of the
+aisle and into the open air one kilometer above ground.
+
+into the air. falling in its own time despite the gravity against it.
+the container seemed to float the path down toward the earth. and then a
+click off a slightly misaligned cojntainer gave the fall more dynamics
+sending itself into a violent spin and curving its trajectory toward the
+opposite wall of implerilast loot.
+
+the falling contianer then clipped anoher and another sendfing a squad
+of continaers tipping toward the floor.
+
+the automactice sorting arms missed all but three as they crashed to the
+lfoor
+
+one.
+
+two.
+
+three.
+
+Smoke began pluming out of the first containr to crash ot the floor.
+
+liquid from the second.
+
+fire erupted from the third.
+
+all three swirled toward each other.
+
+In a tumult of all three they began to form unto themselves.
+
+and soon flesh came into being.
+
+and the body followed form there until all at once you found a humaniod
+body gaspoing for air and shuttering from the homogenized air.
+
+###
+
+“Where the fuck did IT come from?!” The Security Chief sat dumbfounded
+as he watched dumbfounded through the security cameras.
+
+What he saw shouldn’t have been, but it was.
+
+He saw a humanoid figure…waving at him.
+
+Inisde the secure vault-building.
+
+A humanoid figure was wandering through the asiles.
+
+Long arms from shoulders strecthed out in both directions toward the
+stacked containers. and suddenly burst of light crackled from its
+fingertips and palms.
+
+The humanoid’s skin began flushing with colors and formed shoulders and
+more human detials with wraps of clothing forming out itself like scales
+flipping and washign themselves ini flashes of light.
+
+###
+
+The Chief Caretaker of the Vault rushed in his mobile conveyance toward
+the Washington DC Underground. The exit for the secured levels only
+opened when his conveyance was within 90 meters, at normal speed.
+
+Not this evening.
+
+The Caretaker was racing himself against caution flashing of the
+AI-guidance software which had been “STRONGLY ADVISING AUTOMATIC
+DRIVING”
+
+The speed limit if on autodrive was advised, at least then the 200 KMPH
+velocity could be safely maintained. But the Caretaker was frantic with
+the only possible unknown event - there is a person wearing a bowler cap
+and NOTHING ELSE wandering next to the only last known copy of the
+Constitution.
+
+The Caretaker was aghast against the view screen - refreshing it and
+pulling the comms board at least twice just to remove the potential for
+a hacked signal.
+
+No, this was really happening in a place where there is no possible way
+for any one Human to be.

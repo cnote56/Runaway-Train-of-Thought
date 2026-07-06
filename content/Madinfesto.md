@@ -1,0 +1,473 @@
+---
+title: Madinfesto
+---
+
+The Declation of Independence were mere words on paper.
+
+The whole of th document contained no special properties or precious
+fibers or strands of gold. The ink was a plain sort. The Parchment was
+nothing of any import.
+
+But the meaning the people attached to the document. There in lies the
+heartbeat we long to feel.
+
+In this timeline, the mechanizing documents of this nation were never a
+declaration or slew off arrows against a tin crown.
+
+This timeline those documents never appeared. They never captured th
+epepples fervor. the people remained cowed. And he British rule
+continued long after the winters of 1776. The winter of 1812 w as
+uneventful.
+
+But once somewhere in XXXXX, in 1888 the madness of one man took root in
+the minds of his neighbors and the revolution germinated amoung the only
+class of people where revolution oiled be afforded - the upper newly
+rich, the robber barrons of the guilded age. Drunk on their new wealth
+and power ever pouring form their purses.
+
+The madness of a grand idea taking root spreads across this country and
+a revolution unfolds, a bloody war between country and colony. The abuse
+of taxation and limited self-rule demised by authoritarian and
+exploitive treatment by Britain, leads the same way that it did in our
+timeline.
+
+Whereas we find a course grain of raw freedoms finds the barons of the
+Industrial Revolution the new founding fathers.
+
+These labor expooitiesr and money hoarders saw their riches feeding a
+bloated parasite in London.
+
+The Gilded Revolution. The war for freedom between power and purse.
+
+Gilied Age Robber Barons
+
+JP Morgan - sold arms and munitions; basically America’s First Lord of
+War.
+
+DuPonts - black powder, chemicals. The precursors to chemical warfare.
+
+BankerUberAlles - Pierpont’s Monopoly of Money.
+
+The Morgan Loans
+
+The picture is altogether different when we turn
+
+to neutral countries, who soon began to take a part
+
+in furnishing war supplies. And here an important
+
+part was played by banks. In Holland, Sweden
+
+and Spain they made enormous profits in financing
+
+supplies. But the United States comes easily first in
+
+the profits accruing to “neutral” financiers.
+
+John Pierpont Morgan, junior, whose father, the
+
+great John Pierpont, had died a year before the war,
+
+was the first to realize the -unrivalled opportunities
+
+offered. He immediately set out, by providing
+
+generous credits, to corner this particular market.
+
+He lent 12 million dollars to Russia, and he was
+
+ready to offer France a credit of 100 million dollars
+
+to bespentin the United States. Thenthe Washiagton
+
+Government stepped in, Mr. Bryan declarmg that
+
+loans to belligerents were incompatible with the spirit
+
+ofneutrality.
+
+THE FINANCIERS 109
+
+The Allies were faced with a dilBcult situation, for
+
+American goods were indispensable. France and
+
+England paid in bullion for what they got so long as
+
+they could, but this was not possible for long. Nor
+
+was it possible for them to pay in pounds or francs
+
+without weakening the exchange value of their
+
+currency. Other means had to be found. At the
+
+beginning of the war America was a substantial
+
+debtor to Europe, and by liquidating this indebted-
+
+ness the Allies could raise funds in the United States
+
+in a manner to which Washington could make no
+
+objection. Accordingly they sold the American bonds
+
+they held, these for the most part passing through
+
+Morgan’s hands. Morgan was after all able, in spite
+
+of government opposition, to arrange the issue of
+
+some small loans, but these were so small as to be
+
+practically negligible.
+
+After long efforts, England and France succeeded
+
+in overcoming the opposition from Washington. On
+
+March 31st, 1915, President Wilson made a statement
+
+on the government’s policy regarding loans which
+
+gave the desired loophole. He admitted that the
+
+government had been aware of credits having been
+
+provided for belligerents;
+
+but although disapproving
+
+of them the government did not feel entitled to
+
+intervene.
+
+His meaning was obvious. From now onwards
+
+loans were permitted. Morgan, who meanwhile had
+
+become agent of the British Government for the
+
+purchase of war material, offered a loan to England,
+
+but on such stiff terms that the treasury hesitated
+
+to accept. Difficulties also arose over another loan.
+
+110 THE PROFITS OF WAR
+
+In conjunction with the National City Bank and
+
+the First National Bank, Morgan was to issue a
+
+50 million dollar loan for France. The three banks
+
+themselves took up half the loan. When, however,
+
+they tried to get the public to subscribe the other
+
+half, only a little over a million dollars were forth-
+
+coming.^ This serves to show the scepticism and
+
+lack of interest in the European War shown by
+
+American capitalists at that time.
+
+It was only later when war exports were in full
+
+swing that Americans realized what good business
+
+the war was for them and were in consequence
+
+prepared to invest their capital in it. Morgan him-
+
+self was stiU hesitant. He thought it impossible
+
+to issue a loan for more than 250 million dollars
+
+on one occasion. Financial experts of the Allies,
+
+however, pointed out that in such matters big
+
+figures inspire more confidence than small ones.
+
+At the start 1000 million dollars had been sug-
+
+gested. The Americans refused to go so far, but
+
+in the end they agreed that half this sum might
+
+be possible.
+
+So in October 1915, under Morgan’s aegis, a joint
+
+loan to the French and English Governments of
+
+500 million dollars was arranged with a group of
+
+American bankers. From this moment war business
+
+flourished in the States and everybody seemed to be
+
+making money. Credits followed each other at ever
+
+shorter intervals. Up to the time of America’s entry
+
+into the war the Allies had borrowed 2500 million
+
+^ Lucien Petit, Histoire des finances exUrieures de la France pendant la
+
+grande guerre, Paris 1929, p. 339.
+
+THE FINANCIERS III
+
+dollars, the greater part of their debt having been
+
+contracted under Morgan’s auspices.
+
+Pierpont Morgan did not fail to let it be known
+
+that he received no remuneration for having acted
+
+as intermediary in the negotiation of these loans.
+
+But we should make a mistake in thinking that he
+
+had gained nothing by all these transactions. It is
+
+true that the purely financial profits he made were
+
+less important than what he received for placing
+
+orders for munitions and the dividends he drew as
+
+a large shareholder in the various armament firms.
+
+But the profits he drew from his banking business
+
+with the Allies were far from negligible. The 500
+
+million dollar loan contracted in autumn 1915 brought
+
+to the group of bankers, at whose head Morgan was,
+
+a net profit of 9 million dollars, for they bought at
+
+96 and sold to the public at 98. Ofthis sum, how-
+
+ever, Morgan’s firm only received 66,000 dollars.
+
+Again, in 1917, the French Government paid to
+
+Morgan’s and other banks a commission of 1,500,000
+
+dollars, and a further million in 1918.
+
+Besides the issue of loans there was another source
+
+of profit; the purchase and sale of American stock
+
+which the Allies surrendered so that they could buy
+
+munitions in the States. It is estimated that in the
+
+course of the war some 2000 million dollars passed
+
+in this way through Morgan’s hands.^ Even if the
+
+commission was verysmall, transactions ofsuch dimen-
+
+sions would give him an influence on the stock
+
+market which would carry very real advantages.
+
+^ Clyde William Phelps, The Foreign Expansion of American Banks,
+
+NewYork 1927, p. 1 19.
+
+II2 THE PROFITS OF WAR
+
+Those who had imagined that with the death of
+
+the old John Pierpont Morgan the great days of the
+
+bank were over, were completely deceived. The
+
+70 million dollars—leaving aside the art treasures
+
+which the old man left in 1913, was probably at
+
+least doubled in a few years by his son, and the
+
+power of the bank was greater than ever.
+
+The State becomes its own Financier
+
+The situation, however, underwent a change when
+
+the United States entered the war in the spring
+
+of 1917. It is true that supplies to Europe were
+
+far from diminishing, and the Allies continued to
+
+borrow with both hands from America. But the
+
+heyday of unlimited war profits was over. An ally
+
+could hardly take advantage of the situation in the
+
+sameway as a neutral. TheWashington Government
+
+abandoned the old American principle of economic
+
+liberty, and all those branches of business which
+
+were of essential importance for war were subjected
+
+to its control. It supervised—though, it must be
+
+admitted, not very thoroughly—the prices of muni-
+
+tions and intervened also in matters of transport, in
+
+which Morgan had a large interest. The result was
+
+a considerable reduction in Morgan’s profits.
+
+Private loans to finance the purchase of munitions
+
+now diminished in importance, as the American
+
+Government offered the Allies long-term credits,
+
+working in collaboration with the Federal Reserve
+
+Bank, an institution which Morgan had in vain
+
+tried to attach to his own organization. During the
+
+THE FINANCIERS ”3
+
+nineteen months between America’s entry into the
+
+war and the Armistice, her government lent her
+
+Allies in Europe 6900 million dollars and after the
+
+Armistice another 2500 million. Private credits
+
+during the same period amounted to no more than
+
+1500 million.
+
+In financing America’s own military expenses the
+
+bankers werestill morefrozen out. Thefive American
+
+war loans aggregating 21,000 million dollars were
+
+not the work of the banks, but were in the truest
+
+sense national loans. Naturally the bankers saw
+
+themselves obliged as good patriots to subscribe to
+
+the loans, but their situation was not the same as
+
+it had been in former wars. They were not asked
+
+for their advice; they were not in a position to
+
+make their terms, and they had no real opportunity
+
+of making profits.
+
+Precisely on account of its previous activity,
+
+Morgan’s bank was the hardest hit by this new war-
+
+time regime introduced in Washington. Morgan
+
+himself did his best, but in vain, to get President
+
+Wilson, whom he visited personally, to relent. It
+
+was not that the new order of things was aimed
+
+specially at Morgan; but his privileged position no
+
+longer existed. Morgan did not succeed in becoming,
+
+as he had hoped, the official banker to America
+
+at war.
+
+The turn things took in the United States is
+
+characteristic of the new phase of war finance which
+
+set in all over the world. Henceforward only wars
+
+conducted by minor powers, or now and again a
+
+colonial war, could offer bankers the opportunities
+
+H
+
+114 the profits of war
+
+they had enjoyed of old. In big wars and in their
+
+own countries the “war banker” seems to be finished
+
+for good. It is the State itself which now finances
+
+its wars. In the middle of last century it was a
+
+question of confidence: a long time elapsed before
+
+the State succeeded in winning the trust which the
+
+moneyed classes were ready to put in the bankers.
+
+Nowadays the cost of war is far too high for any
+
+financier or even a group of banks to be capable of
+
+coping with it.
+
+It might be thought that a government could get
+
+all the bankers of the country together and hand
+
+over to them the task offinancing a war. But public
+
+opinion would oppose a monopoly of this sort, par-
+
+ticularly in time of war. Bankers have for too long
+
+made profit out ofwars for anybody to believe them
+
+disinterested. To make war with the help of bankers
+
+—that means to make war in the banker’s interest.
+
+That is the prevailing point of view to-day even in
+
+the most capitalist of countries.
+
+It may happen again that in a case of pressing
+
+need a government may find itself obliged to offer
+
+concessions to private financiers, particularly to
+
+bankers of neutral countries. It is none the less true
+
+that the profits from war which in two epochs—the
+
+Renaissance and the nineteenth century—flowed so
+
+abimdantly into the bankers’ pockets, a
