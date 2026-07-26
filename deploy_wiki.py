@@ -1,3 +1,4 @@
+import argparse
 import os
 import sys
 import subprocess
@@ -23,7 +24,33 @@ def run_cmd(args, cwd=None, capture_output=True):
     except Exception as e:
         return str(e), -1
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Build and deploy the creative wiki with optional Git remote setup.",
+    )
+    parser.add_argument(
+        "--remote-url",
+        help="GitHub repository URL to add as origin when no remote is configured.",
+    )
+    parser.add_argument(
+        "--branch",
+        help="Git branch to push. Defaults to current branch or main.",
+    )
+    parser.add_argument(
+        "--no-push",
+        action="store_true",
+        help="Create a local commit without pushing to remote.",
+    )
+    parser.add_argument(
+        "--commit-message",
+        help="Custom commit message. Defaults to automatic deploy message.",
+    )
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
+
     print("=" * 70)
     print("           CREATIVE WIKI ONE-CLICK DEPLOYER")
     print("=" * 70)
@@ -66,16 +93,25 @@ def main():
 
     # Check branch name or create 'main'
     out, code = run_cmd("git branch --show-current", cwd=WIKI_DIR)
-    current_branch = out if (code == 0 and out) else "main"
+    current_branch = args.branch or (out if (code == 0 and out) else "main")
     if not out and code == 0:
         # No commits yet, let's make sure it defaults to main
         run_cmd("git checkout -b main", cwd=WIKI_DIR)
-        current_branch = "main"
+        current_branch = args.branch or "main"
 
     # Step 3: Check Remote Origin
-    out, code = run_cmd("git remote -v", cwd=WIKI_DIR)
-    has_remote = "origin" in out
-    
+    remote_url = args.remote_url
+    origin_url, origin_code = run_cmd("git remote get-url origin", cwd=WIKI_DIR)
+    has_remote = origin_code == 0 and bool(origin_url)
+
+    if not has_remote and remote_url:
+        print(f"Adding remote origin from --remote-url: {remote_url}")
+        out, code = run_cmd(f"git remote add origin {remote_url}", cwd=WIKI_DIR)
+        if code != 0:
+            print(f"ERROR: Failed to add remote origin: {out}")
+            sys.exit(1)
+        has_remote = True
+
     if not has_remote:
         print("\n" + "!" * 70)
         print(" ACTION REQUIRED: No remote GitHub repository linked yet!")
@@ -84,15 +120,29 @@ def main():
         print("  1. Go to https://github.com/new")
         print("  2. Create a new repository (e.g., 'creative-wiki')")
         print("     - Do NOT initialize it with README, .gitignore, or license.")
-        print("  3. Copy your remote URL and link it by running:")
-        print("     git -C creative-wiki remote add origin <your-github-repo-url>")
+        print("  3. Add your remote origin, or rerun this script with:")
+        print("     python deploy_wiki.py --remote-url <your-github-repo-url>")
         print("!" * 70 + "\n")
         
-        # We can still add and commit locally
+        # Stage and commit locally.
         print("Staging and committing your files locally first...")
         run_cmd("git add .", cwd=WIKI_DIR)
         run_cmd('git commit -m "Initial commit of compiled story bible"', cwd=WIKI_DIR)
         print("Committed files locally. Please add a remote origin to push!")
+        sys.exit(0)
+
+    if args.no_push:
+        print("\n[Step 3/3] Staging and committing locally without pushing...")
+        run_cmd("git add .", cwd=WIKI_DIR)
+        status_out, _ = run_cmd("git status --porcelain", cwd=WIKI_DIR)
+        if not status_out:
+            print("No new changes detected. Wiki is already up to date locally.")
+            sys.exit(0)
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        commit_msg = args.commit_message or f"Local deploy: Update story wiki ({timestamp})"
+        print(f"Committing changes: '{commit_msg}'")
+        run_cmd(f'git commit -m "{commit_msg}"', cwd=WIKI_DIR)
+        print("Local commit complete. Remote push skipped by --no-push.")
         sys.exit(0)
 
     # Step 4: Stage, Commit, and Push
