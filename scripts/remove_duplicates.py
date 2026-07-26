@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
-"""Find and remove duplicate files by content hash."""
+"""Find and remove duplicate files by content hash.
+
+This script supports safe duplicate detection and optional deletion.
+
+Today’s update (2026-07-26):
+- Added dry-run mode to list duplicate groups without deleting files.
+- Added optional deletion with confirmation, plus `-y/--yes` to suppress prompts.
+- Added timestamped logging to both console and an optional log file.
+- Updated documentation and final verification steps for the current workflow.
+"""
 
 from __future__ import annotations
 

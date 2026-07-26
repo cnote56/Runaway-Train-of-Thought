@@ -1,3 +1,8 @@
+## [2026-07-26] beta | Duplicate removal tool docs and verification
+- Updated `scripts/remove_duplicates.py` documentation header with today's workflow changes.
+- Added explicit notes for dry-run mode, optional deletion, `-y/--yes`, and `--log-file` support.
+- Verified the tool runs cleanly in dry-run mode and appends timestamped audit entries to `/home/cole/data/remove_duplicates.log`.
+
 ## [2026-06-21] refactor | Portability & Dynamic Pathing
 - Modernized path dependencies across all scripts and documentation:
   - Updated `scripts/ingest_blog_writings.py` to dynamically resolve path dependencies in both Windows and WSL environments.
