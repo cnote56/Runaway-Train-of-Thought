@@ -270,3 +270,12 @@
 - Removed unauthorized manuscript: `1976 - Haldeman, Joe - The Forever War V2.TXT`
 - Confirmed exclusion from all ingestion pipelines and Creative Wiki archives.
 - Updated cluster map to ensure no external source-material drift occurs.
+## [2026-07-26] beta | duplicate removal script
+- Added `scripts/remove_duplicates.py` to detect duplicate files by SHA-256 hash.
+- Added dry-run mode and optional deletion with confirmation.
+- Added timestamped logging with `--log-file` support for run history and audit.
+
+## [2026-07-26] beta | duplicate removal script
+- Added scripts/remove_duplicates.py to detect duplicate files by SHA-256 hash.
+- Added dry-run mode and optional deletion with confirmation.
+- Added timestamped logging with --log-file support for run history and audit.
