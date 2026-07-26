@@ -10,12 +10,13 @@ WIKI_DIR = Path(__file__).parent.resolve()
 def run_cmd(args, cwd=None, capture_output=True):
     """Runs a system command and returns stdout and exit code."""
     try:
+        shell = isinstance(args, str)
         res = subprocess.run(
-            args, 
-            cwd=cwd, 
-            text=True, 
+            args,
+            cwd=cwd,
+            text=True,
             capture_output=capture_output,
-            shell=True if os.name == 'nt' else False
+            shell=shell,
         )
         stdout_str = res.stdout.strip() if res.stdout else ""
         return stdout_str, res.returncode
