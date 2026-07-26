@@ -1,0 +1,24 @@
+2026-07-26 14:53:06 INFO Using log file C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\remove_duplicates.log
+2026-07-26 14:53:06 INFO Scanning directory C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning
+2026-07-26 14:53:08 INFO Found 3 duplicate groups
+2026-07-26 14:53:08 INFO Running in dry-run mode
+2026-07-26 14:53:08 INFO Duplicate group (SHA-256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855):
+2026-07-26 14:53:08 INFO   KEEP: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\.nojekyll
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\archives\duplicates_log.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\atlas\sector_mapping.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\bic-entities\gilded-occult-lore.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\bic-entities\the-wall-1624.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\content\blog_post_the_allegiance.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\content\blog_post_the_judge_and_the_debtor.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\content\GUIDE.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\content\log.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\content\SCHEMA.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\content\voice_and_lore_directives.md
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\lore-links\hundred-year-man-bic-link.md
+2026-07-26 14:53:08 INFO Duplicate group (SHA-256=44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a):
+2026-07-26 14:53:08 INFO   KEEP: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\.obsidian\app.json
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\.obsidian\appearance.json
+2026-07-26 14:53:08 INFO Duplicate group (SHA-256=270fcdad33c9b9fb311a8a378276dd4a8c775a744f06efc7f4c754ac8206f77e):
+2026-07-26 14:53:08 INFO   KEEP: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\.git\refs\remotes\origin\beta\remove_duplicates
+2026-07-26 14:53:08 INFO   DELETE: C:\Users\Cole\OneDrive\Documents\GitHub\Runaway-Train-of-Thought\creative-wiki-backup-pruning\.git\refs\heads\beta\remove_duplicates
+2026-07-26 14:53:08 INFO Run complete
